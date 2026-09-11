@@ -1,0 +1,393 @@
+{% extends "base.html" %}
+{% block title %}{{ t.dash_title }}{% endblock %}
+{% block content %}
+
+<div class="w-full px-4 lg:px-6 py-6 space-y-8">
+  <div class="flex flex-col md:flex-row md:items-end justify-between gap-4">
+    <div>
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold uppercase tracking-wider bg-secondary-container text-on-secondary-container">{{ t.dash_badge }}</span>
+        <span class="text-xs text-on-surface-variant font-medium">{{ t.dash_live }}</span>
+      </div>
+      <h1 class="text-3xl lg:text-4xl font-headline font-bold text-on-surface tracking-tight m-0">{{ t.dash_title }}</h1>
+      <p class="text-sm text-on-surface-variant mt-1 max-w-2xl mb-0">{{ t.dash_lead }}</p>
+    </div>
+    {% if entitled %}
+    <div class="flex items-center gap-3 self-start md:self-auto">
+      <a class="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-surface-container-high hover:bg-surface-container-highest text-on-surface text-xs font-semibold transition-all shadow-sm no-underline hover:no-underline" href="{{ url_for('export_brands') }}{% if request.query_string %}?{{ request.query_string.decode() }}{% endif %}">
+        <span class="material-symbols-outlined text-[18px]">download</span>
+        <span>{{ t.export_csv }}</span>
+      </a>
+    </div>
+    {% endif %}
+  </div>
+
+  {% if not entitled %}
+  <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 bg-secondary-container text-on-secondary-container rounded-2xl px-5 py-4">
+    <p class="m-0 text-sm font-medium">{{ t.billing_free_banner }}</p>
+    <a class="shrink-0 px-4 py-2 rounded-xl bg-primary text-on-primary text-xs font-semibold no-underline" href="{{ url_for('billing_page') }}">{{ t.billing_buy_cta }}</a>
+  </div>
+  {% endif %}
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+    <div class="relative overflow-hidden bg-surface-container-lowest p-5 rounded-2xl shadow-sm flex flex-col justify-between">
+      <div class="flex items-start justify-between">
+        <div>
+          <span class="text-xs font-medium text-on-surface-variant">{{ t.stat_projects }}</span>
+          <div class="text-2xl font-bold font-headline text-on-surface mt-1">{{ stats.total }}</div>
+        </div>
+        <div class="w-10 h-10 rounded-xl bg-primary-fixed flex items-center justify-center text-on-primary-fixed">
+          <span class="material-symbols-outlined text-[22px]">hub</span>
+        </div>
+      </div>
+      <div class="flex items-center gap-2 mt-4 text-xs font-medium text-primary">
+        <span class="inline-flex items-center text-[11px] px-1.5 py-0.5 rounded bg-primary-fixed/60 font-semibold">{{ stats.pct }}%</span>
+        <span class="text-on-surface-variant">{{ t.progress }}</span>
+      </div>
+    </div>
+    <div class="relative overflow-hidden bg-surface-container-lowest p-5 rounded-2xl shadow-sm flex flex-col justify-between">
+      <div class="flex items-start justify-between">
+        <div>
+          <span class="text-xs font-medium text-on-surface-variant">{{ t.has_detail }}</span>
+          <div class="text-2xl font-bold font-headline text-on-surface mt-1">{{ stats.details }}</div>
+        </div>
+        <div class="w-10 h-10 rounded-xl bg-secondary-container flex items-center justify-center text-on-secondary-container">
+          <span class="material-symbols-outlined text-[22px]">verified_user</span>
+        </div>
+      </div>
+      <div class="flex items-center gap-2 mt-4 text-xs font-medium text-secondary">
+        <span class="text-on-surface-variant">{{ t.pending }}: {{ stats.pending }}</span>
+      </div>
+    </div>
+    <div class="relative overflow-hidden bg-surface-container-lowest p-5 rounded-2xl shadow-sm flex flex-col justify-between">
+      <div class="flex items-start justify-between">
+        <div>
+          <span class="text-xs font-medium text-on-surface-variant">{{ t.status_skipped }}</span>
+          <div class="text-2xl font-bold font-headline text-on-surface mt-1">{{ stats.skipped }}</div>
+        </div>
+        <div class="w-10 h-10 rounded-xl bg-tertiary-fixed flex items-center justify-center text-on-tertiary-fixed">
+          <span class="material-symbols-outlined text-[22px]">gpp_maybe</span>
+        </div>
+      </div>
+      <div class="mt-4 text-xs text-on-surface-variant">{{ t.badge_404 }}</div>
+    </div>
+    <div class="relative overflow-hidden bg-surface-container-lowest p-5 rounded-2xl shadow-sm flex flex-col justify-between">
+      <div class="flex items-start justify-between">
+        <div>
+          <span class="text-xs font-medium text-on-surface-variant">{{ t.stat_top_cat }}</span>
+          <div class="text-xl font-bold font-headline text-on-surface mt-1 truncate">{{ stats.top_category }}</div>
+        </div>
+        <div class="w-10 h-10 rounded-xl bg-surface-container flex items-center justify-center text-primary">
+          <span class="material-symbols-outlined text-[22px]">category</span>
+        </div>
+      </div>
+      <div class="flex items-center gap-2 mt-4 text-xs font-medium text-on-surface-variant">
+        <span class="inline-flex items-center text-[11px] px-1.5 py-0.5 rounded bg-surface-container-high font-semibold text-on-surface">{{ t.listings_count.replace('{n}', stats.top_count|string) }}</span>
+      </div>
+    </div>
+  </div>
+
+  {% if entitled %}
+  <form class="bg-surface-container-lowest p-5 rounded-2xl shadow-sm space-y-4" method="get">
+    <div class="flex flex-col lg:flex-row items-center gap-3">
+      <div class="relative flex-1 w-full">
+        <span class="material-symbols-outlined absolute left-3.5 top-1/2 -translate-y-1/2 text-outline text-[20px]">search</span>
+        <input class="w-full bg-surface-container-low text-sm text-on-surface placeholder:text-outline rounded-xl pl-11 pr-4 py-2.5 focus:outline-none focus:bg-surface-container transition-all" name="q" value="{{ filters.q }}" placeholder="{{ t.search_placeholder }}" type="search">
+      </div>
+      <div class="flex items-center gap-2 w-full lg:w-auto">
+        <div class="flex items-center gap-2 px-3 py-2 bg-surface-container-low rounded-xl text-xs text-on-surface-variant w-full lg:w-auto justify-between">
+          <span class="flex items-center gap-1 font-medium">
+            <span class="material-symbols-outlined text-[16px] text-tertiary">tune</span> {{ t.min_score }}:
+          </span>
+          <div class="flex items-center gap-2">
+            <input class="w-24 accent-primary cursor-pointer h-1.5 bg-surface-container-highest rounded-lg" id="scoreRange" max="10" min="0" name="min_score" oninput="document.getElementById('scoreVal').innerText = this.value" step="0.1" type="range" value="{{ filters.min_score or '0' }}">
+            <span class="font-bold text-on-surface w-6 text-right" id="scoreVal">{{ filters.min_score or '0' }}</span>
+          </div>
+        </div>
+        <a class="p-2.5 rounded-xl bg-surface-container-low hover:bg-surface-container text-on-surface-variant transition-colors no-underline flex items-center" href="/" title="{{ t.reset_filters }}">
+          <span class="material-symbols-outlined text-[18px]">refresh</span>
+        </a>
+        <button class="px-4 py-2.5 rounded-xl bg-primary text-on-primary text-xs font-semibold border-0 cursor-pointer" type="submit">{{ t.filter }}</button>
+      </div>
+    </div>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-3 pt-2">
+      <div class="flex flex-col gap-1">
+        <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.col_category }}</label>
+        <div class="relative">
+          <select class="w-full appearance-none bg-surface-container-low text-xs font-medium text-on-surface rounded-xl px-3 py-2 pr-8 focus:outline-none focus:bg-surface-container cursor-pointer" name="category" onchange="this.form.submit()">
+            <option value="">{{ t.all_categories }}</option>
+            {% for cat in categories %}
+              <option value="{{ cat }}" {% if filters.category == cat %}selected{% endif %}>{{ cat }}</option>
+            {% endfor %}
+          </select>
+          <span class="material-symbols-outlined pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-outline text-[16px]">expand_more</span>
+        </div>
+      </div>
+      <div class="flex flex-col gap-1">
+        <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.all_statuses }}</label>
+        <div class="relative">
+          <select class="w-full appearance-none bg-surface-container-low text-xs font-medium text-on-surface rounded-xl px-3 py-2 pr-8 focus:outline-none focus:bg-surface-container cursor-pointer" name="status" onchange="this.form.submit()">
+            <option value="" {% if not filters.status %}selected{% endif %}>{{ t.all_statuses }}</option>
+            <option value="detail" {% if filters.status == 'detail' %}selected{% endif %}>{{ t.status_detail }}</option>
+            <option value="list" {% if filters.status == 'list' %}selected{% endif %}>{{ t.status_list }}</option>
+            <option value="skipped" {% if filters.status == 'skipped' %}selected{% endif %}>{{ t.status_skipped }}</option>
+          </select>
+          <span class="material-symbols-outlined pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-outline text-[16px]">expand_more</span>
+        </div>
+      </div>
+      <div class="flex flex-col gap-1">
+        <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.col_approval }}</label>
+        <div class="relative">
+          <select class="w-full appearance-none bg-surface-container-low text-xs font-medium text-on-surface rounded-xl px-3 py-2 pr-8 focus:outline-none focus:bg-surface-container cursor-pointer" name="review" onchange="this.form.submit()">
+            <option value="" {% if not filters.review %}selected{% endif %}>{{ t.all_reviews }}</option>
+            <option value="auto" {% if filters.review == 'auto' %}selected{% endif %}>{{ t.review_auto }}</option>
+            <option value="manual" {% if filters.review == 'manual' %}selected{% endif %}>{{ t.review_manual }}</option>
+          </select>
+          <span class="material-symbols-outlined pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-outline text-[16px]">expand_more</span>
+        </div>
+      </div>
+      <div class="flex flex-col gap-1">
+        <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.sort_by }}</label>
+        <div class="relative">
+          <select class="w-full appearance-none bg-surface-container-low text-xs font-medium text-on-surface rounded-xl px-3 py-2 pr-8 focus:outline-none focus:bg-surface-container cursor-pointer" name="sort" onchange="this.form.submit()">
+            <option value="name" {% if filters.sort == 'name' %}selected{% endif %}>{{ t.sort_name }}</option>
+            <option value="score" {% if filters.sort == 'score' %}selected{% endif %}>{{ t.sort_score }}</option>
+            <option value="recommend" {% if filters.sort == 'recommend' %}selected{% endif %}>{{ t.sort_recommend }}</option>
+            <option value="approval" {% if filters.sort == 'approval' %}selected{% endif %}>{{ t.sort_approval }}</option>
+            <option value="payout" {% if filters.sort == 'payout' %}selected{% endif %}>{{ t.sort_payout }}</option>
+          </select>
+          <span class="material-symbols-outlined pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-outline text-[16px]">expand_more</span>
+        </div>
+      </div>
+    </div>
+  </form>
+  {% endif %}
+
+  <div class="bg-surface-container-lowest rounded-2xl shadow-sm overflow-hidden flex flex-col">
+    <div class="overflow-x-auto">
+      <table class="w-full text-left border-collapse">
+        <thead>
+          <tr class="bg-surface-container-low text-[11px] font-label uppercase tracking-wider text-on-surface-variant font-semibold">
+            <th class="py-3.5 pl-6 pr-2 w-14">{{ t.col_logo }}</th>
+            <th class="py-3.5 px-3">{{ t.col_brand }}</th>
+            <th class="py-3.5 px-3">{{ t.col_category }}</th>
+            <th class="py-3.5 px-3">{{ t.col_commission }}</th>
+            <th class="py-3.5 px-3">{{ t.col_cookie }}</th>
+            <th class="py-3.5 px-3">{{ t.col_payout }}</th>
+            <th class="py-3.5 px-3">{{ t.col_approval }}</th>
+            <th class="py-3.5 px-3">{{ t.col_score }}</th>
+            <th class="py-3.5 px-3">{{ t.col_traffic }}</th>
+            <th class="py-3.5 px-3">{{ t.col_social }}</th>
+            <th class="py-3.5 px-3">{{ t.col_search }}</th>
+            <th class="py-3.5 pr-6 pl-3 text-right">{{ t.col_action }}</th>
+          </tr>
+        </thead>
+        <tbody class="text-xs text-on-surface">
+          {% for b in brands %}
+          <tr class="brand-row hover:bg-surface-container-low/70 transition-colors group data-[seen]:bg-primary-fixed/20" data-shop-id="{{ b.shop_id }}">
+            <td class="py-4 pl-6 pr-2">
+              {% if b.logo %}
+              <img alt="" class="w-10 h-10 rounded-xl object-contain bg-surface-container shadow-sm" src="{{ b.logo }}">
+              {% else %}
+              <div class="w-10 h-10 rounded-xl bg-primary-fixed text-on-primary-fixed flex items-center justify-center font-bold shadow-sm">
+                <span class="font-headline font-bold text-base">{{ b.initial }}</span>
+              </div>
+              {% endif %}
+            </td>
+            <td class="py-4 px-3">
+              <div class="flex flex-col">
+                <div class="flex items-center gap-1.5">
+                  <button type="button" class="name js-open-detail bg-transparent border-0 p-0 cursor-pointer font-headline font-bold text-sm text-on-surface text-left data-[seen]:text-primary" data-shop-id="{{ b.shop_id }}" aria-expanded="false">{{ b.name or ('#' ~ b.shop_id) }}</button>
+                  {% if b.has_detail %}<span class="px-1.5 rounded text-[10px] font-semibold bg-primary-fixed text-on-primary-fixed">{{ t.badge_detail }}</span>{% elif b.is_skipped %}<span class="px-1.5 rounded text-[10px] font-semibold bg-error-container text-on-error-container">{{ t.badge_404 }}</span>{% else %}<span class="px-1.5 rounded text-[10px] font-semibold bg-surface-container-high text-on-surface-variant">{{ t.badge_list }}</span>{% endif %}
+                </div>
+                <span class="text-[11px] text-outline font-label">{{ b.host or b.shop_id }}</span>
+              </div>
+            </td>
+            <td class="py-4 px-3">
+              <span class="px-2.5 py-1 rounded-full text-[11px] font-semibold bg-primary-fixed/60 text-primary">{{ b.categories or '—' }}</span>
+            </td>
+            <td class="py-4 px-3">
+              <span class="px-2 py-0.5 rounded-md bg-secondary-container text-on-secondary-container font-bold w-fit inline-block">{{ b.commission or '—' }}</span>
+            </td>
+            <td class="py-4 px-3"><span class="font-medium text-on-surface">{% if b.cookie %}{{ b.cookie }} {{ t.days }}{% else %}—{% endif %}</span></td>
+            <td class="py-4 px-3"><span class="font-semibold text-on-surface">{{ b.payout_label or b.payout_rate or '—' }}</span></td>
+            <td class="py-4 px-3">
+              {% if b.review_kind == 'auto' %}
+              <span class="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[11px] font-medium bg-tertiary-fixed text-on-tertiary-fixed">
+                <span class="w-1.5 h-1.5 rounded-full bg-tertiary"></span> {{ t.review_auto }}
+              </span>
+              {% elif b.review_kind == 'manual' %}
+              <span class="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[11px] font-medium bg-surface-container-high text-on-surface-variant">
+                <span class="w-1.5 h-1.5 rounded-full bg-outline"></span> {{ t.review_manual }}
+              </span>
+              {% else %}
+              <span class="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[11px] font-medium bg-surface-container-high text-on-surface-variant">
+                <span class="w-1.5 h-1.5 rounded-full bg-outline"></span> {{ b.approval_pct or '—' }}
+              </span>
+              {% endif %}
+              {% if b.approval_pct and b.review_kind %}
+              <div class="text-[10px] text-outline mt-0.5">{{ b.approval_pct }}</div>
+              {% endif %}
+            </td>
+            <td class="py-4 px-3">
+              <div class="flex items-center gap-2">
+                <span class="font-bold text-on-surface">{{ b.offer_score or '—' }}</span>
+                <div class="w-12 h-1.5 bg-surface-container rounded-full overflow-hidden">
+                  <div class="bg-primary h-full rounded-full" style="width: {{ b.score_bar }}%;"></div>
+                </div>
+              </div>
+            </td>
+            <td class="py-4 px-3"><span class="text-[11px] text-outline">{{ t.no_signal }}</span></td>
+            <td class="py-4 px-3"><span class="text-[11px] text-outline">{{ t.no_signal }}</span></td>
+            <td class="py-4 px-3"><span class="text-[11px] text-outline">{{ t.no_signal }}</span></td>
+            <td class="py-4 pr-6 pl-3 text-right">
+              <div class="flex items-center justify-end gap-1.5">
+                {% set copy_url = b.apply_url or b.website or '' %}
+                {% if copy_url %}
+                <button class="js-copy p-1.5 rounded-lg hover:bg-surface-container-high text-outline hover:text-on-surface transition-colors bg-transparent border-0 cursor-pointer" data-url="{{ copy_url }}" title="{{ t.copy_link }}" type="button">
+                  <span class="material-symbols-outlined text-[18px]">content_copy</span>
+                </button>
+                {% endif %}
+                <button class="js-open-detail px-2.5 py-1.5 rounded-lg bg-primary-fixed text-on-primary-fixed hover:bg-primary hover:text-on-primary font-semibold text-xs transition-colors border-0 cursor-pointer" type="button" data-shop-id="{{ b.shop_id }}">{{ t.details }}</button>
+              </div>
+            </td>
+          </tr>
+          <tr class="acc-row" data-shop-id="{{ b.shop_id }}" hidden>
+            <td class="bg-surface-container-low px-6 pb-5 pt-0" colspan="12">
+              <div class="acc-panel py-3" data-shop-id="{{ b.shop_id }}"></div>
+            </td>
+          </tr>
+          {% else %}
+          <tr><td class="px-6 py-8 text-on-surface-variant" colspan="12">{{ t.empty }}</td></tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <div class="p-4 bg-surface-container-low flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div class="flex items-center gap-2 text-xs text-on-surface-variant">
+        {{ t.showing_range.replace('{from}', showing_from|string).replace('{to}', showing_to|string).replace('{total}', total|string) }}
+      </div>
+      {% if entitled and pages > 1 %}
+      <div class="flex items-center gap-1.5">
+        {% if page > 1 %}
+        <a class="p-1.5 rounded-lg bg-surface-container text-on-surface flex items-center justify-center no-underline" href="{{ page_url(page - 1) }}">
+          <span class="material-symbols-outlined text-[18px]">chevron_left</span>
+        </a>
+        {% else %}
+        <span class="p-1.5 rounded-lg bg-surface-container text-outline opacity-50 flex items-center justify-center">
+          <span class="material-symbols-outlined text-[18px]">chevron_left</span>
+        </span>
+        {% endif %}
+        {% for item in pager %}
+          {% if item is none %}
+          <span class="px-1 text-outline text-xs">...</span>
+          {% elif item == page %}
+          <span class="w-8 h-8 rounded-lg bg-primary text-on-primary font-bold text-xs shadow-sm flex items-center justify-center">{{ item }}</span>
+          {% else %}
+          <a class="w-8 h-8 rounded-lg bg-surface-container hover:bg-surface-container-high text-on-surface font-semibold text-xs transition-colors flex items-center justify-center no-underline" href="{{ page_url(item) }}">{{ item }}</a>
+          {% endif %}
+        {% endfor %}
+        {% if page < pages %}
+        <a class="p-1.5 rounded-lg bg-surface-container hover:bg-surface-container-high text-on-surface flex items-center justify-center no-underline" href="{{ page_url(page + 1) }}">
+          <span class="material-symbols-outlined text-[18px]">chevron_right</span>
+        </a>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+(function () {
+  var key = "uppro-seen-brands";
+  var loadingText = {{ t.loading | tojson }};
+  var errorText = {{ t.load_error | tojson }};
+  var copiedText = {{ t.copied | tojson }};
+  var seen = {};
+  try {
+    JSON.parse(localStorage.getItem(key) || "[]").forEach(function (id) {
+      seen[String(id)] = true;
+    });
+  } catch (err) {}
+
+  function mark(id) {
+    document.querySelectorAll('.js-open-detail[data-shop-id="' + id + '"]').forEach(function (el) {
+      el.setAttribute("data-seen", "true");
+      var row = el.closest("tr");
+      if (row) row.setAttribute("data-seen", "true");
+    });
+  }
+
+  function closeAll(exceptId) {
+    document.querySelectorAll("tr.acc-row").forEach(function (row) {
+      if (row.getAttribute("data-shop-id") === exceptId) return;
+      row.hidden = true;
+    });
+    document.querySelectorAll(".js-open-detail[aria-expanded='true']").forEach(function (btn) {
+      if (btn.getAttribute("data-shop-id") === exceptId) return;
+      btn.setAttribute("aria-expanded", "false");
+      var parent = btn.closest("tr");
+      if (parent) parent.removeAttribute("data-open");
+    });
+  }
+
+  function toggle(id, btn) {
+    var acc = document.querySelector('tr.acc-row[data-shop-id="' + id + '"]');
+    var panel = acc && acc.querySelector(".acc-panel");
+    var open = btn && btn.getAttribute("aria-expanded") === "true";
+    seen[id] = true;
+    localStorage.setItem(key, JSON.stringify(Object.keys(seen)));
+    mark(id);
+    if (open) {
+      document.querySelectorAll('.js-open-detail[data-shop-id="' + id + '"]').forEach(function (el) {
+        el.setAttribute("aria-expanded", "false");
+      });
+      var row = document.querySelector('tr.brand-row[data-shop-id="' + id + '"]');
+      if (row) row.removeAttribute("data-open");
+      if (acc) acc.hidden = true;
+      return;
+    }
+    closeAll(id);
+    document.querySelectorAll('.js-open-detail[data-shop-id="' + id + '"]').forEach(function (el) {
+      el.setAttribute("aria-expanded", "true");
+    });
+    var parent = document.querySelector('tr.brand-row[data-shop-id="' + id + '"]');
+    if (parent) parent.setAttribute("data-open", "true");
+    if (acc) acc.hidden = false;
+    if (panel && !panel.dataset.loaded) {
+      panel.innerHTML = "<p class='acc-loading'>" + loadingText + "</p>";
+      fetch("/brand/" + id + "/panel")
+        .then(function (res) {
+          if (!res.ok) throw new Error("not found");
+          return res.text();
+        })
+        .then(function (html) {
+          panel.innerHTML = html;
+          panel.dataset.loaded = "1";
+        })
+        .catch(function () {
+          panel.innerHTML = "<p class='acc-loading'>" + errorText + "</p>";
+        });
+    }
+  }
+
+  Object.keys(seen).forEach(mark);
+  document.querySelectorAll(".js-open-detail[data-shop-id]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      toggle(btn.getAttribute("data-shop-id"), btn);
+    });
+  });
+  document.querySelectorAll(".js-copy").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var url = btn.getAttribute("data-url") || "";
+      if (!url) return;
+      navigator.clipboard.writeText(url).then(function () {
+        window.alert(copiedText);
+      });
+    });
+  });
+})();
+</script>
+{% endblock %}

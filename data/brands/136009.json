@@ -1,0 +1,179 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1707772216_9096325_896ad55cdd83a5cea111d424f55270fa.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>Brand introduction:</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>At KLARSKIN, we believe in harnessing the power of nature to reveal your skin's true radiance. Our mission is to provide innovative skincare solutions that prioritize both skin health and overall well-being. Inspired by the simplicity of natural beauty, our products are thoughtfully formulated with high-quality, plant-based ingredients and cutting-edge science. From probiotic-infused powders to gentle cleansers and nourishing serums, each KLARSKIN product is designed to deliver visible results while promoting a sense of balance and harmony within. Embrace your natural beauty journey with KLARSKIN and discover a skincare routine that celebrates the beauty of simplicity and sustainability.</span>&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br><strong>Product description:</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Elevate your skincare routine with our Radiance Powder. Packed with essential nutrients and probiotics, this powdered supplement nourishes your skin from within, promoting a healthy complexion and balanced gut flora. Formulated to support skin clarity and radiance, our vegan and cruelty-free powder is the perfect addition to your daily wellness regimen. Unlock your skin's natural glow and embrace beauty that shines from the inside out with our Radiance Powder.</span>&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br><strong>USP (Unique Selling Point): </strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Powdered supplement the replenishes your gut and clears acne prone skin long term from within</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br><strong>Payment terms: <br><br></strong>Commission will be paid at the end of each month via paypal or bank transfer</p>",
+  "payout_rate": "72.96%",
+  "payout_period": null,
+  "recommend_score": 2.59,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 28785,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "15%-20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Belgium",
+    "Germany",
+    "Austria",
+    "Switzerland",
+    "Portugal",
+    "Spain",
+    "Italy",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/klarskin/register",
+  "offer_status": 2,
+  "name": "KLARSKIN ",
+  "website": "https://klarskin.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 136009,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "15",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "500",
+      "commission_val": "20",
+      "disabled": false
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.9300000000000002,
+  "program_id": 153913,
+  "myshopify_domain": "klarskin.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 62.85,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "9.46%",
+  "mkp_program_id": 153913,
+  "product_list": []
+}

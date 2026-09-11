@@ -1,0 +1,186 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/3405b02fe30ccae4ef45fff7f73b7e8f.png",
+  "description": "<main id=\"MainContent\" style=\"list-style-type: none;\" role=\"main\">\r\n<div id=\"shopify-section-1538615105459\" style=\"list-style-type: none;\">\r\n<div style=\"list-style-type: none;\">\r\n<div style=\"list-style-type: none;\">\r\n<div style=\"list-style-type: none;\">\r\n<div style=\"list-style-type: none;\">\r\n<p style=\"list-style-type: none;\">Nexus Quality&reg;<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">&nbsp;is a reputable brand that offers a wide range of quality products at competitive prices. The brand is dedicated to delivering exceptional customer service and convenience, making it a top choice for online shoppers.</span></p>\r\n<div>\r\n<div>\r\n<div>\r\n<p>In addition to its impressive product range, Nexus Quality&reg; also offers a generous affiliate program with a 20% commission on all sales. This program allows affiliates to earn a significant income by promoting the brand's products and referring customers to the online store.</p>\r\n<p>The brand's affiliate program is easy to join, and affiliates receive access to a range of promotional materials and tracking tools to help them succeed. The program is open to anyone interested in earning a passive income, including bloggers, influencers, and website owners.</p>\r\n<p>Overall, Nexus Quality&reg; is a trusted brand with a strong reputation for delivering quality products and exceptional customer service. With its generous affiliate program, it offers a unique opportunity for individuals to earn a significant income while promoting products they believe in.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</main>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 23220,
+  "categories": "Beauty & Health, Home & Tools, Garden & Outdoors",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Canada",
+    "Germany",
+    "France",
+    "United Kingdom",
+    "Ireland",
+    "Italy",
+    "Norway",
+    "New Zealand",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/nexusquality/register",
+  "offer_status": 2,
+  "name": "NexusQualitystore",
+  "website": "https://nexusqualitystore.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 97996,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.02,
+  "program_id": 111626,
+  "myshopify_domain": "nexusqualitystore.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "5.26%",
+  "mkp_program_id": 111626,
+  "product_list": []
+}

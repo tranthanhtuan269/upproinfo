@@ -1,0 +1,217 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1678399938_2522914_8e26c6bad97847a35d42ebf08422a4d02020 RGK Vertical Logo.jpg",
+  "description": "<p>We have a pretty simple philosophy at Renegade GK, make the best valued goalie gloves that we can at each player level while offering amazing customer service. It's about maximizing performance, not our profits. Every goalkeeper should have access to great gloves without breaking the bank. After all, we're keepers too.</p>\r\n<p>Our affiliate and referral program has 4 levels that include high commissions and discounts as you advance. Here's the breakdown:</p>\r\n<ul>\r\n<li>Bronze - 6% commission, 15% discount ($30 in commissions to advent to Silver)</li>\r\n<li>Silver Level - 8% commission, 15% discount ($100 in commissions to advent to Gold)</li>\r\n<li>Gold Level - 10% commission, 15% discount, ($200 in commissions to advent to Platinum)</li>\r\n<li>Platinum Level - 12% commission, 15% discount, lifetime customers</li>\r\n</ul>\r\n<p>We also have multi-level commisions in place for other affiliates that you recruit and they in turn recruit. For example, if you invite an affiliate, you will make a 30% commission of whatever they make in addition to a signing bonus.</p>",
+  "payout_rate": "22.49%",
+  "payout_period": null,
+  "recommend_score": 3.65,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 22106,
+  "categories": "Sports & Entertainment, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1680116458_5207748_ec1c0db42978c066e25f8a1b1658f1ff.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Coupons or Deals website",
+    "Comparison shopping engine"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": [],
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/renegade-gk/register",
+  "offer_status": 2,
+  "name": "Renegade GK",
+  "website": "https://renegade-gk.com",
+  "hashtags": [
+    "#renegadegk",
+    "#goalkeeper",
+    "#goalkeepers",
+    "#goalkeepersaves",
+    "#goalkeepergloves",
+    "#goalkeeperlife",
+    "#goalkeepercoach",
+    "#goalkeepertraining",
+    "#goalkeeping",
+    "#gkunion",
+    "#gk"
+  ],
+  "shop_id": 88438,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.04,
+  "program_id": 103877,
+  "myshopify_domain": "renegade-gk.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24da25d235d1f700101a2",
+      "name": "Auto-discount rule",
+      "program_id": 103877,
+      "shop_id": 88438,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:34:58",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 80.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "92.86%",
+  "mkp_program_id": 103877,
+  "product_list": []
+}

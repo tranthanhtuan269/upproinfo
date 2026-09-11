@@ -1,0 +1,149 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/c95b432b6d6dcaea7cb09f95e6d3e2c6.jpg",
+  "description": "<h1 class=\"heading bsa-app-heading\" style=\"margin-top: 0px; margin-bottom: 16px; line-height: 1;\"><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"vertical-align: inherit; font-size: 9px;\">Minimalistic style with a touch of Mediterranean breeze. A</span><span style=\"font-size: 9px;\">ntonia erre's style is designed for women who appreciate timeless style, designed to go beyond the trends of the moment.</span><span style=\"color: inherit; font-size: 9px;\">&nbsp;</span><span style=\"color: inherit; vertical-align: inherit; font-size: 9px;\">Our knitwear is sophisticated and comfortable.</span><span style=\"color: inherit; font-size: 9px;\">&nbsp;</span><span style=\"color: inherit; vertical-align: inherit; font-size: 9px;\">To make a difference every day, without sacrificing practicality.</span></span></h1>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.02,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 16079,
+  "categories": "Fashion",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/antoniaerre/register",
+  "offer_status": 2,
+  "name": "Tenne'",
+  "website": "https://www.antoniaerre.com",
+  "hashtags": [],
+  "shop_id": 67866,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.02,
+  "program_id": 77228,
+  "myshopify_domain": "antoniaerre.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "60%",
+  "mkp_program_id": 77228,
+  "product_list": []
+}

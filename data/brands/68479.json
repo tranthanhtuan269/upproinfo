@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/f14b87805aa02a53b54ab1cdabe7c043.png",
+  "description": "PetPotion is a brand that helps make pet parenting easier using organic, premium, safe vet approved ingredients. Bath time can be stressful, and our pets feel our stress. Our signature no rinse, waterless spray shampoos are the quick &amp; easy way to clean up pets in between baths. We have collections for dogs/cats, and rabbits/guinea-pigs. We have 2 different sized bottles and refill pouches (2 refills for the price of 2) We believe in using safe, affective products on pets, don't you?",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.8,
+  "average_earning_per_sale": null,
+  "video_url": "https://youtu.be/tIBeYdih0Os",
+  "mkp_listing_id": 16394,
+  "categories": "Pet supplies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1660610818_8850988_21fcc547aec20bc3553719f0b3ba7e5a.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/funkzones/register",
+  "offer_status": 2,
+  "name": "PetPotion™",
+  "website": "https://www.petpotion.com",
+  "hashtags": [],
+  "shop_id": 68479,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.8,
+  "program_id": 77949,
+  "myshopify_domain": "funkzones.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 146.2,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "9.3%",
+  "mkp_program_id": 77949,
+  "product_list": []
+}

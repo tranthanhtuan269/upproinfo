@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1734831838_8077353_c18c4cfadd90d1d81fb95b862ae76eba.jpg",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Unique Buds - Where Style meets Sound - Wireless Earphones - Limitless Sound</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Stylish Wireless Earphones, Unmatched sound<br>Wireless Perfection, Audio Bliss, explore our range of Wireless Bluetooth Earphones</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">FREE STANDARD DELIVERY on all orders</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We are offerring a flat commission rate of &pound;2.50 per item, however as we like to reward our top affiliates the rate per item increases after every 10 items purchased during a 60 day period.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">1 - 10 items purchased Commission &pound;2.50 per item</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">11 - 20 items Commission &pound;3.00 per item&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">20 - 30 items Commission &pound;3.50 per item&nbsp;&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.42,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33698,
+  "categories": "Phone & Telecommunication, Electronics",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1734839941_8163590_d6e25e6add8fb98ef5d8d9d04775ade9.png",
+  "rule": 1,
+  "commission_type": 1,
+  "commission": "£2.50 per item",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Twitch",
+    "Reddit",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "Ireland",
+    "France",
+    "Germany"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Uniquebudsaffiliates/register",
+  "offer_status": 2,
+  "name": "Unique Buds",
+  "website": "https://uniquebuds.co.uk",
+  "hashtags": [
+    "#wireless",
+    "#Bluetooth",
+    "#Earbuds",
+    "#Earphones",
+    "#Headphones",
+    "#Airpods"
+  ],
+  "shop_id": 180665,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.27,
+  "program_id": 205957,
+  "myshopify_domain": "38833b-19.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 14.06,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 205957,
+  "product_list": []
+}

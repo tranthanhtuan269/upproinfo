@@ -1,0 +1,184 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1678178814_3985074_ec91e8514023fabd9ac0b8542809df6aRJCP noir -transparent.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:</p>\r\n<p>Founded in 2020, Maison RJCP, originally named RajelCorp, offered its first pieces in the streetwear movement. Over the years, the values that made up the creative lines of the brand have been confronted with the reality of the market. Instead of nuancing them to facilitate our development, they became even more central to our creative process.</p>\r\n<p>This is how RajelCorp became Maison RJCP. The artistic direction of the collections has also evolved, with more sophisticated pieces, and the desire to be part of a production process that is environmentally sustainable and respectful of human rights.</p>\r\n<p>The aim is not to perpetuate the stereotype of the young man from a working-class neighborhood who starts out in streetwear. The ambition is to offer high-end, modern products designed to shake up the codes. However, it is unthinkable to make a clean sweep of our roots, which is why we want to integrate them into our creations. We want to symbolize the intersection of two worlds that everything opposes, but that have so much to share.</p>\r\n<p>However, our ambition is not only to produce unique pieces, but to defend a vision and ideas that will be those of our future. To contribute to the evolution of the world in a way that preserves it and propagates ideas that place the human being and the living being in all its dimensions at the center.</p>\r\n<p>The vocation of Maison RJCP is to rise to the rank of the greatest French houses, to assert its values and to prove that it represents the world of tomorrow. Wearing our pieces is no longer a simple act of purchase, but a desire to display values without giving up style, quality and originality.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.81,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 21765,
+  "categories": "Fashion",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1678180988_6729830_3e55a6ac509ef14993520cc35c4ddede.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Belgium",
+    "France",
+    "Luxembourg",
+    "Monaco",
+    "Malta",
+    "French Polynesia",
+    "Swaziland",
+    "French Southern Territories",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/maisonrjcp/register",
+  "offer_status": 2,
+  "name": "MAISONRJCP",
+  "website": "https://maisonrjcp.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 90630,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 103482,
+  "myshopify_domain": "rajelcorp.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 242.96,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "5.56%",
+  "mkp_program_id": 103482,
+  "product_list": []
+}

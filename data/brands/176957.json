@@ -1,0 +1,155 @@
+{
+  "logo": null,
+  "description": "<div class=\"flex max-w-full flex-col flex-grow\">\r\n<div data-message-model-slug=\"gpt-4o\" class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5\" dir=\"auto\" data-message-id=\"fbda758a-ffb4-40ac-b2b9-8b6b400962f7\" data-message-author-role=\"assistant\">\r\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n<p>Unlock your path to financial freedom with the <strong>Ultimate Wealth Guide</strong>! This comprehensive resource is packed with proven strategies for building wealth, managing money, and creating multiple income streams. Whether you're looking to invest smarter, grow your savings, or achieve your dream lifestyle, this guide has it all. Start transforming your financial future today&mdash;click the link and take the first step toward success. Don&rsquo;t wait&mdash;your wealth journey starts here! 💼✨</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33331,
+  "categories": "Others",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 0,
+  "commission": "£5.00 per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/hvb1we-ne/register",
+  "offer_status": 2,
+  "name": "The ultimate wealth guide",
+  "website": "https://theultimatewealthguide.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 176957,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 201613,
+  "myshopify_domain": "hvb1we-ne.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "15.38%",
+  "mkp_program_id": 201613,
+  "product_list": []
+}

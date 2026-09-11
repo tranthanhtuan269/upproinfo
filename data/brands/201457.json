@@ -1,0 +1,213 @@
+{
+  "logo": null,
+  "description": "<p>Sybershopp vem trazendo inova&ccedil;&atilde;o e comodidade para seu hob favorito com 40% de desconto em qualquer produto e com porcetagem de vendas para os afiliados saybershop</p>\r\n<p><br></p>\r\n<p>entre em contato com a loja pelo direct do site ou pelo instagram @sybershopp e tire suas duvidas fa&ccedil;a seu or&ccedil;amento&nbsp;</p>\r\n<p>embreve havera descontos e promo&ccedil;oes para todos os clientes sybershop</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35083,
+  "categories": "Sports & Entertainment, Home & Tools",
+  "currency": "BRL",
+  "symbol_currency": "&#82;&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Facebook",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "18-24",
+    "Under 18",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Brazil"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "other": "pix"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/baxvpj-6n/register",
+  "offer_status": 2,
+  "name": "MADropcompany ✅",
+  "website": "https://sybershop-madropcompany.myshopify.com",
+  "hashtags": [
+    "#caça",
+    "#pesca",
+    "#esporte",
+    "#lazer",
+    "#hiperatividade",
+    "#pescaesportiva",
+    "#moda",
+    "#country"
+  ],
+  "shop_id": 201457,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.5,
+  "program_id": 230847,
+  "myshopify_domain": "baxvpj-6n.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24dae5d235d1f70011610",
+      "name": "Auto-discount rule",
+      "program_id": 230847,
+      "shop_id": 201457,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:35:10",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "66.67%",
+  "mkp_program_id": 230847,
+  "product_list": []
+}

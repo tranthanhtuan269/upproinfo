@@ -1,0 +1,161 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1745823033_9112873_17887cf57858668cfd1af03523fb4519.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: <a href=\"https://www.tarinika.com/\">Tarinika</a> is renowned for its collection of high-quality, handcrafted jewelry inspired by traditional Indian designs.&nbsp;<br>&bull; Product description: Tarinika offers a diverse range of jewelry pieces, including earrings, necklaces, bangles, bracelets, rings, and maang tikkas (forehead jewelry).</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; USP (Unique Selling Point): We offer a competitive commission rate for all order values, ensuring eligibility for commission regardless of the cart value.&nbsp;<br>&bull; Payment terms: The payout will be processed within 30 days. This ensures no commission is paid for the canceled and returned orders. Payouts will be disbursed with the help of Paypal wallet. The other available options are UPI, net banking, NEFT/RTGS, etc.​</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Application form: Signup on this <em><strong><a href=\"https://af.uppromote.com/tarinika-inc/register\" target=\"_blank\" rel=\"noopener\">link</a> </strong></em>to register as an affiliate</p>",
+  "payout_rate": "91.66%",
+  "payout_period": null,
+  "recommend_score": 4.8,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 24691,
+  "categories": "Fashion, Jewelry & Accessories, Art",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Content or Niche website"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United Arab Emirates",
+    "Australia",
+    "Canada",
+    "India",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/tarinika-inc/register",
+  "offer_status": 2,
+  "name": "Tarinika",
+  "website": "https://www.tarinika.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 103667,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.71,
+  "program_id": 117751,
+  "myshopify_domain": "tarinika-inc.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 105.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "75%",
+  "mkp_program_id": 117751,
+  "product_list": []
+}

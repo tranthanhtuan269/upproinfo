@@ -1,0 +1,227 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1771486147_5439306_cb91922c212551d22df1ff72ebcdf0a6.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p style=\"text-align:left;font-size:14px;font-weight:normal;\">Magic Merch Emporium is a woman-owned, reader-operated small business creating premium bookish merchandise for fans of romantasy and fantasy series. </p><p style=\"text-align:left;font-size:14px;font-weight:normal;\">About our brand: We design apparel, home goods, accessories, and more inspired by beloved series like ACOTAR, Fourth Wing, and Zodiac Academy - made by readers, for readers. What makes us different: Every design is crafted with deep fandom knowledge and printed on demand for quality and sustainability. </p><p style=\"text-align:left;font-size:14px;font-weight:normal;\">How affiliates can earn: Promote our products to your bookish audience and earn commission on every sale. How to promote us: Share on BookTok, Bookstagram, or your blog using your unique link. Best for book influencers, BookTokers, and romance/fantasy content creators.</p></div></div>",
+  "payout_rate": "57.35%",
+  "payout_period": "15th of each month",
+  "recommend_score": 7.14,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38241,
+  "categories": "Arts & Entertainment, Home & Garden, Apparel & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 0,
+  "commission": "$10.00 per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "New Zealand",
+    "Australia",
+    "Canada",
+    "France",
+    "Germany",
+    "Switzerland"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/c1d828-3c/register",
+  "offer_status": 2,
+  "name": "MagicMerchEmporium",
+  "website": "https://magicmerchemporium.com",
+  "hashtags": [
+    "#bookish",
+    "#booktok",
+    "#romantasy",
+    "#acotar",
+    "#fourthwing",
+    "#bookmerch",
+    "#bookstagram",
+    "#fantasyreads"
+  ],
+  "shop_id": 255035,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.04,
+  "program_id": 298646,
+  "myshopify_domain": "c1d828-3c.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "69cceecb292d72b4dc04bc42",
+      "name": "Auto-discount rule",
+      "program_id": 298646,
+      "shop_id": 255035,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "fixed_amount",
+          "amount": 5,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-04-01 10:10:10",
+      "created_at": "2026-04-01T10:09:15.740000Z",
+      "updated_at": "2026-04-01T10:10:10.496000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 81.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "99.18%",
+  "mkp_program_id": 298646,
+  "product_list": []
+}

@@ -1,0 +1,180 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1741611857_1826955_9741d1366352d17f849d8a1e212a49aa.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Exclusive Designs &ndash; Our in-house creations are carefully crafted to bring a distinct edge to your style.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Curated Collections &ndash; We handpick fashion-forward pieces that align with our bold, minimalist vision.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Quality &amp; Comfort &ndash; Every item, whether designed or sourced, meets our high standards for durability and comfort.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">A Statement, Not Just an Outfit &ndash; Fashion is a form of self-expression, and we make sure you stand out effortlessly.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Join the Movement</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Edge by CrisMo is more than just a clothing brand&mdash;it&rsquo;s a way of embracing confidence and individuality through fashion. Whether you&rsquo;re rocking one of our original pieces or a hand-selected addition, you&rsquo;ll always feel the essence of effortless boldness.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34647,
+  "categories": "Fashion, Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Germany",
+    "Italy",
+    "Jamaica",
+    "Saint Lucia",
+    "Trinidad and Tobago",
+    "United States",
+    "Venezuela",
+    "Bahamas",
+    "Barbados",
+    "Belgium"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/kk3puy-b7/register",
+  "offer_status": 2,
+  "name": "Edge by CrisMo",
+  "website": "https://www.edgebycrismo.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 197231,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.94,
+  "program_id": 225294,
+  "myshopify_domain": "kk3puy-b7.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "33.33%",
+  "mkp_program_id": 225294,
+  "product_list": []
+}

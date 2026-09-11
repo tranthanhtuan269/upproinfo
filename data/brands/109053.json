@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/2e65973fd71bf6d245026cce542dac51.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We sell the best tasting protein powder on the market: Orion is a fun and unique brand geared towards people focused on fitness, that enjoy the tasty things in life.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Product description:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Whey Isolate Protein Powder</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; USP (Unique Selling Point):</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Taste. Unlike anything on the market. Customers say it tastes like a milkshake.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Payment terms:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">30% commission. $200 minimum transfer. Bonuses for monthly best affiliates.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Other information:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We offer a 100% lifetime return policy if you don't love our product... We've sold 4000+ units and never had a single one returned. It's that good.</p>\r\n</div>",
+  "payout_rate": "9.09%",
+  "payout_period": null,
+  "recommend_score": 3.14,
+  "average_earning_per_sale": "30",
+  "video_url": null,
+  "mkp_listing_id": 26428,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 7,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Orion/register",
+  "offer_status": 2,
+  "name": "Orion Supplements",
+  "website": "https://orionsupps.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 109053,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.24,
+  "program_id": 123845,
+  "myshopify_domain": "neils-secret-powder.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 54.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "52.73%",
+  "mkp_program_id": 123845,
+  "product_list": []
+}

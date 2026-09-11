@@ -1,0 +1,142 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/ca4dc5996e2efb442f2d0e965019c653.png",
+  "description": "<span style=\"color: rgb(102, 102, 102); font-family: Montserrat; font-size: 16px;\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">我们生活在一个充满品牌的世界中，他们通过广告而不是质量或体验来优先考虑客户的关注。</font><font style=\"vertical-align: inherit;\">我们看到知名品牌伴随着过多的标签和高价标签，我们发现低价的非品牌产品与我们现有的生活方式不匹配的劣质或糟糕的设计。</font><font style=\"vertical-align: inherit;\">在价格、质量和风格之间做出艰难的选择，对吧？</font><font style=\"vertical-align: inherit;\">就像成语所说：你不能吃蛋糕。</font></font></span><br style=\"overflow-anchor: none; color: rgb(102, 102, 102); font-family: Montserrat; font-size: 16px;\"><span style=\"color: rgb(102, 102, 102); font-family: Montserrat; font-size: 16px;\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">EPEIOS 是东京首创的品牌，在 2020 年出现时提出了一个问题：如果我们能够以合理的价格提供一种符合消费者需求的感官生活方式会怎样？</font><font style=\"vertical-align: inherit;\">EPEIOS从这个问题出发，利用行业领先的技术和积累的知识，专注于产品、体验和美学。</font><font style=\"vertical-align: inherit;\">EPEIOS的一切，从我们的智能家电、简约的标志和包装，都体现了我们“恰到好处”的基本理念。</font></font></span><br style=\"overflow-anchor: none; color: rgb(102, 102, 102); font-family: Montserrat; font-size: 16px;\"><br style=\"overflow-anchor: none; color: rgb(102, 102, 102); font-family: Montserrat; font-size: 16px;\"><span style=\"color: rgb(102, 102, 102); font-family: Montserrat; font-size: 16px;\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">在 EPEIOS，我们认为这是我们的使命，即 EPEIOS 的所有产品都解决生活的基本要素和本质，而我们的消费者为它们增加价值并使它们融入自己的生活方式。</font></font></span>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.85,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 15954,
+  "categories": "Home & Tools, Garden & Outdoors, Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/epeios/register",
+  "offer_status": 2,
+  "name": "EPEIOS",
+  "website": "https://epeios.com",
+  "hashtags": [],
+  "shop_id": 67353,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.85,
+  "program_id": 76609,
+  "myshopify_domain": "epeios.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "30.61%",
+  "mkp_program_id": 76609,
+  "product_list": []
+}

@@ -1,0 +1,155 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1743603235_2957571_ed820af33c5956a0e5577182e09b6663.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We are prehab, a lead female health and fitness supplementation brand, focused on ensuring women have everything they need for the day, in one tasty sachet.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br>&bull; Product description:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Prehab is an electrolyte based formula that also has added adaptogens and glutathione to ensure you're hydrated and healthy, both physically and mentally.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Payment terms:&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">End of month, any sale within that month that has not been refunded, will be paid to you.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35226,
+  "categories": "Beauty & Health",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/76ee19-4/register",
+  "offer_status": 2,
+  "name": "Prehab",
+  "website": "https://prehab.shop",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 203034,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.87,
+  "program_id": 232904,
+  "myshopify_domain": "76ee19-4.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "28.57%",
+  "mkp_program_id": 232904,
+  "product_list": []
+}

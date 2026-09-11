@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/8c1a155a772724c1f05c43639e8e4fe0.png",
+  "description": "<p>Fotomax erbjuder ett stort urval roliga presentprodukter med tonvikt p&aring; produkter med svensk text. Annorlunda, roliga och &ouml;verraskande prylar f&ouml;r de flesta tillf&auml;llen! Vi har ocks&aring; en omfattande skanningsservice d&auml;r vi &ouml;verf&ouml;r &auml;ldre teknik till digital form, tex gamla foton, diabilder, videoband, kassetter och diskar.</p>\r\n<p>Fotomax grundades 2015 p&aring; Island och har sedan dess skaffat sig tusentals n&ouml;jda kunder &ouml;ver hela v&auml;rlden.<br>F&ouml;retagets tj&auml;nster &auml;r uppdelade i tv&aring; delar: &Ouml;verf&ouml;ring av film och fotografier till digital form fr&aring;n &auml;ldre media och en webbutik med unika och roliga presenter d&auml;r du kan f&aring; din egen bild, logga eller design tryckt.</p>\r\n<p>Bland v&aring;rt sortiment hittar du kepsar, f&ouml;rkl&auml;den, t-shirts, strumpor, baby- och barnkl&auml;der - v&auml;lj bland v&aring;ra olika utf&ouml;randen eller designa din egen, unika variant! Till hemmet har vi muggar och kuddar t.ex. och som perfekta presenter en k&auml;rlekskarta, en unik poster, ett stj&auml;rntecken att ha p&aring; v&auml;ggen - vi fixar presenterna du alltid letat efter!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.76,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 24866,
+  "categories": "Fashion, Toys & Hobbies, Others",
+  "currency": "SEK",
+  "symbol_currency": "&#107;&#114;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Sweden"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/fotomaxbutiken-se/register",
+  "offer_status": 2,
+  "name": "Fotomaxbutiken.se",
+  "website": "https://fotomaxbutiken.se",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 73420,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 119839,
+  "myshopify_domain": "fotomaxbutiken-se.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "25%",
+  "mkp_program_id": 119839,
+  "product_list": []
+}

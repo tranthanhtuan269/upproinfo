@@ -1,0 +1,180 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1694120258_645481_f90b3d44b89b0dd2282e0a9a9535aefb.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p style=\"text-align: left; font-size: 14px; font-weight: normal;\">• Brand introduction: Orgullo del barrio. <span>Bienvenidos a la tienda más barrio. Encuentra toda la ropa que necesites para que la sigas rompiendo.</span><br>• Product description: Tops, polos, suéteres y mas diseñados para que no te falte calle. Prendas que representan y muestran orgullo del barrio y de ser de barrio.<br>• USP (Unique Selling Point): Earn 7% commission of the total sale made when someone uses your affiliate link or enters your coupon code.<br>• Payment terms: Payout through PayPal on reaching 50usd or every 3 months, whichever happens first.&nbsp;<br>• Other information:</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "once a month minimum.",
+  "recommend_score": 0.99,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 26778,
+  "categories": "Fashion",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "7% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Spain",
+    "United States",
+    "Mexico"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/delbarrio-store/register",
+  "offer_status": 2,
+  "name": "delbarrio-shop",
+  "website": "https://delbarrio-shop.com",
+  "hashtags": [
+    "#delbarrio",
+    "#streetwear",
+    "#chicano",
+    "#calle",
+    "#latino"
+  ],
+  "shop_id": 114728,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.9,
+  "program_id": 130003,
+  "myshopify_domain": "delbarrio-store.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 130003,
+  "product_list": []
+}

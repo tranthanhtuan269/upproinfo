@@ -1,0 +1,178 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1758875024_7891753_93450f2c4f262e7f8829f7b60b7b0f19.jpg",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"color: rgb(36, 36, 48); font-family: Nunito, sans-serif; font-size: 17.6px; background-color: rgb(255, 255, 255); float: none; display: inline;\">Jiaropack are subsidiaries of Global Store Supply, Inc.Jiaropack is the leading distributor of shipping, industrial and packaging materials to small and large businesses , with offices and facilities in: Los Angeles, New York,China, Germany,, Mexico and the United Kingdom. As the global leader in packaging supplies, millions of customers depend on our team to support their business needs 24/7 &mdash; Over the years Jiaropack have grown to become the #1 packaging supplies brand for Amazon and Walmart. Our commitment expands beyond these suppliers to support everyone, from families to start-ups and large commercial enterprises.</span><br style=\"box-sizing: border-box; color: rgb(36, 36, 48); font-family: Nunito, sans-serif; font-size: 17.6px; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(36, 36, 48); font-family: Nunito, sans-serif; font-size: 17.6px; background-color: rgb(255, 255, 255); float: none; display: inline;\">We currently offer expedited shipping to all U.S. Customers, efficient customer support, and over a dozen warehouses across the U.S. to fulfill your orders immediately.</span></p>",
+  "payout_rate": "98.42%",
+  "payout_period": null,
+  "recommend_score": 5.1,
+  "average_earning_per_sale": "50",
+  "video_url": null,
+  "mkp_listing_id": 23126,
+  "categories": "Jewelry & Accessories, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1685948993_5873302_6b72c9342f29bf83a580fdf764fd257e.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 1,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/jiaropack/register",
+  "offer_status": 2,
+  "name": "JiaroPack",
+  "website": "https://jiaropack.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 97424,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.86,
+  "program_id": 111019,
+  "myshopify_domain": "jiaro.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 321.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "89.43%",
+  "mkp_program_id": 111019,
+  "product_list": []
+}

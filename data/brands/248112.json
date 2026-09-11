@@ -1,0 +1,166 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><div><h3><strong>About our brand and products</strong></h3><p>Faithlyclothing is a Christian apparel brand created to help believers wear their faith boldly and authentically in everyday life. Our designs are rooted in scripture, encouragement, and Christian values—made to spark conversation, inspire confidence, and point hearts back to God. We offer high-quality faith-based shirts designed for daily wear, not just Sundays.</p><p><strong>What makes us different</strong></p><p>Faithlyclothing is mission-first, not trend-first. Every design is created with meaning, intention, and respect for Christian values. We focus on authenticity, quality, and community—working with creators who genuinely live out their faith rather than pushing mass-produced slogans. Faithlyclothing exists to build a movement, not just sell apparel.</p><h3><strong>How affiliates can earn</strong></h3><p>Affiliates earn <strong>10% commission</strong> on every sale made through their unique referral link or discount code. Your audience also receives <strong>10% off</strong> their order. Top-performing affiliates may qualify for higher commission rates and long-term ambassador opportunities. Payouts are sent monthly(1st of every month).</p><h3><strong>How to promote us</strong></h3><p>Affiliates can promote Faithlyclothing by:</p><ul><li><p>Wearing Faithlyclothing apparel in Reels, TikToks, or photos</p></li><li><p>Sharing what the message or scripture means to you personally</p></li><li><p>Posting lifestyle content, church-day outfits, or everyday faith moments.</p></li><li><p>Including your unique discount code or referral link.</p></li><li><p>Tagging @Faithlyclothing and using faith-based hashtags</p></li></ul><p>We encourage authentic storytelling over scripted ads.</p><p><strong>Other information</strong></p><p>Content must align with Christian values</p><p>Paid partnership disclosure is required</p><p>No exclusivity required</p><p>Affiliates are encouraged to be genuine and speak in their own voice</p><p>Faithlyclothing reserves the right to end partnerships that no longer align with our mission</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.18,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37648,
+  "categories": "Apparel & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "12% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "coupon_discount_codes",
+    "extension_software",
+    "social_media_ads",
+    "search_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/faithlyclothing/register",
+  "offer_status": 2,
+  "name": "Faithly clothing",
+  "website": "https://faithlyclothing.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 248112,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.07,
+  "program_id": 290005,
+  "myshopify_domain": "3esnuz-6s.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 290005,
+  "product_list": []
+}

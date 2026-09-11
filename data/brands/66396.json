@@ -1,0 +1,143 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/4d863a4ff1137f6d88483d7157e34af2.png",
+  "description": "<p>Tarragonia specialises in high quality home decor. Each item is handmade in the USA. Our brand is hugely popular in the USA, Canada, Europe, Australia, New Zealand and beyond.&nbsp;</p><p>We offer a variety of style collections from boho eclectic maximalism to whimsical vintage. We also have a huge selection of vintage William Morris patterns and prints.&nbsp;</p><p>During the summer months our weatherproof outdoor pillows are our star product line. During the winter months the focus switches to our indoor pillows, weatherproof outdoor mats and cosy blankets.</p><p>2022 is a period of exponential growth for Tarragonia and will see many new products and a couple of new product lines being introduced. Items to look out for include nursery mats and kids decor, Egyptian cotton bedding and bathroom accessories.</p>",
+  "payout_rate": "81.94%",
+  "payout_period": null,
+  "recommend_score": 1.4,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 15673,
+  "categories": "Home & Tools, Garden & Outdoors",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/tarragonia/register",
+  "offer_status": 2,
+  "name": "Tarragonia",
+  "website": "https://tarragonia.com",
+  "hashtags": [],
+  "shop_id": 66396,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.37,
+  "program_id": 75473,
+  "myshopify_domain": "tarragonia.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 114.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "48%",
+  "mkp_program_id": 75473,
+  "product_list": []
+}

@@ -1,0 +1,224 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1743057984_8031163_05f769d7768d6a22f8566fc94837da89.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We are Sports Lab, uniquely curating up-and-coming innovative gear + nutrition from all over the world to Asia.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our ever-growing portfolio spans continents, sports, occasions, athletic levels, locations... you name it, we have it!</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">The unique added-value we bring? You can only see, touch &amp; try these innovations from us. You will also get them quicker and more affordable, including shipping fees.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Delay no more!</p>\r\n</div>",
+  "payout_rate": "50%",
+  "payout_period": null,
+  "recommend_score": 1.8,
+  "average_earning_per_sale": "0",
+  "video_url": "https://www.facebook.com/shopsportslab/videos/1090683932834652",
+  "mkp_listing_id": 35140,
+  "categories": "Sports & Entertainment",
+  "currency": "HKD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1743061284_2519688_ee7ddb113d793e71aa5cfd0f872973c1.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Hong Kong",
+    "Macao",
+    "Taiwan",
+    " Province of China",
+    "Japan",
+    "Korea",
+    " Republic of",
+    "Singapore",
+    "Australia",
+    "New Zealand",
+    "Thailand",
+    "China"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/sportslab/register",
+  "offer_status": 2,
+  "name": "Sports Lab HK",
+  "website": "https://www.shopsportslab.com",
+  "hashtags": [
+    "#sport",
+    "#innovation",
+    "#gear",
+    "#nutrition",
+    "#outdoor",
+    "#wellness",
+    "#turmeric",
+    "#sunscreen",
+    "#kayak",
+    "#insectbite",
+    "#poncho",
+    "#waterproof",
+    "#coffeepaste",
+    "#coffeetube",
+    "#merino",
+    "#oceanwaste",
+    "#gripsocks"
+  ],
+  "shop_id": 200962,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.62,
+  "program_id": 230202,
+  "myshopify_domain": "fb61e0-fb.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "6a7ab24f13ae21570e00d832",
+      "name": "Sports Lab for You",
+      "program_id": 230202,
+      "shop_id": 200962,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": "{discount_amount} off applied 🎁✓"
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-08-11 10:11:18",
+      "created_at": "2026-08-11T05:25:35.053000Z",
+      "updated_at": "2026-08-11T10:11:18.749000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 607.63,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "69.44%",
+  "mkp_program_id": 230202,
+  "product_list": []
+}

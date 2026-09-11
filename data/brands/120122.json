@@ -1,0 +1,177 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1698139344_5664323_7953bc748b6f6bcc0cfcce795245b340.png",
+  "description": "<div style=\"font-family: Poppins;\"><p data-start=\"0\" data-end=\"238\" id=\"isPasted\">ZenPur est une marque dédiée au bien-être à travers la qualité du sommeil.<br data-start=\"74\" data-end=\"77\">Nous offrons des matelas personnalisables, conçus pour s’adapter aux besoins de chacun, et nos clients peuvent les essayer pendant 99 nuits, sans aucun risque.</p><p data-start=\"240\" data-end=\"443\">Fabriqués en Europe avec des matériaux éco-responsables certifiés OEKO-TEX® Standard 100, nos produits garantissent un sommeil plus sain, sans substances nocives, tout en réduisant l’empreinte carbone.</p><p data-start=\"445\" data-end=\"737\" data-is-last-node=\"\" data-is-only-node=\"\">En tant qu’ambassadeur ZenPur, vous bénéficiez de&nbsp;<strong data-start=\"495\" data-end=\"545\">10 % de commission sur chaque commande générée</strong>.<br data-start=\"546\" data-end=\"549\">Partagez plus qu’un simple produit : offrez à votre communauté un meilleur sommeil tout en développant vos revenus.<br data-start=\"664\" data-end=\"667\">Rejoignez le mouvement ZenPur et contribuez à un monde qui dort mieux.</p></div>",
+  "payout_rate": "7.14%",
+  "payout_period": "7",
+  "recommend_score": 2.52,
+  "average_earning_per_sale": "0",
+  "video_url": "https://www.youtube.com/@zenpursleep398",
+  "mkp_listing_id": 27325,
+  "categories": "Home & Tools",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "France",
+    "Italy"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/zenpur-sleep/register",
+  "offer_status": 2,
+  "name": "ZenPur",
+  "website": "https://www.zenpursleep.com",
+  "hashtags": [
+    "#ZenPurStory #CustomizedSleep #RiskFreeRest #EcoFriendlyComfort #EuropeanCraftsmanship #HealthySleep #TailoredDreams #ConsciousComfort #QualitySlumber #HolisticWellBeing #SleepUnique #EcoResponsibleRest"
+  ],
+  "shop_id": 120122,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.4,
+  "program_id": 136222,
+  "myshopify_domain": "zenpur-sleep.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 65.78,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "60.24%",
+  "mkp_program_id": 136222,
+  "product_list": []
+}

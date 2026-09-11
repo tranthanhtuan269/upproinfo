@@ -1,0 +1,180 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1732140003_5573039_8b087c15f9ef85de5262d34eed94fdb2.jpg",
+  "description": "<p><strong>Brand Introduction:</strong><br>At ACM Investments, we specialize in empowering individuals to achieve financial independence through intelligent investment strategies. Our solutions blend cutting-edge AI technology with market expertise, providing tools and insights tailored to both new and experienced investors.</p>\r\n<p><strong>Product Description:</strong><br>Our flagship product, ACM 20, is a robust investment platform that offers:</p>\r\n<ul>\r\n<li>AI-driven stock selection to maximize returns.</li>\r\n<li>Detailed market trend analysis for informed decision-making.</li>\r\n<li>Seamless tools to build and manage successful portfolios.</li>\r\n</ul>\r\n<p><strong>USP (Unique Selling Point):</strong><br>ACM Investments stands out by outperforming the S&amp;P 500 and Nasdaq indexes with an AI-powered, easy-to-use system. Our commitment to client success ensures a professional experience with tangible results.</p>\r\n<p><strong>Payment Terms:</strong><br>We offer flexible payment plans, including monthly subscriptions via Shopify. Payments are securely processed, with options to manage and adjust subscriptions at any time through your preferred method.</p>\r\n<p><strong>Other Information:</strong></p>\r\n<ul>\r\n<li>Access our services globally, including personalized support for local markets.</li>\r\n<li>Join a growing community of investors leveraging our expertise to stay ahead in the market.</li>\r\n<li>All our platforms are optimized for ease of use, with a sleek and professional design.</li>\r\n</ul>\r\n<p>Ready to achieve your financial goals? ACM Investments is your trusted partner.</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33281,
+  "categories": "Software & Digital products, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "50% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Coupons or Deals website",
+    "Facebook",
+    "Instagram",
+    "Podcast platforms",
+    "Quora",
+    "Reddit",
+    "Tiktok",
+    "Twitter",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "United Arab Emirates",
+    "Spain",
+    "Italy",
+    "France",
+    "Germany",
+    "Canada",
+    "Australia",
+    "Sweden"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/dda2ec-b5/register",
+  "offer_status": 2,
+  "name": "ACM Investments",
+  "website": "https://acminvestments.org",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 176451,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.05,
+  "program_id": 200993,
+  "myshopify_domain": "dda2ec-b5.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "46.15%",
+  "mkp_program_id": 200993,
+  "product_list": []
+}

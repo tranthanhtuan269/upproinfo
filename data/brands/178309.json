@@ -1,0 +1,177 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1733507679_8738832_df90fdd17660aae0948d8aa54e0e4dbc.png",
+  "description": "<div data-pf-type=\"FlexBlock\">\r\n<div data-pf-type=\"FlexBlock\">\r\n<h3 data-pf-type=\"Heading2\"><br>Cravings</h3>\r\n</div>\r\n<div data-pf-type=\"FlexBlock\">\r\n<h3 data-pf-type=\"Heading2\">Portion Sizes</h3>\r\n</div>\r\n<div data-pf-type=\"FlexBlock\">\r\n<h3 data-pf-type=\"Heading2\">Excess Weight</h3>\r\n</div>\r\n</div>\r\n<div data-pf-type=\"FlexBlock\">\r\n<p data-pf-type=\"Paragraph3\">Lyposol is a revolutionary new weight loss product that helps reduce your appetite and curb your cravings within days. The unique, natural formulation is delivered directly to the brain's control centre for hunger and satiety. This helps you feel fuller quicker and for longer and regulates insulin and blood sugar levels in the body, which reduces cravings.<br>This means you eat less, helping you lose weight.</p>\r\n</div>",
+  "payout_rate": "15.22%",
+  "payout_period": null,
+  "recommend_score": 2.04,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33628,
+  "categories": "Software & Digital products, Beauty & Health",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1734393195_9256166_737bff9a3ce5d8932620a15ee44b14b0.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States",
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "cheque": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://affiliates.lyposol.com/lyposol/register",
+  "offer_status": 2,
+  "name": "Lyposol",
+  "website": "https://lyposol.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 178309,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.5699999999999998,
+  "program_id": 203240,
+  "myshopify_domain": "lyposol.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 203240,
+  "product_list": []
+}

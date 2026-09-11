@@ -1,0 +1,184 @@
+{
+  "logo": null,
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Velvet Team offers innovative skincare solutions with luxury at-home treatments . Our products help you achieve glowing , radiant skin with advanced technology</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br>&bull; Product description:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our LED Mask uses light therapy to taget acne , fine lines , and dullness . It features multiple light settings for a customized skincare experience , all in one sleek , comfortable mask .</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br>&bull; USP (Unique Selling Point): The LED Mask combines effectiveness and convenience with professional-grade results at home . It offers various light options for different skin needs , all in a portable , stylish design .</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Payment terms: We accept major credit cards and PayPal with secure transactions . Flexible payment plans are available and orders are processed after payment confirmation .</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>Join Velvet Team and commit to generating your first income !</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "10",
+  "video_url": null,
+  "mkp_listing_id": 34001,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Tiktok",
+    "Instagram",
+    "Youtube",
+    "Pinterest",
+    "Reddit",
+    "Facebook",
+    "Twitter",
+    "Twitch",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Comparison shopping engine",
+    "Coupons or Deals website"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Belgium",
+    "France",
+    "Italy",
+    "Martinique",
+    "Reunion",
+    "Portugal",
+    "Seychelles",
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1,
+    "paytm": 1,
+    "upi": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/yjsapi-ui/register",
+  "offer_status": 2,
+  "name": "Velvet & Glow",
+  "website": "https://myglowcare.net",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 189807,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 215693,
+  "myshopify_domain": "yjsapi-ui.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "16.67%",
+  "mkp_program_id": 215693,
+  "product_list": []
+}

@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1695656907_627649_39388b0677fe95bd794bd1ace3b91dca.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>A Brand On A Mission</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Ally Arrow Apparel is on a mission to give straight people a way to support the LGBTQ+ community in a way that feels brave and authentic. There are millions of people who want to push back against the hateful voices in the news, on social media, and on the campaign trail, and the Ally Arrow gives them a way to do so.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>High Quality Products</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We offer high quality t-shirts, stickers, hoodies, jackets, flags, etc. These are apparel items that people can feel proud about not only because of the message they send, but also because of their high quality.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>Like Nothing Else Out There + Donating to a Great Cause</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">No one else is trying to activate straight support of the LGBTQ+ community the way we are, so our affiliates are on the cutting edge of a new movement. We also donate 10% of our profits to the Trevor Project, so your audience can feel great about their money being used to prevent suicide among the LGBTQ+ community.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>Payment Terms</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We offer our affiliates a 15% commission on total sales. As a mission driven company, our main goal is to drive societal change. We want to be generous with our affiliates to help make that change happen. Again, we can't do it without you!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 26984,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Reddit",
+    "Twitch",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/AllyArrowApparel/register",
+  "offer_status": 2,
+  "name": "Ally Arrow Apparel",
+  "website": "https://www.allyarrowapparel.com",
+  "hashtags": [
+    "#allyarrow"
+  ],
+  "shop_id": 116780,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 132330,
+  "myshopify_domain": "ecdc21-4.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "11.11%",
+  "mkp_program_id": 132330,
+  "product_list": []
+}

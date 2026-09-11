@@ -1,0 +1,175 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742480741_8762534_9b1cfc2fbbd06bd1e47d9d1284ef7ecc.png",
+  "description": "<p data-end=\"342\" data-start=\"47\"><strong data-end=\"70\" data-start=\"47\">Brand Introduction:</strong><br data-end=\"73\" data-start=\"70\">MondayUse is your go-to online store for kitchen essentials. Our goal is to make kitchen shopping effortless, convenient, and enjoyable. Whether you're a home cook or a professional chef, we provide high-quality products that enhance your cooking experience.</p>\r\n<p data-end=\"628\" data-start=\"344\"><strong data-end=\"368\" data-start=\"344\">Product Description:</strong><br data-end=\"371\" data-start=\"368\">We offer a diverse range of kitchen products, including cooking utensils, food storage solutions, and innovative kitchen gadgets. Our carefully curated collection ensures that our customers get durable, stylish, and functional items at competitive prices.</p>\r\n<p data-end=\"897\" data-start=\"630\"><strong data-end=\"661\" data-start=\"630\">Unique Selling Point (USP):</strong><br data-end=\"664\" data-start=\"661\">MondayUse stands out by providing high-quality, affordable kitchen essentials with a seamless online shopping experience. We focus on quality, customer satisfaction, and fast shipping, ensuring our customers receive the best value.</p>\r\n<p data-end=\"1103\" data-start=\"899\"><strong data-end=\"917\" data-start=\"899\">Payment Terms:</strong><br data-end=\"920\" data-start=\"917\">Affiliates earn competitive commissions on every successful referral. Payments are processed monthly via PayPal, ensuring a hassle-free experience for our partners.</p>\r\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"1451\" data-start=\"1105\"><strong data-end=\"1127\" data-start=\"1105\">Other Information:</strong><br data-end=\"1130\" data-start=\"1127\">Joining the MondayUse affiliate program means partnering with a brand dedicated to quality and customer happiness. We provide marketing materials, exclusive discounts, and dedicated support to help our affiliates maximize their earnings. Sign up today and start earning commissions by promoting top-tier kitchen products!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34768,
+  "categories": "Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1741136950_5655752_70a86885081a16921aec6c0019ee973d.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/9frxcx-z0/register",
+  "offer_status": 2,
+  "name": "MondayUse",
+  "website": "https://mondayuse.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 198229,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.02,
+  "program_id": 226600,
+  "myshopify_domain": "9frxcx-z0.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "18.18%",
+  "mkp_program_id": 226600,
+  "product_list": []
+}

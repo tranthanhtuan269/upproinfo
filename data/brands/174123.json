@@ -1,0 +1,177 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1730780813_348812_b28961b8c6d0b47ed5eba79dd7c7b470.jpg",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>&bull; Brand introduction</strong>: Wonderfur is an innovative pet wellness brand from Australia, dedicated to enhancing pet health through scientifically-backed and nature-inspired products. We offer high-quality, freeze-dried functional treats and supplements designed to support pets' skin, coat, digestive health, immune system, and overall well-being.&nbsp;<br><strong>&bull; Product description:</strong> Our flagship product, Wonderfur Bites, is Australia&rsquo;s first freeze-dried yogurt treat for pets, retaining 97% of live cultures and nutrients. Made with premium, human-grade ingredients like lactose-free kefir, green-lipped mussel, and colostrum, our products are designed to address common pet health concerns in a tasty, convenient form.&nbsp;<br>&bull;<strong> USP (Unique Selling Point): </strong>Wonderfur Bites are the first of their kind in Australia, combining probiotics, superfoods, and whole food ingredients in a freeze-dried form to target 10 common pet health issues. Trusted by veterinarians and adored by pets, Wonderfur stands out for its scientific approach and commitment to quality.&nbsp;<br><strong>&bull; Payment terms:</strong> Flexible commission structures with prompt monthly payouts, designed to reward affiliates for their contribution to our growing brand. Detailed terms can be customized for high-performing affiliates.&nbsp;<br>&bull;<strong> Other information: </strong>Wonderfur is committed to eco-friendly practices, using recyclable materials and sourcing locally where possible. We also support animal welfare through various charitable initiatives. Join our affiliate program and be part of a brand that pet owners trust and pets love!&nbsp;</p>\r\n</div>",
+  "payout_rate": "50%",
+  "payout_period": null,
+  "recommend_score": 2.51,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33105,
+  "categories": "Pet supplies",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1731279930_1451473_24a8a52d69101cf80a53c8119e926eec.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Podcast platforms",
+    "Content or Niche website",
+    "Etsy",
+    "Reddit",
+    "Pinterest",
+    "Twitch",
+    "Twitter",
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/wonderfurcompany/register",
+  "offer_status": 2,
+  "name": "wonderfurcompany",
+  "website": "https://www.wonderfur.com.au",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 174123,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.8900000000000001,
+  "program_id": 198196,
+  "myshopify_domain": "wonderfurcompany.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Australia"
+  ],
+  "avg_order_value": 55.83,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 198196,
+  "product_list": []
+}

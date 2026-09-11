@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/c02551a5973c583a5c3441cb3dbcbfaa.png",
+  "description": "<p><span style=\"color: rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">Do you love cats &amp; dogs as much as we do? Do you want to spread the word about Merci Collective and&nbsp;</span><a href=\"https://mercicollective.com/about/\" data-mydop-display-name=\"Inserted link\" data-mydop-link=\"\" data-mydop-background-color=\"\" data-mydop-text=\"\" class=\"mar0\" data-mydop-id=\"141\" style=\"background-color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 16px; display: inline; color: rgb(0, 123, 255) !important;\" target=\"_blank\">our mission</a><span style=\"color: rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">?</span></p><p><span style=\"color: rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">Get started now by filling out our ambassador application!</span></p><p><span style=\"color: rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"><br></span></p><p><span style=\"color: rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">Why Join Merci Collective's Affiliates program?</span></p><ul><li><span style=\"color: rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">Free and easy to join! Simply fill out our form and get approved.</span></li><li><span style=\"color: rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">Sneak Peeks and exclusive discounts on our new releases.</span></li><li><span style=\"color: rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">We handle orders, shipping, and payment.</span></li><li><span style=\"color: rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">Generous commission for each customer you refer.</span></li><li><span style=\"color: rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">Benefit from a 30-day cookie duration.</span><span style=\"color: rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"><br></span><br></li></ul>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.96,
+  "average_earning_per_sale": "10",
+  "video_url": null,
+  "mkp_listing_id": 13769,
+  "categories": "Fashion, Beauty & Health, Pet supplies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/mercicollective/register",
+  "offer_status": 2,
+  "name": "Merci Collective",
+  "website": "https://shop.mercicollective.com",
+  "hashtags": [],
+  "shop_id": 60651,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.8,
+  "program_id": 68423,
+  "myshopify_domain": "mercicollective.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 36.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "36.73%",
+  "mkp_program_id": 68423,
+  "product_list": []
+}

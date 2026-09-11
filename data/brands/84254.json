@@ -1,0 +1,177 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742842692_2301249_4de0ee3faf278dc2357eb5eb435e188b.png",
+  "description": "<h2 style=\"text-align: center;\">OPTIMAL GAINS</h2>\r\n<div>\r\n<p style=\"text-align: center;\">A community driven by mindset, working to achieve the best versions of themselves. We are here to uplift, inspire, and motivate those around us. We bring awareness to our mindset and mental well-being to thrive in life and fitness. Limits only exist in our minds. We push the boundaries on our physical limitations to callus our mental strength and improve our quality of life.</p>\r\n<p style=\"text-align: center;\"><strong>#ITSAMINDSET</strong>&nbsp;An intentionally broad statement to personally define any mental situation.</p>\r\n<p style=\"text-align: center;\">YOU are in control.</p>\r\n<p style=\"text-align: center;\">-</p>\r\n<p style=\"text-align: center;\">We believe in working to achieve&nbsp;<strong>human optimization</strong>&nbsp;in which you unfold your mind and bodies full potential. We welcome anyone to join the community, while we strive to better ourselves along with those around us.</p>\r\n</div>",
+  "payout_rate": "51.27%",
+  "payout_period": null,
+  "recommend_score": 2.67,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 20339,
+  "categories": "Fashion, Beauty & Health, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1742847065_3644750_5554404c9c8f5775a6392635383bf991.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/MNDST/register",
+  "offer_status": 2,
+  "name": "MNDST",
+  "website": "https://mndstclub.com/",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 84254,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.9100000000000001,
+  "program_id": 96436,
+  "myshopify_domain": "liftogfitness.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 70.2,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "71.15%",
+  "mkp_program_id": 96436,
+  "product_list": []
+}

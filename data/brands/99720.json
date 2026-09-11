@@ -1,0 +1,210 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1691440053_4020696_72344ba65b7936e09f55c6ed2a3160aeaffiliate logo uppromote.png",
+  "description": "<p><strong>WHO WE ARE</strong>: Steps to Literacy is a team of people who are passionate about books and dedicated to literacy. We care deeply about the impact our book selections and classroom library materials have on schools, teachers, and students.&nbsp;</p>\r\n<p><strong>WHAT WE DO</strong>: From topic specific bins of 5-10 books to custom collections with hundreds of titles, our collections have been curated by our in-house education staff. Our goal is to make sure that children and teachers have the books they need.&nbsp;</p>\r\n<p><strong>WHAT DOES A STEPS AMBASSADOR RECEIVE</strong>: With your affiliate link you will receive a 10% commission on all associated sales, incentive bonuses on sales achievements, and access to our staff for training and support.&nbsp;</p>\r\n<p><em>Further discounts for your customers will be available as we build this program.</em></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 2.1,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 23747,
+  "categories": "Books, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "cheque": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/steps-to-literacy-shop/register",
+  "offer_status": 2,
+  "name": "Steps to Literacy",
+  "website": "https://stepstoliteracy.com",
+  "hashtags": [
+    "#Classroom",
+    " #Education",
+    " #Teachers",
+    " #Literacy",
+    " #Books",
+    " #Libraries",
+    " #Reading"
+  ],
+  "shop_id": 99720,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.8399999999999999,
+  "program_id": 113494,
+  "myshopify_domain": "steps-to-literacy-shop.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24da25d235d1f700102c7",
+      "name": "Auto-discount rule",
+      "program_id": 113494,
+      "shop_id": 99720,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:34:58",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 216,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "85.23%",
+  "mkp_program_id": 113494,
+  "product_list": []
+}

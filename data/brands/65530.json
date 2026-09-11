@@ -1,0 +1,150 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1657085902_6778003_2cb7da0f56cd39a6532d9e5e2fcc40d9Claybourn Logo.png",
+  "description": "<p><span data-slate-node=\"text\">Claybourn was created in 1910 with a simple vision in mind, to keep Aussies warm and dry. Over the years Claybourn has become a well-known and beloved brand because of its functional and quality designs! A perfect marriage of function and elegance. Even King Charles was wearing our products!​​​​​​​​​​​​​​​​​​</span></p>\r\n<p><span data-slate-node=\"text\">With almost 113 years of experience and expertise in making premium and timeless apparel, that not only pleases the eye but also gives you comfort and the assurance that you have a long-lasting product - Claybourn will never let you down!&nbsp;<br><br>Get</span> <span data-slate-node=\"text\">ready</span><span data-slate-node=\"text\"> for </span><span data-slate-node=\"text\">a</span> <span data-slate-node=\"text\">fresh</span> <span data-slate-node=\"text\">look</span><span data-slate-node=\"text\">!</span> <span data-slate-node=\"text\">Our</span> <span data-slate-node=\"text\">newest</span> <span data-slate-node=\"text\">collection</span><span data-slate-node=\"text\"> of </span><span data-slate-node=\"text\">sportswear</span><span data-slate-node=\"text\"> and </span><span data-slate-node=\"text\">accessories</span> <span data-slate-node=\"text\">has</span> <span data-slate-node=\"text\">something</span><span data-slate-node=\"text\"> for </span><span data-slate-node=\"text\">everyone</span><span data-slate-node=\"text\">.&nbsp;</span></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.14,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 21201,
+  "categories": "Fashion",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1676265602_4642462_f81cad5fcbeb122fbd906ba5e4e66d01.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 60,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/claybourn/register",
+  "offer_status": 2,
+  "name": "Claybourn -  Est.1910 | Premium,Timeless & Ethical Fashion",
+  "website": "https://claybourn.co",
+  "hashtags": [],
+  "shop_id": 65530,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1400000000000001,
+  "program_id": 74504,
+  "myshopify_domain": "bestt-clothing.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 172.22,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 74504,
+  "product_list": []
+}

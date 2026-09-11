@@ -1,0 +1,172 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1715008140_3740074_2ff28d05b42207341453529d78543a3a.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Camp Rentique simplifies spending time outdoor by delivering camping equipment rentals straight to people's homes.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Product description: <strong>hight quality camping equipment rentals delivered straight to peoples homes <span style=\"text-decoration: underline;\">across Ontario, Canada.&nbsp;</span></strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our bestselling packages:</p>\r\n<ul>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Camping package for two</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Camping package for four</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Portaging package for two</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Backpacking package for one</li>\r\n</ul>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>Check our webstie for product selection and delivery area: camprentique.ca&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our average orders size is $250.&nbsp;</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.68,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29998,
+  "categories": "Others, Garden & Outdoors, Sports & Entertainment",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 120,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "cheque": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/camp-rentique/register",
+  "offer_status": 2,
+  "name": "Camp Rentique",
+  "website": "https://camprentique.ca",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 126966,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.42,
+  "program_id": 143881,
+  "myshopify_domain": "camp-rentique.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 360.93,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "41.05%",
+  "mkp_program_id": 143881,
+  "product_list": []
+}

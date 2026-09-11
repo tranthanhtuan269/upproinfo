@@ -1,0 +1,249 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1740558563_4005393_5c227d2ae71f001e1c5a48f23e0f8d89.jpg",
+  "description": "<div style=\"font-family:Poppins;\"><div><p style=\"text-align:left;font-size:14px;font-weight:normal;\">Revoray is a performance-driven sports eyewear brand focused on cycling sunglasses (plus ski goggles). We build lightweight, durable frames with UV400 protection and high-contrast or photochromic lenses for clear vision in changing light. Notably, our Brisk Y7 is tailored for smaller faces, while LUMO is our premium photochromic line; Y1 offers photochromic or high-contrast options; NEX 2 targets golf &amp; cycling use. Creators who ride, review gear, or post outdoor content will find quick conversions thanks to accessible pricing and real riding benefits.</p></div></div>",
+  "payout_rate": "85.22%",
+  "payout_period": "45day",
+  "recommend_score": 4.67,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36506,
+  "categories": "Garden & Outdoors, Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 1,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "New Zealand",
+    "United States",
+    "United Kingdom",
+    "Switzerland",
+    "Swaziland",
+    "Spain",
+    "Germany",
+    "France",
+    "Italy"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/e66b41-c1/register",
+  "offer_status": 2,
+  "name": "Revoray",
+  "website": "https://revoray.com/",
+  "hashtags": [
+    "#revoray",
+    "#revorayaffiliate",
+    "#ridewithrevoray",
+    "#cyclingsunglasses",
+    "#sportseyewear",
+    "#photochromic",
+    "#highcontrastlens",
+    "#uv400protection",
+    "#tr90frame",
+    "#interchangeablelenses",
+    "#smallfacefit",
+    "#roadcycling",
+    "#mtb",
+    "#gravelcycling",
+    "#bikecommuter",
+    "#nightride",
+    "#cyclinggear",
+    "#outdoorgear",
+    "#skigoggles",
+    "#unisexstyle",
+    "#lightweightdesign",
+    "#brisky7",
+    "#brisky1",
+    "#lumo",
+    "#nex2"
+  ],
+  "shop_id": 197241,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.2,
+  "program_id": 225305,
+  "myshopify_domain": "e66b41-c1.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "68d24dad5d235d1f700114d3",
+      "name": "Auto-discount rule",
+      "program_id": 225305,
+      "shop_id": 197241,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:35:09",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Vietnam"
+  ],
+  "avg_order_value": 67.7,
+  "new_customer_commission": "15% per order",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "96.45%",
+  "mkp_program_id": 225305,
+  "product_list": []
+}

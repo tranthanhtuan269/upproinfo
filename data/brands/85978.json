@@ -1,0 +1,161 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1754947830_980113_c624a1a545bc80f344db3d8e8115c7b9.png",
+  "description": "<p data-end=\"417\" data-start=\"55\">🍄 Brand Introduction:<br data-end=\"84\" data-start=\"81\">Bloomable is a premium wellness brand specializing in high-quality, fruiting body-only mushroom extracts designed to support focus, energy, immunity, and stress relief. Inspired by traditional healing practices and backed by science, we create potent, clean, and effective mushroom-based products for modern lifestyles.</p>\r\n<hr data-end=\"422\" data-start=\"419\">\r\n<p data-end=\"754\" data-start=\"424\">🍄 Product Description:<br data-end=\"454\" data-start=\"451\">Our functional mushroom products&mdash;including Mushroom Coffee, Extract Powders, and Adaptogenic Blends&mdash;are formulated to help customers feel sharper, perform better, and recover faster. Each product is made with 100% fruiting body extracts, and zero fillers or mycelium.</p>\r\n<hr data-end=\"759\" data-start=\"756\">\r\n<p data-end=\"1210\" data-start=\"761\">🍄 USP (Unique Selling Point):<br data-end=\"798\" data-start=\"795\">✅ 100% Fruiting Body Extracts &ndash; No fillers, starch, or grain-based mycelium.<br data-end=\"881\" data-start=\"878\">✅ High Potency &ndash; Each batch is tested for beta-glucans.<br data-end=\"960\" data-start=\"957\">✅ Science-Backed Formulations &ndash; Combining ancient wisdom with modern research.<br data-end=\"1045\" data-start=\"1042\">✅ Better Energy, Focus &amp; Immunity &ndash; Jitter-free, crash-free wellness.<br data-end=\"1121\" data-start=\"1118\">✅ Sustainable &amp; Transparent Sourcing &ndash; We own our supply chain for quality control.</p>\r\n<hr data-end=\"1215\" data-start=\"1212\">\r\n<p data-end=\"1472\" data-start=\"1217\">🍄 Payment Terms:<br data-end=\"1241\" data-start=\"1238\">💰 Commission: Competitive affiliate commissions on every sale (10% per order).<br data-end=\"1327\" data-start=\"1324\">💸 Payout Frequency: Monthly payouts via PayPal.<br data-end=\"1382\" data-start=\"1379\">📈 Tracking: Custom affiliate links &amp; discount codes for easy tracking and earnings.</p>",
+  "payout_rate": "66.67%",
+  "payout_period": null,
+  "recommend_score": 3.32,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34879,
+  "categories": "Beauty & Health",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/trybloomable/register",
+  "offer_status": 2,
+  "name": "Bloomable",
+  "website": "https://trybloomable.com",
+  "hashtags": [
+    "#medicinalmushrooms",
+    "#naturalsupplements",
+    "#mushroomcoffee"
+  ],
+  "shop_id": 85978,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.26,
+  "program_id": 98385,
+  "myshopify_domain": "bloomable-ca.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Canada",
+    "United States"
+  ],
+  "avg_order_value": 86.64,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "91.95%",
+  "mkp_program_id": 98385,
+  "product_list": []
+}

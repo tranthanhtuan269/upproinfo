@@ -1,0 +1,181 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1718655116_1257286_43b9aac6bb430bb86e25e501eebc6d8d.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: Kawaco is a passionate small business dedicated to sourcing and delivering premium Japanese skincare products directly from Japan to the UK. We are committed to providing our customers with high-quality, authentic beauty solutions that reflect the innovation and craftsmanship of Japanese skincare.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Product description: Our range includes a variety of carefully curated Japanese skincare products, including cleansers, toners, moisturisers, serums, and sunscreens. Each product is selected for its efficacy and use of premium ingredients, designed to meet the diverse needs of our customers' skincare routines.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; USP (Unique Selling Point): Kawaco stands out by offering a unique selection of high-quality Japanese skincare products that are not widely available in the UK. Our products are sourced directly from Japan, ensuring authenticity and premium quality. Additionally, we provide exceptional customer service, including a new meet-up delivery option in London for added convenience.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Payment terms: We offer flexible payment terms to accommodate our retail partners. Payment can be made via bank transfer, credit card, or PayPal. Specific terms, including any potential discounts for bulk orders, can be discussed and agreed upon during our partnership negotiations.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Other information: To enhance shopping experience, we now offer a convenient meet-up delivery option in London every Tuesday and Thursday. Simply select \"Meet up in London\" when checkout. Other stations are available on request.</p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "10",
+  "video_url": null,
+  "mkp_listing_id": 30695,
+  "categories": "Beauty & Health",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/cfde1f-7c/register",
+  "offer_status": 2,
+  "name": "Kawaco",
+  "website": "https://kawaco.co.uk",
+  "hashtags": [
+    "#Jbeauty",
+    "#skincare",
+    "#japaneseskincare",
+    "#japan",
+    "#beauty",
+    "#health",
+    "#cosmetics",
+    "#selfcare",
+    "#selflove",
+    "#skincareambassador",
+    "#beautylovers",
+    "#skincarecommunity",
+    "#beautyenthusiast",
+    "#beautyblogger"
+  ],
+  "shop_id": 154174,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.9,
+  "program_id": 175305,
+  "myshopify_domain": "cfde1f-7c.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "68.57%",
+  "mkp_program_id": 175305,
+  "product_list": []
+}

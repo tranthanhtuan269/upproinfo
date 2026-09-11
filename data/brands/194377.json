@@ -1,0 +1,172 @@
+{
+  "logo": null,
+  "description": "<p><strong>Nitrocut</strong> is a health and wellness company dedicated to empowering individuals to take control of their daily lifestyle and health. Our mission is to make becoming fit and healthy an easier and enjoyable process, helping people unlock their full potential. We manufacture our supplements in the United States, in an FDA compliant and GMP certified facility, ensuring the highest standards of quality and safety.</p>\r\n<h3 class=\"text-md-strong pb-1 [&amp;:not(:first-child)]:pt-3.5\">Product Description:</h3>\r\n<p>Nitrocut offers a range of supplements designed to support overall health, strength, and well-being. Our products are formulated with natural ingredients, free from chemicals, caffeine, and harmful stimulants. They are specifically designed to enhance muscle strength, hasten recovery, stimulate blood flow, and provide energy for better workout performance.</p>\r\n<h3 class=\"text-md-strong pb-1 [&amp;:not(:first-child)]:pt-3.5\">USP (Unique Selling Point):</h3>\r\n<p>Our supplements stand out due to their <strong>100% natural ingredients</strong> and <strong>research-proven formulations</strong> that deliver consistent results without unpleasant side effects. We are committed to providing superior supplements that help individuals achieve their fitness goals safely and effectively</p>\r\n<h3>Payment Terms:</h3>\r\n<p>Affiliates will earn a <strong>commission on each sale</strong> made through their referral links. The commission rates may vary, but typically range from <strong>10% to 20%</strong> per sale. Payments are made on a <strong>monthly basis</strong>, and affiliates must reach a minimum threshold of <strong>$25 in earnings</strong> before payouts are issued.</p>\r\n<h3 class=\"text-md-strong pb-1 [&amp;:not(:first-child)]:pt-3.5\">Other Information:</h3>\r\n<p>Nitrocut offers a <strong>100% money-back guarantee</strong> for 90 days, ensuring customer satisfaction. We also provide <strong>free shipping</strong> on orders within the United States and have a dedicated customer support team to assist with any inquiries or issues.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.94,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34356,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Etsy",
+    "Blog",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ef5187-2/register",
+  "offer_status": 2,
+  "name": "Nitrocut",
+  "website": "https://www.nitrocut.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 194377,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 221552,
+  "myshopify_domain": "ef5187-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 115,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "9.52%",
+  "mkp_program_id": 221552,
+  "product_list": []
+}

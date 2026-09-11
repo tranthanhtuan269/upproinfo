@@ -1,0 +1,203 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742676069_7134862_98fcc889e161197080aa27a19b938617.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; <span style=\"text-decoration: underline;\">Brand introduction:</span> <strong>Niz.ae | Shopify &amp; WordPress Services | Marketing Services via Social Media<br></strong><br>&bull; <span style=\"text-decoration: underline;\">Product description:</span> <strong>Website &amp; SMM Services</strong><br><br>&bull; <span style=\"text-decoration: underline;\">USP (Unique Selling Point):</span> <strong><em>eCommerce Stores &amp; Other Website Designing</em></strong><br><br>&bull; <span style=\"text-decoration: underline;\">Payment terms:</span>&nbsp;<strong>Only after successful 100% payment done by the referred customer to Niz.ae for the specified product or service, Affiliate will be paid&nbsp; their commission only</strong> <span style=\"text-decoration: underline;\"><strong>after 6 days(7th day) of the date of that 100% transfer done by the buyer</strong>.</span><br><br>&bull; <span style=\"text-decoration: underline;\">Other information:</span> <strong>Niz.ae</strong> is official website of <strong>Nizamuddin Ali Web Design Est., Dubai, UAE</strong>.</p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35072,
+  "categories": "Others, Software & Digital products",
+  "currency": "AED",
+  "symbol_currency": "&#1583;.&#1573;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "56% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 70,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Arab Emirates",
+    "United States",
+    "Qatar",
+    "Saudi Arabia",
+    "India",
+    "Australia",
+    "Bahrain",
+    "Switzerland",
+    "Singapore",
+    "Oman"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1,
+    "paytm": 1,
+    "upi": 1,
+    "other": "Aani Payment"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/niz/register",
+  "offer_status": 2,
+  "name": "Nizamuddin Ali Web Design Est.",
+  "website": "https://niz.ae",
+  "hashtags": [
+    "#shopify",
+    "#ecommerce",
+    "#website",
+    "#online",
+    "#store",
+    "#dubai",
+    "#uae",
+    "#wordpress",
+    "#wp",
+    "#customize",
+    "#webdesign",
+    "#marketing",
+    "#SMM",
+    "#socialmedia"
+  ],
+  "shop_id": 201367,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.02,
+  "program_id": 230743,
+  "myshopify_domain": "wr7jbd-ay.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "12.5%",
+  "mkp_program_id": 230743,
+  "product_list": []
+}

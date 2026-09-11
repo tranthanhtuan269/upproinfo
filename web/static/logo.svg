@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 36" fill="none">
+  <rect width="36" height="36" rx="10" fill="#4F378A"/>
+  <path d="M10 24V12h3.2l4.8 8.1L22.8 12H26v12h-2.6v-7.4L19.1 24h-2.2l-4.3-7.4V24H10Z" fill="#fff"/>
+  <text x="46" y="24" fill="#1D1B20" font-family="Public Sans, Segoe UI, sans-serif" font-size="18" font-weight="700">UpproInfo</text>
+</svg>

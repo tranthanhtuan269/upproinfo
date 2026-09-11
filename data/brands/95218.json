@@ -1,0 +1,164 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/20c241cf9d5e7fa4e9f1e1c301b35505.jpg",
+  "description": "<p>KidyHome, un e-shop raffin&eacute;, moderne et design aux th&eacute;matiques douces et aux articles d&eacute;licats&hellip;</p>\r\n<p>C&rsquo;est aussi l&rsquo;histoire d&rsquo;une maman, avec un r&ecirc;ve, combiner l&rsquo;univers enfantin et son travail.</p>\r\n<p>Passionn&eacute;e de d&eacute;coration, Maud &agrave; d&eacute;cid&eacute; de tout quitter pour s&rsquo;investir dans ce petit monde cr&eacute;atif et color&eacute; !</p>\r\n<p>Une responsable, mais aussi une maman attentive aux bien-&ecirc;tre des enfants, de ce fait, une attention particuli&egrave;re est donn&eacute;e concernant le choix des mati&egrave;res et des fournisseurs.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 22732,
+  "categories": "Mom & Kids",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Switzerland",
+    "Germany",
+    "Spain",
+    "France",
+    "United Kingdom",
+    "Israel",
+    "Netherlands"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/kidyhome/register",
+  "offer_status": 2,
+  "name": "kidyhome",
+  "website": "https://www.kidyhome.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 95218,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 108651,
+  "myshopify_domain": "kidyhome.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "42.86%",
+  "mkp_program_id": 108651,
+  "product_list": []
+}

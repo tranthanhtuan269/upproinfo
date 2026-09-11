@@ -1,0 +1,186 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1728503417_5115986_2a2e80153faf8803007fb1844e7b18e3.jpeg",
+  "description": "<div style=\"font-family: Poppins;\"><p class=\"p1\"><span style=\"font-size: 14pt;\">Why is Pangea Different? To put it very simply, we are a healthier and tastier option. The company was founded by a husband and wife of children with food allergies, so our customer's health is of utmost concern and priority to us. Therefore we are completely dedicated allergen and toxin free. So, no preservatives or artificial flavors in the coffee. We also test for mold and other pesticides to make sure there are none. Second, we taste better. We only source from the top 1% of farmers in the world, air roast the coffee, to ensure its not bitter in taste and the notes spring out upon taste. You will never receive bitter coffee from us. Third, the whole Pangea concept is one of unity and we hope to be a positive force for change using our coffee! I hope that gives you an idea of why we are different.</span></p><p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"font-size: 14pt;\">We are currently offering Influencers a 20% commission.</span></p></div>",
+  "payout_rate": "25.81%",
+  "payout_period": "$25 Threshold for all payouts. After that, payment is made at the 1st of the month.",
+  "recommend_score": 2.32,
+  "average_earning_per_sale": "0",
+  "video_url": "https://www.tiktok.com/@pangeacoffeeco/video/7391251309107629342?is_from_webapp=1&sender_device=pc&web_id=7423869658128418350",
+  "mkp_listing_id": 32580,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/cbc4d3/register",
+  "offer_status": 2,
+  "name": "Pangea Coffee Co.",
+  "website": "https://www.pangeacoffee.us",
+  "hashtags": [
+    "#hope",
+    "#unity",
+    "#respect",
+    "#cleancoffee",
+    "#lowacidcoffee",
+    "#toxinfreecoffee",
+    "#moldfreecoffee",
+    "#allergenfreecoffee"
+  ],
+  "shop_id": 170530,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2,
+  "program_id": 193985,
+  "myshopify_domain": "cbc4d3.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 30,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "80.36%",
+  "mkp_program_id": 193985,
+  "product_list": []
+}

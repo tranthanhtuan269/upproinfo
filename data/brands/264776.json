@@ -1,0 +1,234 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1776346723_210305_3ff3550dfd98603abc3e3041283012df.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p style=\"text-align:left;font-size:14px;font-weight:normal;\">Swell Scenes creates premium nature-inspired wall art. We offer a range of topics like Audubon-style bird prints, surf art, space and NASA, coastal and botanical illustrations, and much more. </p><p style=\"text-align:left;font-size:14px;font-weight:normal;\">We're a Shopify store with a growing catalog of hundreds of prints, free shipping on all orders, a 5-star shop with hundreds of reviews, and a loyal customer base. Affiliates earn 12% commission on every sale plus customers get 10% off automatically through your link. </p><p style=\"text-align:left;font-size:14px;font-weight:normal;\">Great fit for home decor, surfing, nature, birding, outdoor, beach, travel and lifestyle audiences.</p></div></div>",
+  "payout_rate": "100%",
+  "payout_period": "1st of each month",
+  "recommend_score": 2.08,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39153,
+  "categories": "Home & Garden",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "12% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "incentivised_traffic_loyalty",
+    "social_media_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada",
+    "France",
+    "United Kingdom",
+    "Germany"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/swellscenes/register",
+  "offer_status": 2,
+  "name": "Swell Scenes",
+  "website": "https://swellscenes.com",
+  "hashtags": [
+    "#homedecor",
+    "#wallart",
+    "#natureart",
+    "#birdart",
+    "#coastal",
+    "#spaceart",
+    "#surf",
+    "#beach",
+    "#hiking",
+    "#outdoors",
+    "#posters",
+    "#space",
+    "#nasa",
+    "#wildlife",
+    "#birds",
+    "#art",
+    "#nationalparks",
+    "#travel",
+    "#travelprints",
+    "#interiordesign",
+    "#florida",
+    "#hawaii",
+    "#california"
+  ],
+  "shop_id": 264776,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.6,
+  "program_id": 312614,
+  "myshopify_domain": "p8d21z-rd.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "69e0fa54658e874ff60e1d52",
+      "name": "Affiliate Customer Discount",
+      "program_id": 312614,
+      "shop_id": 264776,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": "10 percent off",
+          "product_applies_type": "specific_collection",
+          "select_data": [
+            "502847013139",
+            "501242396947"
+          ]
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": true,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": "Free shipping applied"
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "amount",
+      "minimum": 25,
+      "defined_coupon": null,
+      "active_at": "2026-04-16 15:03:48",
+      "created_at": "2026-04-16T15:03:48.807000Z",
+      "updated_at": "2026-04-16T15:03:48.807000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 135.2,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "47.73%",
+  "mkp_program_id": 312614,
+  "product_list": []
+}

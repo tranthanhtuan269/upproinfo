@@ -1,0 +1,193 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><div><p style=\"text-align:left;font-size:14px;font-weight:normal;\">• About our brand and products: We offer organic and clean ingredients for our products that is safe for everyone.<br><br>• How affiliates can earn: You can earn 20% or more in commission. You can earn more than 20% every 15 orders (yours included). You also get 20% back from your own orders in an email giftcard!<br>• How to promote us: Try the products! Talk about them on social media or with your friends and family.<br>• Other information:</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "1st of every month!",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37848,
+  "categories": "Beauty & Health, Business & Professional services, Wellness & Lifestyle",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada",
+    "Australia",
+    "Brazil",
+    "Dominican Republic",
+    "France",
+    "Germany",
+    "Greenland",
+    "Mexico",
+    "Poland"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "other": "Cashapp"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/q9zjvd-0d/register",
+  "offer_status": 2,
+  "name": "KindEarth",
+  "website": "https://kindearth-2.myshopify.com",
+  "hashtags": [
+    "#health",
+    "#holistic",
+    "#natural",
+    "#hippie",
+    "#skincare",
+    "#wellness"
+  ],
+  "shop_id": 250341,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 292751,
+  "myshopify_domain": "q9zjvd-0d.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 6.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "5.88%",
+  "mkp_program_id": 292751,
+  "product_list": []
+}

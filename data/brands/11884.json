@@ -1,0 +1,168 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742150411_1989720_5a65824cd2de9d8d06e9bd485bc54ec1.png",
+  "description": "<h1></h1>\r\n<h1>Fresh Frozen Spirulina</h1>\r\n<div class=\"mt-5 break-words text-base font-normal leading-normal text-slate-1150 md:mr-1\">\r\n<p>Our Spirulina is always fresh, never compromising on the nutrient-dense properties found within Spirulina. As the superfood that turns any smoothie into a &ldquo;green&rdquo; smoothie, Fresh Spirulina supercharges the nutrient profile while upping the vibrancy of your favorite smoothie recipe with its mild taste and creamy, smooth texture.</p>\r\n<p>Our Frozen Pods help create a satisfying consistency&mdash;like blending a frozen banana (but with far more nutrients). Plus, our fresh-freezing process keeps your Fresh Spirulina at its harvest peak quality, forever! Fresh Spirulina is free of all major food allergens. It is gluten-free, non-GMO, and vegan. And of course, we grow our Spirulina without pesticides or herbicides.</p>\r\n</div>\r\n<div class=\"mb-[50px] md:mb-0\">\r\n<h2 class=\"mt-5 font-pop text-xl font-semibold leading-6.5 text-slate-1150\">Highlights</h2>\r\n<ul>\r\n<li>Packed with nutrients, Spirulina is one the most nutrient-dense foods on earth</li>\r\n<li>No fishy flavor: fresh spirulina has a mild, neutral taste and a rich texture</li>\r\n<li>All nutrients are highly bioavailable, so your body can access vitamins quickly</li>\r\n<li>FDA-approved, HACCP &amp; ISO certified and 3rd party tested: 100% pure spirulina</li>\r\n<li>Packed with phytonutrients, chlorophyll + phycocyanin that fight cell damage</li>\r\n</ul>\r\n<p><br></p>\r\n</div>",
+  "payout_rate": "78.57%",
+  "payout_period": null,
+  "recommend_score": 2.16,
+  "average_earning_per_sale": "30",
+  "video_url": null,
+  "mkp_listing_id": 34981,
+  "categories": "Grocery & Food, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 7,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Blog",
+    "Content or Niche website",
+    "Podcast platforms",
+    "Reddit",
+    "Twitch",
+    "Twitter",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/new-farmers/register",
+  "offer_status": 2,
+  "name": "We Are The New Farmers",
+  "website": "https://www.new-farmers.com/products/fresh-frozen-spirulina-pods",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 11884,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.54,
+  "program_id": 12851,
+  "myshopify_domain": "new-farmers.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 164.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "11.63%",
+  "mkp_program_id": 12851,
+  "product_list": []
+}

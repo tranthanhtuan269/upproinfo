@@ -1,0 +1,183 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1731163483_6807190_716f706609a15d583466ccc6c021fba4.png",
+  "description": "<div class=\"flex max-w-full flex-col flex-grow\">\r\n<div data-message-model-slug=\"gpt-4o\" class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5\" dir=\"auto\" data-message-id=\"c785bb99-6cf7-4cf2-b959-c73e6276fe57\" data-message-author-role=\"assistant\">\r\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n<p><strong>Product Description:</strong><br>Our collection features a range of jewelry, including necklaces, earrings, bracelets, and rings. Each piece is meticulously crafted from high-quality materials, including sterling silver, gold plating, colored glass, and resin, and is designed to elevate both casual and formal wear. We offer seasonal themes and limited-edition collections, so there&rsquo;s always something fresh and exciting for our customers.</p>\r\n<p><strong>USP (Unique Selling Point):</strong></p>\r\n<ol>\r\n<li><strong>Exclusive Designs</strong>: Our jewelry is handmade, ensuring originality and style that stands out from the crowd.</li>\r\n<li><strong>Quality Craftsmanship</strong>: Every piece is made with high-quality materials to ensure durability and elegance.</li>\r\n<li><strong>Versatility</strong>: Our jewelry is created to be versatile, adding a touch of sophistication to any outfit, for any occasion.</li>\r\n<li><strong>Seasonal Collections</strong>: We regularly update our product range, giving customers new and exciting designs to look forward to each season.</li>\r\n</ol>\r\n<p><strong>Payment Terms:</strong><br>Our affiliates receive <strong>10% commission on every successful referral purchase</strong>. Payments are processed monthly, with easy and secure transactions via PayPal or bank transfer.</p>\r\n<p><strong>Other Information:</strong></p>\r\n<ul>\r\n<li><strong>Affiliate Support</strong>: We offer a dedicated affiliate support team to assist with any inquiries.</li>\r\n<li><strong>Custom Discount Codes</strong>: Affiliates can offer their audience unique discount codes, encouraging engagement and boosting conversions.</li>\r\n<li><strong>Tracking Tools</strong>: We use advanced tracking tools so affiliates can easily monitor their performance and earnings in real time.</li>\r\n</ul>\r\n<p>Join us and help your audience discover beautiful, timeless jewelry pieces that add a touch of elegance to their style!</p>\r\n<p><strong>Brand Introduction:</strong><br>Welcome to [Your Jewelry Store Name]! We are a jewelry brand dedicated to creating unique pieces that perfectly complement both everyday wear and bold, expressive styles. Each piece is thoughtfully designed to bring out elegance within simplicity, adding a touch of sophistication and individuality to any outfit.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"mb-2 flex gap-3 empty:hidden -ml-2\">\r\n<div class=\"items-center justify-start rounded-xl p-1 flex\">\r\n<div class=\"flex items-center\"><span data-state=\"closed\">&nbsp;</span></div>\r\n</div>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33084,
+  "categories": "Jewelry & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "8%-15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest",
+    "Blog",
+    "Facebook",
+    "Twitter"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "United States",
+    "United Kingdom",
+    "Australia",
+    "Korea",
+    " Republic of"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/736398-aa/register",
+  "offer_status": 2,
+  "name": "KooGarden",
+  "website": "https://koogarden.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 174765,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "8",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "400",
+      "commission_val": "15"
+    }
+  ],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.85,
+  "program_id": 198970,
+  "myshopify_domain": "736398-aa.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "43.75%",
+  "mkp_program_id": 198970,
+  "product_list": []
+}

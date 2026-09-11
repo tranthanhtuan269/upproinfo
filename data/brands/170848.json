@@ -1,0 +1,181 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1731975525_8456297_382e373b77e2de40b3e7dc843e160b3a.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; SAMINA MUGHAL, TERANI, LARA<br>&bull; Evening Dresses, Gowns, Prom, Bridal, Cocktail Dresses<br>&bull; SMGlobalCatwalk Fashion Week - NEW YORK, LONDON, MILAN, PARIS, DUBAI &amp; TOKYO</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Award winning Collection of Dresses and Gown for every occasion.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Dresses are beautifully constructed, hand embellished with unique beading, crystals and embroidery.&nbsp; Special touches feature feathers, trims and other styling details</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">See the Collection during Fashion Week.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"></p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.76,
+  "average_earning_per_sale": null,
+  "video_url": "https://www.youtube.com/@SMGlobalCatwalk",
+  "mkp_listing_id": 33247,
+  "categories": "Fashion, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1731975458_6182183_d76c0bdf9bec4956798369fc921d8733.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Etsy",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Tiktok",
+    "Twitter",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "United Arab Emirates",
+    "Switzerland",
+    "Saudi Arabia",
+    "Qatar",
+    "Monaco",
+    "India",
+    "Italy",
+    "France"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/saminamughal/register",
+  "offer_status": 2,
+  "name": "SAMINA MUGHAL",
+  "website": "https://saminamughal.com",
+  "hashtags": [
+    "#SaminMughal",
+    "#TeraniCouture",
+    "#Terani",
+    "#Lara",
+    "#Dress",
+    "#Couture",
+    "#RedCarpet",
+    "#Prom",
+    "#Bridal"
+  ],
+  "shop_id": 170848,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.15,
+  "program_id": 194361,
+  "myshopify_domain": "saminamughal.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "68.29%",
+  "mkp_program_id": 194361,
+  "product_list": []
+}

@@ -1,0 +1,177 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1713517561_5567795_83b35f3c844a293710b58ebc0e4681ce.png",
+  "description": "<h3>Brand Introduction:</h3>\r\n<p>Maxxim Paris specializes in handcrafted, personalized jewelry that blends timeless elegance with contemporary design. Our mission is to offer unique pieces that allow individuals to express their personal style and celebrate life's special moments.</p>\r\n<h3>Product Description:</h3>\r\n<p>Our product line includes a range of personalized jewelry such as necklaces, bracelets, earrings, and rings. Each piece is crafted from high-quality materials including 18k gold plating and sterling silver, with options for customization like engravings and choice of gemstones.</p>\r\n<h3>USP (Unique Selling Point):</h3>\r\n<p>Our unique selling point is the combination of personalized options, high-quality materials, and artisanal craftsmanship at accessible price points. Each piece is designed to be as unique as our customers, providing them with a means to express their individuality.</p>\r\n<h3>Payment Terms:</h3>\r\n<p>Affiliates will receive a competitive commission of 20% on each sale generated through their unique affiliate link. Payments are made monthly provided the affiliate reaches a minimum threshold of $100 in commissions. All transactions are tracked and easily accessible through our affiliate dashboard.</p>\r\n<h3>Other Information:</h3>\r\n<p>We are committed to supporting our affiliates with marketing materials, product updates, and promotional events to maximize their earnings. We also offer exclusive discounts for affiliates to share with their audiences, enhancing their promotional efforts.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.96,
+  "average_earning_per_sale": "15",
+  "video_url": null,
+  "mkp_listing_id": 29791,
+  "categories": "Jewelry & Accessories",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1713519997_9630190_31a6b28d405f12bb9ecb9ff193f82897.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Coupons or Deals website",
+    "Etsy",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Podcast platforms",
+    "Quora",
+    "Tiktok",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Luxembourg",
+    "Belgium",
+    "Netherlands",
+    "Germany",
+    "France",
+    "United Kingdom",
+    "United States",
+    "Ireland",
+    "Canada",
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/maxximparis/register",
+  "offer_status": 2,
+  "name": "Maxxim Paris",
+  "website": "https://maxximparis.nl",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 145553,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.44,
+  "program_id": 165132,
+  "myshopify_domain": "anewlystore.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 69.48,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 165132,
+  "product_list": []
+}

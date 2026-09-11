@@ -1,0 +1,175 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1751797100_5238421_5ee186e69d5d250b529903dc69843da5.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><h3 data-start=\"96\" data-end=\"123\" id=\"isPasted\">• Brand Introduction:</h3><p data-start=\"124\" data-end=\"269\"><strong data-start=\"124\" data-end=\"135\">HEX TEE</strong> is a global store offering a wide range of trending general products — from home essentials and gadgets to apparel and personal care.</p><hr data-start=\"271\" data-end=\"274\"><h3 data-start=\"276\" data-end=\"304\">• Product Description:</h3><p data-start=\"305\" data-end=\"404\">We sell high-demand, everyday products that are useful, stylish, and affordable — all in one place.</p><hr data-start=\"406\" data-end=\"409\"><h3 data-start=\"411\" data-end=\"446\">• USP (Unique Selling Point):</h3><ul data-start=\"447\" data-end=\"638\"><li data-start=\"447\" data-end=\"483\"><p data-start=\"449\" data-end=\"483\"><strong data-start=\"449\" data-end=\"481\">40% commission on every sale</strong></p></li><li data-start=\"484\" data-end=\"522\"><p data-start=\"486\" data-end=\"522\">Fast worldwide shipping (3–7 days)</p></li><li data-start=\"523\" data-end=\"550\"><p data-start=\"525\" data-end=\"550\">Free shipping over $100</p></li><li data-start=\"551\" data-end=\"595\"><p data-start=\"553\" data-end=\"595\">Hot, trending products updated regularly</p></li><li data-start=\"596\" data-end=\"638\"><p data-start=\"598\" data-end=\"638\">High-converting store &amp; support provided</p></li></ul></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35982,
+  "categories": "Sports & Entertainment, Automobiles & Motorcycles, Mom & Kids",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "40% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "18-24",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/zafyt4-vu/register",
+  "offer_status": 2,
+  "name": "Hex Tee",
+  "website": "https://hextee.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 216817,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.34,
+  "program_id": 250695,
+  "myshopify_domain": "zafyt4-vu.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 326.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "96.55%",
+  "mkp_program_id": 250695,
+  "product_list": []
+}

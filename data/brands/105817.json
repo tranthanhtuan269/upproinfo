@@ -1,0 +1,184 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/9484ac53d2cd101133dd3a8e452ae227.png",
+  "description": "<h1><strong><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Design-Katzenm&ouml;bel aus Berlin</span></span></span></span></span></span></strong></h1>\r\n<h2><strong><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">katzenart entwirft und fertigt sch&ouml;ne &amp; funktionale Katzenm&ouml;bel</span></span></span></span></span></span></strong></h2>\r\n<ul>\r\n<li><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">MODERNES DESIGN &ndash;</span></span></span></span></span></span><strong><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"> zur&uuml;ckhaltend, aber ausdrucksstark</span></span></span></span></strong></li>\r\n</ul>\r\n<p style=\"padding-left: 40px;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Helles Holz, funktionale, schlichte Formen und dezente Farben sorgen f&uuml;r eine Extraportion W&auml;rme und Gem&uuml;tlichkeit in Ihrem Zuhause.</span></span></span></span></p>\r\n<ul>\r\n<li><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">H&Ouml;CHSTE QUALIT&Auml;T - </span></span></span></span><strong><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">hochwertige Materialien &amp; Verarbeitung</span></span></span></span></strong></li>\r\n</ul>\r\n<p style=\"padding-left: 40px;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Jedes einzelne Holzst&uuml;ck durchl&auml;uft aufw&auml;ndige Arbeitsschritte von der Holzbearbeitung &uuml;ber das edle Finish bis zur fertigen Montage.</span></span></span></span></p>\r\n<ul>\r\n<li><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">KATZENARTgerecht - </span></span></span></span><strong><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">funktional &amp; durchdacht</span></span></span></span></strong></li>\r\n</ul>\r\n<p style=\"padding-left: 40px;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Ma&szlig;e, Abst&auml;nde, L&auml;ngen und nat&uuml;rliche Materialien orientieren sich an den Bed&uuml;rfnissen Ihrer Katze.</span></span></span></span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.25,
+  "average_earning_per_sale": "35",
+  "video_url": null,
+  "mkp_listing_id": 24971,
+  "categories": "Home & Tools, Pet supplies",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1688314779_354306_624c2c28c308102511b884972eea46f8.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest",
+    "Etsy",
+    "Blog",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Austria",
+    "Belgium",
+    "Switzerland",
+    "Germany",
+    "Denmark",
+    "Spain",
+    "Finland",
+    "France",
+    "Italy",
+    "Luxembourg"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/katzenart/register",
+  "offer_status": 2,
+  "name": "katzenart",
+  "website": "https://katzenart.com",
+  "hashtags": [
+    "#katzenwand",
+    " #katzenmöbel",
+    "#katzenmoebel",
+    "#kratzbaum",
+    "#katzenzubehör",
+    "#katzenspielzeug",
+    "#katzen"
+  ],
+  "shop_id": 105817,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.19,
+  "program_id": 120177,
+  "myshopify_domain": "kratzig.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 250.88,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "7.41%",
+  "mkp_program_id": 120177,
+  "product_list": []
+}

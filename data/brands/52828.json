@@ -1,0 +1,187 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1639652542_7579640_9754c4e686635fab3f33a80dab083679Bond & Mason logo new website v6 TRANS.png",
+  "description": "<p style=\"font-family: Futura, sans-serif; letter-spacing: 0.425px; line-height: var(--typeBaseLineHeight); font-size: 17px; -webkit-font-smoothing: antialiased; text-size-adjust: 100%; text-rendering: optimizespeed; margin-bottom: 25px; color: rgb(28, 29, 29);\" data-mce-fragment=\"1\">Expertly crafted from the finest vegan leather, our handbags are more than just an accessory, they&rsquo;re an investment piece that&rsquo;s both stylish and functional, designed to perfectly complete your outfit.&nbsp;</p>\r\n<p style=\"font-family: Futura, sans-serif; letter-spacing: 0.425px; line-height: var(--typeBaseLineHeight); font-size: 17px; -webkit-font-smoothing: antialiased; text-size-adjust: 100%; text-rendering: optimizespeed; margin-bottom: 25px; color: rgb(28, 29, 29);\" data-mce-fragment=\"1\">Limited to the following regions(at this moment): US, UK, AUS, NZ, EU, CAN</p>",
+  "payout_rate": "95.2%",
+  "payout_period": null,
+  "recommend_score": 8.59,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 11100,
+  "categories": "Fashion",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Austria",
+    "Australia",
+    "Belgium",
+    "Canada",
+    "Germany",
+    "Spain",
+    "France",
+    "United Kingdom",
+    "Italy",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bondandmason/register",
+  "offer_status": 2,
+  "name": "Bond & Mason",
+  "website": "https://bondandmason.com/handbags",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 52828,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 4.62,
+  "program_id": 59065,
+  "myshopify_domain": "orgonitely.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 38.92,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "99.04%",
+  "mkp_program_id": 59065,
+  "product_list": []
+}

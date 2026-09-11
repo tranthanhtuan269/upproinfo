@@ -1,0 +1,143 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/0453a1c06e1158fdbb450562090b6548.png",
+  "description": "<p class=\"p1\" style=\"box-sizing: inherit; margin-top: 1rem; margin-bottom: 1rem; color: rgb(39, 33, 28); font-family: Amiri, serif; font-size: 16px; background-color: rgb(255, 255, 255);\">Pip + Phee is designed with the details in mind and the goal to bring your family quality designs that are contemporary, yet timeless. Our hope is to continue to grow our product assortment while reflecting a strong set of values that you can be proud to support.&nbsp;</p>\r\n<p class=\"p1\" style=\"box-sizing: inherit; margin-top: 1rem; margin-bottom: 1rem; color: rgb(39, 33, 28); font-family: Amiri, serif; font-size: 16px; background-color: rgb(255, 255, 255);\">We strive to foster long term and transparent relationships with you (our customers), our manufacturers, our designers &amp; our Pip + Phee team as we bring you simple, high quality, sustainable products that your family will love and use for years to come.&nbsp;</p>\r\n<p class=\"p1\" style=\"box-sizing: inherit; margin-top: 1rem; margin-bottom: 1rem; color: rgb(39, 33, 28); font-family: Amiri, serif; font-size: 16px; background-color: rgb(255, 255, 255);\">Baja Baby is a luxury line of baby bath and skincare products made right here in Canada, that are as clean as they come! 100% plant-based products, gluten-free, vegan, and (obviously) cruelty-free! You'll feel good lathering your babes in Baja Baby from day 1... and you'll probably end up getting a bottle for \"the adult bathroom\" too ;)&nbsp;</p>\r\n<p class=\"p1\" style=\"box-sizing: inherit; margin-top: 1rem; margin-bottom: 1rem; color: rgb(39, 33, 28); font-family: Amiri, serif; font-size: 16px; background-color: rgb(255, 255, 255);\">Thank you so much for supporting our growing brands! Your feedback means the world to us, so please feel free to send us an email or reach out on social media with anything that you would love to see from us.&nbsp;</p>\r\n<p class=\"p1\" style=\"box-sizing: inherit; margin-top: 1rem; margin-bottom: 1rem; color: rgb(39, 33, 28); font-family: Amiri, serif; font-size: 16px; background-color: rgb(255, 255, 255);\">We look forward to this next chapter together!&nbsp;</p>",
+  "payout_rate": "86.4%",
+  "payout_period": null,
+  "recommend_score": 2.98,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 19531,
+  "categories": "Mom & Kids",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/pipandphee/register",
+  "offer_status": 2,
+  "name": "Pip + Phee",
+  "website": "https://pipandphee.com",
+  "hashtags": [],
+  "shop_id": 80706,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.92,
+  "program_id": 92488,
+  "myshopify_domain": "pip-phee.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 176.87,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "52.56%",
+  "mkp_program_id": 92488,
+  "product_list": []
+}

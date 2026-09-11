@@ -1,0 +1,209 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1766477194_7579124_3ccb6a5696f9b18acbe3e9562798e600.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>Hi {{Name}},</p><p><br></p><p>We’re excited to invite you to join our affiliate program and earn 10% commission on every order you refer — with lifetime commissions and a 30-day cookie.</p><p><br></p><p>Our brand offers high-quality products in Fashion, Jewelry &amp; Accessories, and Mom &amp; Kids, designed for customers who value style, quality, and everyday functionality.</p><p><br></p><p>Why join our affiliate program?</p><p><span style=\"white-space:normal;\"><span style=\"white-space:pre;\">    </span>•<span style=\"white-space:pre;\">    </span>10% commission per order</span></p><p><span style=\"white-space:normal;\"><span style=\"white-space:pre;\">    </span>•<span style=\"white-space:pre;\">    </span>Lifetime commission on referred customers</span></p><p><span style=\"white-space:normal;\"><span style=\"white-space:pre;\">    </span>•<span style=\"white-space:pre;\">    </span>30-day tracking cookie</span></p><p><span style=\"white-space:normal;\"><span style=\"white-space:pre;\">    </span>•<span style=\"white-space:pre;\">    </span>Affiliate links &amp; coupon codes available</span></p><p><span style=\"white-space:normal;\"><span style=\"white-space:pre;\">    </span>•<span style=\"white-space:pre;\">    </span>Auto-approval and easy payouts (PayPal &amp; bank transfer)</span></p><p><span style=\"white-space:normal;\"><span style=\"white-space:pre;\">    </span>•<span style=\"white-space:pre;\">    </span>U.S.-based audience</span></p><p><br></p><p>You can promote us through your website, social media, email newsletters, or content platforms — whatever works best for your audience.</p><p><br></p><p>If you have any questions, feel free to reach out. We’d love to work with you!</p><p><br></p><p>Best regards,</p><p>Tobias Andersson </p><p>Shopstiluna.com</p><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><br></p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "30 days",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37388,
+  "categories": "Fashion, Jewelry & Accessories, Mom & Kids",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "email_marketing",
+    "social_messenger_app"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://affiliate.shopstiluna.com/j8cfxb-1b/register",
+  "offer_status": 2,
+  "name": "Shopstiluna.store",
+  "website": "https://j8cfxb-1b.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 243397,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.52,
+  "program_id": 284318,
+  "myshopify_domain": "j8cfxb-1b.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "693c2059221e69c5ff0322f2",
+      "name": "ODE10",
+      "program_id": 284318,
+      "shop_id": 243397,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": "Thank you"
+        },
+        "free_shipping": {
+          "status": true,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-12-12 14:02:01",
+      "created_at": "2025-12-12T14:02:01.010000Z",
+      "updated_at": "2025-12-12T14:02:01.010000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 0,
+  "new_customer_commission": "10% per order",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 284318,
+  "product_list": []
+}

@@ -1,0 +1,152 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/01761c32c93a6420b24f99b9b48e9d17.png",
+  "description": "<p>Welcome to Flux Supplements! We are a company dedicated to providing high-quality, effective dietary supplements to support your health and wellness goals.</p>\r\n<p>We found a lack of transparency and quality when it comes to the supplement industry. We've decided to change that by creating our own supplements.</p>\r\n<p>At Flux Supplements, we believe that everyone should have access to the nutrients they need to live a healthy, active life. That's why we use only the finest ingredients in our products and manufacture them in a GMP-certified facility.</p>\r\n<p>Our team is made up of health and wellness experts who are dedicated to staying up-to-date on the latest research and trends in the industry. We are constantly working to bring you the most innovative and effective supplements on the market.</p>\r\n<p>We understand that everyone has unique health needs and goals, which is why we&nbsp;are constantly developing a wide range of products to suit different lifestyles and dietary preferences. Whether you're looking to support your immune system, improve your cognition, or boost your energy levels, we have a product that can help.</p>\r\n<p>Thank you for choosing Flux Supplements. We are committed to helping you live your best, healthiest life.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.38,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 21523,
+  "categories": "Beauty & Health, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "cheque": 1,
+    "venmo": 1,
+    "other": "Cashapp"
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/flux-supplements/register",
+  "offer_status": 2,
+  "name": "Flux Supplements",
+  "website": "https://fluxsupplements.com",
+  "hashtags": [],
+  "shop_id": 89323,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.15,
+  "program_id": 101990,
+  "myshopify_domain": "flux-supplements.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 44.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "85.37%",
+  "mkp_program_id": 101990,
+  "product_list": []
+}

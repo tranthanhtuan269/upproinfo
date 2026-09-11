@@ -1,0 +1,178 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1774884913_6521030_0dbcc8bb1debd01587ed7b4bf373bab5.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><h3>• About our brand and products:</h3><p>We are a UK-based sleep brand specialising in premium-quality beds, mattresses, and bedroom furniture designed for comfort, durability, and style. From luxury upholstered bed frames to supportive mattresses, every product is crafted to help customers achieve the perfect night’s sleep—without the premium price tag.</p><hr><h3>• What makes us different:</h3><p>We combine <strong>high-end design with unbeatable value</strong>. Unlike traditional retailers, we cut out unnecessary markups and focus on delivering exceptional quality at accessible prices.</p><p>✔ Premium materials &amp; craftsmanship<br>✔ Modern, on-trend designs<br>✔ Fast UK delivery with 2-man room of choice service<br>✔ Strong customer satisfaction &amp; repeat purchase rate</p><p>Our products are built to look great, last long, and convert well—making them ideal for affiliates.</p><hr><h3>• How affiliates can earn:</h3><p>Our affiliate program offers generous earning potential with:</p><p>💰 Competitive commission rates<br>📈 High average order values (beds = strong payouts)<br>🔁 Repeat customer opportunities<br>🎯 Regular promotions &amp; exclusive discounts to boost conversions</p><p>Top-performing affiliates benefit from increased commission tiers and custom incentives.</p><hr><h3>• How to promote us:</h3><p>Affiliates can promote us across multiple channels:</p><p>• Social media (TikTok, Instagram, Facebook)<br>• Content sites &amp; blogs (home, lifestyle, interiors)<br>• Paid ads &amp; email marketing<br>• Deal &amp; voucher platforms</p></div></div>",
+  "payout_rate": "10.26%",
+  "payout_period": "Bi-Monthly - On The 1st and 14th Of The Month.",
+  "recommend_score": 3.56,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38895,
+  "categories": "Furniture",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "12% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/3z0kk9-9j/register",
+  "offer_status": 2,
+  "name": "Mattress Supermarket",
+  "website": "https://www.mattresssupermarket.co.uk",
+  "hashtags": [
+    "#decor",
+    "#home",
+    "#homeandgarden",
+    "#furniture"
+  ],
+  "shop_id": 261890,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.92,
+  "program_id": 307582,
+  "myshopify_domain": "3z0kk9-9j.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 370.92,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "23.75%",
+  "mkp_program_id": 307582,
+  "product_list": []
+}

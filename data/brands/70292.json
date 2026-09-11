@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/5e961f3ba93389c38980c95ed6c1c82a.png",
+  "description": "<p>Our product is called The Argo™ Shirt: it's a pretty simple men's longsleeve that helps make you look more attractive to women. <br><br><b>Here's how it works, in a nutshell: </b><br><br>A 2017 study found that 70% of what makes men physically attractive to women is a high chest-to-waist ratio (e.g., if your chest looks bigger than your waist, you're doing something right). <br><br>Our shirt has a special tapered-cut fit that's tight around your chest and loose around your waist (to maximize that magic ratio). Women tend to love it, and the initial feedback has been incredible. Here are some early reviews:<br><br><i>\"As advertised. My wife tries to get me to put one on every chance she gets. I'm talking just for a quick trip to 711 lol.\"<br><br>\"This is the most attractive thing a man can wear, in my opinion...\"<br><br>\"How to attract women: Step 1, wear this shirt...\"<br><br>\"This is EASILY one of the nicest long sleeves i've ever had! Thank you! - my only regret is not ordering two.\"</i><br><br>We just launched last month and had to restock almost immediately. For reference, all shirts ship from the U.S. (usually around 3-5 day delivery time from VA). </p><p><br></p><p>To launch our affiliate program, we're offering a whopping 50% commission rate on each order.<br></p><p><br></p>",
+  "payout_rate": "75%",
+  "payout_period": null,
+  "recommend_score": 1.04,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 16781,
+  "categories": "Fashion, Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1661789512_1626677_39d0b69dfd24627a441117ad60549f1c.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "50% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/argoclothes/register",
+  "offer_status": 2,
+  "name": "Argo",
+  "website": "https://theargoshirt.com",
+  "hashtags": [],
+  "shop_id": 70292,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.02,
+  "program_id": 80118,
+  "myshopify_domain": "argoclothes.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 30,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "26.09%",
+  "mkp_program_id": 80118,
+  "product_list": []
+}

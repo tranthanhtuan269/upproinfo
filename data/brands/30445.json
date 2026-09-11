@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1611301400_7652969_ee62903ce0ba581554733a574ad8c175.png",
+  "description": "🇩🇪 German Language Store. \r\n\r\nSpiritueller Feng Shui Schmuck & Mode Accessories mit positiver Energie. Lass Dich von fernöstlichem Feng Shui stärken. Harmonisiere Deinen Geist mit Deiner Umgebung & öffne dein Herz für eine neue Philosophie.  \r\n\r\nJetzt als Affiliate in dieser Niche voller leidenschaftlicher Käufer passives Einkommen generieren. Hohe Conversion Rates, wiederkehrende Käufer, viele proven bestseller und immer neue Produkte!\r\n\r\nAOV: 55 EUR\r\nCR: 3-6%\r\n\r\n## Wir erlauben keine Coupon Sites ##",
+  "payout_rate": "32.24%",
+  "payout_period": null,
+  "recommend_score": 2.92,
+  "average_earning_per_sale": "12",
+  "video_url": null,
+  "mkp_listing_id": 4328,
+  "categories": "Fashion, Jewelry & Accessories",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1611635134_9051187_1d2b692b90c1ecd42eac0473e863dc36.jpg",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/taotempel/register",
+  "offer_status": 2,
+  "name": "TaoTempel",
+  "website": "https://taotempel.de",
+  "hashtags": [],
+  "shop_id": 30445,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.92,
+  "program_id": 33126,
+  "myshopify_domain": "iws-de.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 48.21,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "95.33%",
+  "mkp_program_id": 33126,
+  "product_list": []
+}

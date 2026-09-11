@@ -1,0 +1,184 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1714732658_4070108_726f2af01ee132d8e2da95bf70179fa0.png",
+  "description": "<p class=\"p1\">White in Black is a Jiu-Jitsu brand offering fightwear to athletes. We offer three products for fighting: rash guards, shorts, compression shorts. We also offer T-Shirts for daily wear.</p>\r\n<p class=\"p1\">Affiliates will be paid 3 weeks after the product is delivered to the customer. Shipping takes 1 week, and customers are given 14-day return/exchange period. Affiliates will not be paid in case of a return!</p>\r\n<p class=\"p1\">We ship to the US, Canada, UK, and the majority of the EU. Please let us know if shipping is not available to your country of interest.</p>\r\n<p class=\"p2\">OFFER 40% Discount to customer with discount code WIB40</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.07,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30381,
+  "categories": "Fashion, Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "France",
+    "Germany",
+    "Spain",
+    "Italy",
+    "Belgium",
+    "Switzerland",
+    "Sweden"
+  ],
+  "payment_support": {
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/whiteinblack-int/register",
+  "offer_status": 2,
+  "name": "White in Black",
+  "website": "https://whiteinblack.co",
+  "hashtags": [
+    "#rashguard",
+    "#jiujitsu",
+    "#jiu-jitsu",
+    "#mma",
+    "#grappling"
+  ],
+  "shop_id": 125600,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.97,
+  "program_id": 142363,
+  "myshopify_domain": "whiteinblack-int.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "6.25%",
+  "mkp_program_id": 142363,
+  "product_list": []
+}

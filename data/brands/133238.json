@@ -1,0 +1,190 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1706288121_9483322_cef2bd60f9f898000250b2df39e71f22.jpg",
+  "description": "<p>Join F.Y. Tech's Affiliate Program and Elevate Your Earnings with Every Click! 🚀</p>\r\n<p><span style=\"text-decoration: underline;\">Why partner with us?</span></p>\r\n<p><strong>Hot, In-Demand Products:</strong> F.Y. Tech specializes in top-notch, modern consumer tech accessories that customers love. From sleek phone cases to cutting-edge gadgets, our inventory is packed with high-demand items that practically sell themselves.</p>\r\n<p><strong>Generous Commissions</strong>: Earn competitive commissions on every sale you drive our way. We believe in rewarding our affiliates handsomely for their hard work. The more you sell, the more you earn &ndash; it's that simple!</p>\r\n<p><strong>High Conversion Rates:</strong> Our products are designed to capture attention and convert browsers into buyers. With eye-catching designs, quality craftsmanship, and competitive prices, F.Y. Tech boasts impressive conversion rates that maximize your earning potential.</p>\r\n<p><strong>Dedicated Affiliate Support:</strong> Your success is our priority. Joining F.Y. Tech's Affiliate Program means you'll have access to a dedicated support team ready to assist you every step of the way. From marketing materials to troubleshooting, we're here for you.</p>\r\n<p><strong>Reliable Tracking and Payouts:</strong> Our state-of-the-art affiliate platform ensures accurate tracking of your referrals and provides transparent, timely payouts. Trust in our system to keep you informed and compensated for your efforts.</p>\r\n<p>Join F.Y. Tech's Affiliate Program today and be part of a winning team that's transforming the consumer tech accessory industry. Together, let's redefine modern living with quality, innovation, and unbeatable earnings!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 28482,
+  "categories": "Electronics, Computers & Office",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "Egypt",
+    "France",
+    "Hong Kong",
+    "Japan",
+    "Panama",
+    "Turkey",
+    "United Kingdom",
+    "United Arab Emirates",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/fytech/register",
+  "offer_status": 2,
+  "name": "F.Y. Tech",
+  "website": "https://fytech.shop",
+  "hashtags": [
+    "#electronics",
+    "#consumerelectronics",
+    "#tech",
+    "#technology",
+    "#consumertech",
+    "#mobileaccessories",
+    "#gaming"
+  ],
+  "shop_id": 133238,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 150759,
+  "myshopify_domain": "1fed7f.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "46.15%",
+  "mkp_program_id": 150759,
+  "product_list": []
+}

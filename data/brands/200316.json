@@ -1,0 +1,262 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742174770_99820_b11e9f080a7d4f085c706b6332c5d351.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p style=\"text-align: left; font-size: 14px; font-weight: normal;\">• Brand introduction:&nbsp; Outdoor Cookers that beat every other product on the market in quality and performance.&nbsp; Cookers come to a boil in under 7 minutes and reboils in 90 seconds.&nbsp; Retains heat extremely well.&nbsp; Can be used to boil, steam, fry or slow cook.&nbsp;&nbsp;<br>• Product description:&nbsp; With our patented bottom of pot technology and twice as thick as competition our pots are built to perform like no other.<br>• USP (Unique Selling Point):&nbsp; Boils in under 7 minutes.&nbsp; Reboils after adding product in 90 seconds.&nbsp; Reach frying temperature in minutes, with little to no drop in temp when adding product.&nbsp; 5 star customer reviews.<br>• Payment terms:&nbsp; Every 20 days.<br>• Other information:&nbsp; Check out our website at hpcookers.com</p></div></div>",
+  "payout_rate": "94.49%",
+  "payout_period": "30 days maximum, but will try to do twice per month.",
+  "recommend_score": 5.49,
+  "average_earning_per_sale": "32",
+  "video_url": "https://www.youtube.com/watch?v=7nacC_O6BQI&t=3s",
+  "mkp_listing_id": 34966,
+  "categories": "Garden & Outdoors, Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 15,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/high-performance-cookers/register",
+  "offer_status": 2,
+  "name": "High Performance Cookers",
+  "website": "https://highperformancecookers.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 200316,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 4.1,
+  "program_id": 229388,
+  "myshopify_domain": "high-performance-cookers.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "692f34d86459fe7bc10c9ac2",
+      "name": "AntiLeak Auto Disc Rule",
+      "program_id": 229388,
+      "shop_id": 200316,
+      "affiliates": [
+        9984253,
+        9919806,
+        9895847,
+        9880946,
+        9874840,
+        9805554,
+        9784936,
+        9784566,
+        9784564,
+        9765247,
+        9749191,
+        9732967,
+        9673169,
+        9657849,
+        9630211,
+        9624997,
+        9568245,
+        9517241,
+        9489501,
+        9458320,
+        9432744,
+        9373869,
+        9272514,
+        9236097,
+        9220141,
+        9214745,
+        9174881,
+        9164732,
+        9023006,
+        8975377,
+        8968154,
+        8923850,
+        8873679,
+        8868065,
+        8859236,
+        8847276,
+        8827024,
+        8755365,
+        8734484,
+        8673207,
+        8434767,
+        8401812,
+        8401472,
+        8401052,
+        8378658,
+        8378143
+      ],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 5,
+          "message": "Affiliate Discount"
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 2,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-12-02 18:51:42",
+      "created_at": "2025-12-02T18:50:00.716000Z",
+      "updated_at": "2025-12-02T18:51:42.652000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 458.2,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "97.89%",
+  "mkp_program_id": 229388,
+  "product_list": []
+}

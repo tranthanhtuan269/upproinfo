@@ -1,0 +1,174 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family: Poppins;\"><div><p id=\"isPasted\">True by Katie is a woman-owned small business handcrafting luxury, non-toxic candles, wax melts, room sprays, and self-care products designed to bring beauty and wellness into everyday life. Every product is made in small batches with eco-friendly ingredients, clean fragrances, and a focus on sustainability.</p><p>What makes us different? We combine the warmth of handmade artistry with the standards of clean, safe living—no toxins, no shortcuts. From refillable candles with crackling wooden wicks to elegant perfume rollers and bath teas, our products stand out for their thoughtful design, ethical sourcing, and elevated aesthetic.</p><p>As an affiliate, you’ll earn 25% commission on every sale driven through your personal referral link. It’s simple: share your link, your followers shop, and you get rewarded. We also provide custom discount codes so you can offer your audience 10–20% off their purchase, creating extra incentive for them to buy.</p><p>How to promote us? Affiliates succeed by sharing our products on social media, blogs, YouTube, or even word of mouth. Highlight our clean, non-toxic ingredients, our handmade process, or show off the beautiful vessels and packaging. Whether you love home fragrance, eco-friendly living, or self-care rituals, there’s an angle that will resonate with your community.</p><p>Other info: We’re here to support you! Affiliates receive timely commission tracking, marketing materials, and priority access to new launches and seasonal collections. We’re looking for partners who share our passion for sustainability, wellness, and intentional living—people who want to spread the glow while earning generous rewards.</p></div></div>",
+  "payout_rate": "54.55%",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.9,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36338,
+  "categories": "Home & Tools, Wellness & Lifestyle, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bf451d-2/register",
+  "offer_status": 2,
+  "name": "True by Katie",
+  "website": "https://www.truebykatie.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 127869,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.4,
+  "program_id": 144880,
+  "myshopify_domain": "bf451d-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 58.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "35.71%",
+  "mkp_program_id": 144880,
+  "product_list": []
+}

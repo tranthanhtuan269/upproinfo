@@ -1,0 +1,160 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/bed37dd30e1a0e49c7d36b15adbcab33.jpg",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:&nbsp; The ultimate self-care shop for all-natural organic skin care products.&nbsp; Letus take care of your skin, so you can take care of everything else.&nbsp;&nbsp;<br>&bull; Product description: Inspiring self-care &amp; love with all-natural organic ingredients to cleanse, nourish &amp; hydrate to make your skin GLOW!&nbsp;<br>&bull; USP (Unique Selling Point): Buy one, Gives one - With every purchase, Drops of Hope Soaps will donate a personal care item to the homeless through local outreaches<br>&bull; Payment terms: Paid Monthly<br><br></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.94,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 22861,
+  "categories": "Beauty & Health, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok",
+    "Twitter",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/drops-of-hope-soaps/register",
+  "offer_status": 2,
+  "name": "Drops of Hope Soaps",
+  "website": "https://dropsofhopesoaps.com",
+  "hashtags": [
+    "#wortheverydrop  #skincare #selfcare #selflove #poursomeloveonme #rubadubdub #dryskinisnotin #coldprocesssoap #handmade #allnaturalskincare #allnaturalsoaps #organicsoaps #allnaturalbathandbodycare #silkysmoothskin #iloveme #handmadesoap #smallbusinessowner #dreamchaser #buyonegiveone"
+  ],
+  "shop_id": 96123,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 109612,
+  "myshopify_domain": "drops-of-hope-soaps.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "27.27%",
+  "mkp_program_id": 109612,
+  "product_list": []
+}

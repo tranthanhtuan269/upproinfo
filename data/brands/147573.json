@@ -1,0 +1,158 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1743618344_9177657_68cc86b2b19ad5bc7ee76a13b6e6ea80.png",
+  "description": "<p><strong data-end=\"167\" data-start=\"144\">Brand introduction:</strong> Dynasty by Chiara is a luxury jewelry brand based in Dubai, creating elegant pieces with ethical values at heart.<br data-end=\"284\" data-start=\"281\"><strong data-end=\"308\" data-start=\"284\"><br>Product description:</strong> All pieces are handcrafted using certified <strong data-end=\"374\" data-start=\"352\">lab-grown diamonds</strong> and solid <strong data-is-only-node=\"\" data-end=\"397\" data-start=\"385\">18k gold</strong>, blending sustainability with timeless design.<br data-end=\"447\" data-start=\"444\"><strong data-end=\"455\" data-start=\"447\"><br>USP:</strong> Our diamonds offer the same brilliance and chemical makeup as mined ones&mdash;at better value, with <strong data-end=\"599\" data-start=\"551\">zero conflict and lower environmental impact</strong>.<br data-end=\"603\" data-start=\"600\"><strong data-end=\"621\" data-start=\"603\"><br>Payment terms:</strong> Affiliates earn <strong data-end=\"656\" data-start=\"638\">10% commission</strong> on each sale, paid monthly.</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 0.84,
+  "average_earning_per_sale": "1700",
+  "video_url": null,
+  "mkp_listing_id": 35230,
+  "categories": "Jewelry & Accessories",
+  "currency": "AED",
+  "symbol_currency": "&#1583;.&#1573;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Arab Emirates"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/dynastybychiara/register",
+  "offer_status": 2,
+  "name": "Dynasty by Chiara",
+  "website": "https://dynastybychiara.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 147573,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.8,
+  "program_id": 167552,
+  "myshopify_domain": "dynastybychiara.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "31.25%",
+  "mkp_program_id": 167552,
+  "product_list": []
+}

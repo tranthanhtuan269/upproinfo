@@ -1,0 +1,175 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1735496914_4542931_097981f053ac55e284165b13678ebe63.png",
+  "description": "<div style=\"font-family: Poppins;\"><p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Above &amp; Below is marine inspired <strong>fine jewellery brand</strong>. All of our pieces are <strong>designed in house</strong> and <strong>hand crafted in Bali</strong> by an amazing team of jewellers.</p><p style=\"text-align: left; font-size: 14px; font-weight: normal;\">All of our pieces are made from <strong>recyled sterling silver</strong> and our gold jewellery is <strong>Gold Vermeil</strong>, sterling silver core with a 2.5x thicker gold coating than regular gold plated jewellery, to ensure maximum quality.</p><p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Not only are our pieces inspired by the ocean but <strong>our mission is to help protect the oceans</strong> that inspired them. We have partenered with CleanHub to prevent plastic entering the ocean and after our first collection, all of our collections are done in direct collaboration with organisations involved with marine conservation.</p><p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Join our community of affiliates to recieve <strong>10% commision</strong> on all sales attributed to you. We are looking to build <strong>long term relationships so will actively work with you to provide any assistance we can in your efforts</strong>, wheather that is custom landing pages on our site, resources or anything something entirely different we're here to make your life as easy as possible.</p></div>",
+  "payout_rate": "0%",
+  "payout_period": "Payouts are made on the 1st of each month.",
+  "recommend_score": 1.3,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33789,
+  "categories": "Jewelry & Accessories, Fashion",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States",
+    "Australia",
+    "New Zealand",
+    "France",
+    "Canada",
+    "South Africa",
+    "Switzerland",
+    "Sweden"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/abovebelow/register",
+  "offer_status": 2,
+  "name": "Above and Below jewellery",
+  "website": "https://abovebelow.co",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 181516,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1,
+  "program_id": 206910,
+  "myshopify_domain": "above-and-below-jewellery.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 67.85,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "41.38%",
+  "mkp_program_id": 206910,
+  "product_list": []
+}

@@ -1,0 +1,171 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1731602093_7115437_04355844012776ba406f21fdc0907df5.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">ALL-NATURAL PERSONAL CARE PRODUCTS FOR EVERYDAY ATHLETES</span><br><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">No chemicals, ever, designed to withstand your active lifestyle.</span><br><br></p>\r\n<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">No Chemicals, America-First Company, for Everyday Athletes.</span><br><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">We're a team of everday athletes who take life to the next level.</span></p>\r\n<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">We're not going to be in the olympics or make it to the big leagues, but we still want to be the best &ndash; we still want more out of life, and we push ourselves to achieve it. We push ourselves physically with our athletic training, in our careers, and to be the best for our families as we can.</span></p>\r\n<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">We wanted personal care products designed for people like us by a company who stands for the same things we stand for.</span></p>\r\n<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">It didn't exist, so we created it.</span></p>\r\n<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt;\">No chemicals, ever. Designed for everyday athletes who want more out of life. America-first company, always.</span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33190,
+  "categories": "Beauty & Health, Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/emergo/register",
+  "offer_status": 2,
+  "name": "Emergo",
+  "website": "https://getemergo.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 175593,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.77,
+  "program_id": 199992,
+  "myshopify_domain": "a58c8d-e7.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 12.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "22.73%",
+  "mkp_program_id": 199992,
+  "product_list": []
+}

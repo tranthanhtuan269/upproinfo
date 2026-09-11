@@ -1,0 +1,172 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1758882190_7516463_49f37871f65392f8c4dbc82aa6be906d.png",
+  "description": "<p data-end=\"340\" data-start=\"278\"><strong data-end=\"340\" data-start=\"278\">l programma affiliate per chi crede in un&rsquo;acqua migliore.</strong></p>\r\n<p data-end=\"508\" data-start=\"342\">Con IDRA Ambassadors puoi guadagnare semplicemente condividendo il tuo stile di vita sostenibile.<br data-end=\"442\" data-start=\"439\">Hai una community? Un blog? O semplicemente credi in ci&ograve; che bevi?</p>\r\n<p data-end=\"651\" data-start=\"510\">Ogni volta che qualcuno acquista con il tuo link, ricevi <strong data-end=\"574\" data-start=\"567\">15&euro;</strong>.<br data-end=\"578\" data-start=\"575\">Nessun minimo richiesto. Nessun obbligo. Solo un passaparola consapevole.</p>\r\n<p data-end=\"731\" data-start=\"653\">👉 Unisciti al programma.<br data-end=\"681\" data-start=\"678\">Parla di IDRA.<br data-end=\"698\" data-start=\"695\"><strong data-end=\"731\" data-start=\"698\">Guadagna. E aiuta il pianeta.</strong></p>",
+  "payout_rate": "23.33%",
+  "payout_period": null,
+  "recommend_score": 3.2,
+  "average_earning_per_sale": "15",
+  "video_url": null,
+  "mkp_listing_id": 35309,
+  "categories": "Beauty & Health, Home & Tools",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 0,
+  "commission": "€15.00 per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Italy"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<p>undefined</p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/idra-water/register",
+  "offer_status": 2,
+  "name": "IDRA Water",
+  "website": "https://idrawater.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 202213,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.37,
+  "program_id": 231818,
+  "myshopify_domain": "idra-water.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Italy"
+  ],
+  "avg_order_value": 58.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "94%",
+  "mkp_program_id": 231818,
+  "product_list": []
+}

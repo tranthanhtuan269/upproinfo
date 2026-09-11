@@ -1,0 +1,216 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1732487072_2889812_882fc21c44ae2a51b9ef1dd93cf4e4e3.png",
+  "description": "<div style=\"font-family: Poppins;\"><p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>• Brand introduction:&nbsp;</strong>Wholesaler of premium quality fitness and recovery equipment, with solutions to outfit an entire residential or commercial space from the floor on up!<br><strong>• Product description:&nbsp;</strong>We offer a wide array of products which fall into six primary categories including cardio, strength, free weights, accessories, flooring, and recovery.<br><strong>• USP (Unique Selling Point):&nbsp;</strong>We're one of the only wholesalers of premium finess and recovery equipment which caters to one-click shopping with everything we sell.</p></div>",
+  "payout_rate": "100%",
+  "payout_period": "Payments go out the 1st of every month.",
+  "recommend_score": 3.14,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33337,
+  "categories": "Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 120,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://partner.blueskyfitsupply.com/blueskyfitsupply/register",
+  "offer_status": 2,
+  "name": "Blue Sky Fitness Supply",
+  "website": "https://www.blueskyfitsupply.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 176971,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.09,
+  "program_id": 201635,
+  "myshopify_domain": "62c083-4.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "68d24dab5d235d1f7001113c",
+      "name": "Auto-discount rule",
+      "program_id": 201635,
+      "shop_id": 176971,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:35:07",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Canada",
+    "United States"
+  ],
+  "avg_order_value": 1119,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "42.86%",
+  "mkp_program_id": 201635,
+  "product_list": []
+}

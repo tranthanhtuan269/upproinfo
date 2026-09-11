@@ -1,0 +1,181 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1775114961_8050523_163e4155843b208291578d61016ad258.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p><img src=\"https://cdn.shopify.com/s/files/1/0981/6018/1588/files/Cryptosign_-_Polymer_Shares.jpg?v=1775054359\" style=\"width:300px;max-width:100%;\" class=\"fr-fic fr-dib\" alt=\"Cryptosign_-_Polymer_Shares.jpg?v=1775054359\"></p><p><b>• About our brand and products:</b>Cryptosign Hardware is a Belgium-based engineering lab specializing in military-grade physical backups for high-value digital assets. We manufacture premium aerospace Titanium Citadel Plates and custom hardware kits using Shamir’s Secret Sharing (SSS) to secure crypto seed phrases.</p><p><b>• What makes us different:</b>We solved the single-point-of-failure inherent in standard steel plates. Users split and encrypt their seed phrase locally via our air-gapped terminal. We only receive and blind-print the ciphertext payload. We have zero knowledge of the underlying keys, making our hardware mathematically impenetrable.</p><p><b>• How affiliates can earn:</b>Partners earn a baseline 15% commission on every sale. Because our high-ticket custom plates sell for €499, affiliates earn approximately €75 per conversion. We also offer custom coupon codes so you can incentivize your audience to buy today.</p><p><b>• How to promote us:</b>YouTubers and Twitter (X) OpSec auditors can promote us by reviewing our hardware, testing our air-gapped terminal, or comparing Cryptosign to legacy metal backups. We are happy to provide free physical test kits to qualified hardware reviewers.</p><p><b>• Other information:</b>We offer a 30-day cookie window and reliable, transparent payouts. Join the vanguard of Web3 hardware security and start monetizing your high-net-worth audience today.</p><p><img src=\"https://cdn.shopify.com/s/files/1/0981/6018/1588/files/cryptosign_-_xa1.jpg?v=1775109593\" style=\"width:484px;max-width:100%;\" class=\"fr-fic fr-dib\" alt=\"cryptosign_-_xa1.jpg?v=1775109593\"></p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.07,
+  "average_earning_per_sale": null,
+  "video_url": "https://cdn.shopify.com/videos/c/o/v/92445404b4ca48188c5f8a7d5f3c4bd4.mp4",
+  "mkp_listing_id": 38951,
+  "categories": "Hardware",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Belgium"
+  ],
+  "payment_support": {
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/cryptosign-partner/register",
+  "offer_status": 2,
+  "name": "Cryptosign",
+  "website": "https://cryptosign.eu",
+  "hashtags": [
+    "#opsec",
+    "#zeroknowledge",
+    "#cypherpunk",
+    "#airgapped",
+    "#shamirsecretsharing",
+    "#seedphrase",
+    "#selfcustody",
+    "#notyourkeysnotyourcoins"
+  ],
+  "shop_id": 262396,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 308245,
+  "myshopify_domain": "68357i-ae.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 308245,
+  "product_list": []
+}

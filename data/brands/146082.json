@@ -1,0 +1,183 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1713984671_372763_5c320b060b7d18dbeaee3ea1a83d266e7.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Join our affiliate program in 2024 and earn a lucrative 15% commission on all referral sales in 2024 (excluding shipping and tax). You'll receive this commission each time a customer purchases through your unique affiliate link or uses your coupon code.&nbsp;</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>To welcome you aboard, we're delighted to offer you an exclusive 30% discount on our supplements. This gesture is our way of showing appreciation for our collaboration. Please be aware that we do not offer free products. This policy ensures that our affiliate partnerships and sales are driven by genuine and authentic recommendations, not by paid promotions. </span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>We are confident in the quality of our supplements and believe they will be a valuable addition to your offerings. Affiliate payments are conveniently processed on the first day of each month, with a minimum payout of $10.00 through PayPal. </span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Join us and start benefiting from a partnership that values authenticity and rewards performance.</span></p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29952,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 90,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/263a92-2/register",
+  "offer_status": 2,
+  "name": "California Vitality",
+  "website": "https://www.livecaliforniavitality.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 146082,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 165805,
+  "myshopify_domain": "263a92-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "27.78%",
+  "mkp_program_id": 165805,
+  "product_list": []
+}

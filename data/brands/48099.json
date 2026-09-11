@@ -1,0 +1,149 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1636225472_9302678_4c453e3a48c0639980cbd48d02b0bf12.png",
+  "description": "<p>SpinTopSigns are a real estate marketing tool. The product is a modernized \"for sale\" sign, with a spinning top that displays customizable home images and info, and lights up automatically at night via solar power. We currently have 2 products, the Circle SpinTopSign, which is $309.00, and the square SpinTopSign, which is $159.&nbsp; We are offering affiliates a 20% commission on all sales!&nbsp; We currently sell within the U.S.&nbsp; Our website is www.SpinTopSigns.com.&nbsp; Our signs hold customizable 8x10 images, and photo paper is recommended.&nbsp; Real estate agents can use the space to highlight home features like an updated kitchen or nice backyard. They can also use the space to highlight themselves and their branding info. They can also lease panels out to their preferred partners (like lenders or moving companies) to generate revenue while their listing is on the market. The SpinTopSign attracts eyes and helps agents get more leads and listings.</p>",
+  "payout_rate": "95.24%",
+  "payout_period": null,
+  "recommend_score": 1.06,
+  "average_earning_per_sale": "46.80",
+  "video_url": null,
+  "mkp_listing_id": 20660,
+  "categories": "Home & Tools, Garden & Outdoors, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1674939763_3534354_5ee079ebea5b5cfc9865098f39bcab57.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/spintopsigns/register",
+  "offer_status": 2,
+  "name": "SpinTopSigns",
+  "website": "https://spintopsigns.myshopify.com",
+  "hashtags": [],
+  "shop_id": 48099,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.04,
+  "program_id": 53611,
+  "myshopify_domain": "spintopsigns.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "83.96%",
+  "mkp_program_id": 53611,
+  "product_list": []
+}

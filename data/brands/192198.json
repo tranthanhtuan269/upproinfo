@@ -1,0 +1,164 @@
+{
+  "logo": null,
+  "description": "<div id=\"shopify-section-template--16164031365190__video_hero_riEjtc\">\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div><motion-element data-motion-delay=\"50\" data-motion=\"fade-up\">Skincare Backed by Scienced</motion-element>\r\n<h2><motion-element data-motion-delay=\"100\" data-motion=\"fade-up\">Developed by Australian Healthcare Professionals</motion-element></h2>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div id=\"shopify-section-template--16164031365190__custom_content_wN3EKJ\">\r\n<div data-id=\"template--16164031365190__custom_content_wN3EKJ\">\r\n<div>\r\n<div>\r\n<div data-block-type=\"text\" id=\"block-text_DmBBtg\">\r\n<div>\r\n<div>\r\n<h2><motion-element data-motion-delay=\"50\" data-motion=\"fade-up\">About Skin Ritual</motion-element></h2>\r\n<p>Madeca formed as a company in Melbourne, Australia, compromising of a group of doctors, industry professionals and pharmacists. With a combined commitment to the industry of over 50 years, together we are dedicated to bringing the best skincare innovation and latest technologies for the benefit of your skin and hair.At Skin Ritual, we believe that skincare is more than just a routine&mdash;it&rsquo;s a sacred practice that connects mind, body, and spirit. Our brand was born in Australia, founded by a passionate team of doctors, healthcare and industry professionals with a shared vision: to create a range of products that harness the power of nature, backed by science, to promote holistic wellness.Our journey began with a simple yet profound realization: the skin is a reflection of our overall health. With this in mind, we set out to develop products that not only enhance the beauty of your skin but also nurture your well-being from the inside out. Drawing from our extensive backgrounds in dermatology, cosmetic chemistry, and holistic health, we&rsquo;ve crafted formulations that merge the wisdom of ancient traditions with the latest scientific advancements.At Skin Ritual, quality is our mantra. We source the finest ingredients, ethically and sustainably, from around the world. Each product is meticulously crafted, where we combine these pure ingredients with innovative technologies to ensure they deliver results you can see and feel.Our commitment to excellence extends beyond our products. We are dedicated to transparency, integrity, and ethical practices in everything we do. From our cruelty-free testing to our recyclable packaging, we strive to make choices that are good for you and the planet.Skin Ritual is more than just a brand; it&rsquo;s a community. We&rsquo;re here to empower you on your skincare journey, providing you with the tools and knowledge to create your own rituals of self-care. Whether you&rsquo;re seeking to address specific skin concerns or simply looking to indulge in a moment of tranquility, Skin Ritual is here to support you every step of the way.Join us in embracing the art of skincare as a ritual one that honors your unique beauty and enhances your well-being.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "payout_rate": "88.55%",
+  "payout_period": null,
+  "recommend_score": 4.25,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35012,
+  "categories": "Beauty & Health",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/00f9cf-1a/register",
+  "offer_status": 2,
+  "name": "Skin Ritual",
+  "website": "https://skinritual.com.au",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 192198,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.08,
+  "program_id": 218703,
+  "myshopify_domain": "00f9cf-1a.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 256.81,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "99.15%",
+  "mkp_program_id": 218703,
+  "product_list": []
+}

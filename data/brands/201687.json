@@ -1,0 +1,242 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1777069279_4996809_8b1b5a270ad400f66d7e3c5bb8e44554.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><span style=\"font-size:14px;\">Sacred Scents Sanctuary is a sensory-driven brand rooted in intention, ritual, and elevated everyday living. We specialize in handcrafted incense, resins, and aromatic blends designed to transform spaces, shift energy, and create meaningful moments. Each product is curated with high-quality ingredients and inspired by ancient traditions, offering a modern approach to sacred scenting.</span></p><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><br></p><p><span style=\"font-size:14px;\">From long-lasting incense sticks to rare resin blends, every item is crafted for depth, authenticity, and atmosphere. Our brand blends aesthetic, spirituality, and luxury, making it highly shareable and visually appealing for content creators. Customers consistently note the strength, uniqueness, and emotional impact of our scents.</span></p><p><span style=\"font-size:14px;\">Our products perform especially well through:</span></p><ul><li style=\"font-size:14px;\">TikTok videos (unboxings, aesthetic burns, scent storytelling)</li><li style=\"font-size:14px;\">Instagram Reels and lifestyle content</li><li style=\"font-size:14px;\">“Satisfying” or calming ritual-style videos</li><li style=\"font-size:14px;\">Product reviews and first impressions</li><li style=\"font-size:14px;\">Before/after ambiance transformations</li></ul><p><span style=\"font-size:14px;\">We encourage authentic content that highlights the <em>experience</em>—the smoke flow, the mood, the ritual.</span></p></div></div>",
+  "payout_rate": "97.47%",
+  "payout_period": "1st of each month",
+  "recommend_score": 3.93,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39067,
+  "categories": "Wellness & Lifestyle",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "5%-20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/9bdca7/register",
+  "offer_status": 2,
+  "name": "Sacred Scents Sanctuary",
+  "website": "https://sacredscentssanctuary.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 201687,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "5",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "150",
+      "commission_val": "10",
+      "disabled": false
+    },
+    {
+      "key": 3,
+      "order_val": "300",
+      "commission_val": "15",
+      "disabled": false
+    },
+    {
+      "key": 4,
+      "order_val": "500",
+      "commission_val": "20",
+      "disabled": false
+    }
+  ],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.07,
+  "program_id": 260977,
+  "myshopify_domain": "9bdca7.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "69ebea989b2294210c02e062",
+      "name": "Free Shipping 50",
+      "program_id": 260977,
+      "shop_id": 201687,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": true,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "amount",
+      "minimum": 50,
+      "defined_coupon": null,
+      "active_at": "2026-04-24 22:11:36",
+      "created_at": "2026-04-24T22:11:36.719000Z",
+      "updated_at": "2026-04-24T22:11:36.719000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 52.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "99.23%",
+  "mkp_program_id": 260977,
+  "product_list": []
+}

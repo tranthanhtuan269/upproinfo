@@ -1,0 +1,209 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1760661442_6823792_5989b9e81ffc94062437d771a157b63e.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p data-start=\"167\" data-end=\"596\" id=\"isPasted\">We’re&nbsp;<strong data-start=\"173\" data-end=\"191\">Be Good Health</strong> — the Aussie wellness brand making healthy habits simple, tasty and actually fun.<br data-start=\"273\" data-end=\"276\">Our heroes:<br data-start=\"287\" data-end=\"290\">🥭&nbsp;<strong data-start=\"293\" data-end=\"305\">Good Day</strong> – a one-a-day multivitamin sachet with 66+ health benefits.<br data-start=\"365\" data-end=\"368\">🍉&nbsp;<strong data-start=\"371\" data-end=\"384\">Day Lytes</strong> – electrolyte sachets that keep you hydrated without the sugar or the BS.<br data-start=\"458\" data-end=\"461\">All proudly Aussie-made, naturally sweetened, and designed to slot into real life — from office desks to gym bags and Sunday hangovers.</p><h3 data-start=\"1369\" data-end=\"1394\" id=\"isPasted\"><strong data-start=\"1373\" data-end=\"1394\">How to promote us</strong></h3><p data-start=\"1093\" data-end=\"1362\">💰 <strong data-start=\"1096\" data-end=\"1117\">10% commission</strong> on every sale you refer.</p><p data-start=\"1395\" data-end=\"1738\">You can share your link anywhere you like — TikTok, Instagram, YouTube, newsletters, or even your group chat.<br data-start=\"1519\" data-end=\"1522\">Show how you use Good Day or Day Lytes in your routine — morning mix, post-workout or hangover cure.</p><h3 data-start=\"1745\" data-end=\"1770\" id=\"isPasted\"><strong data-start=\"1749\" data-end=\"1770\">Other information</strong></h3><p data-start=\"1771\" data-end=\"1977\">✔️ Aussie-owned &amp; made<br data-start=\"1793\" data-end=\"1796\">✔️ No artificial junk<br data-start=\"1817\" data-end=\"1820\">✔️ Sugar-free &amp; naturally sweetened<br data-start=\"1901\" data-end=\"1904\">✔️ Perfect for lifestyle, wellness, fitness &amp; everyday content creators</p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "End of each month",
+  "recommend_score": 2.62,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36677,
+  "categories": "Health & Beauty",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "New Zealand"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/be-good-health/register",
+  "offer_status": 2,
+  "name": "Be Good Health",
+  "website": "https://www.begoodhealth.com.au",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 233094,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.97,
+  "program_id": 271428,
+  "myshopify_domain": "be-good-health.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "690a7c992dca950de4055512",
+      "name": "AFFILIATECODE",
+      "program_id": 271428,
+      "shop_id": 233094,
+      "affiliates": [],
+      "discount_type": 2,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": "BG10",
+      "active_at": "2025-11-04 22:30:26",
+      "created_at": "2025-11-04T22:22:17.514000Z",
+      "updated_at": "2025-11-04T22:30:26.669000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Enterprise",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 79.03,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "17.31%",
+  "mkp_program_id": 271428,
+  "product_list": []
+}

@@ -1,0 +1,232 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1767077589_1044365_b2d6b171f73d99bd69cef1ce23ce8e32.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p><strong>About our brand and products:</strong><br>Project AD is a modern supplement brand focused on helping people look, feel, and perform at a higher level. While the brand was born from a strong performance-driven culture, our products and message have expanded to serve a much wider audience. We create supplements that support real goals — from training, physique, and performance to daily wellness, digestion, and consistency.</p><p><strong>What makes us different:</strong><br>Project AD stands out because we combine premium branding, highly marketable products, and a community-first approach. We come from a serious training background, which gives the brand real credibility, but we’ve grown into something much broader and more accessible. Our affiliates are not treated like numbers — we value authentic partnerships, strong content, and long-term growth.</p><p><strong>How affiliates can earn:</strong><br>Affiliates earn commission through custom links and discount codes, with opportunities for added incentives based on performance and consistency. As creators grow with the brand, there may also be opportunities for product seeding, special campaigns, giveaways, and deeper partnership potential.</p><p><strong>How to promote us:</strong><br>Project AD performs best through authentic, lifestyle-driven content. Affiliates can promote us through short-form videos, product reviews, routines, gym content, educational posts, unboxings, and relatable storytelling that shows how the products fit into everyday life. The strongest content feels natural, useful, and genuine.</p><p><strong>Other information:</strong><br>We’re looking for affiliates who align with the brand, communicate well, and know how to create content that connects. Project AD has roots in performance culture, but the brand continues to grow into a broader movement centered around better habits, better routines, and better results. We want creators who are excited to grow with us and be part of that.</p></div></div>",
+  "payout_rate": "11.19%",
+  "payout_period": "1st-5th of month",
+  "recommend_score": 5.3,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38758,
+  "categories": "Beauty & Health, Retail & Consumer goods, Wellness & Lifestyle",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "10%-20% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "25-34",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "store_credit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/projectad/register",
+  "offer_status": 2,
+  "name": "Project AD",
+  "website": "https://www.projectad.me",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 52597,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "1000",
+      "commission_val": "15",
+      "disabled": false
+    },
+    {
+      "key": 3,
+      "order_val": "2500",
+      "commission_val": "20",
+      "disabled": false
+    }
+  ],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.49,
+  "program_id": 58813,
+  "myshopify_domain": "projectad.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "68d24d9f5d235d1f7000fa68",
+      "name": "Auto-discount rule",
+      "program_id": 58813,
+      "shop_id": 52597,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:34:55",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Enterprise",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 48.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "98.59%",
+  "mkp_program_id": 58813,
+  "product_list": []
+}

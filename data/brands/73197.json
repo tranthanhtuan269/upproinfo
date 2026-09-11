@@ -1,0 +1,149 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1664830756_3348521_85a765c4aecf2aafa9b17ee4b97cc129Jule_Barbie-Wordmark-R.png",
+  "description": "<p>Inspired by iconic hotspots around the world, Jule Lip Gloss is for the woman with swagger and substance. The Socialite Collection was made to make you feel sexy &amp; bold with a single swipe across your lips. This lip gloss gives you that extra je ne sais quoi and will instantly become your holy grail product. Get ready to strut into the sexiest nights behind the velvet ropes. We can&rsquo;t wait to watch you shine!</p>\r\n<p>Been searching for the perfect lip gloss since the early 2000&rsquo;s? Allow us to introduce you to one of the most coveted formulas around. We have a real love affair with lip gloss, and wanted to make getting ready all the more satisfying. Luxury adds pleasure into our lives, and there&rsquo;s no better way to indulge than with The Socialite Collection. We believe in going big, being bold and feeling sexy . We live to fuel you with the confidence to go all in - and be 100% yourself, 100% of the time. So go on, express yourself without limits, because this was <em>made</em> <em>for the bold, not for the basic.</em></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.55,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 17594,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/julelipgloss/register",
+  "offer_status": 2,
+  "name": "JULE LIP GLOSS",
+  "website": "https://www.julelipgloss.com/",
+  "hashtags": [],
+  "shop_id": 73197,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.22,
+  "program_id": 83732,
+  "myshopify_domain": "julelipgloss.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 30.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 83732,
+  "product_list": []
+}

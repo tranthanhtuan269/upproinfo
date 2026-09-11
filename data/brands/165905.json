@@ -1,0 +1,174 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family: Poppins;\"><ul><li style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Vendita di idromele di qualità mondiale. Idromele premiato con 56 premi da 14 paesi in Europa, Asia, Nord America, Sud America e Australia.</span></li><li><span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 17px; white-space: normal; background-color: rgb(255, 255, 255); float: none; display: inline;\">Prodotti molto apprezzati - 4,96 valutazione dei nostri clienti.</span></li><li style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Idromele Medovina Barrique - Il vincitore del premio&nbsp;<strong>“Apimondia Il Miglior Idromele al Mondo\"</strong>. Apimondia è il più grande congresso degli apicoltori con una lunga tradizione dal 1897.&nbsp;</span></li><li style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-size: 17px; white-space: normal; background-color: rgb(255, 255, 255); float: none; display: inline;\">Il premio \"Great Taste 2023\" ⭐⭐⭐. Great Taste è organizzato dalla Guild of Fine Food a Londra, dove 500 esperti di gastronomia hanno valutato 14.195 diversi tipi di cibi e bevande. Solo </span><span style=\"box-sizing: border-box; color: rgb(0, 0, 0); font-size: 17px; white-space: normal; background-color: rgb(255, 255, 255);\">l'1,8%</span><span style=\"color: rgb(0, 0, 0); font-size: 17px; white-space: normal; background-color: rgb(255, 255, 255); float: none; display: inline;\"> dei partecipanti ha ricevuto 3 stelle, e Idromele AnticoSlavo Classico è uno di loro.</span>&nbsp;</span></li></ul></div>",
+  "payout_rate": "0%",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.02,
+  "average_earning_per_sale": "0",
+  "video_url": "https://www.youtube.com/watch?v=YfHpMwMHJsc",
+  "mkp_listing_id": 32033,
+  "categories": "Others",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "incentivised_traffic_loyalty",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Italy"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ApiVenitiIdromele/register",
+  "offer_status": 2,
+  "name": "ApiVeniti",
+  "website": "https://apiveniti.it",
+  "hashtags": [
+    "#idromele",
+    "#mead",
+    "#bevanda",
+    "#alcool"
+  ],
+  "shop_id": 165905,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.97,
+  "program_id": 188683,
+  "myshopify_domain": "mead-store.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 67.41,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "9.09%",
+  "mkp_program_id": 188683,
+  "product_list": []
+}

@@ -1,0 +1,167 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1735139901_4404974_3338f5442164e55797d57dd636eefa77.png",
+  "description": "<p style=\"text-align: center;\"><span style=\"font-size: 24pt;\"><strong>RedDoor Fashion</strong></span></p>\r\n<p>&bull; <strong>Brand introduction:</strong> RedDoor Fashion, <em>A Luxury Clothing &amp; Accessories Brand With Purpose!&nbsp;</em>Elevate your wardrobe with our trendsetting style pieces.<br>&bull; <strong>Product description:</strong> Fashion from the boardroom to the bedroom and everything in between that makes you look good, feel good, and smell good, on &amp; with PURPOSE!</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"text-decoration: underline;\"><strong>Fashion Products:&nbsp;</strong></span></p>\r\n<ul>\r\n<li>Athletic Apparel</li>\r\n<li>Business Attire</li>\r\n<li>Christian Faith Apparel</li>\r\n<li>Fitness Apparel</li>\r\n<li>Footwear</li>\r\n<li>Nightwear</li>\r\n</ul>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"text-decoration: underline;\"><strong>Fragrances:</strong></span></p>\r\n<ul>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Cologne</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Perfume</li>\r\n</ul>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; <strong>USP (Unique Selling Point):</strong> A portion of the revenue go towards community outreach initiatives globally through the 501c3 non-profit, PayIt4Word Inc.<br>&bull; <strong>Payment terms:</strong>&nbsp;Bank Transfer, Debit Card, Paypal</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 0.86,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33731,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Twitter",
+    "Pinterest",
+    "Tiktok",
+    "Etsy",
+    "Coupons or Deals website",
+    "Comparison shopping engine"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/58431f-f4/register",
+  "offer_status": 2,
+  "name": "RedDoor Fashion Store an SK Innovative Solutions Comapany",
+  "website": "https://rdoorfashion.store",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 181031,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.75,
+  "program_id": 206347,
+  "myshopify_domain": "58431f-f4.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "50%",
+  "mkp_program_id": 206347,
+  "product_list": []
+}

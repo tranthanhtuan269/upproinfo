@@ -1,0 +1,175 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1724754884_4118336_6262e8e6533ec3c48830501051fe243b.png",
+  "description": "<h4>Welcome to Cynims Athleisure!</h4>\r\n<p>At Cynims Athleisure, we believe that clothing is more than just fabric&mdash;it's a form of self-expression, a celebration of individuality, and a testament to the vibrant spirit within each of us. Our mission is to create bold, colorful, and funky athleisure wear that empowers you to embrace your unique style and make a statement wherever you go.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our payments terms are via Paypal we give 15% off each sale.&nbsp;</p>\r\n<h4>Our Inspiration</h4>\r\n<p>Our designs are inspired by the rich, dynamic, and diverse culture of the black community. We draw from the vibrant energy of urban art, the resilience and creativity of our heritage, and the ever-evolving world of street fashion. Each piece we create is a celebration of these influences, designed to make you feel bold, confident, and unstoppable.</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "20",
+  "video_url": null,
+  "mkp_listing_id": 31826,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "55-64",
+    "45-54",
+    "35-44",
+    "25-34",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "France"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/4a956c-e3/register",
+  "offer_status": 2,
+  "name": "Cynims",
+  "website": "https://cynims.com",
+  "hashtags": [
+    "#fashion",
+    "#activewear",
+    "#athleisure"
+  ],
+  "shop_id": 164158,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.07,
+  "program_id": 186694,
+  "myshopify_domain": "4a956c-e3.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "94.74%",
+  "mkp_program_id": 186694,
+  "product_list": []
+}

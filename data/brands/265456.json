@@ -1,0 +1,187 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1776702703_3756101_1c0a15ad7e2cb7a6408c6b02d7deee13.png",
+  "description": "<div style=\"font-family:Poppins;\"><p>M N Gold &amp; Gem is a modern jewelry brand offering premium quality gold-plated and fashion jewelry designed for everyday elegance and special occasions. Our collection includes necklaces, rings, earrings, bracelets, and statement pieces inspired by luxury designs. We focus on affordable luxury, anti-tarnish finishing, and elegant craftsmanship so customers can enjoy premium jewelry without high prices. Our mission is to bring stylish and durable jewelry to fashion lovers worldwide.</p><p><br></p><p>• 1 Gram Gold Plated Necklace<br>• African Style Statement Jewelry Set<br>• Gold Plated Designer Rings<br>• Luxury Gold Finish Earrings<br>• Premium Anti-Tarnish Jewelry Sets</p></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Monthly payouts on the 5th of every month after order verification.",
+  "recommend_score": 1.79,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39210,
+  "categories": "Apparel & Accessories",
+  "currency": "INR",
+  "symbol_currency": "&#8377;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 15,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "social_media_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Male"
+  ],
+  "target_audience_locations": [
+    "India",
+    "United States",
+    "United Kingdom",
+    "United Arab Emirates",
+    "Canada",
+    "Australia",
+    "Singapore",
+    "South Africa",
+    "Malaysia",
+    "Germany"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "paytm": 1,
+    "upi": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/4vz5sb-kp/register",
+  "offer_status": 2,
+  "name": "M N Gold & Gem",
+  "website": "https://www.mngoldandgem.in",
+  "hashtags": [
+    "#jewelry",
+    "#goldplated",
+    "#fashionjewelry",
+    "#luxuryjewelry",
+    "#antitarnish",
+    "#womensfashion",
+    "#africanjewelry",
+    "#statementjewelry",
+    "#mngoldandgem"
+  ],
+  "shop_id": 265456,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.42,
+  "program_id": 313449,
+  "myshopify_domain": "4vz5sb-kp.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 1133.16,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "33.33%",
+  "mkp_program_id": 313449,
+  "product_list": []
+}

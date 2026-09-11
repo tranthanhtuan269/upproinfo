@@ -1,0 +1,162 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1743032433_6152805_8e1c57474167798652510df67b5caa4b.jpg",
+  "description": "<p><span data-testid=\"youchat-text\"><strong>Brand Introduction:</strong><br>Naturally Radiant Beauty is dedicated to creating high-quality, natural skincare products inspired by the power of nature. We believe in clean, effective, and eco-friendly solutions that nourish your skin while promoting sustainability. Our products are crafted with love, using safe and organic ingredients to help our customers achieve glowing, healthy skin.</span></p>\r\n<p><span data-testid=\"youchat-text\"><strong>Product Description:</strong><br>Our skincare line features a range of products, including sugar scrubs, moisturizing soaps, lightweight body butters, oil glazes,&nbsp;</span><span data-testid=\"youchat-text\">and soothing Epsom Salts. Each product is infused with scents crafted with essential oils,&nbsp;<strong>moisture-rich ingredients</strong> (like cocoa butter and jojoba oil), and <strong>brightening agents</strong> (like vitamin C and turmeric) to refresh, hydrate, and enhance your skin&rsquo;s natural radiance.</span></p>\r\n<p><span data-testid=\"youchat-text\"><strong>Unique Selling Point (USP):</strong><br>We stand out with our commitment to <strong>natural ingredients</strong>,&nbsp;<strong>sustainability-focused practices</strong>, and&nbsp;<strong>clean beauty formulations</strong>&nbsp;that are free from harmful chemicals, cruelty-free, and suitable for all skin types. Our products are designed to provide effective, gentle care while aligning with eco-conscious values.</span></p>\r\n<p><span data-testid=\"youchat-text\"><strong>Payment Terms:</strong><br>We offer flexible payment options including paypal, zelle, venmo, and check.&nbsp;</span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.04,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35365,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok",
+    "Pinterest",
+    "Twitter"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/fhusid-v9/register",
+  "offer_status": 2,
+  "name": "Naturally Radiant Beauty Co.",
+  "website": "https://naturallyradiantbeauty.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 202139,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.8,
+  "program_id": 231711,
+  "myshopify_domain": "fhusid-v9.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 51.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "70%",
+  "mkp_program_id": 231711,
+  "product_list": []
+}

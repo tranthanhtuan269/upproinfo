@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/a40628a4e9df4bdb2ad855beae5b65e9.png",
+  "description": "<div style=\"text-align: left;\"><span style=\"color: rgb(34, 34, 34); font-family: &quot;Open Sans&quot;, sans-serif; letter-spacing: 0.28px; font-size: var(--size-body);\">Vita Green Group is a company that produces and markets health supplements and medical devices in Asia, Europe and the Americas. Established 23 years ago, founded by two medical doctors. Vita Green is already a household name in Hong Kong and parts of Europe. Vita Green is dedicated to bring health, youth and joy to all. To accomplish this, Vita Green has developed modern nutraceuticals of high quality, safety and reliability that enable modern urban residents to improve their health. Vita Green specializes in extracting health treasures based on the essence of herbs and traditional Chinese medicine, and manufacture them to the highest Western pharmaceutical standards with the help of sophisticated modern technology.</span></div><div style=\"text-align: left;\"><span style=\"color: rgb(34, 34, 34); font-family: &quot;Open Sans&quot;, sans-serif; letter-spacing: 0.28px; font-size: var(--size-body);\"><br></span><span style=\"color: rgb(34, 34, 34); font-family: &quot;Open Sans&quot;, sans-serif; letter-spacing: 0.28px; text-align: center; font-size: var(--size-body);\">Vita Green already has over 550 staffs, 3 GMP certified pharmaceutical factories, 6 overseas offices, over 60 specialty shops and 10 consignment counters all over Hong Kong and Macau. Vita Green owns tens of original brands and more than 150 products that sell across Asia, Europe and the U.S.</span></div>",
+  "payout_rate": "85.05%",
+  "payout_period": null,
+  "recommend_score": 7.18,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 17165,
+  "categories": "Beauty & Health",
+  "currency": "HKD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/online-e12c/register",
+  "offer_status": 2,
+  "name": "維特健靈官方海外專賣店 Vita Green Official Global Shop",
+  "website": "https://vitagreen.online",
+  "hashtags": [],
+  "shop_id": 71693,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.7,
+  "program_id": 81782,
+  "myshopify_domain": "online-e12c.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 1661.37,
+  "new_customer_commission": "20% per order",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "98.73%",
+  "mkp_program_id": 81782,
+  "product_list": []
+}

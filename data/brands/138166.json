@@ -1,0 +1,167 @@
+{
+  "logo": null,
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:&nbsp;</p>\r\n<p>Arte Guillom&eacute; nace en 2019 en la ciudad de Puebla y es fundada por Maria Fernanda Guillaumin Tenorio, teniendo como inspiraci&oacute;n, compartir su pasi&oacute;n por las piedras, elevando la decoraci&oacute;n de sus hogares y generando espacios aut&eacute;nticos.</p>\r\n<p>El M&aacute;rmol es una extracci&oacute;n de piedra natural, por lo que las piezas que tengas en tu hogar ser&aacute;n &uacute;nicas y exclusivas debido a su variaci&oacute;n de tono y veta</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Product description: <span>Arte Guillome es una marca Mexicana que hace productos de alta calidad en m&aacute;rmol para decoraci&oacute;n y creaci&oacute;n de espacios. Todas las piezas son fabricadas con m&aacute;rmol natural. El m&aacute;rmol es una extracci&oacute;n de piedra natural, cada pieza es EXCLUSIVA Y &Uacute;NICA debido a su variaci&oacute;n de tono y veta.</span><br>&bull; USP (Unique Selling Point): Online Store<br>&bull; Payment terms: Se paga despues de 15 d&iacute;as de la compra, si es que no hubo una devoluci&oacute;n de esa misma compra despues de la ventana de devoluciones de 7 d&iacute;as y se paga el 10% total de la compra&nbsp;<br><br></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.81,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29064,
+  "categories": "Home & Tools",
+  "currency": "MXN",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest",
+    "Blog",
+    "Podcast platforms",
+    "Content or Niche website",
+    "Comparison shopping engine",
+    "Coupons or Deals website"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Mexico"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<p>Solamenete podr&aacute;s ganar el dinero si la persona finaliza una compra a travez de tu link o cup&oacute;n de afiliado, y se te pagar&aacute; 15 d&iacute;as despues de la compra si la persona no hace una devoluci&oacute;n de su producto (tiene 1 semana para hacer devoluci&oacute;n). Solo se aceptan creadoras en el pa&iacute;s de m&eacute;xico por el momento. La ganancia del 10% se calcula por el monto final de la compra.</p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/88afb5-2/register",
+  "offer_status": 2,
+  "name": "Arte Guillomé",
+  "website": "https://arteguillome.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 138166,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.77,
+  "program_id": 156389,
+  "myshopify_domain": "88afb5-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 1094.29,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "87.5%",
+  "mkp_program_id": 156389,
+  "product_list": []
+}

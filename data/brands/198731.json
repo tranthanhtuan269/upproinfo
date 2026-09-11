@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1744144382_8153779_fdbea339b151ffa90f3cbe917360d35c.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><h2><span><strong>About JadyK 💛</strong></span></h2><p>JadyK is a fast growing brand built to solve real problems women face with traditional bras—uncomfortable wires, shifting padding, and lack of support.</p><p>Our products are designed for everyday life, combining comfort, function, and style. With our signature <strong>Helping Hands® 1-padding system</strong>, we’ve created a better, more reliable alternative to tradtional bras that women love—and come back for.</p><hr><h2><span><strong>What Makes Us Different</strong></span></h2><ul><li>Innovative <strong>1-piece padding system</strong> (no shifting, no hassle)</li><li>Supportive without wires or discomfort</li><li>Designed for real, everyday wear</li><li>High customer return rate = more lifetime earnings for you</li><li>Fast-growing brand with a loyal customer base</li></ul><h2><br></h2><h2><span><strong>🔥 Earn 10% For LIFE with JadyK</strong></span></h2><p>Bring a customer once… and get paid on every order they make.</p><ul><li>10% lifetime commission</li><li>Earn on reorders (even without your link)</li><li>Build a network → earn up to 4 levels deep</li><li>We may run ads using your content (you earn, we spend)</li></ul><p>💡 Real product. Real problem solved. High repeat buyers.</p><ul><li>Up to 50% off products for content</li><li>Monthly payouts</li><li>Real-time tracking</li></ul><p>👉 <strong>Turn your content into long-term income with JadyK</strong></p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "1st of each month",
+  "recommend_score": 2.14,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38812,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "brand_bidding"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://affiliate.jadyk.com/jadyk-beautique/register",
+  "offer_status": 2,
+  "name": "JadyK Beautique",
+  "website": "https://jadyk.com",
+  "hashtags": [
+    "#fashion",
+    "#bras",
+    "#bralettes"
+  ],
+  "shop_id": 198731,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.5,
+  "program_id": 227290,
+  "myshopify_domain": "jadyk-beautique.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 28,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "71.43%",
+  "mkp_program_id": 227290,
+  "product_list": []
+}

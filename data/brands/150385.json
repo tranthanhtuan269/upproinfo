@@ -1,0 +1,181 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1723221970_654259_99bbab5fb99cc99b259d489bf9077b0d.png",
+  "description": "<div style=\"background-color: #f7f7f7; padding: 20px; font-family: Arial, sans-serif; border-radius: 10px;\">\r\n<h2 style=\"text-align: center; color: #1e88e5; font-size: 22px; margin-bottom: 15px;\">Nutriop Longevity: The Future of Wellness, The Opportunity of a Lifetime</h2>\r\n<p style=\"font-size: 16px; color: #333; line-height: 1.6; text-align: left;\">Join <strong>Nutriop Longevity</strong>, a brand dedicated to advancing health through science. Our supplements, including the powerful <strong>Pure NMN</strong> and <strong>Life Ultra</strong>, are formulated to support a longer, healthier life.</p>\r\n<p style=\"font-size: 16px; color: #333; line-height: 1.6; text-align: left;\">Affiliates earn <strong style=\"color: #4caf50;\">25% commission</strong> on every referral, with fast payments and full support to maximize your success. Be part of a movement that&rsquo;s transforming lives and start earning with Nutriop today!</p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.68,
+  "average_earning_per_sale": "0",
+  "video_url": "https://cdn.shopify.com/videos/c/o/v/42f5cbd6e4c54a7292e1f53a21942f4b.mp4",
+  "mkp_listing_id": 31557,
+  "categories": "Beauty & Health, Grocery & Food",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1730887199_6051212_61ddacb1e8487f15c3bdfa6b442dfc5e.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States",
+    "Belgium",
+    "Czech Republic",
+    "Finland",
+    "Germany",
+    "Ireland",
+    "Netherlands",
+    "Australia",
+    "Spain"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/nutriop/register",
+  "offer_status": 2,
+  "name": "Nutriop Longevity",
+  "website": "https://nutriop.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 150385,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.2,
+  "program_id": 183939,
+  "myshopify_domain": "nutriop.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 78.69,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "82.35%",
+  "mkp_program_id": 183939,
+  "product_list": []
+}

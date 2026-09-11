@@ -1,0 +1,200 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1780905740_2820313_13e4b86e112105b173cc885a84989f5d.jpg",
+  "description": "<div style=\"font-family:Poppins;\"><div><ul><li style=\"text-align:left;font-size:14px;font-weight:normal;\">ofmarkt.de ist ein deutscher Online-Shop für osteuropäische, asiatische und internationale Spezialitäten. Unser Sortiment umfasst Süßwaren &amp; Pralinen, Tees, Spirituosen, Konserven, koreanische Instant-Nudeln, Sauna- und Freizeitartikel und vieles mehr. Wir liefern zuverlässig weltweit. Innerhalb deutschland ist die Lieferung ab 49€ kostenlos.</li><li style=\"text-align:left;font-size:14px;font-weight:normal;\">Wir führen Produkte, die im deutschen Einzelhandel kaum zu finden sind — authentische Geschmackserlebnisse für Menschen mit Wurzeln in Osteuropa und Asien sowie für alle, die internationale Küche lieben. Unser Shop wird von einem deutschen Unternehmen betrieben mit schnellem Versand und persönlichem Kundenservice.</li><li style=\"text-align:left;font-size:14px;font-weight:normal;\">Du verdienst bis zu 10 % Provision auf jede Bestellung, die über deinen persönlichen Affiliate-Link oder Rabattcode eingeht. Die Provision wird automatisch gutgeschrieben. Auszahlung erfolgt monatlich (1. des Monats) per PayPal oder Banküberweisung ab einem Mindestguthaben von 25 €. Kein Deckel, kein Limit.</li><li style=\"text-align:left;font-size:14px;font-weight:normal;\">Empfehle uns über Instagram, TikTok, YouTube, deinen Blog oder einfach im Freundeskreis. Du erhältst nach der Anmeldung sofort deinen persönlichen Affiliate-Link sowie einen eigenen Rabattcode für deine Community. Wir stellen dir auf Anfrage Produktbilder und Texte zur Verfügung.</li><li style=\"text-align:left;font-size:14px;font-weight:normal;\">Kein Mindestverkauf, keine versteckten Gebühren, kostenlose Registrierung. Cookie-Laufzeit: 60 Tage. Offen für alle — egal ob Micro-Influencer, Blogger oder Stammkunde. Bei Fragen erreichst du uns jederzeit per E-Mail unter <a>info</a><a class=\"underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current\" target=\"_blank\" rel=\"noreferrer noopener\">@ofmarkt.de</a>.</li></ul></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "1. des Monats",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39883,
+  "categories": "Food, Beverages & Tobacco",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "8%-10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 60,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Germany",
+    "France",
+    "Italy",
+    "Spain",
+    "Switzerland",
+    "Austria",
+    "Belgium",
+    "Greece",
+    "Netherlands",
+    "Poland"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ofmarkt/register",
+  "offer_status": 2,
+  "name": "OfMarkt.de",
+  "website": "https://ofmarkt.de",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 270754,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "8",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "200",
+      "commission_val": "10",
+      "disabled": false
+    }
+  ],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 320266,
+  "myshopify_domain": "mcmarkt-de.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 53.64,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "85.71%",
+  "mkp_program_id": 320266,
+  "product_list": []
+}

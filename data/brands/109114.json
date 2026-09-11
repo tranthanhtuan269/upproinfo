@@ -1,0 +1,225 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1691070412_1801472_a0e5bd9dc8d5c1a7762bc3d5b7a69d21dantelabs_logo300dpi.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Dante Labs is a leading global genomics and precision medicine company working to deliver better healthcare and save lives with a more human approach to health. Dante leverages expertise in science and healthcare to create customized genomic analysis processes that have an impact on people&rsquo;s lives.</p>\r\n<ul>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>MyGenome Sequencing Test</strong> is the only DNA Test worldwide that analyzes 100% of your DNA. Other DNA Tests only give you limited information based on a fraction of your DNA. Start making conscious health decisions and take a proactive approach to your health. You will Get: Health and Risk Panel, Wellness Report, Fitness Report, Nutrigenetic Report. Our Personalized Genetic Reports give you insights into your genetic predispositions to over 100 common diseases, and Well-being (Nutrition &amp; Scientific Fitness Report).</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>Rare Disease Health Package</strong>: Navigate the complex landscape of rare diseases with our Comprehensive Rare Disease Health Package. This personalized package combines high-resolution whole genome sequencing with in-depth interpretation, providing a focused report on rare diseases that fits your genetic profile. Our service goes beyond the report, offering you a chance to discuss your results with a rare disease specialist through an online consultation. Together, we aim to empower you with the knowledge and tools you need to manage your health in an informed, proactive way. Understanding starts with us - start your journey today.</li>\r\n</ul>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>By joining our affiliation program, you can promote the MyGenome Sequencing test and the Rare Disease Health Package to your members and network. As an affiliate, you will earn a commission of 10% on each package sold through your referral. The conversion window for this program is 60 days, meaning that any sales made within 60 days of a referral from you will be eligible for commission.<br><br></p>",
+  "payout_rate": "57.47%",
+  "payout_period": null,
+  "recommend_score": 3.17,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 25889,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Arab Emirates",
+    "Bulgaria",
+    "Czech Republic",
+    "Germany",
+    "France",
+    "United Kingdom",
+    "Croatia",
+    "Hungary",
+    "Romania",
+    "Saudi Arabia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/dante-labs/register",
+  "offer_status": 2,
+  "name": "Dante Labs Global",
+  "website": "https://www.dantelabs.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 109114,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.33,
+  "program_id": 124078,
+  "myshopify_domain": "dante-labs.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24da25d235d1f700103d5",
+      "name": "Auto-discount rule",
+      "program_id": 124078,
+      "shop_id": 109114,
+      "affiliates": [],
+      "discount_type": 2,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": "UPREFERRALS",
+      "active_at": "2025-09-23 07:34:58",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 11.97,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "93.6%",
+  "mkp_program_id": 124078,
+  "product_list": []
+}

@@ -1,0 +1,183 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/5f20dfd6f75ee55a7c3ef175bd51eb89.png",
+  "description": "<p class=\"p1\">Welcome to the Nazar Fragrances Affiliate Program &ndash; where luxury meets opportunity! If you're passionate about scents, style, and making money, you're in the right place. Join our family of affiliates and embark on a fragrant journey that not only delights the senses but also fills your pockets.&nbsp; WE ARE OFFERING 10$ PER BOTTLE SOLD</p>\r\n<p class=\"p1\">Become a Nazar Fragrances affiliate today and transform your passion for perfumes into a lucrative venture. Whether you're a beauty influencer, a fashionista, or just someone who appreciates the magic of scent, our affiliate program is the perfect opportunity to turn your love for fragrances into a thriving business.</p>\r\n<p class=\"p1\">Don't wait to embark on this fragrant journey with us! Join Nazar Fragrances and let's create a world that smells as beautiful as it looks. Your success is just a scent away.</p>",
+  "payout_rate": "77.87%",
+  "payout_period": null,
+  "recommend_score": 3.53,
+  "average_earning_per_sale": "10",
+  "video_url": null,
+  "mkp_listing_id": 27027,
+  "categories": "Fashion, Beauty & Health, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Arab Emirates",
+    "India",
+    "Turkey",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/nazarfragrances2/register",
+  "offer_status": 2,
+  "name": "Nazar Fragrances",
+  "website": "https://www.nazarfragrances.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 112883,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "15"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.35,
+  "program_id": 127976,
+  "myshopify_domain": "nazarfragrances2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 67.6,
+  "new_customer_commission": "15% per order",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "30%",
+  "mkp_program_id": 127976,
+  "product_list": []
+}

@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1677239684_655724_98dfa0605feba8ebbfa0473923d3c5aeMAMG Logo.png",
+  "description": "<p><span style=\"color: rgba(0, 15, 30, 0.7); font-family: Montserrat, sans-serif; font-size: 19.8px; text-align: left; background-color: rgb(255, 255, 255); float: none; display: inline;\">Piers Ward and Andy Proudman have given tens of thousands of golf lessons to the average golfer over the past 20 years. They've also been fortunate to work with some of the best golfers on the planet, from world number ones and major champions to living legends of the game. And even taken Aaron Rai from an 11-year-old junior to playing on the PGA Tour. They have put all of this incredible experience directly into the Me And My Golf coaching platform so that we can help as many golfers around the world play the best golf of their lives. Now - we have launched our own range of training aids that, along with the exclusive lessons that come with the product, can improve your game in a matter of weeks.</span></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.3,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 21507,
+  "categories": "Sports & Entertainment",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1677240484_5248148_aeb4dd3046999b2b5c6b485f6e2f799c.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/meandmygolf/register",
+  "offer_status": 2,
+  "name": "Me and My Golf",
+  "website": "https://shop.meandmygolf.com",
+  "hashtags": [],
+  "shop_id": 89257,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.3,
+  "program_id": 101922,
+  "myshopify_domain": "meandmygolf.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 34.18,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "34.95%",
+  "mkp_program_id": 101922,
+  "product_list": []
+}

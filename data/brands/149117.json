@@ -1,0 +1,171 @@
+{
+  "logo": null,
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Unit size: 125*49*27 mm(LxWxH)</span><br><span>Unit weight(without battery): 64g</span><br><span>Temperature display resolution: 0.1C(0.1F)</span><br><span>Consumption: &le;300mW</span><br><span>Memory: 32 sets</span><br><span>Normal using condition:</span><br><span>Ambient temperature: 10&deg;C ~ 40&deg;C (50&deg;F ~ 104&deg;F)</span><br><span>Relative humidity: &le;85%</span><br><span>Audible alarm if temperature is more than 38&deg;C (100.4&deg;F)</span><br><span>It can be displayed in either Celsius or Fahrenheit</span><br><span>Longevity use 100,000 readings</span><br><span>Eliminates cross contamination</span><br><span>Hygienic and easy to use</span><br><span>Accuracy: &plusmn; 0.3&deg;C (0.6&deg;F)</span><br><span>Response Time: 1 sec</span><br><span>Suggested Age: Newborn and Up</span><br><span>Automatic power-off: &lt;30 secs</span>&bull; Brand introduction: <br>&bull; Product description: <br>&bull; USP (Unique Selling Point): <br>&bull; Payment terms: <br>&bull; Other information:</p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.94,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30137,
+  "categories": "Beauty & Health, Mom & Kids",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Twitter",
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "China",
+    "United States",
+    "United Kingdom",
+    "Spain",
+    "Italy",
+    "Germany",
+    "France"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/berrcomonline/register",
+  "offer_status": 2,
+  "name": "berrcomonline",
+  "website": "https://www.berrcomonline.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 149117,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 169356,
+  "myshopify_domain": "berrcomonline.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "6.67%",
+  "mkp_program_id": 169356,
+  "product_list": []
+}

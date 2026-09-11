@@ -1,0 +1,201 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1729233771_5913372_aeba014219a0b0777497e5981c7ad486.png",
+  "description": "<div style=\"font-family:Poppins;\"><div style=\"border-style:solid;border-width:0px;color:rgb(28,28,28);font-family:Poppins, sans-serif;font-size:14px;white-space:normal;background-color:rgb(255,255,255);\" class=\"product-info__block-item\"><div style=\"border-style:solid;border-width:0px;\" class=\"prose\"><strong>Ready to earn while spreading the goodness of Aromatherapy and Natural Wellness?</strong><br><br>At Incensesticks, we infuse everyday routines with the rich heritage of Ayurveda through our handcrafted, eco-friendly, cruelty-free aromatic products—completely free from harmful synthetics. We’d also be happy to send <strong>free products for review</strong> so you can experience our wellness range firsthand.<br>As an affiliate, you’ll not only promote our calming, stress-relieving aromatherapy essentials, but you’ll also earn a <strong>10% commission on every order</strong> generated through your link. We can also create a <strong>unique coupon code</strong> that you can share with your audience, giving them a flat <strong>20% off on their first order</strong> — a great way to boost engagement and conversions.<br>If this aligns with your audience, I’d love to have you on board!<br><br></div></div></div>",
+  "payout_rate": "62.5%",
+  "payout_period": "After every order",
+  "recommend_score": 3.34,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32730,
+  "categories": "Home & Tools, Pet supplies, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "push_notification",
+    "social_media_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/incensesticks-com/register",
+  "offer_status": 2,
+  "name": "Incense Sticks",
+  "website": "https://incensesticks.com",
+  "hashtags": [
+    "#incense",
+    "#incensesticks",
+    "#petsafe",
+    "#petincense",
+    "#diffusers",
+    "#homewellness",
+    "#essentialoils",
+    "#candles",
+    "#homefragrance",
+    "#aromatherapy",
+    "#potpourri",
+    "#herbalproducts",
+    "#haircare",
+    "#neemcomb"
+  ],
+  "shop_id": 6388,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "5",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "30",
+      "commission_val": "10",
+      "disabled": false
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.24,
+  "program_id": 195391,
+  "myshopify_domain": "incensesticks-com.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 19.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "68%",
+  "mkp_program_id": 195391,
+  "product_list": []
+}

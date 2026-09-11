@@ -1,0 +1,160 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1701190705_4737607_328610e90af9cad43b1755a67bd2041e.jpg",
+  "description": "<p>Touchy Coffee, established in 2018, has quickly become a favorite in the dynamic coffee scene, blending a meticulous approach to quality with a brand image that's both friendly and inviting. Our selection of vibrant and accessible coffees is sourced from farmers who are passionate about their craft, reflecting our dedication to excellence and our support for the coffee supply chain. This blend of professionalism and approachability has driven our growth, with notable increases in both wholesale and direct-to-consumer sales. Our \"showroom\" roastery caf&eacute; has turned into a hub for coffee lovers, showcasing our expertise and welcoming spirit. With our products now available in over 60 retail outlets and a growing base of loyal subscribers, Touchy Coffee has established itself as a standout brand in the competitive coffee market.</p>\r\n<p>We are excited to offer influencers and creators a unique opportunity to partner with us through an affiliate marketing program. This partnership allows you to share your love for exceptional coffee with your audience while earning from each sale made through your unique affiliate link. Join us in promoting a brand that values quality, sustainability, and a genuine connection with the coffee community. Let's brew success together and bring our Coffee Time subscription to every household!</p>",
+  "payout_rate": "23.75%",
+  "payout_period": null,
+  "recommend_score": 2.3,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 28240,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 28,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Tiktok",
+    "Instagram"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/touchy-coffee-dev/register",
+  "offer_status": 2,
+  "name": "Touchy Coffee",
+  "website": "https://touchycoffee.com/products/coffee-time",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 124894,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.9,
+  "program_id": 141617,
+  "myshopify_domain": "touchy-coffee-dev.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 45,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "96.47%",
+  "mkp_program_id": 141617,
+  "product_list": []
+}

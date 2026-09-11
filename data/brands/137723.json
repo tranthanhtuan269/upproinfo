@@ -1,0 +1,155 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1708685457_8973075_d6e6e03dd7ca261e8c50aeec56855a0e.png",
+  "description": "<p><em>Dosprimeras naci&oacute; con la idea de crear dise&ntilde;os que respirasen alegr&iacute;a, naturalidad y elegancia, creando joyas &uacute;nicas y atemporales que acompa&ntilde;asen a las mujeres en todos sus d&iacute;as.</em></p>\r\n<p><em>El arte, la naturaleza, la artesan&iacute;a y los peque&ntilde;os detalles de la vida, son algunas de las cosas que nos inspiran y nos ayudan a crear.</em></p>\r\n<p><em>Dise&ntilde;amos nuestras joyas apostando por dise&ntilde;os &uacute;nicos y de calidad. Todas ellas est&aacute;n fabricadas en lat&oacute;n y plata y ba&ntilde;adas en oro de 24Kt, para que te acompa&ntilde;en a lo largo de tu vida.</em></p>\r\n<p><em>Ponemos amor en todo lo que hacemos. Bienvenida a nuestro mundo Dosprimeras.</em></p>\r\n<p><em>Gracias por formar parte de &eacute;l.</em></p>",
+  "payout_rate": "17.08%",
+  "payout_period": null,
+  "recommend_score": 2.5,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 29001,
+  "categories": "Jewelry & Accessories",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1708685272_1007942_28cc2e4b9bc1813d51e9b860a6ce274b.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Spain"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/dosprimeras/register",
+  "offer_status": 2,
+  "name": "dosprimeras",
+  "website": "https://dosprimeras.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 137723,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.38,
+  "program_id": 155881,
+  "myshopify_domain": "dosprimeras.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 133.79,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "78.43%",
+  "mkp_program_id": 155881,
+  "product_list": []
+}

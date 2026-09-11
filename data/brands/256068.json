@@ -1,0 +1,171 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1772047311_7610811_ceff37f8d4becbaa6f54024b25a8f023.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p class=\"PDq2pG_selectionAnchorContainer\"><strong>About our brand and products:</strong><br>Oh Orchid is a modern jewelry brand creating feminine, meaningful pieces designed to be worn often and connected to moments that matter - from everyday outfits to weddings, gifting, and sentimental occasions. Our collections include necklaces, earrings, bracelets, lockets, charm jewelry, and engravable keepsakes, with each piece created to feel stylish, elevated, and personal.</p><p><strong>What makes us different:</strong><br>Oh Orchid blends trend-aware jewelry with sentimental meaning. Inspired by growth, beauty, resilience, and the orchid flower, our pieces are designed to feel more personal than standard fashion jewelry. We focus on refined details, wearable designs, and jewelry that helps customers express who they are, celebrate milestones, and carry meaningful moments with them.</p><p><strong>How affiliates can earn:</strong><br>Affiliates can earn commission by sharing Oh Orchid products with their audience through approved links, discount codes, and promotional content. When a customer shops through an affiliate’s unique link or code, the affiliate earns a commission on qualifying purchases.</p><p><strong>How to promote us:</strong><br>Affiliates may promote Oh Orchid through approved traffic channels including content, SEO, email marketing, paid media where permitted, communities, and social platforms. Recommended promotion methods include blog posts, gift guides, jewelry styling content, social posts, outfit inspiration, lifestyle integrations, email newsletters, and SEO-optimized content. Paid media requires trademark/brand bidding restrictions and approved creative.</p><p><strong>Other information:</strong><br>Affiliates should represent Oh Orchid in a way that feels authentic, tasteful, and aligned with the brand’s feminine, meaningful, and elevated identity. Content should focus on styling, gifting, sentimental jewelry, weddings, everyday wear, and personal expression. Affiliates should avoid misleading claims, unauthorized discounts, or promotions that do not reflect the brand accurately.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.89,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 40106,
+  "categories": "",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "12% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "extension_software",
+    "email_marketing",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ad08c7-ec/register",
+  "offer_status": 2,
+  "name": "Oh Orchid",
+  "website": "https://ohorchid.com",
+  "hashtags": [
+    "#jewelry",
+    "#accessories"
+  ],
+  "shop_id": 256068,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 300025,
+  "myshopify_domain": "ad08c7-ec.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 72.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "63.64%",
+  "mkp_program_id": 300025,
+  "product_list": []
+}

@@ -1,0 +1,183 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1725283798_720910_34e3de35b2116e028a4e101d2e93cf5e.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: <span>Where fashion meets folklore. Step into a realm where garments are more than just fabric; they're chapters of ancient Japanese tales waiting to be told. Discover your mythic style today!</span>&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Product description: Kojiki Apparel is a clothing brand based in Switzerland that uses eco-friendly print-on-demand services.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; USP (Unique Selling Point): <span>A clothing brand that is built on the belief that good design and interesting topics can be a great benefit and bring people together.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Payment terms:&nbsp; Paypal, Bank Or Debit Card Payouts</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Other information:&nbsp;<span>We are a new brand and aim to become a household name in the fashion industry. Join us on this journey.</span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "4",
+  "video_url": null,
+  "mkp_listing_id": 31705,
+  "categories": "Fashion, Art",
+  "currency": "CHF",
+  "symbol_currency": "&#67;&#72;&#70;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1724100761_6993095_72cdb3eb9bccf1b049958e2e1cf9e998.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 90,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Switzerland",
+    "United States",
+    "United Kingdom",
+    "Japan",
+    "South Africa",
+    "Germany",
+    "Canada",
+    "Brazil",
+    "Italy",
+    "Monaco"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/kojiki-apparel/register",
+  "offer_status": 2,
+  "name": "Kojiki Apparel",
+  "website": "https://kojiki.shop",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 158717,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.97,
+  "program_id": 180530,
+  "myshopify_domain": "kojiki-apparel.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "37.5%",
+  "mkp_program_id": 180530,
+  "product_list": []
+}

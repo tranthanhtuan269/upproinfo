@@ -1,0 +1,221 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1751484810_4370303_1d8b57c2f0f1409f11f80d1f42e89c49.png",
+  "description": "<p>Empowering Weightlifters Everywhere</p>\r\n<p>LUXIAOJUN fuels the passion for weightlifting, driven by a profound love for the sport and unwavering dedication to quality.</p>\r\n<p>Our Essence: Rooted in weightlifting, our mission is to equip and inspire the community. \"By weightlifter, for weightlifter\" defines our core.</p>\r\n<p>Our Products: Explore our range:</p>\r\n<ul>\r\n<li>Weightlifting Shoes: Engineered for performance and comfort.</li>\r\n<li>Accessories: Tailored for optimized training and protection.</li>\r\n<li>Barbells and Plates: Crafted for precision and durability.</li>\r\n</ul>\r\n<p>Join LUXIAOJUN to elevate your weightlifting journey.</p>",
+  "payout_rate": "94.09%",
+  "payout_period": null,
+  "recommend_score": 5.17,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 27640,
+  "categories": "Fashion, Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "8% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada",
+    "Mexico",
+    "United Kingdom",
+    "Brazil",
+    "Argentina",
+    "Chile",
+    "Japan",
+    "Korea",
+    " Republic of",
+    "Singapore"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/LUXIAOJUN/register",
+  "offer_status": 2,
+  "name": "LUXIAOJUN",
+  "website": "https://luxiaojun.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 123398,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.7199999999999998,
+  "program_id": 139935,
+  "myshopify_domain": "7a805a-4.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "69cab39ab8a52e15830adfb2",
+      "name": "CrossFit Clearance",
+      "program_id": 139935,
+      "shop_id": 123398,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": true,
+          "discount_type": "fixed_amount",
+          "amount": 109,
+          "message": "Early Access Clearance",
+          "product_applies_type": "specific_product",
+          "select_data": [
+            "9937732731161",
+            "9937705402649"
+          ]
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": false,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": null,
+      "created_at": "2026-03-30T17:32:10.868000Z",
+      "updated_at": "2026-06-22T13:57:35.110000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 184.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "99.38%",
+  "mkp_program_id": 139935,
+  "product_list": []
+}

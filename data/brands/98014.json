@@ -1,0 +1,168 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/b9805a8edb9edf198d7a06d0dd5117ea.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Onaturo, Th&eacute;rapie Cacao, 1&egrave;re gamme d'infusion au cacao &amp; aux plantes Bio</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Infusions et tisanes de cacao aux plantes, bien-&ecirc;tre &agrave; base de cacao brut sans conservateur ou ar&ocirc;me 100% naturel et bio, fabrication artisanale fran&ccedil;aise.<br><br>Tous moyens de paiement, livraison rapide en point relais ou &agrave; domicile.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Livraison gratuite &agrave; partir de 49&euro;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.06,
+  "average_earning_per_sale": null,
+  "video_url": "https://www.youtube.com/@onaturo",
+  "mkp_listing_id": 23225,
+  "categories": "Beauty & Health, Grocery & Food",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "France"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/onaturostore/register",
+  "offer_status": 2,
+  "name": "Onaturo Store",
+  "website": "https://www.onaturo.store",
+  "hashtags": [
+    "#infusion",
+    "#tea",
+    "#cacao"
+  ],
+  "shop_id": 98014,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.85,
+  "program_id": 111645,
+  "myshopify_domain": "onaturobio.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 47.35,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "8.33%",
+  "mkp_program_id": 111645,
+  "product_list": []
+}

@@ -1,0 +1,166 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1710882901_7333657_58f059de7f3de03be67317fc9a13a853.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Wulf Wear epitomizes peak performance in athletic apparel. Crafted with precision and passion, our cutting-edge designs seamlessly fuse style with functionality. Engineered from high-performance fabrics, our products empower athletes to conquer their limits. Elevate your game with Wulf Wear &ndash; where innovation meets endurance for an unparalleled athletic experience.</p>",
+  "payout_rate": "12.5%",
+  "payout_period": null,
+  "recommend_score": 1.42,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 28911,
+  "categories": "Fashion, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1708283868_2758527_b859fe4528c2b3ed2fdc82b8bf5161f1.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Pinterest",
+    "Blog",
+    "Content or Niche website"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<p><em class=\"ql-font-helvetica\">By submitting this form you agree to the Terms of Service. By entering your phone number you agree to receive marketing text messages from our company at the number provided, including messages sent by autodialer.&nbsp;Consent is not a condition of purchase.&nbsp;Message and data rates may apply.&nbsp;Message frequency varies.&nbsp;Reply HELP for help or STOP to cancel. View our&nbsp;</em><a class=\"ql-font-helvetica\" href=\"https://astoria-activewear.com/pages/privacy-policy\" target=\"_blank\" rel=\"noopener\"><em>Privacy Policy</em></a><em class=\"ql-font-helvetica\">&nbsp;and&nbsp;</em><a class=\"ql-font-helvetica\" href=\"https://astoria-activewear.com/pages/terms-of-service\" target=\"_blank\" rel=\"noopener\"><em>Terms of Service</em></a><em class=\"ql-font-helvetica\">.</em></p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/wulf-wear-com/register",
+  "offer_status": 2,
+  "name": "WULF",
+  "website": "https://wulfwear.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 84822,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 97076,
+  "myshopify_domain": "wulf-wear-com.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 28.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "31.78%",
+  "mkp_program_id": 97076,
+  "product_list": []
+}

@@ -1,0 +1,162 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1737041952_8333605_1232dfd802c7325c72417b585e87e3ab.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>&bull; Brand introduction:</strong><br>Brunde is a brand of Brown fleece-lined tights designed to look natural while keeping you warm. This idea came to me because I always struggled to find fleece tights that suited me. Most of the options I found had a greyish undertone and didn&rsquo;t feel like they were made with skin tones like mine in mind. I was tired of waiting for major brands to create something inclusive, so I decided to take matters into my own hands and launch Brunde.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>&bull; Product description:&nbsp;</strong><br>Our tights are fleece-lined on the inside to keep you warm, while the outside looks like classic brown translucent tights. They&rsquo;re perfect for cold weather and stylish enough for any outfit, giving you both comfort and elegance.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br><strong>&bull; USP (Unique Selling Point):</strong><br>Unlike other brands, Brunde&rsquo;s shades are designed to be inclusive of a variety of skin tones, ensuring that many can find a match. Our mission is to create tights that celebrate diversity rather than exclude large parts of the population.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br><strong>&bull; Payment terms:</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We pay commissions through PayPal twice a month, on the 1st and the 15th. You&rsquo;ll also have access to a dashboard where you can track your sales, commissions, and payouts in real time.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.74,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34051,
+  "categories": "Fashion",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1737054023_3983966_315e74eb4dba39a1eefa3ab590ad5b9d.png",
+  "rule": 1,
+  "commission_type": 1,
+  "commission": "€5.00 per item",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Youtube",
+    "Facebook"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Belgium",
+    "Netherlands",
+    "France",
+    "Luxembourg"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/brunde/register",
+  "offer_status": 2,
+  "name": "BRUNDE",
+  "website": "https://brunde.net",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 190633,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 216736,
+  "myshopify_domain": "cee092-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "28.57%",
+  "mkp_program_id": 216736,
+  "product_list": []
+}

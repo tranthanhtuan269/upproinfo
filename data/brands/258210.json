@@ -1,0 +1,180 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1773150583_7956649_523a499e03ff5e870decbb5880047959.png",
+  "description": "<div style=\"font-family:Poppins;\"><p><strong><u>About us</u></strong></p><p>Dewkes is an independent UK dog food brand built on one simple belief: Dogs deserve better.</p><p>Founded in Wales in 2021, what started as a family-run, local pet store has now turned into a national brand,  providing dogs and their owners with tasty, healthy treats at home and in hospitality venues and retailers across the UK.</p><p><strong><u>Our products</u></strong></p><p>Our product range includes natural, high protein treats, grain-free dog food, and thoughtful dog gift boxes.</p><p>Everything is natural, grain-free and hypoallergenic. We try to keep the number of ingredients to a minimum, and ensure no fillers, artificial ingredients or nasties are included. Meaning they’re kind on tummies but big on taste. </p><p><strong><u>How affiliates can earn</u></strong></p><p>Affiliates earn 10% commission on all sales generated through Dewkes.co.uk. With a growing range of products and strong appeal to dog owners, it’s a great opportunity to earn by recommending products you genuinely love.</p><p><strong><u>How to promote us</u></strong></p><p>You can promote Dewkes through blogs, social media, product reviews, gift guides, newsletters, and dog-focused communities. Our products work especially well in dog lifestyle, pet care and outdoor living content.</p><p><strong><u>Other information</u></strong></p><p>We’re always excited to work with passionate dog lovers who want to share great products with their audience. Join the Dewkes pack and help more dogs (and their humans) discover Dewkes.</p></div>",
+  "payout_rate": "0%",
+  "payout_period": "Monthly",
+  "recommend_score": 2.34,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38595,
+  "categories": "Animals & Pet Supplies",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "incentivised_traffic_loyalty",
+    "email_marketing",
+    "cashback",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/dewkes-dog/register",
+  "offer_status": 2,
+  "name": "Dewkes Retail",
+  "website": "https://www.dewkes.co.uk",
+  "hashtags": [
+    "#dogsofinstagram",
+    "#doglife",
+    "#doglover",
+    "#instadog",
+    "#naturaldogtreats",
+    "#dogwellness",
+    "#dogtreats",
+    "#nonasties",
+    "#dogmomlife",
+    "#dogdad",
+    "#dogsarefamily"
+  ],
+  "shop_id": 258210,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.02,
+  "program_id": 302788,
+  "myshopify_domain": "dewkes-store.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United Kingdom"
+  ],
+  "avg_order_value": 21.53,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "69.7%",
+  "mkp_program_id": 302788,
+  "product_list": []
+}

@@ -1,0 +1,166 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1727730780_2794301_b5e7b3149632eff5f3bb8a1969354a76.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>&bull; Brand introduction: </strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">At Peforever, we specialize in creating personalized pet memorabilia products that captures the unique spirit of your furry friends.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br><strong>&bull; Product description:</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our Custom Pet Products range includes personalized items such as pet pillows, portraits, figurines, and more. Each product is tailored to reflect your pet&rsquo;s unique personality, making them perfect for gifts or treasured keepsakes.&nbsp;</p>\r\n<h2 style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br><strong>&bull; USP (Unique Selling Point):</strong></h2>\r\n<p><span style=\"font-size: 10pt;\">What makes us stand out is our attention to detail and commitment to personalization. Each item is crafted with love, ensuring that every piece is as unique as your furry friend, providing an emotional connection that ordinary gifts simply can&rsquo;t match.&nbsp;</span></p>\r\n<p><br><strong>&bull; Payment terms:</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We accept major credit cards, PayPal, shopify payment and other secure payment methods. Full payment is required at the time of order.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.09,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32437,
+  "categories": "Pet supplies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok",
+    "Youtube",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/peforever/register",
+  "offer_status": 2,
+  "name": "Peforever",
+  "website": "https://peforever.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 169233,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.97,
+  "program_id": 192520,
+  "myshopify_domain": "c740c8-0b.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 54.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "6.67%",
+  "mkp_program_id": 192520,
+  "product_list": []
+}

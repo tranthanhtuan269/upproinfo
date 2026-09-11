@@ -1,0 +1,184 @@
+{
+  "logo": null,
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: WE ARE ELECTRONIC GADGET STORE&nbsp;&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">we give 10percent commision on every product you sell from our website&nbsp;</p>\r\n<div class=\"flex-shrink-0 flex flex-col relative items-end\">\r\n<div>\r\n<div class=\"pt-0\">\r\n<div class=\"gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full\">\r\n<div class=\"relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex max-w-full flex-col flex-grow\">\r\n<div data-message-model-slug=\"gpt-4o-mini\" class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5\" dir=\"auto\" data-message-id=\"9fb34521-ab22-4054-a9df-6ab9a209285d\" data-message-author-role=\"assistant\">\r\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n<p>Here's a more generalized version of the email for a wider audience:</p>\r\n<hr>\r\n<p><strong>Subject:</strong> Earn 10% Commission by Promoting 1o1deal.com!</p>\r\n<p><strong>Hello,</strong></p>\r\n<p>We&rsquo;re excited to invite you to join the <strong>affiliate program</strong> for <strong>1o1deal.com</strong> &ndash; an online store offering a wide range of exclusive products. By becoming an affiliate, you can earn <strong>10% commission</strong> on every sale made through your unique referral link!</p>\r\n<h3>Why Join?</h3>\r\n<ul>\r\n<li><strong>10% Commission</strong> on all sales you generate.</li>\r\n<li>Access to a variety of high-quality products to promote.</li>\r\n<li><strong>Exclusive Discounts</strong> for your followers.</li>\r\n<li>Easy tracking and payouts through UpPromote.</li>\r\n</ul>\r\n<p>Getting started is simple &ndash; just sign up for our affiliate program, and you&rsquo;ll receive a custom referral link to start sharing with your audience. The more you promote, the more you earn!</p>\r\n<p>Sign up today and start earning:<br>[Insert affiliate sign-up link here]</p>\r\n<p>If you have any questions or need assistance, feel free to reach out. We look forward to working with you!</p>\r\n<p>Best regards,<br><strong>1o1deal.com</strong> Team</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "17",
+  "video_url": null,
+  "mkp_listing_id": 33284,
+  "categories": "Phone & Telecommunication, Electronics",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over",
+    "Under 18"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "Australia",
+    "United States",
+    "United Kingdom",
+    "New Zealand",
+    "Pakistan",
+    "India"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "paytm": 1,
+    "upi": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/wns77b-ws/register",
+  "offer_status": 2,
+  "name": "1o1. Deals",
+  "website": "https://wns77b-ws.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 175335,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 200051,
+  "myshopify_domain": "wns77b-ws.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "33.33%",
+  "mkp_program_id": 200051,
+  "product_list": []
+}

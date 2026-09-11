@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/eed71546340f01cb334344f714bb8fdb.jpg",
+  "description": "<div>\r\n<p>Welcome to Stick Hunters, where the spirit of adventure meets the joys of childhood! Based in sunny Australia, we&rsquo;re a passionate team dedicated to bringing you kids' clothing and accessories that embody the carefree, outdoor lifestyle we love.</p>\r\n<p>Our designs are inspired by the natural world, celebrating the simple pleasures of exploring and playing in the great outdoors. Each piece is crafted with the utmost care, using certified organic cotton and keeping both environmental and ethical considerations at the forefront. At Stick Hunters, we believe in creating high-quality, comfortable clothing that allows kids to embrace their wild side while ensuring a positive impact on the planet.</p>\r\n<p>Join us in celebrating childhood with pieces that are as fun and vibrant as your little adventurers!<br><br>We will provide you with a discount code and you get 10% of the sales done using your code. Payment via Paypal or bank transfer if in AU.&nbsp;</p>\r\n</div>",
+  "payout_rate": "20%",
+  "payout_period": null,
+  "recommend_score": 0.86,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 31341,
+  "categories": "Mom & Kids",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "New Zealand",
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/stickhunters-co-nz/register",
+  "offer_status": 2,
+  "name": "StickHunters.com.au",
+  "website": "https://www.stickhunters.co.nz",
+  "hashtags": [
+    "#toddler",
+    "#motherhood",
+    "#outdoor",
+    "#kids",
+    "#baby"
+  ],
+  "shop_id": 95863,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.77,
+  "program_id": 109503,
+  "myshopify_domain": "stickhunters-co-nz.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 80.83,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "38.89%",
+  "mkp_program_id": 109503,
+  "product_list": []
+}

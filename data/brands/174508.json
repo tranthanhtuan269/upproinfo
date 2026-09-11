@@ -1,0 +1,162 @@
+{
+  "logo": null,
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">At&nbsp;<strong data-end=\"64\" data-start=\"46\">Credence Farms</strong>, we are dedicated to providing <strong data-end=\"144\" data-start=\"96\">premium, beyond-organic, nutrient-dense beef</strong> raised with integrity and sustainability. Our commitment to <strong data-end=\"229\" data-start=\"205\">regenerative farming</strong> ensures that every cut we produce is not only rich in flavor but also supports a healthier planet. By prioritizing <strong data-end=\"408\" data-start=\"345\">ethical ranching practices, soil health, and animal welfare</strong>, we deliver <strong data-end=\"450\" data-start=\"421\">clean, high-quality meats</strong> you can trust.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">✔️ <strong data-end=\"542\" data-start=\"507\">Beyond Organic &amp; Nutrient-Dense</strong> &ndash; Our beef is raised on regenerative pastures, ensuring superior nutrition and taste.<br data-end=\"631\" data-start=\"628\">✔️ <strong data-end=\"664\" data-start=\"634\">Farm-to-Table Transparency</strong> &ndash; We take pride in <strong data-is-only-node=\"\" data-end=\"705\" data-start=\"684\">full traceability</strong>, from our pastures to your plate.<br data-end=\"742\" data-start=\"739\">✔️ <strong data-end=\"776\" data-start=\"745\">No Antibiotics, No Hormones</strong> &ndash; Just pure, responsibly raised beef.<br data-end=\"817\" data-start=\"814\">✔️ <strong data-end=\"850\" data-start=\"820\">Unmatched Flavor &amp; Quality</strong> &ndash; Rich marbling, tender texture, and deep, natural flavor set us apart.<br data-end=\"925\" data-start=\"922\">✔️ <strong data-end=\"958\" data-start=\"928\">Sustainability at the Core</strong> &ndash; Our regenerative practices <strong data-end=\"1036\" data-start=\"988\">restore soil health and promote biodiversity</strong>, making every purchase a step toward a more sustainable future.<br data-end=\"1103\" data-start=\"1100\">✔️ <strong data-end=\"1136\" data-start=\"1106\">Exclusive &amp; Limited Supply</strong> &ndash; Unlike mass-produced meat, our beef is carefully crafted in <strong data-end=\"1216\" data-start=\"1199\">small batches</strong> for peak quality.</p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.91,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34998,
+  "categories": "Beauty & Health, Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Blog",
+    "Etsy",
+    "Pinterest",
+    "Podcast platforms",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": [],
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/9af253-cb/register",
+  "offer_status": 2,
+  "name": "Credence Farms",
+  "website": "https://credencefarms.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 174508,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 220830,
+  "myshopify_domain": "9af253-cb.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 220830,
+  "product_list": []
+}

@@ -1,0 +1,159 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1719214831_1280994_42b6ad11ed0e4da35985b8d381714ae8.jpg",
+  "description": "<p>Are you ready to some serious cash while helping your friends to achieve luscious looking hair?&nbsp;</p>\r\n<p>With our exclusive Referral Program, you can earn at least $7 for every bottle your friends purchase from us.</p>\r\n<p>But that doesn't end here - you can make an additional $1,500 monthly with ease. Let us show you how it works.</p>\r\n<p>Step 1: Registration</p>\r\n<p>Signing up for our Referral Program is quick and easy. In less than 5 mintues, you'll be on your way to earning extra income. Once you register, you'll receive an exclusive referral code</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.09,
+  "average_earning_per_sale": "7",
+  "video_url": null,
+  "mkp_listing_id": 30771,
+  "categories": "Beauty & Health",
+  "currency": "SGD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 180,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Singapore"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Mizuji/register",
+  "offer_status": 2,
+  "name": "Mizuji",
+  "website": "https://mizuji.sg",
+  "hashtags": [
+    "#mizuji",
+    "#sghaircare",
+    "#oilyscalp",
+    "#drydamagedhair",
+    "#naturalproducts"
+  ],
+  "shop_id": 154999,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.87,
+  "program_id": 176256,
+  "myshopify_domain": "f1800d.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 51.38,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "5%",
+  "mkp_program_id": 176256,
+  "product_list": []
+}

@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/0ea84cbeb02a7c3dfde24a22f772c081.png",
+  "description": "<h1 class=\"main-page-title page-title h0\" style=\"box-sizing: inherit; font-family: var(--font-heading-family); font-weight: var(--font-heading-weight); color: rgb(var(--color-foreground)); line-height: calc(1 + 0.3/max(1,var(--font-heading-scale))); word-break: break-word; font-size: calc(var(--font-heading-scale) * 5.2rem); margin-top: 0px; margin-bottom: 4rem; background-color: rgb(255, 255, 255);\">A Beauty Brand That Does Not Hide Anything.</h1>\r\n<div class=\"rte\" style=\"box-sizing: inherit; color: rgba(18, 18, 18, 0.75); font-family: Helvetica, 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);\">\r\n<p style=\"box-sizing: inherit;\"><span class=\"s7\" style=\"box-sizing: inherit;\">Ellora Beauty is a brand with clarity and a dream: to provide authentic, natural, and harm-free beauty products worldwide. We create products that set the standards of natural, healthy, and beneficial products for your skin and body.</span></p>\r\n<p style=\"box-sizing: inherit;\"><span style=\"box-sizing: inherit;\">&nbsp;</span></p>\r\n<p style=\"box-sizing: inherit;\"><span class=\"s7\" style=\"box-sizing: inherit;\">We believe that everyone deserves to feel beautiful inside out. And that is why here we are creating products for every individual by breaking all the stereotypes and creating diversification in our brand.</span></p>\r\n<p style=\"box-sizing: inherit;\"><span style=\"box-sizing: inherit;\">&nbsp;</span></p>\r\n<p style=\"box-sizing: inherit;\"><span class=\"s7\" style=\"box-sizing: inherit;\">Our products are created in Canada and have been tested time and time by our cruelty-free standards to ensure that they are safe for your skin and body. We also know that it's essential to take care of yourself first before doing anything else, so we ensure our products are formulated with peptides &amp; other natural ingredients.</span></p>\r\n<p style=\"box-sizing: inherit;\"><span style=\"box-sizing: inherit;\">&nbsp;</span></p>\r\n<p style=\"box-sizing: inherit; margin-bottom: 0px;\"><span class=\"s7\" style=\"box-sizing: inherit;\">We focus on you. Ellora is for people who want to look their best without worrying about what's going on behind closed doors. Everything we do here at Ellora Beauty focuses on helping you feel confident and comfortable in your skin</span></p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 19375,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1,
+    "upi": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ellorabeauty-1615/register",
+  "offer_status": 2,
+  "name": "Ellorabeauty",
+  "website": "https://ellorabeauty.com",
+  "hashtags": [],
+  "shop_id": 80176,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 91871,
+  "myshopify_domain": "ellorabeauty-1615.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "20%",
+  "mkp_program_id": 91871,
+  "product_list": []
+}

@@ -1,0 +1,165 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1706451466_3811228_7db2b65df1711126a0e92e43c22a05f3.png",
+  "description": "<header class=\"SectionHeader SectionHeader--center\">\r\n<h2 class=\"SectionHeader__Heading Heading u-h1\">BEAUTY INSPIRED BY REAL PEOPLE.</h2>\r\n</header>\r\n<div class=\"Rte\">\r\n<p>Sopure London is a new approach to skincare. We're obsessed with making sure our products give high-performance and unique experiences. Everything we do is of exceptional quality. From precise combinations of high-quality ingredients that provide the greatest satisfaction to being authentic, different, beautiful and sensibly priced.</p>\r\n</div>\r\n<p>Our products are enriched with nature&rsquo;s so pure and powerful ingredients to pamper and hydrate the skin and address the advanced signs of ageing.</p>\r\n<p>Entirely synthetic-free, our skin and self-care products are embodied by therapeutic scents, luxurious textures and gorgeous aethetics.</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.36,
+  "average_earning_per_sale": "4",
+  "video_url": null,
+  "mkp_listing_id": 28503,
+  "categories": "Beauty & Health",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/sopurelondon/register",
+  "offer_status": 2,
+  "name": "SOPURE LONDON",
+  "website": "https://sopurelondon.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 133488,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.99,
+  "program_id": 151027,
+  "myshopify_domain": "sopurelondon.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 12.21,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 151027,
+  "product_list": []
+}

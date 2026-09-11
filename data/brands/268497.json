@@ -1,0 +1,185 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1788175187_613077_1014aeff6fc78f1015abe22fa036d8fe.png",
+  "description": "<div style=\"font-family:Poppins;\"><p dir=\"ltr\">Min Vitamix is a Swedish personalized-nutrition brand that replaces generic multivitamins with a daily formula built around each customer's own biology. <br><br>Using a lifestyle questionnaire we identify exactly which of 33 patented, high-absorption micronutrients a person needs, then compound them into a single daily scoop manufactured in a GMP-certified Swiss pharmaceutical facility.</p><p dir=\"ltr\">Affiliates promote a premium, subscription-based product (3-month plans from £200, €220, 2,400 kr) with strong repeat-purchase rates, a 10% commission on every sale for the lifetime of that customer — not just their first order — and evidence-led content that converts well with health, beauty, biohacking and longevity audiences.<br><br>#personalizedvitamins #minvitamix #biohacking #Swedishwellness  #personalisedvitamins</p></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "1st of each month",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 40693,
+  "categories": "Beauty & Health, Wellness & Lifestyle, Sports & Entertainment",
+  "currency": "SEK",
+  "symbol_currency": "&#107;&#114;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "incentivised_traffic_loyalty",
+    "social_media_ads",
+    "search_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Sweden",
+    "Norway",
+    "Denmark",
+    "Germany",
+    "Finland",
+    "France",
+    "Netherlands",
+    "Portugal",
+    "United Kingdom",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://affiliates.minvitamix.com/bww57q-ta/register",
+  "offer_status": 2,
+  "name": "Min Vitamix",
+  "website": "https://minvitamix.com",
+  "hashtags": [
+    "#personalizedvitamins",
+    "#minvitamix",
+    "#skinandhair",
+    "#hairgrowth",
+    "#glowfromwithin",
+    "#biohacking",
+    "#swedishwellness"
+  ],
+  "shop_id": 268497,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 317364,
+  "myshopify_domain": "bww57q-ta.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 1812.11,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "50%",
+  "mkp_program_id": 317364,
+  "product_list": []
+}

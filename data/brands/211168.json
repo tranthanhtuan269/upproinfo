@@ -1,0 +1,211 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1748900152_8380332_234a4940cceff53e87885d21365ff1ee.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p style=\"text-align:left;font-size: 14px;font-weight: normal;\">We're Black Clover, a golf and lifestyle hat and apparel company dedicated to the idea that you make your own luck!<br><br>Our headwear and apparel is available in styles for every season.<br><br>We are confident that we have the most comfortable hat in the world.<br><br>We pay 10% commission through PayPal!</p></div></div>",
+  "payout_rate": "63.24%",
+  "payout_period": "You can expect your payouts on the 15th of each month following sales.",
+  "recommend_score": 4.04,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35724,
+  "categories": "Fashion, Others, Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/new-blackclover/register",
+  "offer_status": 2,
+  "name": "Black Clover",
+  "website": "https://blackcloverusa.com",
+  "hashtags": [
+    "#golf",
+    "#golfhats",
+    "#golfapparel",
+    "#lifestyle",
+    "#gym",
+    "#gymapparel",
+    "#livelucky",
+    "#blackclover"
+  ],
+  "shop_id": 211168,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.91,
+  "program_id": 243388,
+  "myshopify_domain": "new-blackclover.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "6983c3cd747463bdb7010492",
+      "name": "Auto-Leak",
+      "program_id": 243388,
+      "shop_id": 211168,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 15,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-02-04 22:10:21",
+      "created_at": "2026-02-04T22:10:21.796000Z",
+      "updated_at": "2026-02-04T22:10:21.796000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 105.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "49.28%",
+  "mkp_program_id": 243388,
+  "product_list": []
+}

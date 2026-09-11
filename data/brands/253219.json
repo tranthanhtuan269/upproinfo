@@ -1,0 +1,181 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><div><p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>About us:</strong> Natural internal deodorant supplement that works from within, small family-run business serving customers across UK, Australia, US, and Canada</p><p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>What makes us different:</strong> Works internally (not just masking externally), natural ingredients, 60-day guarantee (double most competitors), small business that genuinely cares about results</p><p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>How you earn:</strong> 15% commission on every sale via your unique link, 60-day cookie tracking, monthly PayPal payouts, no cap on earnings</p><p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>How to promote:</strong> Share your husband's authentic experience with bad breath improvement (most powerful!), Facebook posts/videos to your 37K followers, educate about how internal deodorants work, answer questions in your community. Must disclose affiliate relationship (#ad)</p><p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Other info:</strong> £30 BOGO (2 bottles), free shipping on qualifying orders, vegan/natural, 60-day guarantee, works best when promoted through personal storytelling not hard selling</p></div></div>",
+  "payout_rate": "6.38%",
+  "payout_period": "Monthly (NET 30)",
+  "recommend_score": 5.58,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38078,
+  "categories": "Health & Beauty",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "14% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "brand_bidding"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Australia",
+    "New Zealand"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/3e28ca-e1/register",
+  "offer_status": 2,
+  "name": "GOdor",
+  "website": "https://trygodor.com/pages/godor-for-breath",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 253219,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.17,
+  "program_id": 296371,
+  "myshopify_domain": "3e28ca-e1.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 47.35,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 296371,
+  "product_list": []
+}

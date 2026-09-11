@@ -1,0 +1,244 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1747576564_7815254_57c7c50a34cffb6e9062e95dc4e90b58.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><article class=\"text-token-text-primary w-full\" dir=\"auto\" data-testid=\"conversation-turn-38\" data-scroll-anchor=\"false\" id=\"isPasted\"><div class=\"text-base my-auto mx-auto py-5 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[72rem]:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\"><div class=\"[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto flex max-w-(--thread-content-max-width) flex-1 text-base gap-4 md:gap-5 lg:gap-6 group/turn-messages focus-visible:outline-hidden\" tabindex=\"-1\"><div class=\"group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn\"><div class=\"relative flex-col gap-1 md:gap-3\"><div class=\"flex max-w-full flex-col grow\"><div data-message-author-role=\"assistant\" data-message-id=\"f0424ab7-d4f3-4ef8-a55b-4e8b25782eaf\" dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-5\" data-message-model-slug=\"gpt-4o\"><div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\"><div class=\"markdown prose dark:prose-invert w-full break-words light\"><h3 data-start=\"219\" data-end=\"250\"><strong data-start=\"223\" data-end=\"248\">• Brand Introduction:</strong></h3><p data-start=\"251\" data-end=\"656\">Zicana Boutique is the premier online destination for luxury stone, quartz, and porcelain surfaces, as well as one-of-a-kind stone décor. We are the world’s largest stone portal and the highest-rated company of our kind in the United States. With over two decades of artisan stone craftsmanship, Zicana has reimagined the stone shopping experience for modern homeowners and discerning trade professionals.</p><p data-start=\"251\" data-end=\"656\"><img src=\"https://cdn.shopify.com/s/files/1/0577/5595/9379/files/Screenshot_2025-04-06_155226.jpg?v=1747938654\" style=\"width: 507px; max-width: 100%;\" class=\"fr-fic fr-dib\"></p><hr data-start=\"658\" data-end=\"661\"><h3 data-start=\"663\" data-end=\"695\"><strong data-start=\"667\" data-end=\"693\">• Product Description:</strong></h3><p data-start=\"696\" data-end=\"1049\">Our collections feature the most prestigious brands and rarest natural materials, from full-size marble and quartz slabs to custom-crafted stone furniture and décor. Zicana Boutique offers a seamless online experience, allowing customers to explore, price, and purchase the world’s finest surfaces — all with nationwide delivery and transparent pricing.</p><p data-start=\"696\" data-end=\"1049\"><img src=\"https://cdn.shopify.com/s/files/1/0577/5595/9379/files/Stoneroom_010.webp?v=1747942563\" style=\"width: 513px; max-width: 100%;\" class=\"fr-fic fr-dib\"></p><p data-start=\"696\" data-end=\"1049\"><br></p><hr data-start=\"1051\" data-end=\"1054\"><h3 data-start=\"1056\" data-end=\"1095\"><strong data-start=\"1060\" data-end=\"1093\">• USP (Unique Selling Point):</strong></h3><ul data-start=\"1096\" data-end=\"1384\"><li data-start=\"1096\" data-end=\"1158\"><p data-start=\"1098\" data-end=\"1158\">Highest-rated and largest luxury stone portal in the world</p></li><li data-start=\"1212\" data-end=\"1261\"><p data-start=\"1214\" data-end=\"1261\">One-time $500 commission per referred order</p></li><li data-start=\"1262\" data-end=\"1309\"><p data-start=\"1264\" data-end=\"1309\">High-conversion products with visual appeal</p></li><li data-start=\"1310\" data-end=\"1384\"><p data-start=\"1312\" data-end=\"1384\">Trusted by top interior designers, architects, and affluent homeowners</p></li></ul><p><br></p><p data-start=\"1312\" data-end=\"1384\"><img src=\"https://cdn.shopify.com/s/files/1/0577/5595/9379/files/Stoneroom_002_8e3c649e-e14b-4bb7-8327-f42ca11cb350.webp?v=1747942613\" style=\"width: 513px; max-width: 100%;\" class=\"fr-fic fr-dib\"></p><p><br></p><hr data-start=\"1386\" data-end=\"1389\"><h3 data-start=\"1391\" data-end=\"1417\"><strong data-start=\"1395\" data-end=\"1415\">• Payment Terms:</strong></h3><p data-start=\"1418\" data-end=\"1609\">Affiliates receive a <strong data-start=\"1439\" data-end=\"1485\">flat $500 commission per completed order</strong>. Payouts are processed on a <strong data-start=\"1514\" data-end=\"1531\">monthly basis</strong>, with a standard 30-day referral window from the date of click or coupon use.</p><p data-start=\"1418\" data-end=\"1609\"><img src=\"https://cdn.shopify.com/s/files/1/0577/5595/9379/files/Screenshot_2025-04-06_155117.jpg?v=1747942394\" style=\"width: 513px; max-width: 100%;\" class=\"fr-fic fr-dib\"></p><p data-start=\"1418\" data-end=\"1609\"><br></p><hr data-start=\"1611\" data-end=\"1614\"><h3 data-start=\"1616\" data-end=\"1646\"><strong data-start=\"1620\" data-end=\"1644\">• Other Information:</strong></h3><ul data-start=\"1647\" data-end=\"2027\"><li data-start=\"1647\" data-end=\"1750\"><p data-start=\"1649\" data-end=\"1750\">We provide exclusive creative assets, lifestyle imagery, and swipe copy to support your promotions.</p></li><li data-start=\"1751\" data-end=\"1835\"><p data-start=\"1753\" data-end=\"1835\">Affiliates are prioritized for product sample access and early product launches.</p></li><li data-start=\"1836\" data-end=\"2027\"><p data-start=\"1838\" data-end=\"2027\">Zicana Boutique’s products are ideal for design-forward content creators, luxury lifestyle influencers, and trade professionals looking to monetize their audience with high-value referrals.</p></li></ul></div></div></div></div></div></div></div></div></article></div></div>",
+  "payout_rate": "92%",
+  "payout_period": "7 Day after Payment is received",
+  "recommend_score": 3.3,
+  "average_earning_per_sale": "500",
+  "video_url": null,
+  "mkp_listing_id": 35691,
+  "categories": "Fashion, Home & Tools, Retail & Consumer goods",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 180,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/190b16-2/register",
+  "offer_status": 2,
+  "name": "Zicana Boutique",
+  "website": "https://www.zicanaboutique.com",
+  "hashtags": [
+    "#LuxuryStone",
+    " #ZicanaBoutique",
+    " #GemstoneDecor",
+    " #InteriorDesignInspo",
+    " #LuxuryInteriors",
+    " #StoneFurniture",
+    " #DesignWithStone",
+    " #HomeDecorGoals",
+    " #ArtisanCraftsmanship",
+    " #StatementPieces",
+    " #AffiliateOpportunity",
+    " #EarnWithStyle",
+    " #ElevatedDesign",
+    " #NaturalElegance",
+    " #TimelessLuxury",
+    " #HighTicketAffiliate",
+    " #LuxuryAffiliateProgram",
+    " #PassiveIncomeStreams",
+    " #AffiliateMarketingSuccess",
+    " #DesignThatConverts",
+    " #LuxuryBuyers",
+    " #HomeUpgradeInspo",
+    " #SlabShoppingMadeEasy",
+    " #OneClickCommission",
+    " #HighAOV"
+  ],
+  "shop_id": 209781,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.5,
+  "program_id": 241574,
+  "myshopify_domain": "190b16-2.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "68d24daf5d235d1f70011882",
+      "name": "Auto-discount rule",
+      "program_id": 241574,
+      "shop_id": 209781,
+      "affiliates": [],
+      "discount_type": 2,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": "WELCOME100",
+      "active_at": "2025-09-23 07:35:11",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 4369.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "97.22%",
+  "mkp_program_id": 241574,
+  "product_list": []
+}

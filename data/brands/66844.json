@@ -1,0 +1,172 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1683041300_2348169_7c779850e4944574e5dad5abb18c3b34swordlogoBLACK.png",
+  "description": "<p>Card Mafia is one of the largest producer of playing cards that are not only functional but also works of art. They use high-quality materials and cutting-edge printing technology to produce eye-catching and unique designs that appeal to collectors, magicians, and card players alike.</p>\r\n<p>In addition to their innovative designs, Card Mafia has also partnered with Marvel to produce officially licensed playing cards featuring iconic superheroes such as Spider-Man, Iron Man, and Captain America. These decks are not only visually stunning but also serve as a perfect gift for Marvel fans and collectors.</p>\r\n<p>Overall, Card Mafia is a brand that is dedicated to pushing the boundaries of what is possible with playing card design. With their commitment to quality and innovation, they continue to amaze and inspire card enthusiasts around the world.</p>",
+  "payout_rate": "41.76%",
+  "payout_period": null,
+  "recommend_score": 2.98,
+  "average_earning_per_sale": "5",
+  "video_url": "https://youtu.be/nNS8YjHd5Kw",
+  "mkp_listing_id": 21841,
+  "categories": "Art, Toys & Hobbies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 365,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "China",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/cardmafia/register",
+  "offer_status": 2,
+  "name": "Card Mafia",
+  "website": "https://www.cardmafia.com",
+  "hashtags": [
+    "#marvel",
+    " #magic",
+    " #playingcards",
+    " #disney",
+    " #collectible",
+    " #limited",
+    " #innovative"
+  ],
+  "shop_id": 66844,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.19,
+  "program_id": 75988,
+  "myshopify_domain": "cardmafia.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 68.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "47.24%",
+  "mkp_program_id": 75988,
+  "product_list": []
+}

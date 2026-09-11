@@ -1,0 +1,161 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/d34053a9099bc7446ab2adcd4549ea06.jpg",
+  "description": "<p>Welcome to our UK-based ecommerce gymwear brand, 'All Out Apparel'! We pride ourselves on offering high-quality fitness apparel that combines style, comfort, and functionality. As a small business, we are passionate about helping individuals look and feel their best during their fitness journey. We are excited to partner with dedicated and enthusiastic female affiliates who share our vision and want to promote our brand to a wider audience.</p>\r\n<p>Our gymwear collection is carefully curated to meet the needs of active women who value both performance and style. We offer a diverse range of workout clothing, including leggings, sports bras and hoodies. This selection is rapidly expanding! Each piece is thoughtfully designed using premium fabrics that provide superior comfort, breathability, and flexibility. With our trendy and flattering designs, customers can feel confident and motivated to achieve their fitness goals while looking fabulous.</p>\r\n<p>What sets our brand apart is our commitment to quality and attention to detail. We prioritize using premium materials and ensuring excellent craftsmanship in every garment we produce. Our gymwear is not only functional but also fashion-forward, allowing our customers to express their personal style while they work out. We understand that every woman is unique, so we offer a wide range of sizes and styles to cater to different body types and preferences. By promoting our brand, you'll be representing a fitness apparel line that combines performance, style, and inclusivity.</p>\r\n<p>As an affiliate for our brand, you'll receive generous commission rates on every sale generated through your unique referral links. We believe in fair compensation for your efforts, and we offer competitive commission rates that reflect the value you bring to our brand. Payments will be made on a monthly basis, ensuring a steady and reliable income stream for our affiliates.</p>\r\n<p>In addition to competitive commission rates, we provide our affiliates with comprehensive marketing support. We offer a range of creative assets, such as banners, product images, and promotional materials, to assist you in effectively promoting our brand. We also have a dedicated affiliate manager who will be available to answer any questions, provide guidance, and collaborate on campaigns. We believe in fostering strong relationships with our affiliates and ensuring a mutually beneficial partnership.</p>\r\n<p>Join our affiliate program today and become a part of our growing community of fitness enthusiasts and fashion-forward women. Together, we can inspire and empower others to embrace an active lifestyle while looking and feeling their best. Contact us now to learn more about this exciting opportunity to represent our UK-based ecommerce gymwear brand and earn attractive commissions.</p>",
+  "payout_rate": "69.23%",
+  "payout_period": null,
+  "recommend_score": 0.87,
+  "average_earning_per_sale": "2.5",
+  "video_url": null,
+  "mkp_listing_id": 25003,
+  "categories": "Fashion, Sports & Entertainment",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/all-out-apparel-5439/register",
+  "offer_status": 2,
+  "name": "All Out Apparel",
+  "website": "https://aoapparel.co.uk",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 83530,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.75,
+  "program_id": 95659,
+  "myshopify_domain": "all-out-apparel-5439.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "16.67%",
+  "mkp_program_id": 95659,
+  "product_list": []
+}

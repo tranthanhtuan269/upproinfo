@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1753265856_9031510_eeb8b20fad0083864c92faf59beb6d8a.jpeg",
+  "description": "<div style=\"font-family: Poppins;\"><div><p style=\"text-align:left;font-size: 14px;font-weight: normal;\"><span style=\"font-size: 18px;\">• <u>About our brand and products:</u></span></p><p style=\"text-align:left;font-size: 14px;font-weight: normal;\">At <strong>Luméra Designs</strong>, we believe in the power of beauty and self-expression—and that’s why we’d love to work with you! As a <strong>Kuwaiti-owned jewelry brand</strong>, we’re on a mission to become the biggest name in fashion by delivering quality, authenticity, and style that helps people embrace their true selves.</p><p style=\"text-align:left;font-size: 14px;font-weight: normal;\"><br>• <span style=\"font-size: 18px;\"><u>How affiliates can earn and promote us:</u></span></p><p id=\"isPasted\"><span style=\"font-size: 14px;\">✨ <strong>10% commission</strong> on every sale made through your unique code. &nbsp;</span></p><p><span style=\"font-size: 14px;\">📊 <strong>Full transparency</strong>—track your progress in real-time through our app. &nbsp;</span></p><p><span style=\"font-size: 14px;\">🚀 <strong>Growth rewards:</strong> The more you sell, the higher your commission can go! &nbsp;</span></p><p><span style=\"font-size: 14px;\">🎁 <strong>Exclusive free gifts</strong> from our latest collections for creators who drive <strong>$300+ in sales each month.</strong></span></p><p><span style=\"font-size: 14px;\"><br></span></p><p><span style=\"font-size: 14px;\">All you have to do? Share your love for Luméra with your audience using your personal code—it’s that simple!</span> &nbsp;</p><p style=\"text-align:left;font-size: 14px;font-weight: normal;\"><span style=\"font-size: 18px;\">&nbsp;</span></p><p style=\"text-align:left;font-size: 14px;font-weight: normal;\"><br></p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "End of each month",
+  "recommend_score": 1.05,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36116,
+  "categories": "Jewelry & Accessories",
+  "currency": "KWD",
+  "symbol_currency": "&#1583;.&#1603;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Kuwait",
+    "Saudi Arabia",
+    "Qatar",
+    "Bahrain",
+    "United Arab Emirates",
+    "Oman"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bb7da4-0e/register",
+  "offer_status": 2,
+  "name": "Luméra Designs",
+  "website": "https://lumeradesigns.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 219863,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 254522,
+  "myshopify_domain": "bb7da4-0e.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 22.99,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "14.29%",
+  "mkp_program_id": 254522,
+  "product_list": []
+}

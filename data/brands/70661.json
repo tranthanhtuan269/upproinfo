@@ -1,0 +1,153 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/885fffff2c3ea4f477e506b189e63f61.jpg",
+  "description": "<h2 class=\"rich-text__heading rte h0\" style=\"box-sizing: inherit; font-family: var(--font-heading-family); letter-spacing: calc(var(--font-heading-scale) * 0.06rem); line-height: calc(1 + 0.3/max(1,var(--font-heading-scale))); word-break: break-word; overflow-wrap: break-word; margin-top: 0px; margin-bottom: 0px; text-align: center;\"><span style=\"font-size: 24px;\"><b>Golubee: Your Joy Juice</b></span></h2><h2 class=\"rich-text__heading rte h0\" style=\"text-align: left; box-sizing: inherit; line-height: calc(1 + 0.3/max(1,var(--font-heading-scale))); word-break: break-word; overflow-wrap: break-word; margin-top: 0px; margin-bottom: 0px;\"><p style=\"text-align: center; box-sizing: inherit; overflow-wrap: break-word;\"><span style=\"font-size: 18px;\">We are your all-natural joy creation company with no MSG. All greeting cards and paper products are intended to harbor smiles, laughter, and cheer. They may contain trace amounts of sarcasm, silliness, and puns as our cards were designed in a facility that also contains nuts. Please note that these products are not a significant source of negativity, mopiness, or bad vibes. They do however provide you with your daily dose of vitamin J, O, &amp; Y.</span></p><p style=\"text-align: center; box-sizing: inherit; overflow-wrap: break-word; margin-bottom: 0px;\"><span style=\"font-size: 18px;\">Our creativity is 100% original, responsibly printed on 100% recycled paper, and also accompanied by 100% recycled envelope.</span></p></h2>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 16885,
+  "categories": "Home & Tools, Art, Mom & Kids",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1662104562_170185_4940631cae2bb68718284e249fdba936.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Golubee/register",
+  "offer_status": 2,
+  "name": "Golubee",
+  "website": "https://golubee.com",
+  "hashtags": [],
+  "shop_id": 70661,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.9,
+  "program_id": 80571,
+  "myshopify_domain": "golubee.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "50%",
+  "mkp_program_id": 80571,
+  "product_list": []
+}

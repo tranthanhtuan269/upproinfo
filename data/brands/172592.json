@@ -1,0 +1,181 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1730187765_8710274_1725eb03f67eef36fc8724cbd5badc14.png",
+  "description": "<h3><strong>Rejoignez notre programme de parrainage et gagnez 10% de commission sur chaque vente !</strong></h3>\r\n<p>Chez <strong>1EuroCBD</strong>, nous r&eacute;compensons nos clients fid&egrave;les et nos ambassadeurs ! En rejoignant notre programme de parrainage, vous pouvez facilement g&eacute;n&eacute;rer des revenus en partageant vos produits pr&eacute;f&eacute;r&eacute;s avec votre entourage.</p>\r\n<p><strong>Comment &ccedil;a marche ?</strong></p>\r\n<ol>\r\n<li><strong>Inscrivez-vous gratuitement</strong> &agrave; notre programme de parrainage.</li>\r\n<li>Partagez votre <strong>lien unique</strong> avec vos amis, votre famille, ou votre communaut&eacute;.</li>\r\n<li><strong>Gagnez 10% de commission</strong> sur chaque vente effectu&eacute;e via votre lien !</li>\r\n</ol>\r\n<p>Avec des produits de qualit&eacute;, des prix ultra-comp&eacute;titifs et des offres r&eacute;guli&egrave;rement renouvel&eacute;es, c&rsquo;est le moment parfait pour promouvoir <strong>1EuroCBD</strong> et profiter de revenus suppl&eacute;mentaires. C&rsquo;est simple, rapide, et 100% transparent !</p>\r\n<p><strong>Pourquoi nous choisir ?</strong></p>\r\n<ul>\r\n<li>Des produits <strong>&agrave; partir de 1&euro;</strong> le gramme.</li>\r\n<li>Des vari&eacute;t&eacute;s s&eacute;lectionn&eacute;es aupr&egrave;s de fermes partenaires.</li>\r\n<li>Des <strong>commissions &eacute;lev&eacute;es</strong> qui r&eacute;compensent votre implication.</li>\r\n</ul>\r\n<p>Inscrivez-vous d&egrave;s maintenant et commencez &agrave; gagner !</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32835,
+  "categories": "Beauty & Health, Others",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "18-24",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "France",
+    "Germany",
+    "Italy",
+    "Belgium",
+    "Luxembourg",
+    "Netherlands",
+    "Portugal",
+    "Sweden",
+    "Denmark"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/zdne1p-hc/register",
+  "offer_status": 2,
+  "name": "1eurocbd",
+  "website": "https://www.1eurocbd.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 172592,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 196367,
+  "myshopify_domain": "zdne1p-hc.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "9.09%",
+  "mkp_program_id": 196367,
+  "product_list": []
+}

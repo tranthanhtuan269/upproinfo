@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1736993035_9638074_f659a885038e976c896d94134fd60c66.jpg",
+  "description": "<div class=\"group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex max-w-full flex-col flex-grow\">\r\n<div data-message-model-slug=\"gpt-4o\" class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5\" dir=\"auto\" data-message-id=\"82fa06e3-c85d-4db5-9a6e-70d169411f61\" data-message-author-role=\"assistant\">\r\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n<p><strong>Brand Introduction:</strong> Hi-Tie</p>\r\n<p><strong>&bull; Product:</strong> Men's Neckties, Bowties, Shirts, Vests, Suits, Suspenders, Cufflinks, Other Accessories</p>\r\n<p><strong>&bull; USP (Unique Selling Point):</strong> 1000+ styles, updated monthly; bestsellers ranked in Amazon&rsquo;s top 10; high commissions and strong conversion rates.</p>\r\n<p><strong>&bull; Advantage:</strong> Unique designs, high-quality materials, and a well-established brand with a loyal customer base.</p>\r\n<p><strong>&bull; Additional Benefits:</strong> Payments twice a month, accepting credit cards, PayPal, and Klarna. 14-day return &amp; exchange policy with free worldwide shipping.</p>\r\n<p>📩 <strong>Join now and start earning high commissions!</strong> <a target=\"_blank\" rel=\"noopener\">service@hi-tie.com</a></p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.88,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34047,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1737686645_873284_1cba4c539cd78b6af299191cb09aa44e.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/hitie/register",
+  "offer_status": 2,
+  "name": "Hi-Tie",
+  "website": "https://www.hi-tie.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 141262,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.5699999999999998,
+  "program_id": 216310,
+  "myshopify_domain": "hitie.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 35.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "30%",
+  "mkp_program_id": 216310,
+  "product_list": []
+}

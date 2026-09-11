@@ -1,0 +1,144 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/98ddd4add0a33954769c65d1711118ff.jpeg",
+  "description": "<p>3-1 Tallow Shampoo Hair and Body Bars - non-toxic, earth and body friendly, seed oil free and made without Lye</p><p>Grass-fed and Finished Organic Tallow from small regenerative farms comes together with gentle non-toxic surfactants derived from coconuts and sugarcane come together to form the worlds most luxurious tallow shampoo bar!</p><p>Tallow is packed with bio-available nutrients that feed your skin and a skin compatible fatty acid profile that is comedogenic and safe for all skin types. </p><p>Most every shampoo product you find is filled with seed oils, whose fatty acid composition is highly unsaturated and oxidizes causing free radical damage.</p><p>Until now, shampoo bars using tallow are using lye to make their soap. We don't use lye to saponify our tallow because the pH of lye based soaps are too high for the hair and makes it dry, brittle and crunchy. Anyone ever try to wash their hair with Castile soap? Yeah, its not good. Castile uses lye for the saponification process and while that may be ok for the skin, its not ok for the hair. </p><p>Our tallow is infused with Organic Rosemary, Burdock Root and Balm of Gilead Bud, no fragrances or essential oil. These herbs are specifically chosen to support hair growth and  offer the full range of constituents of the plant into the tallow when infused with the whole plant. </p><p>90 Million plastic shampoo bottles are dumped into landfills and oceans each year. 1 Bar replaces 2-3 plastic bottles. </p><p>Foxybars are plastic free, from production to shipping and arrive in 100% biodegradable packaging. Foxybars is the first shampoo made without lye or seed oils. </p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.04,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 15360,
+  "categories": "Beauty & Health, Grocery & Food, Mom & Kids",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/foxybars/register",
+  "offer_status": 2,
+  "name": "foxybars",
+  "website": "https://foxybars.com",
+  "hashtags": [],
+  "shop_id": 65314,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.87,
+  "program_id": 74248,
+  "myshopify_domain": "foxybars.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 131,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "35.42%",
+  "mkp_program_id": 74248,
+  "product_list": []
+}

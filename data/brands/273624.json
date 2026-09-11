@@ -1,0 +1,227 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1787684061_9160999_f65c1ea91d9f147caa7a3667f134d5aa.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p><strong>About Évoque Mode</strong></p><p>Évoque Mode is a curated luxury fashion destination bringing together established and contemporary designer names across handbags, shoes, ready-to-wear and accessories. Our point of view is rooted in modern femininity, minimalist style and considered dressing — with a focus on pieces that evoke presence rather than follow noise.</p><p><strong>What makes us different</strong></p><p>We offer a highly curated approach to luxury, supported by a trusted European sourcing network and a retail model built around considered pricing. Our evolving selection includes new-season arrivals, investment bags, wardrobe essentials and editorial edits designed to make luxury discovery more intentional.</p><p><strong>How affiliates earn</strong></p><p>Affiliates earn <strong>12% commission on eligible referred orders</strong>, with a <strong>30-day tracking window</strong>. Selected affiliates can also offer their audience an exclusive <strong>10% discount code</strong>, creating a strong incentive for conversion across a luxury product assortment.</p><p><strong>How to promote Évoque Mode</strong></p><p>Create content naturally aligned with your audience and personal style — from designer bag edits and minimalist wardrobes to styling inspiration, seasonal selections, new arrivals and investment pieces. Affiliates receive a personal tracking link and coupon code to share through social content, editorial features, blogs and other approved channels.</p><p><strong>Our ideal partners</strong></p><p>We welcome fashion creators, stylists, editors and publishers whose audiences are interested in luxury fashion, designer accessories, minimalist style and modern femininity. We value thoughtful content, authentic recommendations and long-term affiliate relationships.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Commissions are paid monthly. Approved commissions from eligible orders are paid after the applicable return period has passed. Payments are processed during the following monthly payout cycle.",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 40643,
+  "categories": "Apparel & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "12% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Belgium",
+    "France",
+    "Germany",
+    "Greece",
+    "Italy",
+    "Luxembourg",
+    "Netherlands",
+    "Poland",
+    "Spain",
+    "Denmark"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/100nug-t2/register",
+  "offer_status": 2,
+  "name": "ÉvoqueMode",
+  "website": "https://evoquemode.com/",
+  "hashtags": [
+    "#luxuryfashion",
+    "#minimalistfashion",
+    "#quietluxury",
+    "#designerfashion",
+    "#womensfashion",
+    "#designerbags",
+    "#luxurybags",
+    "#minimalstyle",
+    "#modernfemininity",
+    "#évoquemodeofficial"
+  ],
+  "shop_id": 273624,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 335584,
+  "myshopify_domain": "100nug-t2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "6a8de47b43265aba9e090d32",
+      "name": "Evoque Mode Affiliate",
+      "program_id": 335584,
+      "shop_id": 273624,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": "Affiliate exclusive"
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-08-25 18:52:43",
+      "created_at": "2026-08-25T18:52:43.731000Z",
+      "updated_at": "2026-08-25T18:52:43.731000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 335584,
+  "product_list": []
+}

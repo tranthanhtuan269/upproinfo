@@ -1,0 +1,170 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1778026336_208054_d469d3e677cb67999607dcee26759e23.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p style=\"margin-bottom:4pt;\"><strong>Introducing HairShots, the viral hair product that’s now back in stock after selling out 4 times!</strong></p><p style=\"margin-bottom:4pt;\">HairShots is an Australian, brand with a genuinely new idea: concentrated pure Actives that you pump directly into your own shampoo or conditioner, customising them to meet your exact hair and scalp needs. <br>HairShots founder (Kim), developed the brand in response to the way that skincare has evolved to prioritise targeted, personalised Actives and the realisation that hair deserves that same love!</p><p style=\"margin-bottom:4pt;\">HairShots are clinical, targeted and personal. It’s not about replacing your favourite products, but rather transforming them into more effective treatments, simply my adding a few pumps into your shampoo or conditioner (in-hand). Or mix-and-match to create your hair’s perfect smoothie!</p><p style=\"margin-bottom:4pt;\"><strong>We can't wait for you to join the HairShots team!</strong></p><p style=\"margin-bottom:4pt;\"><br></p><p style=\"margin-bottom:4pt;\"><br></p></div></div>",
+  "payout_rate": "78.95%",
+  "payout_period": "1st of each month",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39406,
+  "categories": "Health & Beauty",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/myhairshots/register",
+  "offer_status": 2,
+  "name": "HairShots",
+  "website": "https://myhairshots.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 267716,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 316580,
+  "myshopify_domain": "myhairshots.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 101.68,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "28.95%",
+  "mkp_program_id": 316580,
+  "product_list": []
+}

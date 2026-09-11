@@ -1,0 +1,200 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1785190830_4205562_3c5813a1f5ff48883f268519219b8538.png",
+  "description": "<p>Hey there! We're ReCandle Co., a San Diego-based eco-friendly candle brand on a mission to make sustainable living effortlessly stylish. As a small, female-owned business, we're shaking up the candle industry one refill at a time!</p>\r\n<p>We offer a thoughtful, refillable candle system featuring locally handcrafted ceramic vessels and 100% soy wax refills. Our candles use non-toxic fragrances, and are designed for easy refilling without any messy melting. Easily slide out the finished wax, and pop in a new refill!</p>\r\n<p>We offer competitive commission rates starting at $15 for each sale you generate. Payments are made via PayPal for all qualifying sales.</p>\r\n<p>By partnering with ReCandle Co., you're not just promoting great products - you're supporting a small, female-owned business and contributing to a more sustainable future. Plus, we plant a tree for every order!</p>\r\n<p>Join us in revolutionizing the candle industry and let's spread some eco-friendly light together!&nbsp;</p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.76,
+  "average_earning_per_sale": "15",
+  "video_url": null,
+  "mkp_listing_id": 30829,
+  "categories": "Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1719435523_8676523_065ad17a49f46f7a664c9864dd484858.png",
+  "rule": 1,
+  "commission_type": 0,
+  "commission": "$10.00 per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Blog",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/recandle-co/register",
+  "offer_status": 2,
+  "name": "ReCandle Co.",
+  "website": "https://recandlecompany.com",
+  "hashtags": [
+    "#RefillableCandles",
+    "#SustainableCandles",
+    "#ZeroWasteCandles",
+    "#SoyWaxCandles",
+    "#CleanBurningCandles",
+    "#NonToxicFragrance",
+    "#ReusableCandleJar",
+    "#HandcraftedCeramics",
+    "#LocallyMade",
+    "#SmallBatchCandles",
+    "#SubscriptionCandles",
+    "#Candles",
+    "#ScentedCandles",
+    "#EcoFriendlyCandles",
+    "#SmallBusiness",
+    "#FemaleFounded",
+    "#FemaleOwned",
+    "#ShopSmall",
+    "#SupportSmallBusiness",
+    "#SustainableLiving",
+    "#WasteFreeLiving",
+    "#WomenOwnedBusiness",
+    "#SanDiegoMade",
+    "#LocallySourced",
+    "#SanDiego",
+    "#Cardiff",
+    "#California",
+    "#Encinitas",
+    "#Oceanside",
+    "#DelMar",
+    "#SolanaBeach",
+    "#Carlsbad",
+    "#ConsciousConsumer",
+    "#CarbonNeutral",
+    "#SustainableGifts",
+    "#EcoFriendlyLifestyle",
+    "#GreenLiving"
+  ],
+  "shop_id": 145519,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.47,
+  "program_id": 165098,
+  "myshopify_domain": "recandle-co.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 45,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "8.77%",
+  "mkp_program_id": 165098,
+  "product_list": []
+}

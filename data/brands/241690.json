@@ -1,0 +1,181 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><h3>📌 Affiliate Program — Brand Presentation Text</h3><p><strong>• About our brand and products:</strong><br>🔷<em>VOS STORE</em>🔷 is a modern electronics brand offering reliable, high-quality devices for everyday use. Our product range includes 🔷(ex: smartphones, headphones, tablets, speakers, etc.)🔷 designed to improve comfort, productivity, and connectivity. We focus on innovation and customer satisfaction with products that combine performance and affordable pricing.</p><p><strong>• What makes us different:</strong></p><ul><li><p>Excellent quality-price ratio</p></li><li><p>Modern designs and durable materials</p></li><li><p>Continuous product improvements based on customer feedback</p></li><li><p>Fast delivery and professional customer support</p></li><li><p>Exclusive offers and regular new releases</p></li></ul><p>We bring premium tech to everyone — without the premium price.</p><p><strong>• How affiliates can earn:</strong><br>Affiliates earn <strong>11% commission</strong> on each sale generated through their personalized referral link or discount code.<br>There is <strong>no limit</strong> — the more you promote, the more you earn.<br>Payments are made 🔷(weekly / monthly — à définir)🔷 via 🔷(ex: PayPal, bank transfer)🔷.</p><p><strong>• How to promote us:</strong><br>Affiliates can promote on any channel, such as:</p><ul><li><p>TikTok, Instagram, Facebook, YouTube</p></li><li><p>WhatsApp / Messenger groups</p></li><li><p>Blogs, websites, and review pages</p></li><li><p>Word-of-mouth directly to friends &amp; family</p></li></ul><p>We provide:<br>✓ Marketing visuals<br>✓ Product details<br>✓ Personalized promo codes and tracking links</p><p><strong>• Other information:</strong><br>We are looking for motivated ambassadors with a passion for electronics and social engagement.<br>Support is always available if you need help to boost your sales.<br>We grow — and we want you to grow with us. 🚀</p><hr><p><br></p></div>",
+  "payout_rate": "No data yet",
+  "payout_period": ": 1st of each month or Quarterly on the 15th for payout timing.",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37175,
+  "categories": "Electronics",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "11% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "seo",
+    "coupon_discount_codes",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "direct_linking_direct_traffic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Belgium",
+    "Canada",
+    "France",
+    "Luxembourg",
+    "Portugal",
+    "Spain"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/gcx00x-zj/register",
+  "offer_status": 2,
+  "name": "Électronique LTD",
+  "website": "https://360-katoclothes.store",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 241690,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 282181,
+  "myshopify_domain": "gcx00x-zj.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 282181,
+  "product_list": []
+}

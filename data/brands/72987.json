@@ -1,0 +1,146 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/a7425113cd9604af9d762cab93a5d971.png",
+  "description": "<p><strong>(ISABELLLA.COM).&nbsp;</strong>is one of the world's leading online discount stores. We are a fast growing company because we always put the customer first. A customer centered shopping experience has always been our goal, and we pride ourselves in our comprehensive policies that have put us in a realm above and beyond our competitors. Here at<strong>(ISABELLLA.COM).</strong>we believe in passing along deeply discounted sale prices to our customers,<strong>typically saving them 30-70% off of retail costs.</strong></p>\r\n<p><strong>Our company is built on three core principles:</strong></p>\r\n<ol>\r\n<li>Excellent products</li>\r\n<li>Excellent prices</li>\r\n<li>Excellent customer service</li>\r\n</ol>\r\n<p>We believe that serving our customers upholds a responsibility to ensure that they are satisfied with their purchases. We will do our best to make sure that our customers are happy. We believe we can create a good impact in the industry forever by focusing on our customers' needs.</p>\r\n<p>We're glad you've found your way to the online store that's known not only for the deep discounts but also for our top-notch customer service. We hope you'll be back often and spread the word to all your friends! Shop with us today and see the<strong>(ISABELLLA.COM).</strong>difference.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 17539,
+  "categories": "Beauty & Health, Home & Tools, Electronics",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/luckyshoppy/register",
+  "offer_status": 2,
+  "name": "IsabelllaStore",
+  "website": "https://isabellla.com",
+  "hashtags": [],
+  "shop_id": 72987,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 83472,
+  "myshopify_domain": "luckyshoppy.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "25%",
+  "mkp_program_id": 83472,
+  "product_list": []
+}

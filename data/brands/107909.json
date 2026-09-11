@@ -1,0 +1,178 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1712925703_9609622_3f0687250f36bd3095552a553f318606.png",
+  "description": "<p><span style=\"font-weight: 400;\">GreenGlow is committed to redefining everyday living through the lens of sustainability and eco-consciousness. Our mission is threefold:</span></p>\r\n<ol>\r\n<li style=\"font-weight: 400;\"><b>To Promote Sustainability</b><span style=\"font-weight: 400;\">: We aim to demonstrate that sustainable living can be stylish, practical, and accessible. By carefully selecting materials like wood and bamboo, which are renewable and have a lower environmental impact, we strive to reduce our carbon footprint and encourage our community to do the same.</span></li>\r\n<li style=\"font-weight: 400;\"><b>To Foster Environmental Awareness</b><span style=\"font-weight: 400;\">: Education is at the core of our mission. We aspire to not only provide eco-friendly products but also to enlighten our customers about the importance of environmental preservation. Through our products and practices, we hope to inspire a wave of change, encouraging individuals to make choices that benefit our planet.</span></li>\r\n<li style=\"font-weight: 400;\"><b>To Support Community and Craftsmanship</b><span style=\"font-weight: 400;\">: GreenGlow values the artistry and tradition behind every product. We collaborate with local artisans and communities, promoting fair trade practices and ensuring that our growth contributes positively to both local and global ecosystems.</span></li>\r\n</ol>\r\n<p><span style=\"font-weight: 400;\">At GreenGlow, we believe in the power of small changes leading to significant impacts. Our dedication to the environment is matched by our commitment to our customers, offering them a way to embrace eco-friendly living without sacrificing beauty or functionality. Join us on this journey towards a more sustainable, conscious world.</span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "30",
+  "video_url": null,
+  "mkp_listing_id": 27500,
+  "categories": "Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "40% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/greenglow/register",
+  "offer_status": 2,
+  "name": "GreenGlow",
+  "website": "https://greenglow.us/",
+  "hashtags": [
+    "#    #EcoFriendly     #SustainableLiving     #GreenLiving     #EcoProducts     #BambooProducts     #WoodProducts     #SustainableDesign     #NaturalLiving     #GreenHome     #ZeroWaste     #EnvironmentallyFriendly     #ReduceReuseRecycle     #Biodegradable     #EthicalConsumerism     #ConsciousLiving     #GreenChoices     #RenewableMaterials     #PlanetFriendly     #NaturalMaterials     #GoGreen"
+  ],
+  "shop_id": 107909,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.77,
+  "program_id": 122551,
+  "myshopify_domain": "mistybreeze-7850.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "37.5%",
+  "mkp_program_id": 122551,
+  "product_list": []
+}

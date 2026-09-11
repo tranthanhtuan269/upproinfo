@@ -1,0 +1,184 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/627d2b9d2e6b85cbcb6f87a25431501c.jpg",
+  "description": "<div style=\"font-family:Poppins;\"><p>BabiesMart is a premier Australian-based baby and kids brand specialising in safety-certified essentials. From our signature Toddly nursery range to MaterniCare maternity support, we prioritise quality and Australian Safety Standards. With a history of excellence since 2021, we are now expanding our reach to the USA and New Zealand. We offer our partners competitive tiered commissions (up to 15%), 14-day automated payouts, and exclusive discount codes for their followers. Join a brand that parents trust and grow your earnings with our high-conversion baby gear and clothing</p></div>",
+  "payout_rate": "94.98%",
+  "payout_period": "Automated every 14 days (Minimum $50 AUD threshold)",
+  "recommend_score": 4.31,
+  "average_earning_per_sale": "40",
+  "video_url": null,
+  "mkp_listing_id": 22011,
+  "categories": "Mom & Kids, Toys & Hobbies",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "10%-15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "social_messenger_app"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "New Zealand"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/babies-mart-australia/register",
+  "offer_status": 2,
+  "name": "Babies Mart Australia",
+  "website": "https://babiesmart.com.au",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 91770,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "2000",
+      "commission_val": "12.5",
+      "disabled": false
+    },
+    {
+      "key": 3,
+      "order_val": "10000",
+      "commission_val": "15",
+      "disabled": false
+    }
+  ],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.88,
+  "program_id": 104744,
+  "myshopify_domain": "babies-mart-australia.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 105.83,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "97.07%",
+  "mkp_program_id": 104744,
+  "product_list": []
+}

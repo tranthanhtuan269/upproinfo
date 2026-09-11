@@ -1,0 +1,164 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1722537899_5100846_f9404e05b8b2c941cf85a5bd3e0bbe57.png",
+  "description": "<p dir=\"ltr\"><span>Santoshers - O programa de afiliados do Santosha</span><b></b></p>\r\n<p dir=\"ltr\"><span>O que &eacute;:</span><span> um programa onde voc&ecirc; cria sua pr&oacute;pria lojinha dentro do site do Santosha, divulga seus produtos preferidos para a sua rede de contatos e ganha uma comiss&atilde;o com cada venda feita atrav&eacute;s do seu link!&nbsp;</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><b>&nbsp;</b></p>\r\n<p dir=\"ltr\"><span>Perfeito para:</span><span> professores de Yoga, studios, influenciadores ou pessoas que querem INSPIRAR A PR&Aacute;TICA DE YOGA por a&iacute; enquanto gera uma renda extra.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"></p>",
+  "payout_rate": "99.63%",
+  "payout_period": null,
+  "recommend_score": 3.54,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 31924,
+  "categories": "Sports & Entertainment, Beauty & Health",
+  "currency": "BRL",
+  "symbol_currency": "&#82;&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Brazil"
+  ],
+  "payment_support": {
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/4f96e7-60/register",
+  "offer_status": 2,
+  "name": "Santosha",
+  "website": "https://4f96e7-60.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 160351,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.66,
+  "program_id": 182367,
+  "myshopify_domain": "4f96e7-60.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 395.75,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "96.9%",
+  "mkp_program_id": 182367,
+  "product_list": []
+}

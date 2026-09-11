@@ -1,0 +1,196 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1726056814_7678630_e21b7ffcddba72f3ef7b2bf7bf772b5d.png",
+  "description": "<div style=\"font-family: Poppins;\"><p>BlauKe is an eco-friendly brand specializing in plastic-free kitchenware and household essentials. We combine great products, a strong commitment to the environment, and a smooth shopping experience aligned with your lifestyle.</p><p>Inspired by a healthy lifestyle and energized by their love for food and cooking, the team at Blondelish.com – a recipe website featuring healthy, easy and delicious recipes – went on to launch BlauKe determined to offer kitchenware that combined sustainable materials, quality, durability and most importantly, an attractive design.</p><p>Explore a selection of expertly-designed wooden products ranging from bamboo cutting boards and cheese boards to cooking utensils – a selection that is constantly growing with exciting new products.</p><p><br></p><p><br>OUR CORE VALUES</p><p>Eco-Friendly: BlauKe was designed to become the go-to store for eco-friendly kitchenware – we believe we can help create a better world, join in!</p><p>Premium Quality: We work very hard to ensure that all our products meet the highest standards – you deserve the best kitchenware.</p><p>Durability: We work closely with manufacturers to make sure that each and every product is built to last – from the materials to the manufacturing process, our team carefully assesses all factors that can affect durability.</p><p>Inspiration: At BlauKe, we focus on offering kitchenware that can add a pop of color and originality to your kitchen – kitchenware doesn’t have to be ordinary, dull or uninspired.</p><p><br></p><p>As an affiliate, you will be given access to marketing resources, exclusive discounts and early access to new products</p></div>",
+  "payout_rate": "0%",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.85,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32099,
+  "categories": "Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "15%-20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 45,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/blauke/register",
+  "offer_status": 2,
+  "name": "BlauKe",
+  "website": "https://blauke.com",
+  "hashtags": [
+    "#kitcheware",
+    "#kitchenaccessories",
+    "#cheeseboard",
+    "#cuttingboard"
+  ],
+  "shop_id": 165965,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "15"
+    },
+    {
+      "key": 2,
+      "order_val": "100",
+      "commission_val": "20"
+    }
+  ],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.62,
+  "program_id": 188746,
+  "myshopify_domain": "blauke.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 29.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "94.12%",
+  "mkp_program_id": 188746,
+  "product_list": []
+}

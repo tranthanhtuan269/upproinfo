@@ -1,0 +1,163 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/45c7157684130d228b9564b16bfef501.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><ul><li style=\"text-align:left;font-size: 14px;font-weight: normal;\">Brand introduction: Joyful life shipped from Japan.</li><li style=\"text-align:left;font-size: 14px;font-weight: normal;\">Product description: Most trending beauty and cosmetics products shipped from Japan. Including skincare (lotion, serum, cream, eyecare), cosmetics (eyeshadow, eyeliner, lipsticks, eyebrow, contact lenses, hair make and etc.), beauty supplements.</li><li style=\"text-align:left;font-size: 14px;font-weight: normal;\">USP (Unique Selling Point): Trending, fresh, high quality, luxury beauty products.</li><li style=\"text-align:left;font-size: 14px;font-weight: normal;\">Payment terms: Monthly</li></ul></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 2.84,
+  "average_earning_per_sale": "20",
+  "video_url": null,
+  "mkp_listing_id": 35963,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1751437466_3643566_388c35f1ed91a57d513769a27ab5fda1.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "2% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Facebook",
+    "Youtube",
+    "Tiktok",
+    "Pinterest",
+    "Reddit",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ichibanmart/register",
+  "offer_status": 2,
+  "name": "Ichiban Mart",
+  "website": "https://ichibanm.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 69991,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.06,
+  "program_id": 79742,
+  "myshopify_domain": "ichibanmart.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 237.2,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "9.38%",
+  "mkp_program_id": 79742,
+  "product_list": []
+}

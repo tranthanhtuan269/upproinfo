@@ -1,0 +1,180 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1776181040_3633392_e5aaa6ebd88ed6205794ce57a22f699d.png",
+  "description": "<div style=\"font-family:Poppins;\"><h2><b>Únete a la Élite: Programa de Afiliados VELANCE</b></h2><p>Forma parte de la marca que está redefiniendo la cosmética de alto rendimiento. En <b>VELANCE</b>, fusionamos química avanzada y lujo para crear fórmulas únicas en el mercado.</p><h3><b>Tus Beneficios:</b></h3><ul><li><p><b>14% de comisión</b> por cada venta generada.</p></li><li><p><b>Acceso exclusivo</b> a lanzamientos y preventas.</p></li><li><p><b>Material premium</b> (fotos y videos) listo para compartir.</p></li><li><p><b>Panel de control</b> para seguir tus ingresos en tiempo real.</p></li></ul><h3><b>¿Cómo funciona?</b></h3><ol start=\"1\"><li><p><b>Regístrate:</b> Crea tu cuenta en menos de un minuto.</p></li><li><p><b>Comparte:</b> Usa tu enlace personalizado en tus redes o blog.</p></li><li><p><b>Gana:</b> Recibe el <b>14%</b> de comisión por cada compra que realicen tus referidos.</p></li></ol><p><br></p><p><br></p></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Cada Dia primero de Mes, Estamos abiertos a negociaciones.",
+  "recommend_score": 1.85,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39122,
+  "categories": "Health & Beauty",
+  "currency": "MXN",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "14% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Mexico"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "store_credit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/velance/register",
+  "offer_status": 2,
+  "name": "Velance",
+  "website": "https://www.velance.com.mx",
+  "hashtags": [
+    "#velance",
+    "#royalblue",
+    "#eterna",
+    "#skincare",
+    "#cosmetics",
+    "#looksmaxxing",
+    "#health",
+    "#biohacking"
+  ],
+  "shop_id": 264223,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.32,
+  "program_id": 311894,
+  "myshopify_domain": "8gypdu-x3.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 311894,
+  "product_list": []
+}

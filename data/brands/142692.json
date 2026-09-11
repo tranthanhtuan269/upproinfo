@@ -1,0 +1,180 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1712103997_7436713_1977ac348118b6e019754a0054181bcf.png",
+  "description": "<h2>Join the ArtFusion Partners Program: Where Art Meets Innovation</h2>\r\n<p>Are you passionate about art, interior or pop culture? If so, we invite you to become a part of something truly revolutionary. Welcome to the ArtFusion Partners Program by ArtRevolution.ai, where we blend the cutting-edge technology of AI with the timeless beauty of art to create trend-setting pieces that captivate and inspire.</p>\r\n<h3>Why Partner with Us?</h3>\r\n<p><strong>Innovative Product Offering</strong>: At ArtRevolution.ai, we harness AI to identify emerging trends and translate them into stunning, affordable art pieces. Our diverse collections, including Botanical, Abstract, Space, and Urban themes, are designed to appeal to a wide range of tastes and interests, ensuring there's something for every audience.</p>\r\n<p><strong>Competitive Commissions</strong>: We value the effort and influence of our affiliates, offering attractive commission rates on all sales generated through your unique affiliate links. With high conversion rates and an expansive product range, the potential for earnings is substantial.</p>\r\n<p><strong>Dedicated Support</strong>: Our affiliates are our partners in every sense. From personalized support and regular updates on new collections and promotions to access to high-quality marketing materials (in development), we ensure you have everything you need to succeed.</p>\r\n<h3>Who Are We Looking For?</h3>\r\n<p>Creative minds and pop culture enthusiasts who:</p>\r\n<ul>\r\n<li>Run an art, interior design or pop culture focused blog, website, or social media platform.</li>\r\n<li>Are looking to offer their audience something unique, beautiful, and thought-provoking.</li>\r\n</ul>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29556,
+  "categories": "Art, Home & Tools, Phone & Telecommunication",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "10%-15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Pinterest",
+    "Instagram"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "18-24",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/6408b8-3/register",
+  "offer_status": 2,
+  "name": "artrevolution.ai",
+  "website": "https://artrevolution.ai",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 142692,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "50",
+      "commission_val": "15"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 161799,
+  "myshopify_domain": "6408b8-3.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "50%",
+  "mkp_program_id": 161799,
+  "product_list": []
+}

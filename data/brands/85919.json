@@ -1,0 +1,143 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1675224429_4862033_b756b352b10fa06d4f4572c36105263cLogo2.png",
+  "description": "<p><span style=\"color: rgb(72, 94, 117); font-family: 'Amazon Ember', Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); float: none; display: inline;\">Kingsted Men's T-Shirts are designed to look &amp; feel like an old favorite since the first time you wear it. These will quickly become your favorite t-shirts you wear first. When you buy a Kingsted t shirt for men pack, you can expect a Well-Crafted, Soft &amp; Comfortable Classic t-shirt for men. Good enough to wear on a lazy Sunday or a night out. Our premium cotton blend fabric delivers the perfect balance of Comfort &amp; Softness... but don't confuse our softness with weakness&hellip; Kingsted shirts are Exceptionally Durable. The end product is a Soft &amp; Comfy, Wrinkle Resistant, Fast-Drying and Ultra-Durable t-shirt for men. These will wear well and look fresh and clean for a long time.</span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.07,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 20768,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1675224692_7499616_11169b9e3fedcd82527eabe178097342.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/kingsted/register",
+  "offer_status": 2,
+  "name": "Kingsted",
+  "website": "https://www.kingsted.com",
+  "hashtags": [],
+  "shop_id": 85919,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.07,
+  "program_id": 98316,
+  "myshopify_domain": "kingsted.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 63,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "16.67%",
+  "mkp_program_id": 98316,
+  "product_list": []
+}

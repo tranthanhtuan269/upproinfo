@@ -1,0 +1,277 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1782358198_5201776_38b86ea5f77f0e5027ebf602e974821c.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p><span style=\"font-size:14px;\">• Brand category: HiFi audio brand specializing in in-ear monitors, earbuds, IEM cables and portable DAC/AMPs</span></p><p><span style=\"font-size:14px;\">• Target audience: Global audiophiles, musicians, singers and gamers seeking high-performance but affordable gear</span></p><p><span style=\"font-size:14px;\">• Primary selling region: Ships worldwide with a strong focus on US, Europe and Asia via own site and Amazon/AliExpress stores</span></p><p><span style=\"font-size:14px;\">• Maturity label: Established niche audio brand founded in 2015 with award-winning and reviewer-endorsed products</span></p><p><span style=\"font-size:14px;\">• Product highlights: Cost-effective HiFi IEMs, upgrade cables, app-tunable DAC/AMPs, wide tech range from dynamic to planar and hybrid drivers</span></p><p style=\"text-align:left;font-size:14px;font-weight:normal;\">• Rate: ≥10% of the order</p><p style=\"text-align:left;font-size:14px;font-weight:normal;\">• Time of commission payment: From the 5th to 15th of each month</p></div></div>",
+  "payout_rate": "95.09%",
+  "payout_period": "From the 5th to 15th of each month",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39825,
+  "categories": "Electronics",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "8%-10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Japan",
+    "Korea",
+    " Republic of",
+    "Canada",
+    "Qatar",
+    "France",
+    "Germany",
+    "Hong Kong",
+    "Norway",
+    "Italy"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://partner.nicehck.com/1cf601-18/register",
+  "offer_status": 2,
+  "name": "NICEHCK Audio",
+  "website": "https://nicehck.com",
+  "hashtags": [
+    "#nicehck",
+    "#hifi",
+    "#iem",
+    "#audiophile"
+  ],
+  "shop_id": 148552,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "8",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "300",
+      "commission_val": "10",
+      "disabled": false
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 168691,
+  "myshopify_domain": "1cf601-18.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "68d24da65d235d1f70010ae6",
+      "name": "Auto-discount rule",
+      "program_id": 168691,
+      "shop_id": 148552,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:35:02",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Canada",
+    "Colombia",
+    "Czech Republic",
+    "Denmark",
+    "Estonia",
+    "Falkland Islands",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Greenland",
+    "Hong Kong SAR China",
+    "Iceland",
+    "India",
+    "Indonesia",
+    "Israel",
+    "Italy",
+    "Japan",
+    "Latvia",
+    "Mexico",
+    "Netherlands",
+    "New Zealand",
+    "Norway",
+    "Qatar",
+    "Romania",
+    "Russia",
+    "Singapore",
+    "South Korea",
+    "Spain",
+    "Swaziland",
+    "Sweden",
+    "Taiwan",
+    "Turkey",
+    "Ukraine",
+    "United Kingdom",
+    "United States"
+  ],
+  "avg_order_value": 43.2,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "96.69%",
+  "mkp_program_id": 168691,
+  "product_list": []
+}

@@ -1,0 +1,179 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1662646015_8370433_a2198828cd8ba453acbbb6b74b887053Logo-black.png",
+  "description": "<div style=\"font-family: Poppins;\"><p style=\"word-break: break-word; margin-bottom: 1rem; color: rgba(0, 0, 0, 0.75); font-family: &quot;New York&quot;, &quot;Iowan Old Style&quot;, &quot;Apple Garamond&quot;, Baskerville, &quot;Times New Roman&quot;, &quot;Droid Serif&quot;, Times, &quot;Source Serif Pro&quot;, serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16.8px; letter-spacing: 0.63px; background-color: rgb(252, 252, 252);\">Pam Pam offers Plant-Based Asian fusion ready-meals for Australian customers.&nbsp;</p><p style=\"word-break: break-word; margin-bottom: 1rem; color: rgba(0, 0, 0, 0.75); font-family: &quot;New York&quot;, &quot;Iowan Old Style&quot;, &quot;Apple Garamond&quot;, Baskerville, &quot;Times New Roman&quot;, &quot;Droid Serif&quot;, Times, &quot;Source Serif Pro&quot;, serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16.8px; letter-spacing: 0.63px; background-color: rgb(252, 252, 252);\">At Pam Pam, we strive to provide the best experience for our customers. We source only<span style=\"font-size: 16.8px; letter-spacing: 0.63px;\">&nbsp;the best ingredients and pack each meal with tons of nutritional value.</span><span style=\"font-size: 16.8px; letter-spacing: 0.63px;\">&nbsp;</span></p><p style=\"word-break: break-word; margin-bottom: 0px; color: rgba(0, 0, 0, 0.75); font-family: &quot;New York&quot;, &quot;Iowan Old Style&quot;, &quot;Apple Garamond&quot;, Baskerville, &quot;Times New Roman&quot;, &quot;Droid Serif&quot;, Times, &quot;Source Serif Pro&quot;, serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16.8px; letter-spacing: 0.63px; background-color: rgb(252, 252, 252);\">All meals are prepared in Sydney by our Chef, to offer you a variety of dishes. We provide home delivery service to customers in NSW, ACT, VIC, QLD (exclude Northern Queensland), SA (Adelaide)&nbsp;</p></div>",
+  "payout_rate": "100%",
+  "payout_period": "Monthly",
+  "recommend_score": 2.43,
+  "average_earning_per_sale": "15",
+  "video_url": null,
+  "mkp_listing_id": 17060,
+  "categories": "Grocery & Food",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/pam-pam/register",
+  "offer_status": 2,
+  "name": "Pam Pam Plant-based Asian Meals ",
+  "website": "https://pampam.com.au",
+  "hashtags": [
+    "#readymeals",
+    "#vegan",
+    "#plantbased",
+    "#asianmeals",
+    "#homedelivery"
+  ],
+  "shop_id": 71257,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.62,
+  "program_id": 81240,
+  "myshopify_domain": "pam-pam-meals.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 131.53,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "7.21%",
+  "mkp_program_id": 81240,
+  "product_list": []
+}

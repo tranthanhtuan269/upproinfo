@@ -1,0 +1,178 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1735285013_8335762_86c411caa72da7651c24e9907f3115d7.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: Promeed specializes in 100% mulberry silk bedding products, the brand combines centuries-old craftsmanship with modern innovation&nbsp;<br>&bull; Product description: 100% Mulberry Silk&nbsp;<br>&bull; USP (Unique Selling Point): Natural pure silk bedding for hair and skin care.</p>\r\n<ul>\r\n<li>Anti-Aging</li>\r\n<li>Anti-Wrinkles</li>\r\n<li>Anti-Sleep Lines</li>\r\n<li>Anti-Bed Head</li>\r\n<li>Anti-Frizzy Hair</li>\r\n<li>Anti-Oily Scalp</li>\r\n</ul>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Payment terms: &nbsp;Guaranteed safe checkout<br>&bull; Other information: 60-day free return</p>\r\n</div>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.76,
+  "average_earning_per_sale": "35",
+  "video_url": "https://cdn.shopify.com/videos/c/o/v/cb337de297814a748c5703b2aec08fd9.mp4",
+  "mkp_listing_id": 33759,
+  "categories": "Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1736161057_9709100_7041b9e7849f979c505986d8304dd62e.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Coupons or Deals website",
+    "Reddit",
+    "Twitter",
+    "Quora",
+    "Etsy",
+    "Comparison shopping engine",
+    "Blog",
+    "Content or Niche website",
+    "Podcast platforms",
+    "Pinterest",
+    "Tiktok",
+    "Youtube",
+    "Instagram",
+    "Facebook",
+    "Twitch"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/promeedsilk/register",
+  "offer_status": 2,
+  "name": "Promeed - Natural Quality Home",
+  "website": "https://promeed.com",
+  "hashtags": [
+    "#silk",
+    "#silkpillowcase",
+    "#silkbedsheets",
+    "#mulberrysilk",
+    "#puresilk",
+    "#naturalsilk",
+    "#luxurysilkbedding"
+  ],
+  "shop_id": 181244,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.52,
+  "program_id": 206581,
+  "myshopify_domain": "promeedsilk.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 56.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "25%",
+  "mkp_program_id": 206581,
+  "product_list": []
+}

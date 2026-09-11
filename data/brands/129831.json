@@ -1,0 +1,187 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1704482682_4908430_2d0554257ee64b9b35eb7667eb123854.jpg",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: <span>Welcome to 'towards another world,' your gateway to timeless elegance and inspired craftsmanship. We are a luxury unisex jewellery brand, proudly handcrafting each exquisite piece in the United Kingdom. Our commitment to sustainability and ethical practices shines through in every facet of our creations</span>&nbsp;<br>&bull; Product description: Jewellery handmade in the UK<br>&bull; USP (Unique Selling Point): Handmade in the UK, using recycled silver and gold<br>&bull; Payment terms: 30 days<br>&bull; Other information:</p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.81,
+  "average_earning_per_sale": "20",
+  "video_url": null,
+  "mkp_listing_id": 28187,
+  "categories": "Jewelry & Accessories, Fashion",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Etsy",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Podcast platforms",
+    "Reddit",
+    "Tiktok",
+    "Twitch",
+    "Twitter",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States",
+    "United Arab Emirates",
+    "Switzerland",
+    "Sweden",
+    "Saudi Arabia",
+    "Ireland",
+    "Germany",
+    "China",
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/q-r-t-r/register",
+  "offer_status": 2,
+  "name": "towards another world",
+  "website": "https://towardsanotherworld.com",
+  "hashtags": [
+    "#jewellery",
+    "#chains",
+    "#necklace",
+    "#bracelet",
+    "#earrings",
+    "#silver",
+    "#gold"
+  ],
+  "shop_id": 129831,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 146993,
+  "myshopify_domain": "q-r-t-r.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 149.98,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 146993,
+  "product_list": []
+}

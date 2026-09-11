@@ -1,0 +1,199 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1678782896_6949142_b22c4f3aa268c5fdad7754f0f6445b92Medarchitect.jpg",
+  "description": "<div style=\"font-family: Poppins;\"><div><p id=\"isPasted\"><strong>Brand Introduction</strong></p><p>Medarchitect is a professional brand specializing in medical education and healthcare training products. The “Med” stands for medical, while “architect” reflects our passion for innovative design, development, and production in the medical field. We aim to provide practical, high-quality training solutions that help users learn and practice medical skills effectively.</p><p><br></p><p><strong>Product Description</strong></p><p>We offer a wide range of medical training products, such as suture kits, injection kits, wound care trainers, education models &amp; more. Our products are Amazon bestsellers and trusted by medical learners and educators around the world.</p><p><br></p><p><strong>Unique Selling Points</strong></p><ul><li>We own our own factory, ensuring stable quality and fast delivery.</li><li>OEM &amp; customization are available.</li><li>Competitive profit margins for affiliate partners.</li></ul><p><br></p><p><strong>Payment Terms</strong></p><p>100% prepayment via PayPal &amp; credit card.</p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "30-day",
+  "recommend_score": 2.4,
+  "average_earning_per_sale": "0.5",
+  "video_url": "https://www.youtube.com/@medarchitect125",
+  "mkp_listing_id": 21939,
+  "categories": "Beauty & Health, Others, Education & Training",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 1,
+  "commission": "$0.50 per item",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Brazil",
+    "Canada",
+    "Chile",
+    "Germany",
+    "Spain",
+    "United Kingdom",
+    "Hong Kong",
+    "Portugal",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/mediarchitect/register",
+  "offer_status": 2,
+  "name": "Medarchitect",
+  "website": "https://mediarchitect.net",
+  "hashtags": [
+    "#nurse",
+    "#medicalstudent",
+    "#medicaltraining"
+  ],
+  "shop_id": 91470,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "5"
+    },
+    {
+      "key": 2,
+      "order_val": "5000",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.74,
+  "program_id": 104386,
+  "myshopify_domain": "mediarchitect.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 184,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "71.05%",
+  "mkp_program_id": 104386,
+  "product_list": []
+}

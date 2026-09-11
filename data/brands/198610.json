@@ -1,0 +1,212 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1749119977_3895100_37dcb8158d0eb565d7719bc022eb8414.png",
+  "description": "<div style=\"font-family:Poppins;\"><p style=\"border-width:0px;border-style:solid;margin:0px 0px 1.25em;color:rgb(55,65,81);font-family:'__Inter_d65c78', '__Inter_Fallback_d65c78';font-size:16px;white-space:normal;background-color:rgb(255,255,255);\"><strong>Holistica Beauty </strong>combines holistic wellness with scientific innovation. Made in USA with exceptional EWG ratings, our affordable clean beauty line includes Daily Repair Creme, Intense Hydra Eye Serum, Purifying Foam Cleanser, Vanilla Infused Whipped Tallow Balm, and Advanced Snail Mucin Essence—all free from parabens, fragrance, and phthalates.</p><p style=\"border-width:0px;border-style:solid;margin:1.25em 0px;color:rgb(55,65,81);font-family:'__Inter_d65c78', '__Inter_Fallback_d65c78';font-size:16px;white-space:normal;background-color:rgb(255,255,255);\">After extensive research, we've created formulations that deliver luxury results at accessible prices. As an affiliate, earn 30% commission while your audience enjoys 15% off (Coupon to offer: RADIANCE15). Automatic PayPal payouts on the 5th monthly.</p><p style=\"border-width:0px;border-style:solid;margin:1.25em 0px 0px;color:rgb(55,65,81);font-family:'__Inter_d65c78', '__Inter_Fallback_d65c78';font-size:16px;white-space:normal;background-color:rgb(255,255,255);\">Join our mission to make truly clean, effective skincare accessible to everyone!</p></div>",
+  "payout_rate": "100%",
+  "payout_period": "5th of each month.",
+  "recommend_score": 4.85,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34956,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/j6cyb0-6w/register",
+  "offer_status": 2,
+  "name": "Holistica Beauty",
+  "website": "https://shopholistica.co",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 198610,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.45,
+  "program_id": 227119,
+  "myshopify_domain": "j6cyb0-6w.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "68d24dad5d235d1f7001154b",
+      "name": "Auto-discount rule",
+      "program_id": 227119,
+      "shop_id": 198610,
+      "affiliates": [],
+      "discount_type": 2,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": "RADIANCE15",
+      "active_at": "2025-09-23 07:35:09",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 11.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "98.94%",
+  "mkp_program_id": 227119,
+  "product_list": []
+}

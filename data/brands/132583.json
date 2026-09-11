@@ -1,0 +1,215 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1706038539_6945830_f1c7bbb20c5434d7b5610352a73d48a7.png",
+  "description": "<div style=\"font-family:Poppins;\"><p>Welcome to The Light Walk Shoes Affiliate Program – your gateway to partnering with a premier destination for quality footwear.</p><p>The Light Walk Shoes curates a diverse collection from top-notch brands, including Apex, Drew, Caterpillar, Reebok and many more. Renowned for our commitment to quality and style, we're a leading name in the shoe industry.</p><p>Explore a vast range of footwear categories, from Boots and Casual shoes to Sandals and Work Shoes. Our inventory caters to diverse foot conditions, addressing concerns like Arthritis, Bunions, Plantar Fasciitis, and more.</p><p>What sets us apart? Unmatched variety and a commitment to comfort and style. Our affiliate partners promote footwear that aligns with authenticity, quality craftsmanship, and solutions for various foot conditions.</p><p>Joining The Light Walk Shoes Affiliate Program is free and rewarding. Earn competitive commissions for each sale through your unique affiliate link. Payouts are processed monthly via PayPal.</p><p>As a valued affiliate, you'll access a suite of promotional materials, real-time analytics, and dedicated support. Our user-friendly affiliate portal ensures seamless tracking of your earnings. Join us in our mission to provide comfort and style to every step.</p></div>",
+  "payout_rate": "98.6%",
+  "payout_period": "Payout is on the last day of every month",
+  "recommend_score": 4.29,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 28431,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/5eb629/register",
+  "offer_status": 2,
+  "name": "TLW Shoes",
+  "website": "https://thelightwalkshoes.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 132583,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.2,
+  "program_id": 150003,
+  "myshopify_domain": "5eb629.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "69e79d6c357413fb5c0788a2",
+      "name": "auto-discount rule",
+      "program_id": 150003,
+      "shop_id": 132583,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 8,
+          "message": null,
+          "product_applies_type": "specific_collection",
+          "select_data": [
+            "463935308090"
+          ]
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": false,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": null,
+      "created_at": "2026-04-21T15:53:16.117000Z",
+      "updated_at": "2026-05-13T19:17:06.271000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 157.5,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "91.28%",
+  "mkp_program_id": 150003,
+  "product_list": []
+}

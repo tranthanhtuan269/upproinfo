@@ -1,0 +1,143 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/598019054fdbebf4b65e58f62c51932f.jpg",
+  "description": "<span style=\"font-size: 16px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); caret-color: rgb(29, 29, 29); color: rgb(29, 29, 29); font-family: NeuePlak, ARMOUR, Helvetica, Arial, sans-serif; -webkit-text-size-adjust: 100%;\">The Gent &amp; Scholar Co. affiliate program allows approved websites to link to www.gentandscholarco.com and begin earning commissions on clickthrough sales. For all transactions resulting from referred clicks, Gent &amp; Scholar Co. handles order fulfillment and customer service; you simply send us the purchasing traffic. By linking to www.gentandscholarco.com, you will have access to some of the newest urban clothing to hit the fashion market.</span>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.8,
+  "average_earning_per_sale": null,
+  "video_url": "https://youtu.be/uk4BpxQ6ibo",
+  "mkp_listing_id": 17180,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/gent-scholar-co/register",
+  "offer_status": 2,
+  "name": "Gent & Scholar Co.",
+  "website": "https://gentandscholarco.com",
+  "hashtags": [],
+  "shop_id": 71774,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.8,
+  "program_id": 81883,
+  "myshopify_domain": "gent-scholar-co.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "6.67%",
+  "mkp_program_id": 81883,
+  "product_list": []
+}

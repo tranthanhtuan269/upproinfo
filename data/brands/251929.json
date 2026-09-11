@@ -1,0 +1,196 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><div><p style=\"text-align:left;font-size:14px;font-weight:normal;\">• About our brand and products:<br>• What makes us different:</p><p># Generate 1099-NEC forms</p><p><br></p><p>The Generate 1099-NEC forms feature in UpPromote is designed to assist you with generating the necessary end-of-year tax documentation for your affiliates. This tool simplifies the creation of 1099-NEC forms, ensuring your compliance with IRS guidelines.&amp;#x20;</p><p><br></p><p>Please note We do not provide tax advice. For specific inquiries regarding tax forms, please consult a tax professional.</p><p><br></p><p>## What is the 1099-NEC Form&amp;#x20;</p><p><br></p><p>The 1099-NEC form is an IRS document used by businesses to report payments made to non-employees, such as freelancers, independent contractors, and other external service providers, including affiliates. This form is crucial for ensuring both the business and the payee comply with federal tax obligations. It specifically handles reporting individual service payments of $600 or more within a tax year.</p><p><br></p><p><br></p><p><br></p><p>## How to set up the feature</p><p><br></p><p>Step 1 Go to Settings  Payments  Tax documents in your UpPromote account, then click Set up in the 'Tax documents' section.</p><p><br></p><p>figureimg src=https2915776664-files.gitbook.io~filesv0bgitbook-x-prod.appspot.comospaces%2F-LnqRFg4of77qA6qOdUp%2Fuploads%2FhYcewJQ9cd24z0qH2F3S%2Fimage.pngalt=media&amp;#x26;token=5fbb587e-d6b2-422c-9140-2f541fbb912e alt=figcaptionfigcaptionfigure</p><p><br></p><p>Step 2 On the Tax documents page, turn on the Generate 1099-NEC form feature.&amp;#x20;</p><p><br></p><p>figureimg src=https2915776664-files.gitbook.io~filesv0bgitbook-x-prod.appspot.comospaces%2F-LnqRFg4of77qA6qOdUp%2Fuploads%2Fz29QpmsszLaNFLr7MDOl%2Fimage.pngalt=media&amp;#x26;token=a1395818-5494-42e8-a2bd-fbd246f9b47c alt=figcaptionfigcaptionfigure</p><p><br></p><p>Please make sure to enable the [Require W-9 Form submission](httpsdocs.uppromote.comsettingstax-documentsw9-form) feature to ensure you collect all required tax information upfront.</p><p><br></p><p>Step 3 Enter your business's Payer Information, which will be used to fill out the 1099 forms automatically later.&amp;#x20;</p><p><br></p><p>figureimg src=https2915776664-files.gitbook.io~filesv0bgitbook-x-prod.appspot.comospaces%2F-LnqRFg4of77qA6qOdUp%2Fuploads%2Fk3loPOBJQlqS1dkElaZV%2Fimage.pngalt=media&amp;#x26;token=89157ef8-8579-4f72-a2d0-06ae553dd1f9 alt=figcaptionfigcaptionfigure</p><p><br></p><p>Step 4 Click Save to complete activating the feature.</p><p><br></p><p>{% hint style=info %}</p><p>Important note</p><p><br></p><p>This feature is only available for merchants with store currency in USD $. If your store currency is not USD $, you cannot enable this feature.&amp;#x20;</p><p>{% endhint %}</p><p><br></p><p><br></p><p><br></p><p>## How the feature works</p><p><br></p><p>### 1. Generate forms</p><p><br></p><p>#### 👉 Requirements for affiliates</p><p><br></p><p>For UpPromote to generate a 1099-NEC form, affiliates must meet the following criteria</p><p><br></p><p> US Residency They must be non-corporate US residents based in the United States.</p><p> Minimum Earnings Affiliates must have earned at least USD $600 in commissions during the tax year.</p><p> W-9 Form Submission A valid W-9 form must be uploaded to their affiliate account.</p><p><br></p><p>{% hint style=info %}</p><p><br></p><p>#### How we calculate total paid commissions for each affiliate</p><p><br></p><p>The system counts all paid commissions from January 1 to December 31 of the relevant tax year based on your Shopify time zone.</p><p><br></p><p>'Paid commissions' means commissions marked as PaidProcessed from the Payouts page during the tax year are included in the total.</p><p>{% endhint %}</p><p><br></p><p>#### 👉 Feature timeline</p><p><br></p><p>Once the Generate 1099-NEC forms feature is successfully activated, our system will automatically generate 1099-NEC forms for eligible affiliates on January 15 of the following year (0000 UTC+0).</p><p><br></p><p>By January 30 of the following year (0000 UTC+0), Copy B of the 1099-NEC form will be uploaded to each eligible affiliate’s account, allowing them to download the form for their tax records.</p><p><br></p><p>For late activation between January 15 and January 28</p><p><br></p><p> If the feature is enabled after 0000 (UTC+0) on January 15 but before 2359 (UTC+0) on January 28, the system will still generate 1099-NEC forms for the previous tax year.</p><p> Since the automatic process is no longer running at this stage, the system will require up to 24 hours to scan data and generate forms, especially if there are many affiliates.</p><p><br></p><p>For late activation after January 28</p><p><br></p><p> If the feature is enabled after 2359 (UTC+0) on January 28, the system will not generate 1099-NEC forms for the previous tax year. Instead, the feature will apply to the next tax year going forward.</p><p><br></p><p>Regarding affiliates' W-9 submission&amp;#x20;</p><p><br></p><p> If an affiliate submits or updates their W-9 form before or by 0000 (UTC+0) on January 30, the system will still generate a 1099-NEC form for that affiliate if they meet the requirements.&amp;#x20;</p><p> If the W-9 form is submitted or updated after 0000 (UTC+0) on January 30, the system will not generate a 1099-NEC form for the previous tax year.</p><p><br></p><p>### 2. Download forms</p><p><br></p><p>You can download individual 1099-NEC forms for each affiliate directly in the Form list section.&amp;#x20;</p><p><br></p><p>figureimg src=https2915776664-files.gitbook.io~filesv0bgitbook-x-prod.appspot.comospaces%2F-LnqRFg4of77qA6qOdUp%2Fuploads%2FvOyu4uuSGxlP4fp47ou8%2Fimage.pngalt=media&amp;#x26;token=5b8023ac-7124-464f-909c-d634f045f099 alt=figcaptionfigcaptionfigure</p><p><br></p><p>Each form will include Copy A, Copy 1, and Copy B for one affiliate as required for tax filing and record-keeping.</p><p><br></p><p>If you need to get all forms at once, you can use the Export file function.</p><p><br></p><p>{% hint style=info %}</p><p>Tip Please ensure that all affiliate and payer information is accurate before downloading or exporting forms to avoid discrepancies during tax filing.</p><p>{% endhint %}</p><p><br></p><p>### 3. Edit forms</p><p><br></p><p>For Payer information, you can edit them by navigating the Payer information section on the Tax documents page.&amp;#x20;</p><p><br></p><p>figureimg src=https2915776664-files.gitbook.io~filesv0bgitbook-x-prod.appspot.comospaces%2F-LnqRFg4of77qA6qOdUp%2Fuploads%2FtqN3I7pPxfdbWzhe4392%2Fimage.pngalt=media&amp;#x26;token=d6d772f9-e7a7-45f0-9fcc-9e6fe5830c68 alt=figcaptionfigcaptionfigure</p><p><br></p><p>Click the Edit button to update the required fields. Once changes are saved, the system will handle the updates as follows</p><p><br></p><p> Most Recent Tax Year If you downloadexport 1099-NEC forms for the most recent tax year after updating the Payer Information, the forms will reflect the updated details.</p><p> Previous Tax Years Forms generated for earlier tax years will not be updated. These forms will retain the original Payer Information that was in place at the time of form creation.</p><p><br></p><p>For affiliate-specific details on individual 1099-NEC forms, you can find the relevant form and click the Edit button next to the affiliate's entry in the Form list section.</p><p><br></p><p>figureimg src=https2915776664-files.gitbook.io~filesv0bgitbook-x-prod.appspot.comospaces%2F-LnqRFg4of77qA6qOdUp%2Fuploads%2FMdh6A7916KicyyP2Wflp%2Fimage.pngalt=media&amp;#x26;token=36d8e89a-dcff-45b4-8be5-445ae9d73307 alt=figcaptionfigcaptionfigure</p><p><br></p><p>You can modify the content for the boxes in the specific affiliate form. After saving changes, the updated information will appear when you download the form.</p><p><br></p><p>figureimg src=https2915776664-files.gitbook.io~filesv0bgitbook-x-prod.appspot.comospaces%2F-LnqRFg4of77qA6qOdUp%2Fuploads%2FmGmD7ipxuTFZKh9bk1Bz%2Fimage.pngalt=media&amp;#x26;token=8db2c818-2ce6-47b5-9df5-5b4699eb6399 alt=figcaptionfigcaptionfigure</p><p><br></p><p><br></p><p><br></p><p>## How affiliates get their forms</p><p><br></p><p>Eligible affiliates can download their 1099-NEC forms directly from their affiliate dashboard.</p><p><br></p><p>The system will upload Copy B of the form by January 30 (2359 UTC+0) each year, allowing affiliates to access and download it for their tax filings.</p><p><br></p><p>Note Affiliates should ensure their tax information, including a valid W-9 form, is submitted and updated before January 30 to receive their 1099-NEC form on time.</p><p><br></p><p>figureimg src=https2915776664-files.gitbook.io~filesv0bgitbook-x-prod.appspot.comospaces%2F-LnqRFg4of77qA6qOdUp%2Fuploads%2FVuoeMXsXJxdooOIgeNCz%2Fimage.pngalt=media&amp;#x26;token=376d6b14-f462-4d01-b71a-9ff841c53378 alt=figcaptionfigcaptionfigure</p><p><br></p><p><br></p><p><br></p><p>## Key takeaways</p><p><br></p><p> Make sure [Require W-9 Form Submission](httpsdocs.uppromote.comsettingstax-documentsw9-form) is enabled before setting up the Generate 1099-NEC forms function.</p><p> This feature is not available for stores with non-USD currencies.</p><p> Affiliates must meet the specific conditions for form generation.</p><p> Important deadlines</p><p>   Automatic Form Generation Occurs on January 15 (0000 UTC+0) for the previous tax year.</p><p>   Late Activation If the feature is activated after January 15 but before January 28, form generation may take up to 24 hours. If the feature is enabled after 2359 (UTC+0) on January 28, the system will not generate 1099-NEC forms for the previous tax year.</p><p> Eligible affiliates can download their 1099-NEC forms from their UpPromote account by January 30  (0000 UTC+0) each year.</p><p> Our system will generate and provide 1099-NEC forms for you. However, it is your responsibility to file these forms with the IRS independently.</p><p><br></p><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><br>• How affiliates can earn:<br>• How to promote us:<br>• Other information:</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "EACH affiliates will receive  payments end month",
+  "recommend_score": 1.62,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37969,
+  "categories": "Business & Industrial, Apparel & Accessories, Health & Beauty",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Kenya",
+    "American Samoa",
+    "Argentina",
+    "Brazil",
+    "Brunei Darussalam",
+    "British Indian Ocean Territory",
+    "China",
+    "Ethiopia",
+    "French Guiana"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1,
+    "paytm": 1,
+    "upi": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/y2a01y-mm/register",
+  "offer_status": 2,
+  "name": "SMART DEALS HUB",
+  "website": "https://y2a01y-mm.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 251929,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.3,
+  "program_id": 294721,
+  "myshopify_domain": "y2a01y-mm.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "33.33%",
+  "mkp_program_id": 294721,
+  "product_list": []
+}

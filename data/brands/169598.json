@@ -1,0 +1,160 @@
+{
+  "logo": null,
+  "description": "<p>SPLENDI &egrave; un brand di cosmetica naturale specializzato nella cura dei capelli, che nasce dall'esigenza di offrire soluzioni efficaci e sicure per tutti coloro che desiderano trattare i propri capelli in modo sano e rispettoso dell'ambiente. Il brand si distingue per la sua dedizione all'utilizzo esclusivo di ingredienti 100% naturali, senza compromessi sulla qualit&agrave; o sulla sostenibilit&agrave;.</p>\r\n<p><br>I prodotti di SPLENDI sono formulati con estratti botanici, oli essenziali e ingredienti ricchi di vitamine e minerali, tutti provenienti da fonti naturali. La gamma include shampoo, balsami, maschere e trattamenti intensivi, creati per nutrire i capelli dalle radici alle punte, garantendo morbidezza, lucentezza e forza. Ogni prodotto &egrave; privo di parabeni, siliconi, solfati e sostanze chimiche aggressive, per un'esperienza di cura dei capelli completamente green.</p>\r\n<p><br>Il vero punto di forza di SPLENDI &egrave; la combinazione unica di ingredienti naturali, lavorati in modo sostenibile, per offrire trattamenti di bellezza sicuri ed efficaci. Il brand si impegna a garantire prodotti non solo naturali, ma anche cruelty-free, con un'attenzione speciale al packaging eco-friendly. SPLENDI si distingue per la sua capacit&agrave; di offrire una bellezza consapevole, mantenendo alti standard di efficacia.</p>\r\n<p><br>SPLENDI offre diverse opzioni di pagamento sicure e flessibili, tra cui carte di credito, PayPal e pagamenti rateizzati, per rendere l'esperienza di acquisto ancora pi&ugrave; comoda. La spedizione &egrave; gratuita per ordini superiori a una certa soglia, e le politiche di reso garantiscono la soddisfazione del cliente.</p>\r\n<p><br>Il brand &egrave; impegnato in iniziative di sensibilizzazione ambientale e promuove uno stile di vita pi&ugrave; naturale e sostenibile attraverso campagne di educazione sui social media. SPLENDI crede fermamente che prendersi cura dei capelli non debba mai andare a scapito della natura, e incoraggia i suoi clienti a fare scelte pi&ugrave; consapevoli e rispettose dell'ambiente.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32466,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Italy"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/40d641-38/register",
+  "offer_status": 2,
+  "name": "Splendi",
+  "website": "https://spoild.store",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 169598,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 192955,
+  "myshopify_domain": "40d641-38.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "30%",
+  "mkp_program_id": 192955,
+  "product_list": []
+}

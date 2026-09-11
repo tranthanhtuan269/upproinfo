@@ -1,0 +1,166 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1699231899_1838941_3b9cba85c77464193c4691fcc974eb40.png",
+  "description": "<h3 style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Who We Are</span></h3>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Step into the exciting world of affiliate marketing with the Marksman's Corner Affiliate Program on UpPromote! Perfect for shooting enthusiasts and outdoor adventurers, our program offers a unique opportunity to earn by sharing your passion. Enjoy competitive commissions, exclusive access to our latest gear, and a community of like-minded marksmen. Whether you're a seasoned blogger, a social media influencer, or just starting, our program is tailored to help you succeed. Sign up today and turn your love for precision and outdoor adventure into rewards!</span><span></span></p>\r\n<h3 style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Payment Terms</span></h3>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>At the Marksman's Corner Affiliate Program, we value your contributions and ensure a seamless payment process. Our affiliates receive their earnings through convenient and secure methods: <strong>Bank Transfer</strong> and <strong>PayPal</strong>. We believe in timely rewards for your hard work; therefore, payments are processed at the <strong>end of each month</strong>. This structured approach allows you to plan and manage your earnings efficiently. We are committed to providing a straightforward and transparent payment system to support your success in our affiliate program.</span></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 27596,
+  "categories": "Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1700066894_667618_baf8a809a812c57db16f51f7b1f7fd09.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 60,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest",
+    "Twitter"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/e10938-3/register",
+  "offer_status": 2,
+  "name": "Marksmans Corner",
+  "website": "https://marksmanscorner.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 121748,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 138029,
+  "myshopify_domain": "e10938-3.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "33.33%",
+  "mkp_program_id": 138029,
+  "product_list": []
+}

@@ -1,0 +1,78 @@
+<div class="space-y-3">
+  <section class="mb-3 flex items-start gap-4">
+    {% if brand.logo %}
+      <img class="h-16 w-16 rounded-2xl border border-outline-variant bg-surface-container-lowest object-contain p-2" src="{{ brand.logo }}" alt="">
+    {% endif %}
+    <div>
+      <p class="m-0 text-xs font-medium uppercase tracking-[0.08em] text-primary">{% if has_json %}{{ t.kicker_full }}{% elif brand.offer_status is defined %}{{ t.kicker_detail }}{% else %}{{ t.kicker_list }}{% endif %}</p>
+      <h2 class="mb-1.5 mt-0 text-[22px] font-headline font-bold tracking-tight">{{ brand.name or ('Brand #' ~ shop_id) }}</h2>
+      <p class="mb-3 mt-0 text-on-surface-variant">
+        shop_id {{ shop_id }}
+        {% if brand.categories %} · {{ brand.categories }}{% endif %}
+        {% if brand.currency %} · {{ brand.currency }}{% endif %}
+      </p>
+      <div>
+        {% if brand.website %}<a class="btn-pill" href="{{ brand.website }}" target="_blank" rel="noopener">Website</a>{% endif %}
+        {% if brand.apply_url %}<a class="btn-accent" href="{{ brand.apply_url }}" target="_blank" rel="noopener">Apply</a>{% endif %}
+      </div>
+    </div>
+  </section>
+
+  <section class="mb-4 grid grid-cols-2 gap-2.5 md:grid-cols-4">
+    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.commission or '—' }}</b><span class="stat-label">{{ t.col_commission }}</span></article>
+    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.cookie or '—' }}</b><span class="stat-label">{{ t.cookie_days }}</span></article>
+    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.payout_rate or '—' }}</b><span class="stat-label">{{ t.payout_rate }}</span></article>
+    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.approval_rate or '—' }}</b><span class="stat-label">{{ t.approval }}</span></article>
+    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.offer_score or '—' }}</b><span class="stat-label">{{ t.offer_score }}</span></article>
+    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.recommend_score or '—' }}</b><span class="stat-label">{{ t.recommend }}</span></article>
+    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.avg_order_value or '—' }}</b><span class="stat-label">{{ t.aov }}</span></article>
+    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.application_review or '—' }}</b><span class="stat-label">{{ t.review }}</span></article>
+  </section>
+
+  {% if brand.description_html %}
+  <section class="ui-card my-3">
+    <h2 class="mb-2.5 mt-0 text-base font-semibold">{{ t.description }}</h2>
+    <div class="leading-relaxed">{{ brand.description_html | safe }}</div>
+  </section>
+  {% endif %}
+
+  <section class="my-3 grid grid-cols-1 gap-3 md:grid-cols-2">
+    <div class="ui-card">
+      <h2 class="mb-2.5 mt-0 text-base font-semibold">{{ t.info }}</h2>
+      <dl class="m-0">
+        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">Website</dt><dd class="m-0">{% if brand.website %}<a class="text-accent no-underline hover:underline" href="{{ brand.website }}" target="_blank" rel="noopener">{{ brand.website }}</a>{% else %}—{% endif %}</dd></div>
+        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">Shopify</dt><dd class="m-0">{{ brand.myshopify_domain or '—' }}</dd></div>
+        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">{{ t.payout_period }}</dt><dd class="m-0">{{ brand.payout_period or '—' }}</dd></div>
+        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">{{ t.shop_plan }}</dt><dd class="m-0">{{ brand.shop_plan or '—' }}</dd></div>
+        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">Program ID</dt><dd class="m-0">{{ brand.program_id or '—' }}</dd></div>
+        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">Listing ID</dt><dd class="m-0">{{ brand.mkp_listing_id or brand.listing_id or '—' }}</dd></div>
+      </dl>
+    </div>
+    <div class="ui-card">
+      <h2 class="mb-2.5 mt-0 text-base font-semibold">{{ t.audience }}</h2>
+      <p class="my-2"><strong>{{ t.age }}:</strong> {{ brand.ages | join(', ') or '—' }}</p>
+      <p class="my-2"><strong>{{ t.gender }}:</strong> {{ brand.genders | join(', ') or '—' }}</p>
+      <p class="my-2"><strong>{{ t.market }}:</strong> {{ brand.locations | join(', ') or '—' }}</p>
+      <p class="my-2"><strong>{{ t.payment }}:</strong> {{ brand.payments | join(', ') or '—' }}</p>
+      <p class="my-2"><strong>{{ t.promo }}:</strong> {{ brand.promos | join(', ') or '—' }}</p>
+    </div>
+  </section>
+
+  {% if brand.channels %}
+  <section class="ui-card my-3">
+    <h2 class="mb-2.5 mt-0 text-base font-semibold">{{ t.channels }}</h2>
+    <ul class="m-0 flex list-none flex-wrap gap-2 p-0">
+      {% for ch in brand.channels %}<li class="chip">{{ ch }}</li>{% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if brand.hashtags_list %}
+  <section class="ui-card my-3">
+    <h2 class="mb-2.5 mt-0 text-base font-semibold">Hashtag</h2>
+    <ul class="m-0 flex list-none flex-wrap gap-2 p-0">
+      {% for tag in brand.hashtags_list %}<li class="chip">#{{ tag.lstrip('#') }}</li>{% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+</div>

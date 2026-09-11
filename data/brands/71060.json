@@ -1,0 +1,170 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1732655081_1236308_9037903ca08dc572160162affafbae9f.png",
+  "description": "<div style=\"font-family:Poppins;\"><h3>🌿 Melissa’s Produce Affiliate Program</h3><p><strong>Share the Joy of Seasonal Gifting — and Earn While You Do It!</strong></p><p>Join the Melissa’s Produce Affiliate Program and help others discover the freshest, most thoughtful gift baskets available online. From gourmet fruit and artisan treats to beautiful Easter and holiday baskets, we make gifting simple, healthy, and unforgettable.</p><h3>💸 Why Promote Melissa’s Produce?</h3><ul><li><p><strong>High-quality, curated gift baskets</strong> perfect for every occasion</p></li><li><p><strong>Generous commissions</strong> on every sale you refer</p></li><li><p><strong>Seasonal campaigns</strong> with fresh new assets and limited-time offers</p></li><li><p><strong>Exclusive discount codes</strong> to boost your conversions</p></li><li><p>Trusted brand with <strong>decades of customer love and loyalty</strong></p></li></ul><p>Whether you're a content creator, blogger, influencer, or gift guide curator, we make it easy to promote gifts people love to receive.</p><h3>🎯 Affiliate Highlights:</h3><ul><li><p>Commission: 7% per sale</p></li><li><p>14-day cookie duration</p></li><li><p>Access to high-converting promo assets and dedicated support</p></li><li><p>Ideal for: Foodies, lifestyle bloggers, gift guide creators, holiday content planners, and more</p></li></ul><p><strong>Apply today and start earning with every seasonal celebration!</strong></p></div>",
+  "payout_rate": "52.51%",
+  "payout_period": "Payments will be made on the 15th of each month, once the payout amount reaches a minimum of $100.",
+  "recommend_score": 3.9,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35115,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "7% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 14,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "cheque": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/melissas-produce/register",
+  "offer_status": 2,
+  "name": "Melissas Produce",
+  "website": "https://www.melissas.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 71060,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.05,
+  "program_id": 330398,
+  "myshopify_domain": "melissas-produce.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 100.5,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 330398,
+  "product_list": []
+}

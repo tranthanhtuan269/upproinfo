@@ -1,0 +1,168 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1739417214_3865489_2ab6e98be7370b3b46d405228f0969a3.png",
+  "description": "<p><span style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; float: none; display: inline;\">Join the BBQ by Biggs Affiliate Program and turn your love for BBQ into earnings! Promote our T-Shirts and premium BBQ rubs, including our signature Beef Rub, Honey BBQ Rub and Chicken and Pork Rub, crafted with high-quality ingredients and no artificial additives. Earn commissions on every sale, access exclusive marketing materials, and share the bold flavors of BBQ with your audience. Whether you're a food blogger, pitmaster, or backyard grilling enthusiast, this is your chance to monetize your passion. Sign up today and start earning with BBQ by Biggs!</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.24,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34457,
+  "categories": "Garden & Outdoors, Grocery & Food, Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "9% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Youtube",
+    "Tiktok",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Twitter",
+    "Twitch",
+    "Reddit",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "18-24",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "cheque": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bbqbybiggs/register",
+  "offer_status": 2,
+  "name": "BBQ By Biggs",
+  "website": "https://www.bbqbybiggs.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 193253,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.07,
+  "program_id": 220065,
+  "myshopify_domain": "bbqbybiggs.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 24.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "47.37%",
+  "mkp_program_id": 220065,
+  "product_list": []
+}

@@ -1,0 +1,180 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/55ea8ec6973ab46e3bfb779229f262f1.jpg",
+  "description": "<p>The Love Leash is dedicated to providing innovative and high-quality pet products to enhance the pet ownership experience. We are passionate about improving the bond between pets and their owners and our products are designed to make life easier and more enjoyable for both.</p>\r\n<p><strong>Product Description: </strong>Our two-person, kid friendly dog leash is a unique and practical solution for pet owners who want to walk their dogs with a partner or their children. With two separate handles, it allows for more control and guidance during walks, making it ideal for families with young children who are learning how to walk dogs. It's also great for elderly or disabled individuals who may need assistance walking their dogs.</p>\r\n<p><strong>USP (Unique Selling Point):</strong> Our product's unique dual-handle design sets it apart from traditional dog leashes, making it a must-have for pet owners who want to make their daily walks more enjoyable and comfortable for both themselves and their pets. Our two-person, kid-friendly dog leash is also highly versatile and suitable for a range of different situations, making it a valuable investment for any pet owner.</p>\r\n<p><strong>Payment Terms: </strong>Our affiliate program offers a<strong> commission rate of 20%</strong> for <strong>every sale</strong> generated through your unique affiliate link. Payments are made on a 30 day basis, and we provide full support to our affiliates to ensure they can maximize their earning potential.</p>\r\n<p><strong>Other Information:</strong> As an affiliate, you'll have access to a range of marketing materials and resources, including banners, social media posts, and email templates. You'll also receive regular updates on new product releases, promotions, and other important news. We value our affiliates and are committed to providing the support and resources they need to succeed.</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.1,
+  "average_earning_per_sale": "8",
+  "video_url": "https://youtube.com/shorts/u363lRwKHg8?feature=share",
+  "mkp_listing_id": 23536,
+  "categories": "Pet supplies, Mom & Kids",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1,
+    "other": "Cash App"
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/theloveleash/register",
+  "offer_status": 2,
+  "name": "The Love Leash",
+  "website": "https://theloveleash.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 98454,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.95,
+  "program_id": 112102,
+  "myshopify_domain": "the-love-leash.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 30,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 112102,
+  "product_list": []
+}

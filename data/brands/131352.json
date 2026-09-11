@@ -1,0 +1,198 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1705597765_7874884_4770b73d616d0d67e57158245e7e00d7.png",
+  "description": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">Mountain Partisan makes gear to equip the Partisan who fights for freedom against an invading force. It is designed to be used in rugged, mountainous terrain, where gear must be:</span></p>\r\n<ul>\r\n<li style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Effective</span></li>\r\n<li style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Rugged</span></li>\r\n<li style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Multipurpose wherever possible</span></li>\r\n</ul>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Partisan gear must work as well for the &ldquo;militant farmer&rdquo; as it does for the professional soldier. It should blend in with the environment, and hold up to harsh conditions. Partisans must use rugged terrain as their ally, often spending long periods of time in the wilderness far from the nearest resupply, and their gear must enable this use.</span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">You will get a 10% commission on total referral sales when a customer makes a purchase through your affiliate link</span></p>",
+  "payout_rate": "91.67%",
+  "payout_period": null,
+  "recommend_score": 1.22,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29151,
+  "categories": "Sports & Entertainment, Garden & Outdoors",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "cheque": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/MountainPartisan/register",
+  "offer_status": 2,
+  "name": "Mountain Partisan",
+  "website": "https://mountainpartisan.com",
+  "hashtags": [
+    "#military",
+    "#mountainpartisan",
+    "#mountains",
+    "#partisan",
+    "#partizan",
+    "#survival",
+    "#bushcraft",
+    "#sports",
+    "#outdoors",
+    "#mission",
+    "#tactical",
+    "#gear",
+    "#tacticalgear",
+    "#equiptment",
+    "#combat",
+    "#urbansurvival",
+    "#specialforces",
+    "#adventure",
+    "#forest",
+    "#woods",
+    "#camp",
+    "#montana",
+    "#usa",
+    "#america",
+    "#craftsman",
+    "#protection"
+  ],
+  "shop_id": 131352,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.05,
+  "program_id": 148624,
+  "myshopify_domain": "00a60a-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 159.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "27.78%",
+  "mkp_program_id": 148624,
+  "product_list": []
+}

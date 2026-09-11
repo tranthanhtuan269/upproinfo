@@ -1,0 +1,191 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family: Poppins;\"><div><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 20.0px 'Times New Roman'; -webkit-text-stroke: #000000;\" id=\"isPasted\"><span style=\"font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none;\">At Aromave, we believe scent is more than fragrance — it’s memory, confidence, and identity bottled in its purest form.</span></p><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 20.0px 'Times New Roman'; -webkit-text-stroke: #000000;\"><span style=\"font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none;\">Our collections are inspired by the world’s most iconic designer perfumes, crafted with meticulous care and blended into rich, long-lasting perfume oils that rival luxury brands — without the inflated price tag.</span></p><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px 'Times New Roman'; -webkit-text-stroke: #000000; min-height: 13.8px;\"><br></p><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 20.0px 'Times New Roman'; -webkit-text-stroke: #000000;\"><span style=\"font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none;\">Each bottle is designed to make you feel luxurious every day, from the first note to the lingering dry-down.</span></p><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 20.0px 'Times New Roman'; -webkit-text-stroke: #000000;\"><span style=\"font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none;\">We use premium ingredients, smooth base oils, and precise layering to deliver a scent experience that’s both captivating and long-wearing — never overpowering, always unforgettable.</span></p><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px 'Times New Roman'; -webkit-text-stroke: #000000; min-height: 13.8px;\"><br></p><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 20.0px 'Times New Roman'; -webkit-text-stroke: #000000;\"><span style=\"font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none;\">Whether you’re seeking sophistication, sweetness, or sensual depth, there’s an Aromave scent for every mood and every moment.</span></p><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 20.0px 'Times New Roman'; -webkit-text-stroke: #000000;\"><span style=\"font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none;\">Join over 50,000 fragrance lovers who’ve made Aromave their go-to for affordable luxury — because smelling amazing should never be a luxury, it should be your standard.</span></p><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px 'Times New Roman'; -webkit-text-stroke: #000000; min-height: 13.8px;\"><br></p><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 20.0px 'Times New Roman'; -webkit-text-stroke: #000000;\"><span style=\"font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none;\">💎 Aromave — Luxury Scents. Honest Prices. Endless Compliments.</span></p><br class=\"Apple-interchange-newline\"></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "Every 15 days",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36773,
+  "categories": "Retail & Consumer goods",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/n0uhrc-6f/register",
+  "offer_status": 2,
+  "name": "Aromave.co",
+  "website": "https://aromave.store",
+  "hashtags": [
+    "#aromave",
+    "#luxuryscents",
+    "#perfumeoil",
+    "#smellsexpensive",
+    "#perfumedupe",
+    "#fragrancelover",
+    "#longlastingscent",
+    "#affordableluxury",
+    "#scentoftheday",
+    "#shoparomave"
+  ],
+  "shop_id": 203707,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.8199999999999998,
+  "program_id": 233808,
+  "myshopify_domain": "n0uhrc-6f.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 23.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "70.37%",
+  "mkp_program_id": 233808,
+  "product_list": []
+}

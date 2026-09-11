@@ -1,0 +1,283 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1779457471_6969303_10ef67a6f13ceb864bc9666fd84464df.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p class=\"ds-markdown-paragraph\" style=\"margin:16px 0px;color:rgb(15,17,21);font-family:'quote-cjk-patch', Inter, 'system-ui', '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size:16px;font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;\"><strong style=\"font-weight:600;\"><span>Ophelia Eternity Jewelry</span></strong><span> offers luxurious, handcrafted jewelry made from solid gold and silver, featuring lab-grown diamonds and moissanite. Our pieces combine timeless elegance with modern ethics—brilliant, durable, and conflict-free at a fraction of natural diamond prices.</span></p><p class=\"ds-markdown-paragraph\" style=\"margin:16px 0px;color:rgb(15,17,21);font-family:'quote-cjk-patch', Inter, 'system-ui', '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size:16px;font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;\"><span>We are looking for affiliates who love fine jewelry and sustainable luxury.</span><br><strong style=\"font-weight:600;\"><span>Why join us?</span></strong></p><ul style=\"margin:16px 0px;padding-left:18px;color:rgb(15,17,21);font-family:'quote-cjk-patch', Inter, 'system-ui', '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size:16px;font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;\"><li><p class=\"ds-markdown-paragraph\" style=\"margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;\"><strong style=\"font-weight:600;\"><span>8% commission on every sale</span></strong></p></li><li style=\"margin-top:6px;\"><p class=\"ds-markdown-paragraph\" style=\"margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;\"><strong style=\"font-weight:600;\"><span>Lifetime commissions</span></strong><span> – earn from repeat purchases of customers you bring</span></p></li><li style=\"margin-top:6px;\"><p class=\"ds-markdown-paragraph\" style=\"margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;\"><span>High average order value (luxury pricing)</span></p></li><li style=\"margin-top:6px;\"><p class=\"ds-markdown-paragraph\" style=\"margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;\"><span>Handcrafted quality that converts</span></p></li></ul><p class=\"ds-markdown-paragraph\" style=\"margin:16px 0px;color:rgb(15,17,21);font-family:'quote-cjk-patch', Inter, 'system-ui', '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size:16px;font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;\"><span>Perfect for influencers in fashion, lifestyle, bridal, and ethical luxury niches.</span></p><p class=\"ds-markdown-paragraph\" style=\"margin:16px 0px;color:rgb(15,17,21);font-family:'quote-cjk-patch', Inter, 'system-ui', '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size:16px;font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;\"><br></p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "Net-30 days",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": "https://cdn.shopify.com/videos/c/o/v/ba8c6bc6c0754aa3b3c84c1400bffc21.mp4",
+  "mkp_listing_id": 39676,
+  "categories": "Apparel & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 60,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Switzerland",
+    "Spain",
+    "United States",
+    "Italy",
+    "France",
+    "Germany",
+    "Brazil",
+    "Saudi Arabia",
+    "Portugal"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1,
+    "paytm": 1,
+    "upi": 1,
+    "store_credit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://affiliate.opheliaeternity.com/ga6nqn-1r/register",
+  "offer_status": 2,
+  "name": "ELVORIQUE JEWELRY",
+  "website": "https://opheliaeternity.com",
+  "hashtags": [
+    "#affiliateprogram",
+    "#affiliatemarketing",
+    "#joinouraffiliateprogram",
+    "#commissionbased",
+    "#lifetimecommission",
+    "#influencerprogram",
+    "#jewelrylover",
+    "#sustainableluxury",
+    "#ecofriendlyjewelry",
+    "#bridaljewelry",
+    "#giftforher",
+    "#labgrowndiamond",
+    "#moissanite",
+    "#solidgoldjewelry",
+    "#handcraftedjewelry",
+    "#luxurywithethics",
+    "#finejewelry",
+    "#opheliaeternity",
+    "#opheliaeternityjewelry",
+    "#eternitybyophelia"
+  ],
+  "shop_id": 265421,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 313410,
+  "myshopify_domain": "ga6nqn-1r.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "6a14543ce9c23c97f30b1042",
+      "name": "客户自动折扣",
+      "program_id": 313410,
+      "shop_id": 265421,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 5,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": [
+            "9643016749304",
+            "9642955243768",
+            "9642869719288",
+            "9642851139832",
+            "9558072623352",
+            "9558019244280",
+            "9557994602744",
+            "9557986509048",
+            "9517722468600",
+            "9517669417208",
+            "9517621575928",
+            "9517618364664",
+            "9505689698552",
+            "9505628946680",
+            "9505552793848",
+            "9505509998840",
+            "9505098531064",
+            "9505009926392",
+            "9504967098616",
+            "9504936952056",
+            "9504413057272",
+            "9504318226680",
+            "9504235061496",
+            "9504201474296",
+            "9501547364600",
+            "9501538484472",
+            "9501536649464",
+            "9501518856440",
+            "9497363808504",
+            "9497345327352"
+          ]
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 5,
+          "message": null
+        },
+        "free_shipping": {
+          "status": true,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "amount",
+      "minimum": 500,
+      "defined_coupon": null,
+      "active_at": "2026-05-25 13:53:00",
+      "created_at": "2026-05-25T13:53:00.851000Z",
+      "updated_at": "2026-05-25T13:53:00.851000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 1333.9,
+  "new_customer_commission": "10% per order",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "96.3%",
+  "mkp_program_id": 313410,
+  "product_list": []
+}

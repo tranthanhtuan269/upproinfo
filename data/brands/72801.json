@@ -1,0 +1,155 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/4120d2029dc300be8e55330c14d40a12.png",
+  "description": "<p data-end=\"272\" data-start=\"0\"><strong data-end=\"22\" data-start=\"0\">Brand Introduction</strong>:<br data-end=\"26\" data-start=\"23\">TheFaceShop is a leading Korean global cosmetics brand known for its natural ingredients and skincare solutions that blend traditional herbal remedies with modern technology. It offers a wide range of skincare, makeup, and personal care products.</p>\r\n<p data-end=\"543\" data-start=\"274\"><strong data-end=\"297\" data-start=\"274\">Product Description</strong>:<br data-end=\"301\" data-start=\"298\">TheFaceShop provides high-quality, eco-friendly products made from natural ingredients such as herbs, fruits, and plants. The brand focuses on skincare essentials, including cleansers, moisturizers, masks, and serums, as well as makeup items.</p>\r\n<p data-end=\"794\" data-start=\"545\"><strong data-end=\"575\" data-start=\"545\">USP (Unique Selling Point)</strong>:<br data-end=\"579\" data-start=\"576\">TheFaceShop stands out for its commitment to using natural ingredients, backed by advanced technology, offering effective skincare solutions suitable for all skin types, with a focus on environmental sustainability.</p>\r\n<p data-end=\"991\" data-start=\"796\"><strong data-end=\"813\" data-start=\"796\">Payment Terms</strong>:<br data-end=\"817\" data-start=\"814\">Typically, TheFaceShop in KSA offers a variety of payment options, including credit/debit cards, online payments, and cash on delivery for both in-store and online purchases.</p>\r\n<p data-end=\"1227\" data-start=\"993\"><strong data-end=\"1014\" data-start=\"993\">Other Information</strong>:<br data-end=\"1018\" data-start=\"1015\">TheFaceShop has a strong presence in KSA through retail stores and online platforms, delivering a seamless shopping experience. It also frequently holds promotions and offers loyalty rewards for its customers.</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 3.13,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35183,
+  "categories": "Beauty & Health",
+  "currency": "SAR",
+  "symbol_currency": "&#65020;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Youtube",
+    "Coupons or Deals website"
+  ],
+  "target_audience_ages": [
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Saudi Arabia"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/tfssaudi/register",
+  "offer_status": 2,
+  "name": "THE FACE SHOP - KSA",
+  "website": "https://thefaceshop.com.sa",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 72801,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.35,
+  "program_id": 83224,
+  "myshopify_domain": "tfssaudi.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 219.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "96.75%",
+  "mkp_program_id": 83224,
+  "product_list": []
+}

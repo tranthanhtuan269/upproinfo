@@ -1,0 +1,191 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/c9c401919c6b7287f2109172c3442699.JPG",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"text-decoration: none; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: Futura, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); float: none; display: inline;\">At Tscrochetdesign, our goal is to make fun and eye-catching crochet patterns that help you stand out and look amazing, whether you're at the beach, a party, or just hanging out with friends. We want to give you a great time crocheting and help you create a special look that shows off your personality. We love learning from other designers, finding new techniques and ideas, and using them to create our own special designs.</span></p>",
+  "payout_rate": "61.43%",
+  "payout_period": null,
+  "recommend_score": 2.75,
+  "average_earning_per_sale": "3",
+  "video_url": null,
+  "mkp_listing_id": 25714,
+  "categories": "Fashion, Home & Tools, Art",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Canada",
+    "Germany",
+    "France",
+    "United Kingdom",
+    "New Zealand",
+    "Portugal",
+    "Singapore",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/tscrochetdesign/register",
+  "offer_status": 2,
+  "name": "TSCrochetDesign",
+  "website": "https://tscrochetdesign.com",
+  "hashtags": [
+    "#crochet",
+    " #crochetpatterns",
+    " #crocheting",
+    " #crochetdesign",
+    " #knit",
+    " #hobby",
+    " #craft"
+  ],
+  "shop_id": 109245,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.87,
+  "program_id": 124074,
+  "myshopify_domain": "tscrochetdesign.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 12.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "34.75%",
+  "mkp_program_id": 124074,
+  "product_list": []
+}

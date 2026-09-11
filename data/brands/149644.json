@@ -1,0 +1,190 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1716059371_3986220_59d24472bf77903e295b7cd47ac1ac8c.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: <span>We offer clothing and gifts with unique graphics so you can express yourself stylishly and uniquely, highlighting your personality! SDGN is more than just a webshop - we are a community that supports individuality, creativity, and self-expression.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Product description: <span>In our clothing collection, you'll find t-shirts, hoodies, hats, and other garments that follow the latest trends. Alongside unique designs, we ensure that these clothes are made from the best materials. We also offer a wide variety of gifts, making them an ideal choice for friends, family, or even yourself. Whether it's mugs, glasses, phone cases, or keychains, all our products feature unique graphics so you can find the perfect gift for every occasion and every person.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; USP (Unique Selling Point): <span>unique graphics so you can express yourself stylishly and uniquely, highlighting your personality!</span><br>&bull; Payment terms: <br>&bull; Other information:</p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30198,
+  "categories": "Fashion, Home & Tools",
+  "currency": "HUF",
+  "symbol_currency": "&#70;&#116;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 10,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Ukraine",
+    "Slovenia",
+    "Slovakia",
+    "Romania",
+    "Hungary",
+    "Croatia",
+    "Austria",
+    "France",
+    "Germany"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/50ff28-4/register",
+  "offer_status": 2,
+  "name": "Sdgn.hu",
+  "website": "https://www.sdgn.hu",
+  "hashtags": [
+    "#uniquegraphics",
+    "#tshirt",
+    "#shirt",
+    "#fasion",
+    "#uniquefashion",
+    "#hungary",
+    "#magyartermék"
+  ],
+  "shop_id": 149644,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.92,
+  "program_id": 170020,
+  "myshopify_domain": "50ff28-4.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "89.29%",
+  "mkp_program_id": 170020,
+  "product_list": []
+}

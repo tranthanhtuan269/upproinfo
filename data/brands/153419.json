@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1718209048_6623125_f0a97ec4d901b8e0e3881fdf38d3d045.jpg",
+  "description": "<p><strong>Brand Introduction:</strong> Pickleball Anytime is the home of the Pickleball To-Go Set and our revolutionary pickleball pre-measured court tape, which allows you to set up a pickleball court anytime easily on any hard surface.&nbsp; We're passionate about providing players of all levels with the gear they need to elevate their game and enjoy the sport to the fullest.</p>\r\n<p><strong>Product Description:</strong> Our product range includes everything from our all inclusive Pickleball To-Go Set, our pre-measured court tape, regulation-sized nets and paddles to balls and apparel, all designed to meet the demands of pickleball enthusiasts. Whether you're a beginner or a seasoned pro, we've got you covered with top-notch equipment that delivers performance and durability.</p>\r\n<p><strong>USP (Unique Selling Point):</strong> At Pickleball Anytime, we stand out for our commitment to quality, innovation, and customer satisfaction. Our products are meticulously crafted using high quality materials to ensure optimal performance and longevity on the court. Plus, our dedication to providing exceptional service sets us apart as a trusted partner for pickleball players worldwide.</p>\r\n<p><strong>Payment Terms:</strong> As an affiliate with Pickleball Anytime, you'll enjoy competitive commission rates on every sale generated through your unique affiliate link. Commissions are paid out on a regular basis, with flexible payment options to suit your preferences. Our current commission rate is 5%.&nbsp;</p>\r\n<p><strong>Other Information:</strong> In addition to earning commissions on sales, affiliates benefit from their own coupon codes and access to a range of promotional materials and resources to help drive traffic and boost conversions. From banners and creatives to exclusive offers and promotions, we're here to support you every step of the way. Join our affiliate program today and be a part of the pickleball revolution with Pickleball Anytime!</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": "https://vimeo.com/956684928?share=copy",
+  "mkp_listing_id": 30588,
+  "categories": "Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "8% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/pickleball-anytime/register",
+  "offer_status": 2,
+  "name": "Pickleball Anytime",
+  "website": "https://pickleballanytime.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 153419,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.97,
+  "program_id": 174446,
+  "myshopify_domain": "pickleball-anytime.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "42.86%",
+  "mkp_program_id": 174446,
+  "product_list": []
+}

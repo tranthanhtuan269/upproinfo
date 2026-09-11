@@ -1,0 +1,191 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1741289124_6499041_567ea9685855a42571bb7c468d329c4d.jpg",
+  "description": "<div style=\"font-family: Poppins;\"><p style=\"text-align: left; font-size: 14px; font-weight: normal;\">HEPP'S Salt Co. was born from a revolutionary salt bar with a mission to transform the way people experience salt. We are committed to using only the highest quality, all-natural ingredients, free from anti-caking agents and artificial flavoring. Our passion lies in providing a pure and authentic culinary experience for chefs, home cooks, backyard grillers, and mixologists alike. From enhancing everyday meals to crafting gourmet creations, our carefully sourced and handcrafted salts bring out the best in every dish and cocktail. At HEPP'S, we don’t just sell salt—we inspire creativity in the kitchen and beyond. Our goal is simple:&nbsp;<strong data-is-last-node=\"\" data-end=\"681\" data-start=\"639\">\"Change the way you think about salt.\"</strong></p></div>",
+  "payout_rate": "50%",
+  "payout_period": "Paid on the 15th of each month",
+  "recommend_score": 2.15,
+  "average_earning_per_sale": "30",
+  "video_url": null,
+  "mkp_listing_id": 34797,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/heppssalt/register",
+  "offer_status": 2,
+  "name": "HEPPS SALT CO. ",
+  "website": "https://heppssalt.com",
+  "hashtags": [
+    "#seasalt",
+    "#gourmetsalt",
+    "#heppssalt",
+    "#truffelsalt",
+    "#healthycooking",
+    "#smokedsalt",
+    "#spicysalt",
+    "#grilling",
+    "#steaksalt",
+    "#flakesalt",
+    "#celticsalt",
+    "#heppssaltco",
+    "#homecooking",
+    "#mixologist"
+  ],
+  "shop_id": 198688,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.63,
+  "program_id": 227232,
+  "myshopify_domain": "heppssalt.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 38.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "93.33%",
+  "mkp_program_id": 227232,
+  "product_list": []
+}

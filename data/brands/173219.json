@@ -1,0 +1,178 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1732137213_3202690_81d2be17c6ad5f5e38a038515bae9a3a.png",
+  "description": "<p><strong>Brand Introduction:</strong><br>Welcome to Forged Wear &mdash;where timeless elegance meets modern masculinity. Our store is dedicated to redefining men&rsquo;s jewelry and accessories, providing pieces that exude power, class, and confidence. Whether you&rsquo;re making a bold statement or complementing your everyday style,&nbsp;<em>Forged Wear</em> has something to elevate your look.</p>\r\n<p><strong>Product Description:</strong><br>Explore our curated collection of high-quality men&rsquo;s jewelry, including stainless steel necklaces, bracelets, and rings, as well as titanium steel pendants that resist rust and fading. Every piece is meticulously designed to balance durability with sophistication, ensuring you enjoy accessories that last as long as your style does.</p>\r\n<p><strong>USP (Unique Selling Point):</strong><br>Our jewelry is more than just an accessory&mdash;it&rsquo;s a symbol of strength and refinement. We take pride in offering exclusively masculine designs crafted from premium materials, ensuring our pieces not only look incredible but also stand up to the rigors of daily wear. With <em>Art of Man</em>, you&rsquo;ll find luxury without compromise.</p>\r\n<p><strong>Payment Terms:</strong><br>We offer flexible and secure payment options to suit your needs. Choose from credit/debit cards, digital wallets, and buy-now-pay-later options, ensuring your shopping experience is seamless and stress-free.</p>\r\n<p><strong>Other Information:</strong><br>At Forged Wear, customer satisfaction is at the heart of everything we do. All orders come with fast, reliable shipping and a no-hassle return policy. Whether you're shopping for yourself or finding the perfect gift, we&rsquo;re here to provide an exceptional experience every step of the way.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33277,
+  "categories": "Jewelry & Accessories, Fashion",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "United States",
+    "United Kingdom",
+    "New Zealand",
+    "Spain",
+    "France",
+    "Germany",
+    "Italy",
+    "Canada",
+    "Greece"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/forgedwear/register",
+  "offer_status": 2,
+  "name": "Forged Wear",
+  "website": "https://forgedwear.com.au",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 173219,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 197108,
+  "myshopify_domain": "ccb9cf-34.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "12.5%",
+  "mkp_program_id": 197108,
+  "product_list": []
+}

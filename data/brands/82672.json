@@ -1,0 +1,150 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/483ad204cd588feee09c17a2de427b19.jpg",
+  "description": "<p>Woven Co. Candles is a small batch, hand poured candle company that is truly on a mission to make a bigger impact. Not only do we create luxury home fragrences, we donate 5% of all sales to the pro-life movement.&nbsp;&nbsp;</p>\r\n<p>We're seeking affiliates that align with our mission to save babies and support mothers.&nbsp;</p>\r\n<p>While we offer a variety of products, our specialty is our unique, hand-crafted dough bowl. We offer this in a variety of sizes. These unique products are a fresh and refined take on the popular rustic dough bowl.&nbsp;</p>\r\n<p>Our affiliate program offers incentives and growth opportunities the more you sell along with gifts each quarter, depending on your referrals.&nbsp;</p>\r\n<p>We're a small company and love working with passionate affiliates. So, if you're interested in earning income for sharing a great product and changing lives, inquire with us today.</p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.77,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 19981,
+  "categories": "Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1686872352_6308727_3b1b1af88f9ae8589a85291b19a8944c.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 45,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/woven-co-candles/register",
+  "offer_status": 2,
+  "name": "Woven Co. Candles",
+  "website": "https://wovencocandles.com",
+  "hashtags": [],
+  "shop_id": 82672,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.3,
+  "program_id": 94753,
+  "myshopify_domain": "woven-co-candles.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 52,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "48.39%",
+  "mkp_program_id": 94753,
+  "product_list": []
+}

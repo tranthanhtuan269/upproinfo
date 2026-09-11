@@ -1,0 +1,147 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/e8267f2828473046f57cae64b1b9ea67.jpg",
+  "description": "<p><strong>Born out of a love of travel, textiles and story-telling, we are passionate about bringing the very finest fabrics and designs from across the globe to your sofa.</strong></p>\r\n<p>We offer a curated collection of beautiful, luxury cushions crafted from the finest fabrics sourced by us from across the globe. Each cushion is steeped in culture, rich in the tradition and history of both the places and the artisans involved in bringing these fabrics to life.</p>\r\n<p>These limited edition and responsibly sourced materials have the romance of travel woven through their very fabric. Whether hand crafted in the towering Himalayan highlands of Bhutan, the lush tropical savanna of Ghana, or the windswept Outer Hebrides, each cushion tells its own story, bringing the essence of distant shores and the tones of far off landscapes to your room.</p>\r\n<p>We hope you love them as much as we do!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 20076,
+  "categories": "Home & Tools",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1673234627_5816847_e2e0619578d32c4ab68657a37297aabd.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/the-world-in-cushions/register",
+  "offer_status": 2,
+  "name": "The World in Cushions",
+  "website": "https://theworldincushions.com",
+  "hashtags": [],
+  "shop_id": 83136,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 95197,
+  "myshopify_domain": "the-world-in-cushions.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "30.77%",
+  "mkp_program_id": 95197,
+  "product_list": []
+}

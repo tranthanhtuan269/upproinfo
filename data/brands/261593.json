@@ -1,0 +1,187 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1775200504_9929519_66783adfbe42420ef9c6b0aeddb79456.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>Welcome to the team! We are thrilled to have you join the EROMMY Affiliate Program.</p><p><br></p><p>At EROMMY, we believe that the home doesn’t end at the back door. We specialize in high-quality, stylish, and durable outdoor living solutions—from elegant pergolas and sturdy carports to cozy patio sets and umbrellas. Now that you’re a partner, you have the tools to help your audience transform their outdoor spaces into personal sanctuaries.</p><p><br></p><p>## Program Highlights</p><p>Competitive Commission: Earn on every validated sale you drive.</p><p>High Average Order Value (AOV): Items like pergolas and gazebos are high-ticket items, meaning bigger payouts for you. Our AOV of year 2025 is $1000.</p><p>Cookie Window: Enjoy a 45-day tracking gap to capture delayed conversions.</p><p><br></p><p>Pro Tip: Our Hardtop Gazebos and Outdoor Pergolas are currently our top-trending categories. Highlighting these in \"Outdoor Makeover\" or \"Home Improvement\" content tends to see the highest engagement!</p><p><br></p><p>We’re here to support your success. If you need custom assets, exclusive campaign codes, or have any questions about our product line, don't hesitate to reach out.</p></div></div>",
+  "payout_rate": "79.17%",
+  "payout_period": "45 Days",
+  "recommend_score": 2.81,
+  "average_earning_per_sale": null,
+  "video_url": "https://www.youtube.com/watch?v=v65UEjx3gr4",
+  "mkp_listing_id": 39096,
+  "categories": "Furniture, Garden & Outdoors",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "25-34",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States Minor Outlying Islands"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/erommy/register",
+  "offer_status": 2,
+  "name": "Erommy",
+  "website": "https://erommy.com",
+  "hashtags": [
+    "#gazebos",
+    "#pergolas",
+    "#carports",
+    "#furniture",
+    "#patio",
+    "#umbrellas",
+    "#sectionals",
+    "#swival",
+    "#chairs",
+    "#saunas",
+    "#camping",
+    "#tents",
+    "#louvered"
+  ],
+  "shop_id": 261593,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.3,
+  "program_id": 307196,
+  "myshopify_domain": "erommy.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 1005,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "96.33%",
+  "mkp_program_id": 307196,
+  "product_list": []
+}

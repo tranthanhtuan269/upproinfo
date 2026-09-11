@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1762357808_8794036_20a82b132e502dc45eec72fa21c6d925.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p style=\"text-align:left;font-size: 14px;font-weight: normal;\">• About our brand and products: Milk &amp; Honey Tallow offers clean, non-toxic, professionally formulated skincare products. We offer a simple 2-step skincare system that reduces your skincare routine while improving your skin.<br>• What makes us different: Formulated by a former luxury beauty chemist, Milk &amp; Honey Tallow stands out with luxury textures, scents, and formulations. Our tallow is truly odorless, setting it apart from the rest.<br>• How affiliates can earn: Earn commissions with your unique affiliate link<br>• How to promote us: We've seen the greatest results with content that includes you giving your feedback on camera while showing the product. People also love seeing unboxings of the product.<br>• Other information: Some common questions to address include: is it greasy? (no, you only need a small amount), does it smell like beef? (no, our tallow is rendered in a natural way that removes all traces of odor), how long will a jar last? (on average, our products last a minimum of 3 months or more with daily use).</p></div></div>",
+  "payout_rate": "100%",
+  "payout_period": "1st of Each Month",
+  "recommend_score": 2.57,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36873,
+  "categories": "Health & Beauty",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/fc6c78-2/register",
+  "offer_status": 2,
+  "name": "Milk & Honey Tallow Company",
+  "website": "https://milkandhoneytallow.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 236516,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.42,
+  "program_id": 275740,
+  "myshopify_domain": "fc6c78-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 62.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "77.27%",
+  "mkp_program_id": 275740,
+  "product_list": []
+}

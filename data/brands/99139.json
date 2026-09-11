@@ -1,0 +1,158 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1730406826_1455581_e49e1e34b43a696d7da4a2f140054871.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: Bitcoin Capitalist&nbsp;<br>&bull; Product description: <span>Discover a lucrative opportunity with Bitcoin Capitalist's cutting-edge Bitcoin mining and hosting services, now available to individual investors. With our streamlined process, you can purchase and place high-quality Bitcoin miners in our state-of-the-art facilities in Paraguay. Benefit from the current market conditions, as the price of Bitcoin miners has dropped significantly, making it an ideal time to generate passive income and accumulate Bitcoin at affordable rates. Paraguay's stable political climate, sustainable energy supply, and Bitcoin-friendly environment make it the perfect location for mining operations. Choose from our selection of top-notch machines: Antminer S19, S19 Pro and S19 XP Pro. Don't miss out on this incredible opportunity to join the Bitcoin mining revolution and secure your financial future.</span><span>&nbsp;</span><br>&bull; USP (Unique Selling Point): Retail investors can now mine Bitcoin.&nbsp;<br>&bull; Payment terms: 30 days<br>&bull; Other information: none&nbsp;</p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.48,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 27429,
+  "categories": "Electronics",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 1000,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Twitter"
+  ],
+  "target_audience_ages": [
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bitcoin-capitalist/register",
+  "offer_status": 2,
+  "name": "Bitcoin Capitalist ",
+  "website": "https://bitcoincapitalist.io",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 99139,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.3,
+  "program_id": 112840,
+  "myshopify_domain": "bitcoin-capitalist.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "97.93%",
+  "mkp_program_id": 112840,
+  "product_list": []
+}

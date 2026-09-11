@@ -1,0 +1,176 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1749508607_5371415_a03968576cd557a24e5ddc3433977da2.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p style=\"text-align:left;font-size: 14px;font-weight: normal;\">• Brand introduction: Romantique Books is a swoon-soaked indie bookstore serving up the best in romance—think blind date book bundles, spicy trope collections, and curated gifts for readers who live for love stories. We champion indie and self-published romance authors, celebrate all kinds of love, and make shopping for your next bookish obsession a whole vibe.</p><p style=\"text-align:left;font-size: 14px;font-weight: normal;\"><br>• Product description: We offer romance reads across every trope and heat level—from broody fae warriors to sunshine softies and everything in between. Our bestsellers include Blind Date with a Book bundles, themed book boxes (like vampire romances and pride mailers!), and cozy reader gifts like trope candles, bookmarks, and more. Whether your audience is into dark romance, romcoms, or LGBTQ+ love stories, we’ve got something they’ll devour.</p><p style=\"text-align:left;font-size: 14px;font-weight: normal;\"><br>• USP (Unique Selling Point): We’re more than just a bookstore—we’re a full-blown romance experience. Romantique Books curates surprise reads by trope, partners with indie authors, and makes every customer feel like the main character. Our products are perfect for creators who want to share unique, personalized romance gifts with their audience (and earn while doing it!).</p><p style=\"text-align:left;font-size: 14px;font-weight: normal;\"><br>• Payment terms:Earn 5% of sales made through your affiliate link or code. Paid directly via Venmo or PayPal.</p><p style=\"text-align:left;font-size: 14px;font-weight: normal;\"><br>• Other information:&nbsp;You’ll get a custom code and link, exclusive sneak peeks at upcoming boxes, and priority access to special campaigns. We’re looking for creators who are obsessed with romance and want to help small business thrive—whether you’re a seasoned Bookstagrammer or just love sharing bookish joy.<br data-start=\"1864\" data-end=\"1867\" id=\"isPasted\">Let’s make some tropey magic together. 💕</p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.25,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35799,
+  "categories": "Books",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/1qawiq-d1/register",
+  "offer_status": 2,
+  "name": "Romantique Books",
+  "website": "https://romantiquebooks.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 209588,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.12,
+  "program_id": 241310,
+  "myshopify_domain": "1qawiq-d1.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 48.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "44.44%",
+  "mkp_program_id": 241310,
+  "product_list": []
+}

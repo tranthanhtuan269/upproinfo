@@ -1,0 +1,190 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1740933432_9980814_c34d0bcc697a6924db686bbf2dc50db8.png",
+  "description": "<p><strong>Werde Teil des Vis&eacute; Cosmetics Affiliate Programms &ndash; Deine Chance, mit Sch&ouml;nheit und Pflege zu verdienen!</strong></p>\r\n<p>&Uuml;ber uns: Wir legen einen hohen Wert auf <strong>Qualit&auml;t</strong> und die richtige Konzentration unserer Produktformulierungen. Unsere Produkte sind naturell, vegan und werden ohne Tierversuche entwickelt. Wir wollen mit euch gemeinsam eine Skin Care Community mit den richtigen Produkten und den richtigen dazugeh&ouml;rigen Creatorn schaffen!</p>\r\n<p><strong>Du hast eine Leidenschaft f&uuml;r hochwertige Hautpflege</strong> und m&ouml;chtest dabei auch noch etwas verdienen? Dann bist du bei Vis&eacute; Cosmetics genau richtig! Wir laden dich ein, Teil unseres exklusiven Affiliate-Programms zu werden, bei dem du nicht nur von attraktiven Provisionen profitierst, sondern auch deinen eigenen Rabattcode erh&auml;ltst, den du mit deiner Community teilen kannst.</p>\r\n<p>Was dich erwartet:</p>\r\n<p>&nbsp; &nbsp; Provisionsmodelle, die sich lohnen:<br>&nbsp; &nbsp; &nbsp; &nbsp; Bei Bestellungen bis 50 &euro; erh&auml;ltst du <strong>15 %</strong> des Bestellwerts als Provision.<br>&nbsp; &nbsp; &nbsp; &nbsp; Bei Bestellungen ab 50 &euro; steigst du auf <strong>20 %</strong> und bekommst somit mehr f&uuml;r deinen Einsatz.<br>&nbsp; &nbsp; Exklusiver Rabattcode: Als Affiliate erh&auml;ltst du einen <strong>10 % Rabattcode</strong>, den du mit deinen Followern und Freunden teilen kannst</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35004,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "15%-20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Germany"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/d8c1bb-5e/register",
+  "offer_status": 2,
+  "name": "Visé Cosmetics",
+  "website": "https://visecosmetics.de",
+  "hashtags": [
+    "#skincare",
+    "#vegan",
+    "#keinetierversuche",
+    "#natural",
+    "#glowup",
+    "#beauty"
+  ],
+  "shop_id": 197964,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "15"
+    },
+    {
+      "key": 2,
+      "order_val": "50",
+      "commission_val": "20"
+    }
+  ],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.75,
+  "program_id": 226255,
+  "myshopify_domain": "d8c1bb-5e.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "23.08%",
+  "mkp_program_id": 226255,
+  "product_list": []
+}

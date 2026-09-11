@@ -1,0 +1,188 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/08ba9cc3e3a1928f5f3b4991d7bc7614.png",
+  "description": "<p>Brand Introduction: Wildstud Maca Energy Coffee is a premium quality coffee that has been specially formulated with natural ingredients to enhance energy levels, improve focus, and support overall well-being. Our coffee is designed to give you a sustained energy boost without the crash commonly associated with other caffeinated beverages.</p>\r\n<p>Product Description: Wildstud Maca Energy Coffee is made from a carefully selected blend of premium quality coffee beans and maca root extract, a natural adaptogen that helps the body to cope with stress and fatigue. Our coffee is also infused with other natural ingredients such as ginseng and guarana, which are known to boost energy levels and mental clarity.</p>\r\n<p>USP (Unique Selling Point): Our coffee is unique in that it not only provides a sustained energy boost but also offers potential benefits for men with erectile dysfunction (ED). The maca root extract used in our coffee has been traditionally used to enhance libido and improve sexual function in men. This, coupled with the caffeine content of the coffee, makes it an ideal choice for men who want to improve their sexual health while also enjoying a delicious cup of coffee.</p>\r\n<p>Payment Terms: We offer a commission rate of 20% on all sales generated through our affiliate program. Payments are made monthly, and there is no minimum threshold for payment. We provide our affiliates with all the tools they need to promote our products, including banners, text links, and product images.</p>\r\n<p>Other Information: Our coffee is 100% natural and does not contain any artificial colors, flavors, or preservatives. It is also gluten-free, vegan-friendly, and keto-friendly. We are committed to providing our customers with high-quality products that are both effective and safe. Our customer support team is available to answer any questions or concerns that our customers may have about our products. 1</p>",
+  "payout_rate": "24.84%",
+  "payout_period": null,
+  "recommend_score": 1.85,
+  "average_earning_per_sale": "12",
+  "video_url": "https://www.youtube.com/@wildstudcoffee",
+  "mkp_listing_id": 22936,
+  "categories": "Beauty & Health, Sports & Entertainment, Grocery & Food, Toys & Hobbies, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 15,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United Arab Emirates",
+    "Australia",
+    "Canada",
+    "Switzerland",
+    "Germany",
+    "France",
+    "United Kingdom",
+    "Netherlands",
+    "Sweden",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/wildstudcoffee/register",
+  "offer_status": 2,
+  "name": "wildstudcoffee",
+  "website": "https://wildstudcoffee.com",
+  "hashtags": [
+    "#coffee",
+    "#men",
+    "#sex"
+  ],
+  "shop_id": 96542,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.34,
+  "program_id": 110082,
+  "myshopify_domain": "wildstudcoffee.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 112,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "88.89%",
+  "mkp_program_id": 110082,
+  "product_list": []
+}

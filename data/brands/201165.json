@@ -1,0 +1,161 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1743872322_875520_6a8cbe603502de05f699881731144413.png",
+  "description": "<p data-end=\"185\" data-start=\"56\">Se voc&ecirc; &eacute; apaixonado por sneakers e quer ganhar dinheiro indicando os melhores t&ecirc;nis do mercado, o <strong data-end=\"170\" data-start=\"155\">NKS REWARDS</strong> &eacute; para voc&ecirc;!</p>\r\n<p data-end=\"443\" data-start=\"187\">Nosso programa de afiliados permite que voc&ecirc; monetize sua influ&ecirc;ncia e gere comiss&otilde;es a cada venda realizada atrav&eacute;s do seu link exclusivo. Com produtos das maiores marcas, como Nike, Adidas e muito mais, suas recomenda&ccedil;&otilde;es se tornam ainda mais valiosas.</p>\r\n<p data-end=\"630\" data-start=\"445\">💰 <strong data-end=\"492\" data-start=\"448\">Ganhe comiss&otilde;es atrativas por cada venda</strong><br data-end=\"495\" data-start=\"492\">📲 <strong data-end=\"537\" data-start=\"498\">Acompanhe seus ganhos em tempo real</strong><br data-end=\"540\" data-start=\"537\">🔗 <strong data-end=\"575\" data-start=\"543\">Links f&aacute;ceis de compartilhar</strong><br data-end=\"578\" data-start=\"575\">🎁 <strong data-end=\"628\" data-start=\"581\">Acesso a promo&ccedil;&otilde;es e lan&ccedil;amentos exclusivos</strong></p>\r\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"733\" data-start=\"632\">Cadastre-se agora no <strong data-end=\"668\" data-start=\"653\">NKS REWARDS</strong> e transforme sua paix&atilde;o por sneakers em uma fonte de renda! 🚀👟</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35051,
+  "categories": "Fashion",
+  "currency": "BRL",
+  "symbol_currency": "&#82;&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Youtube",
+    "Facebook",
+    "Pinterest",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Brazil"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/fligthigh/register",
+  "offer_status": 2,
+  "name": "Dromakos",
+  "website": "https://ye420a-aa.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 201165,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.85,
+  "program_id": 230462,
+  "myshopify_domain": "ye420a-aa.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 230462,
+  "product_list": []
+}

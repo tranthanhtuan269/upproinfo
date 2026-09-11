@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1736068725_1961359_3b882a0768aed08ca2426f9501c0470e.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: Sojourn Arts is a luxury streetwear and inspirational art brand.<br>&bull; Product description: Lifestyle wall art as well as high quality streetwear featuring handmade art.<br>&bull; USP (Unique Selling Point): High quality manual craftsmanship and meaningful art.<br>&bull; Payment terms:&nbsp;<br>&bull; Other information: Celebrate inspirational stories from Sikh history, legacies of global icons and heroes, and commemmorate loved ones through meaningful art and apparel.</p>\r\n</div>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.57,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33867,
+  "categories": "Fashion, Art",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "7% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "venmo": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/sojourn-armaan/register",
+  "offer_status": 2,
+  "name": "SOJOURN ARTS",
+  "website": "https://sojournbyarmaan.com",
+  "hashtags": [
+    "#fashion",
+    "#streetwear",
+    "#Hoodies",
+    "#Art",
+    "#WearableArt",
+    "#WallArt",
+    "#SikhArt",
+    "#SikhFashion",
+    "#ClothingBrand",
+    "#PunjabiFashion"
+  ],
+  "shop_id": 182389,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1400000000000001,
+  "program_id": 207947,
+  "myshopify_domain": "sojourn-armaan.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 78.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "76.6%",
+  "mkp_program_id": 207947,
+  "product_list": []
+}

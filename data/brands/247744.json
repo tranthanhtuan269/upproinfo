@@ -1,0 +1,183 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><p>Market Mastery est une marque éducative axée sur l’apprentissage du trading, de la finance et du marketing digital. Nous proposons un e-book pédagogique clair et structuré, conçu pour aider les débutants à comprendre les bases essentielles avant de passer à l’action, sans promesses irréalistes.</p><p>Notre approche est honnête, éducative et orientée long terme. Le contenu est basé sur des recherches approfondies, des formations reconnues et des créateurs de contenu sérieux. L’objectif est d’éviter les erreurs courantes et de gagner du temps.</p><p>Les affiliés gagnent une commission attractive sur chaque vente générée via leur lien d’affiliation. Il est également possible d’acheter le produit et de le revendre en conservant 100 % des bénéfices.</p><p>Les affiliés peuvent promouvoir le produit via les réseaux sociaux, blogs, vidéos, email marketing ou contenu éducatif, tout en respectant les règles de communication.</p></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Les commissions sont versées une fois par mois, \nentre le 1er et le 5 du mois suivant, \naprès validation des commandes.",
+  "recommend_score": 1.51,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37612,
+  "categories": "Business & Industrial",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "18-24",
+    "Under 18",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "France",
+    "Canada",
+    "Algeria",
+    "Tunisia",
+    "Belgium",
+    "Swaziland",
+    "Switzerland"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "undefined",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/yvbuud-hi/register",
+  "offer_status": 2,
+  "name": "Market Mastery",
+  "website": "https://tradingmoderne.fr",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 247744,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.37,
+  "program_id": 289583,
+  "myshopify_domain": "yvbuud-hi.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "28.57%",
+  "mkp_program_id": 289583,
+  "product_list": []
+}

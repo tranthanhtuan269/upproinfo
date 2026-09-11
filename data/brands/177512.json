@@ -1,0 +1,185 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1732774042_6354952_d6b37a5f7b81718390ddd115666479fe.png",
+  "description": "<div class=\"flex max-w-full flex-col flex-grow\">\r\n<div data-message-model-slug=\"gpt-4o\" class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5\" dir=\"auto\" data-message-id=\"467df5b5-f09d-4759-8e9c-73cab42e4a88\" data-message-author-role=\"assistant\">\r\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\r\n<h4><strong>Brand Introduction:</strong></h4>\r\n<p>ZenLuxe Aromas is a NYC-based luxury candle and fragrance brand, blending eco-conscious practices with sophisticated design. Each product is hand-poured using natural soy coconut wax and crafted to evoke comfort, elegance, and mindfulness in any space.</p>\r\n<h4><strong>Product Description:</strong></h4>\r\n<p>Our collection includes premium candles, wax melts, and fragrance bundles that feature irresistible scents like Citrus Crumble Delight, Evergreen Retreat, and Morning Brew. Perfect for creating cozy vibes, gifting, or enhancing wellness routines, our cruelty-free and phthalate-free products are made with top-quality materials for clean, long-lasting burns.</p>\r\n<h4><strong>Unique Selling Point (USP):</strong></h4>\r\n<ul>\r\n<li>100% natural soy coconut wax for an eco-friendly burn</li>\r\n<li>Hand-poured with premium, phthalate-free fragrance oils</li>\r\n<li>Sophisticated, cruelty-free products ideal for gifting and self-care</li>\r\n<li>Designed to add elegance and warmth to every room</li>\r\n</ul>\r\n<h4><strong>Payment Terms:</strong></h4>\r\n<p>Earn 15% commission on every successful referral. Payments are processed monthly, with no minimum payout threshold, making it easy to start earning from your network right away.</p>\r\n<h4><strong>Other Information:</strong></h4>\r\n<ul>\r\n<li>Access to exclusive affiliate resources, including banners, product images, and custom referral links.</li>\r\n<li>Dedicated support team to assist you in optimizing your affiliate efforts.</li>\r\n<li>Perfect for influencers, bloggers, and content creators in the wellness, lifestyle, and home d&eacute;cor niches.</li>\r\n</ul>\r\n<p><strong>Join our affiliate program today and turn your influence into earnings while sharing the ZenLuxe Aromas experience!</strong></p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33391,
+  "categories": "Home & Tools, Art, Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1732778705_6502112_9cf0235df7bf38e614e3e2f862e51bce.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Jamaica",
+    "United States",
+    "Canada",
+    "United Kingdom",
+    "United States Minor Outlying Islands"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/zenluxearomas/register",
+  "offer_status": 2,
+  "name": "ZenLuxe Aromas",
+  "website": "https://zenluxearomas.com",
+  "hashtags": [
+    "#candles",
+    "",
+    "#fashion",
+    "",
+    "#homedecor",
+    ""
+  ],
+  "shop_id": 177512,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.82,
+  "program_id": 202292,
+  "myshopify_domain": "gmg0qk-sy.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "28.57%",
+  "mkp_program_id": 202292,
+  "product_list": []
+}

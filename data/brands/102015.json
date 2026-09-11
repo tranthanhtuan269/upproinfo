@@ -1,0 +1,170 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/f66d6014a74dd284139c93910fc2dc76.png",
+  "description": "<div>\r\n<p><strong>NATURELEI</strong>&nbsp;ist dein Ansprechpartner, wenn es darum geht besondere Teemomente zu genie&szlig;en. Wir f&uuml;hren&nbsp;<em>ausschlie&szlig;lich hoch qualitative Teesorten aus den Bereichen Schwarzer Tee, Gr&uuml;ner Tee, Rooibos Tee und Kr&auml;utertee</em>. Neben rund&nbsp;<strong>500 verschiedenen Teesorten</strong>&nbsp;f&uuml;hren wir auch BIO-Trinkschokolade, BIO-Matcha Pulver unsere beliebtesten Teesorten im Pyramidenbeutel und selbstverst&auml;ndlich das passende Zubeh&ouml;r f&uuml;r Ihren einzigartigen Teegenuss. Dabei gibt es farbenfrohe&nbsp;<em>Kr&auml;uterteetassen,&nbsp; Teetassen als Sammel-Editionen, Teekannen</em>&nbsp;aus Gusseisen oder Porzellan und Teesiebe in den unterschiedlichsten Formen und Varianten. Hier ist f&uuml;r jeden Geschmack das passende dabei.</p>\r\n<p>Kein Getr&auml;nk ist auf seine Art und Weise so unterschiedlich wie Tee. Genau das ist es, was dieses beliebte Hei&szlig;- und Kaltgetr&auml;nk so beliebt macht.</p>\r\n<p><strong>NATURELEI</strong>&nbsp;bedeutet Spitzenqualit&auml;t, schneller Versand, super Preis-/Leistungsverh&auml;ltnis und ein freundlicher Kundenservice. Schaue gerne einmal bei uns im Onlineshop vorbei und lasse dich inspirieren von unseren leckeren Teesorten oder von unserem Blog, indem wir auch regelm&auml;&szlig;ig Rezepte von und mit unseren Tees bloggen.<br><strong><br></strong></p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.81,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 24108,
+  "categories": "Beauty & Health, Others",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Austria",
+    "Germany",
+    "Denmark",
+    "Spain",
+    "France",
+    "Italy"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/naturelei/register",
+  "offer_status": 2,
+  "name": "Naturelei",
+  "website": "https://naturelei.de",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 102015,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.35,
+  "program_id": 115902,
+  "myshopify_domain": "naturelei.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 40.46,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "8.82%",
+  "mkp_program_id": 115902,
+  "product_list": []
+}

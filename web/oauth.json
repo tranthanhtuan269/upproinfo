@@ -1,0 +1,11 @@
+{
+  "_comment": "Điền client_id và client_secret. Redirect Google: http://127.0.0.1:5050/auth/google/callback — GitHub: http://127.0.0.1:5050/auth/github/callback",
+  "google": {
+    "client_id": "",
+    "client_secret": ""
+  },
+  "github": {
+    "client_id": "",
+    "client_secret": ""
+  }
+}

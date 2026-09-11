@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1737336502_8419259_7e2a6af565672fd8e49a9eda59f3dd87.png",
+  "description": "<p><span>This is a service that you can enjoy&nbsp;</span><strong>authentic Japanese ramen at home</strong><span>.</span><br><span>The Founder/buyer of Wagokoro personally tastes&nbsp;</span><strong>over 300 bowls of ramen annually</strong><span>&nbsp;in Japan.</span><br><span>That's why we proudly offer this Ramen BOX with confidence.</span><br><span><strong>This box will deliver different types of ramen each month</strong>.<br>Enjoy encountering new ramen varieties.<br><br></span><span>■Included in this Ramen Box</span><br><strong>4 pack ramen set</strong><span>&nbsp;featuring the flavors of 2 popular ramen shops in Japan.</span><br><span>1.Ramen noodles set</span><br><span>・4 pack fresh noodles (2types&times;2)</span><br><span>・4 pack concentrated soups (2types&times;2)</span><br><span>2.Ramen Toppings</span><br><span>・Pork kakuni</span><br><span>・Pickles red ginger</span><br><span>・Menma (bamboo shoots)</span><br><span>・Dried wood ear mushrooms</span><br><span>・Dried seaweed</span><br><span>・Dried green onions</span></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30333,
+  "categories": "Grocery & Food",
+  "currency": "JPY",
+  "symbol_currency": "&#165;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest",
+    "Blog",
+    "Reddit"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/wagokoro-japan/register",
+  "offer_status": 2,
+  "name": "Wagokoro",
+  "website": "https://wagokoro-japangift.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 92478,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.12,
+  "program_id": 122563,
+  "myshopify_domain": "wagokoro-japan.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "50%",
+  "mkp_program_id": 122563,
+  "product_list": []
+}

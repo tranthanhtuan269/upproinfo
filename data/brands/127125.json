@@ -1,0 +1,179 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1702546914_9799097_6879daf40bcc95acb26a734a594e210e.png",
+  "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-uiapm-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-uiapm-1n7m0yu\">\r\n<div class=\"flex flex-col pb-9 text-sm\">\r\n<div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-5\">\r\n<div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\">\r\n<div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion\">\r\n<div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div data-message-author-role=\"assistant\" data-message-id=\"1be26989-4dca-4f30-a9ee-226bc210a7e2\" class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n<p>**Brand Introduction:**<br>Enchanti Home - Where Home Aesthetics Come Alive!</p>\r\n<p>**Product Description:**<br>Discover our exquisite range of home aesthetics:<br>1. Artisanal Decor<br>2. Luxurious Textiles<br>3. Elegant Tableware<br>4. Botanical Beauty<br>5. Candles and Fragrances</p>\r\n<p>**USP (Unique Selling Point):**<br>- Craftsmanship Excellence<br>- Versatile Aesthetic Appeal<br>- Sustainable Values<br>- Customer-Centric Focus</p>\r\n<p>**Payment Terms:**<br>- Bank Transfer<br>- Wise (formerly TransferWise)</p>\r\n<p>**Other Information:**<br>- Worldwide Shipping<br>- Flexible Returns<br>- Contact Us for Custom Orders<br>- Follow Us on Social Media for Inspiration</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 27940,
+  "categories": "Home & Tools, Garden & Outdoors",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Germany",
+    "France",
+    "Italy",
+    "Canada",
+    "United Kingdom",
+    "United States",
+    "United Arab Emirates",
+    "Australia",
+    "Belgium"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "other": "Wise"
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/d1b307/register",
+  "offer_status": 2,
+  "name": "Enchanti Home",
+  "website": "https://enchantihome.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 127125,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.87,
+  "program_id": 144050,
+  "myshopify_domain": "d1b307.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "56.25%",
+  "mkp_program_id": 144050,
+  "product_list": []
+}

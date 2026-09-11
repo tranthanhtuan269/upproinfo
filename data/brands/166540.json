@@ -1,0 +1,232 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1756234219_8171517_902b038031096563f990faaedd141257.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>The Context Skin VIP Affiliate Program gives you the opportunity to earn generous commissions by promoting our clinically proven, clean, and cruelty-free skincare. Affiliates can earn 25% – 50% commission per order, tracked with a 30-day cookie window to maximize your conversions. Payments are made securely via PayPal, with reliable and timely processing.</p><p>You’ll be able to promote using your unique affiliate link or coupon code, making it easy to share across social media, blogs, or email campaigns. Our program has no regional limits — affiliates from any country are welcome to join. Please note that all applications are manually reviewed to ensure quality partnerships.</p><p>With Context Skin, you’re representing a brand that is clinically proven, clean ingredient-focused, and 100% cruelty free. Joining is free, and with high commission rates plus strong customer trust, you can build a rewarding partnership with us.</p></div></div>",
+  "payout_rate": "70.86%",
+  "payout_period": "between the Affiliate commissions are paid out 15 days after the purchase date to allow for order processing and returns.",
+  "recommend_score": 4.64,
+  "average_earning_per_sale": null,
+  "video_url": "https://www.youtube.com/watch?v=aC4jfh2BMz0",
+  "mkp_listing_id": 36334,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "20%-25% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "store_credit": 1,
+    "other": "Other payment"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://joinaffiliatefam.contextskin.com/JoinContextSkinAffiliateProgram/register",
+  "offer_status": 2,
+  "name": "Context Skin",
+  "website": "https://www.contextskin.com",
+  "hashtags": [
+    "#affiliatemarketing",
+    "#earnwithbeauty",
+    "#beautyinfluencer",
+    "#skincareaffiliate",
+    "#promotebeauty",
+    "#affiliatecommunity"
+  ],
+  "shop_id": 166540,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "20",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "150",
+      "commission_val": "25",
+      "disabled": false
+    }
+  ],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.05,
+  "program_id": 189413,
+  "myshopify_domain": "e10daa-20.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "68d24da95d235d1f70010eba",
+      "name": "Auto-discount rule",
+      "program_id": 189413,
+      "shop_id": 166540,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:35:05",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 46.5,
+  "new_customer_commission": "20% per order",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 189413,
+  "product_list": []
+}

@@ -1,0 +1,171 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1705427476_8023331_e15910dc3056da440c11f2375ae7fc11.jpg",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>EASY Cycle Support is an herbal supplement designed to support women who deal with painful periods, PMS, and irregular cycles. Our mission is to help make your periods easier, so that you can spend more time doing what you love and less time getting through difficult periods.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">What makes our formula unique? It was developed by actual clinical herbalists working with real people to create a prodcut that really works, not by suits in a corporate board room or an AI chatbot that chooses ingredients based on what you're already most likely to buy.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span></span><span>EASY is an herbal extract that is added to hot water and taken like a tea. Our herbal formula is a combination of twelve botanicals that help alleviate cramps, encourage regular cycles, balance hormones, support emotional well-being, support blood sugar balance, and stimulate healthy digestion and fluid metabolism. Visit our website to learn more - easyherbco.com</span><br><br><span>When we say \"Life is hard. Your period shouldn't have to be\" we're thinking of all the women who do awesome, difficult, challenging things - and how many of them are also doing them with stabbing pains in the abdomen. And we're thinking of all the times when they've had to miss out on the adventures they would be on, due to diffucult periods getting in the way.</span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.91,
+  "average_earning_per_sale": "9.6",
+  "video_url": null,
+  "mkp_listing_id": 29009,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/b30d79-2/register",
+  "offer_status": 2,
+  "name": "Easy Herb Co LLC",
+  "website": "https://www.easyherbco.com",
+  "hashtags": [
+    "#womenshealth",
+    "#hormonehealth",
+    "#periodsolutions"
+  ],
+  "shop_id": 131468,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 148747,
+  "myshopify_domain": "b30d79-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "12.5%",
+  "mkp_program_id": 148747,
+  "product_list": []
+}

@@ -1,0 +1,254 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><p><strong>Earn More by Promoting the Lowest-Priced Italian Jewelry Online</strong></p><p>Join the ItaliaChains Affiliate Program and start earning real commissions on jewelry that actually sells. While other companies boast about offering 20% or even 30% commissions, their products are priced so high that customers rarely complete a purchase. At ItaliaChains, our direct-from-Italy model means you promote premium 925 sterling silver chains and bracelets at unbeatable prices — giving you <strong>more conversions, faster payouts, and higher total earnings.</strong></p><p><strong>Why Join ItaliaChains:</strong></p><ul><li><p><strong>Best Prices in the Industry</strong> – As the manufacturer, we skip the middlemen and sell directly to customers, ensuring your followers see prices they can’t resist.</p></li><li><p><strong>High Conversion Rates</strong> – Affordable luxury means more sales and consistent affiliate income.</p></li><li><p><strong>Trusted Italian Quality</strong> – Every piece is made in Arezzo, Italy — the global capital of silver craftsmanship.</p></li><li><p><strong>Realistic Earnings Potential</strong> – Even at lower commission percentages, you’ll earn more overall because our products actually move.</p></li><li><p><strong>Marketing Made Easy</strong> – You’ll get access to ready-to-use product photos, SEO-optimized descriptions, and promotional materials that drive clicks and conversions.</p></li></ul><p>Whether you’re a jewelry influencer, content creator, or marketer, ItaliaChains gives you a simple formula: <strong>the lowest prices + Italian-made authenticity = the highest profits.</strong></p><p><strong>Join today and turn your audience’s love for silver into real income.</strong></p></div>",
+  "payout_rate": "75%",
+  "payout_period": "1st Of Each Month",
+  "recommend_score": 7.41,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36799,
+  "categories": "Apparel & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "8% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 14,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://aff.italiachains.com/italiachains/register",
+  "offer_status": 2,
+  "name": "ITALIA Chains",
+  "website": "https://www.italiachains.com",
+  "hashtags": [
+    "#fashion",
+    "#jewelry"
+  ],
+  "shop_id": 235336,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.82,
+  "program_id": 274300,
+  "myshopify_domain": "bvwfds-7h.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "69029ff720ca580a5e074556",
+      "name": "OK",
+      "program_id": 274300,
+      "shop_id": 235336,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": "{discount_amount}",
+          "product_applies_type": "specific_collection",
+          "select_data": [
+            "664170168393",
+            "661698641993",
+            "661480603721",
+            "661294907465",
+            "661235695689",
+            "661145124937",
+            "661129822281",
+            "661076770889",
+            "660990361673",
+            "660945469513",
+            "660726677577",
+            "660726644809",
+            "660726612041",
+            "660595540041",
+            "660418199625",
+            "660418166857",
+            "660418134089",
+            "660418101321",
+            "660232667209",
+            "659975929929",
+            "659916357705",
+            "659574784073",
+            "659394920521",
+            "658274418761",
+            "658272485449",
+            "657236656201",
+            "657236525129",
+            "657236492361",
+            "657236459593",
+            "657236426825",
+            "657236394057",
+            "657236262985",
+            "657236197449",
+            "657236164681",
+            "657236099145",
+            "657236033609",
+            "657236000841",
+            "657235968073",
+            "657235935305",
+            "657235902537",
+            "657235869769"
+          ]
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": false,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": null,
+      "created_at": "2025-10-29T23:15:03.179000Z",
+      "updated_at": "2025-10-29T23:15:03.179000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 210.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "99.35%",
+  "mkp_program_id": 274300,
+  "product_list": []
+}

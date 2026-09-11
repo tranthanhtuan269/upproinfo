@@ -1,0 +1,179 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742513209_2800706_6f0665b17d8f9958960dcbb7c75e27d9.png",
+  "description": "<h1>Join Our Affiliate Crew</h1>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Arrr, matey! Be part of the NeverBite&trade; crew and earn rewards for spreadin&rsquo; the word about our bite-proof dog toy! If ye be a dog trainer, a pet store owner, or just a dog-loving scallywag with a mighty crew of followers, this program be for ye!</p>\r\n<h2>What&rsquo;s in it for ye?</h2>\r\n<ul>\r\n<li style=\"list-style-type: inherit;\">Earn&nbsp;<strong>10% commission per sale</strong></li>\r\n<li style=\"list-style-type: inherit;\">Get early access to exclusive deals</li>\r\n<li style=\"list-style-type: inherit;\">Personalized referral link &amp; tracking</li>\r\n<li style=\"list-style-type: inherit;\">No fees, just smooth sailin&rsquo; profits</li>\r\n</ul>\r\n<h2>How It Works</h2>\r\n<ol>\r\n<li style=\"list-style-type: inherit;\">Apply using the form below.</li>\r\n<li style=\"list-style-type: inherit;\">Get yer custom affiliate link.</li>\r\n<li style=\"list-style-type: inherit;\">Share it with yer crew (friends, clients, social followers).</li>\r\n<li style=\"list-style-type: inherit;\">Earn commission for every sale made through yer link.</li>\r\n</ol>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.31,
+  "average_earning_per_sale": "12.50",
+  "video_url": "https://youtu.be/_21ikxR02ZQ",
+  "mkp_listing_id": 35041,
+  "categories": "Pet supplies, Toys & Hobbies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1742512942_3150444_7f71061def7823794c0788a4b49e8fea.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Pinterest",
+    "Etsy",
+    "Blog",
+    "Comparison shopping engine",
+    "Content or Niche website"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/wpzyfr-vw/register",
+  "offer_status": 2,
+  "name": "Chewy Chums",
+  "website": "https://chewychums.com",
+  "hashtags": [
+    "#dogtoy",
+    "#designertoy",
+    "#luxurybrand",
+    "#luxurydog",
+    "#pirates",
+    "#dogtrainer",
+    "#puppytraining",
+    "#teethingpuppy",
+    "#neverbite"
+  ],
+  "shop_id": 201083,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.17,
+  "program_id": 230361,
+  "myshopify_domain": "wpzyfr-vw.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 129.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "95.24%",
+  "mkp_program_id": 230361,
+  "product_list": []
+}

@@ -1,0 +1,180 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/692213059e851f3aac5fac19161f2819.png",
+  "description": "<div style=\"font-family: Poppins;\"><p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Ascent Nutrition provides organic and wild-harvested nutrients to the world through our unique, innovative and best-in-class growing and harvesting processes. Our clean and unique practices allow us to offer superior, nutrient-dense products that help people, pets and athletes feel and perform their best.</span><br><br>The Ascent Nutrition Affiliate Program offers 10% commision on all products if you are approved as an affiliate. Affiliate link clicks will have a 30 day cookie life for the customer to make a purchase and qualify the sale.<br>Please email us at info@goascentnutrition.com if you have any questions or would like any help. We look forward to working with you!</p></div>",
+  "payout_rate": "97.74%",
+  "payout_period": "Every 30 days after a minimum of $100 is met.",
+  "recommend_score": 5.76,
+  "average_earning_per_sale": "50",
+  "video_url": null,
+  "mkp_listing_id": 24625,
+  "categories": "Beauty & Health, Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "email_marketing",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "United States",
+    "Australia",
+    "United Kingdom",
+    "Costa Rica",
+    "Ireland"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://affiliates.goascentnutrition.com/ascentnutrition/register",
+  "offer_status": 2,
+  "name": "Ascent Nutrition",
+  "website": "https://goascentnutrition.com",
+  "hashtags": [
+    "#health",
+    " #nutrition",
+    " #supplements",
+    " #vegan",
+    "#athlete",
+    " #coffee",
+    " #detox",
+    " #organic",
+    " #USA"
+  ],
+  "shop_id": 102042,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.74,
+  "program_id": 115937,
+  "myshopify_domain": "ascentnutrition.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Enterprise",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 81.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "97.5%",
+  "mkp_program_id": 115937,
+  "product_list": []
+}

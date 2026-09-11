@@ -1,0 +1,165 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1733702855_6808556_9af42a0924bcc98dfe1292b489ce7aaf.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: One of our core philosophies at EMU is &ldquo;why fix what isn&rsquo;t broken&rdquo; these medicines have been used and proven for thousands of years. The Lotus is one of the oldest recorded drawings from Egyptian culture, Reishi (the mushroom of immortality) is the oldest known medicinal mushroom used for over 6,000 years in China. Instead of using expensive patented products we strive to use natural remedies that have been proven in a modern lab as well as thousands of years of proven benefits</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Product description: Our active ingredients are blue lotus, reishi, and lavender all of which have been used for thousands of years as calming herbal medicines. For flavor we use blueberry, vanilla, and lavender. For color and nutrition we use butterfly pea flower and blue spirulina to keep with the blue theme<br><br>&bull; USP (Unique Selling Point): the active components in blue lotus are apomorphine and nuciferine, both of which are alcohol dissolvable and not water dissolvable. Unlike most Blue lotus teas, we use an extract that delivers all the good stuff in a water dissolveable powder.&nbsp;<br><br><br></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.48,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33496,
+  "categories": "Grocery & Food, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Blog",
+    "Twitter"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "18-24",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Male",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "United States",
+    "United States Minor Outlying Islands"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/earthmindunity/register",
+  "offer_status": 2,
+  "name": "EMU",
+  "website": "https://earthmindunity.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 178411,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.09,
+  "program_id": 203375,
+  "myshopify_domain": "4392a5-4.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 69.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "20.83%",
+  "mkp_program_id": 203375,
+  "product_list": []
+}

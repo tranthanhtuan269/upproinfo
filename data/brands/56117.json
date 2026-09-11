@@ -1,0 +1,192 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1749071982_4944841_74191f6d0dcd67f4e46bf32f8cccebd0.png",
+  "description": "<div style=\"font-family: Poppins;\"><p class=\"p1\" id=\"isPasted\"><strong>Join the Dr. Dobias Healing Ambassador Pack!</strong></p><p class=\"p2\">Hi fellow dog lover! <span class=\"s1\">🐾</span></p><p class=\"p2\">Are you passionate about natural health and helping dogs (and their humans) live their best lives? We'd love to have you join our pack of <strong>Healing Ambassadors</strong>!</p><p class=\"p2\"><strong>Why become part of our community?</strong></p><ul class=\"ul1\"><li class=\"li2\"><strong>Help your pack:</strong> Share life-changing, natural supplements and holistic health resources with fellow dog lovers</li><li class=\"li2\"><strong>Feel empowered:</strong> Get free access to Dr. Dobias' 30+ years of integrative veterinary wisdom</li><li class=\"li2\"><strong>Boost your income:</strong> Earn commission on every sale—10% when customers shop through your unique link, or 5% when they use your personal coupon code</li></ul><p class=\"p2\"><strong>What makes us special?</strong><br><span class=\"s1\">✨</span> 4.9-star rating from 2000+ happy customers<br><span class=\"s1\">🌿</span> All-natural, non-GMO products made in USA, Canada &amp; Norway<br><span class=\"s1\">🐕</span> Supplements for both dogs AND their humans<br><span class=\"s1\">♻️</span> Eco-friendly packaging (no plastic shipping!)</p><p class=\"p2\">Ready to make a difference while earning? Payouts are sent through PayPal by the 25th of each month once your approved balance hits $50 or more.</p><p class=\"p2\"><strong>Join our mission:&nbsp;</strong>Creating a world where every dog and their humans are living their happiest, healthiest lives.</p></div>",
+  "payout_rate": "74.11%",
+  "payout_period": "Payouts are sent through PayPal by the 25th of each month once your approved balance hits $50 or more.",
+  "recommend_score": 4.94,
+  "average_earning_per_sale": "14",
+  "video_url": null,
+  "mkp_listing_id": 15584,
+  "categories": "Beauty & Health, Pet supplies, Wellness & Lifestyle",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 90,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "coupon_discount_codes",
+    "push_notification",
+    "social_media_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "Czech Republic",
+    "Puerto Rico",
+    "United Kingdom",
+    "United States",
+    "United States Minor Outlying Islands",
+    "Spain"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/dr-dobias-natural-healing-usa/register",
+  "offer_status": 2,
+  "name": "Dr. Dobias International",
+  "website": "https://peterdobias.com",
+  "hashtags": [
+    "#holistic",
+    "#caninehealth",
+    "#integrativeveterinarian",
+    "#rawfeeding",
+    "#healthydogs",
+    "#hrt",
+    "#titertesting",
+    "#naturalhealing",
+    "#healthylifestyle",
+    "#supplementsthatwork",
+    "#naturaldogdiet"
+  ],
+  "shop_id": 56117,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.07,
+  "program_id": 62960,
+  "myshopify_domain": "dr-dobias-natural-healing-usa.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Enterprise",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 170.2,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "5% per order",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "96.25%",
+  "mkp_program_id": 62960,
+  "product_list": []
+}

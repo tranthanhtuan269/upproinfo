@@ -1,0 +1,184 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/127c54162a82b9c6a1fe99519b09b8cd.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p><strong>• About our brand and products:</strong><br>We are a wellness-focused brand offering premium dietary supplements designed to support brain health, memory, focus, and overall cognitive performance. Our products are formulated with high-quality, research-backed ingredients and manufactured to strict quality standards.</p><p><strong>• What makes us different:</strong><br>We focus on unique formulations that combine traditional herbal ingredients with modern science. Our products are positioned for long-term cognitive support and stand out through quality, innovation, and strong customer demand.</p><p><strong>• How affiliates can earn:</strong><br>Affiliates earn commissions on every successful sale generated through their referral links. We offer competitive commission rates and opportunities for higher earnings based on performance.</p><p><strong>• Affiliate Terms:</strong></p><ul><li>Do not copy ads, landing pages, or use surveillance tools to replicate campaigns.</li><li>Avoid non-compliant language in ads, landing pages, or posts.</li><li>Paid search campaigns on branded keywords (PPC) are prohibited on any platform.</li><li>Do not use terms like “scam” or “fraud” in reviews, social media, or content about our brands.</li><li>Spam or unsolicited messaging is strictly forbidden.</li><li>Do not misrepresent yourself as a Nutraville owner or creator in any content.</li><li>Selling Nutraville products as a reseller on marketplaces (e.g., Amazon, eBay) is not permitted.</li><li>Affiliates acknowledge that Nutraville and its associates are not liable for any loss incurred from promoting the program.</li></ul><p><strong>• Other information:</strong><br>We provide marketing assets, support, and ongoing promotions to help affiliates maximize conversions and scale their earnings.</p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "3rd of each month.",
+  "recommend_score": 3.15,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38946,
+  "categories": "Beauty & Health, Wellness & Lifestyle",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Germany",
+    "France",
+    "United Kingdom",
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "other": "transferwise"
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/nutraville/register",
+  "offer_status": 2,
+  "name": "Nutraville",
+  "website": "https://nutraville.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 90782,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.22,
+  "program_id": 103644,
+  "myshopify_domain": "nutraville.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 117.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "88.1%",
+  "mkp_program_id": 103644,
+  "product_list": []
+}

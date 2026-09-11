@@ -1,0 +1,210 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1767720346_8033170_e305642cf5f378e75a0c4bf08a93718c.png",
+  "description": "<div style=\"font-family:Poppins;\"><h3><strong>About Our Brand and Products</strong></h3><p>Wear UMNA is a luxury accessories brand specializing in handcrafted crystal clutches designed to be conversation pieces. Each piece blends bold femininity, elevated craftsmanship, and intentional storytelling. Our clutches are made for weddings, events, nights out, and moments when standing out is the point. </p><h3><strong>What Makes Us Different</strong></h3><p>UMNA is not trend-chasing fast fashion. Our designs are original, limited-run, and built around symbolism, storytelling, and emotional connection. Many collections tie into meaningful causes or cultural narratives, creating products that feel personal, collectible, and timeless rather than disposable.</p><h3><strong>How Affiliates Can Earn</strong></h3><p>Affiliates earn a competitive commission on every sale generated through their unique link or code. Our strong price point means even a single sale can result in a meaningful payout. High-performing affiliates may be invited to receive higher commission rates, early access to launches, and exclusive perks.</p><h3><strong>How to Promote Us</strong></h3><p>Affiliates can promote UMNA through Instagram, TikTok, blogs, email newsletters, event styling, bridal content, or gift guides. Our products perform especially well in visual content, styling videos, and luxury lifestyle storytelling. We encourage authentic, creative promotion that fits your voice. Have fun with it!</p><h3><strong>Other Information</strong></h3><p>We value long-term partnerships over one-off posts. Affiliates receive access to brand assets, launch previews, and occasional gifting opportunities. UMNA is ideal for creators who appreciate design, craftsmanship, and storytelling and who want to align with a brand that feels elevated and intentional.</p><p><br></p></div>",
+  "payout_rate": "100%",
+  "payout_period": "On the first of each month",
+  "recommend_score": 3.15,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37554,
+  "categories": "Apparel & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/wearumna/register",
+  "offer_status": 2,
+  "name": "UMNA",
+  "website": "https://wearumna.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 247041,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.16,
+  "program_id": 288742,
+  "myshopify_domain": "559ed6-3.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "699cdf90fd97354eb5010ee2",
+      "name": "Affiliate Discount",
+      "program_id": 288742,
+      "shop_id": 247041,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 15,
+          "message": null,
+          "product_applies_type": "specific_collection",
+          "select_data": [
+            "467642089785"
+          ]
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-03-05 05:15:01",
+      "created_at": "2026-02-23T23:15:28.403000Z",
+      "updated_at": "2026-03-05T05:15:01.795000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 227.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "40%",
+  "mkp_program_id": 288742,
+  "product_list": []
+}

@@ -1,0 +1,166 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/74e8391d80f27e53d5584e6df45a4502.jpg",
+  "description": "<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<p>Introducing our Affiliate Program &ndash; your gateway to style, influence, and substantial earnings. Join our program and embark on a journey where your passion for fashion meets a lucrative opportunity. As a valued member of our affiliate community, you'll earn an impressive 15% commission on every sale you generate, while immersing yourself in the world of cutting-edge trends and timeless pieces.</p>\r\n<p>Why settle for an ordinary affiliate program when you can partner with a ROPES? Our brand is synonymous with sophistication, quality, and innovation, making it effortless for you to captivate your audience and drive conversions. Whether you're a fashion enthusiast, a style guru, or a social media maven, this program offers a platform for you to effortlessly monetize your influence.</p>\r\n<p>Here's how it works: You'll receive a unique affiliate link and access to a diverse array of eye-catching banners, engaging content, and promotional materials. Seamlessly integrate these assets into your blog, website, or social media platforms to showcase our exquisite collections. With a generous 15% commission on all sales attributed to your efforts, your earnings have the potential to skyrocket with every successful transaction.</p>\r\n<p>We understand the importance of transparency and efficiency, which is why our state-of-the-art affiliate dashboard provides real-time insights into your performance, earnings, and click-through rates. Track your success, optimize your strategies, and watch your commissions grow as you captivate your audience with the allure of our fashion-forward creations.</p>\r\n<p>Joining our Affiliate Program means more than just financial rewards &ndash; it signifies a partnership built on trust, mutual growth, and shared aesthetics. Immerse yourself in the art of fashion storytelling, as you introduce your audience to our iconic pieces, curated looks, and must-have accessories. As an affiliate, you become an integral part of our brand's narrative, creating a seamless blend between your authentic voice and our timeless designs.</p>\r\n<p>Don't miss out on the opportunity to turn your passion into profit. Elevate your fashion journey and become a trendsetter, a tastemaker, and a valued member of our exclusive affiliate community. Join us today and experience the power of 15% commission on all sales, shaping your fashion influence into a rewarding endeavor.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.82,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 25958,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1691346799_2806949_5464de04a20d6f48ab22695edf00475e.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Arab Emirates",
+    "Argentina",
+    "Czech Republic",
+    "Denmark",
+    "France",
+    "United Kingdom",
+    "Japan",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ROPES/register",
+  "offer_status": 2,
+  "name": "ROPES",
+  "website": "https://ropesclothing.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 110624,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.75,
+  "program_id": 125544,
+  "myshopify_domain": "ropes-clothing.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "7.69%",
+  "mkp_program_id": 125544,
+  "product_list": []
+}

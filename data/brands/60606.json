@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1651136481_3372951_700d1e3884373b0ed30cc7ed2dfec8ebMatace_LOGO_200.png",
+  "description": "<div><font color=\"#3d4246\" face=\"Arimo\"><span style=\"font-size: 18px; letter-spacing: 0.32px;\">Matace was founded in 2019 by a group of floor mat and cleaning industry professionals who discovered that people wasted resources and caused more environmental pollution when using and cleaning carpets. Looking for a solution to this problem, the founders came across a product that was new to the market but with great staying potential: Removeable carpets. Removable carpets were easier to install, less expensive to clean, and more fun to use than traditional unremovable carpets. Rebranding itself as Matace Removable Carpet, the company began offering this incredible product to its clients.</span></font></div><div><font color=\"#3d4246\" face=\"Arimo\"><span style=\"font-size: 18px; letter-spacing: 0.32px;\"><br></span></font></div><div><font color=\"#3d4246\" face=\"Arimo\"><span style=\"font-size: 18px; letter-spacing: 0.32px;\">Today, Matace Removable Carpet's design is based on the use of a backing material specifically developed for application in all of our projects, which we named it Mecko Backing System. This product uses the principle of molecular gravity so that the carpet tile cannot move laterally when it is set on the floor, but it is easy to pick up from above. The Mecko Backing System takes into account both ease of use and environmental protection. With the backing system in place, removable carpets can be installed very quickly and securely. When a client wants to change the color or pattern of the carpet, or when the carpet has stains and needs to be cleaned, they can be removed individually and easily replaced in seconds.</span></font></div><div><font color=\"#3d4246\" face=\"Arimo\"><span style=\"font-size: 18px; letter-spacing: 0.32px;\"><br></span></font></div><div><font color=\"#3d4246\" face=\"Arimo\"><span style=\"font-size: 18px; letter-spacing: 0.32px;\">Decorate your rooms with Matace removable carpets. Not only will your space be refreshed, but you will save money on the costs of carpet installation and carpet cleaning.</span></font></div><div><font color=\"#3d4246\" face=\"Arimo\"><span style=\"font-size: 18px; letter-spacing: 0.32px;\"><br></span></font></div><div><font color=\"#3d4246\" face=\"Arimo\"><span style=\"font-size: 18px; letter-spacing: 0.32px;\">Matace will continue to develop different materials and styles of removable carpets so that everyone will be able to enjoy carpets that are easy to maintain, fun, and affordable.</span></font></div>",
+  "payout_rate": "37.93%",
+  "payout_period": null,
+  "recommend_score": 1.45,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 13756,
+  "categories": "Home & Tools, Garden & Outdoors, Mom & Kids",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/matacecarpet/register",
+  "offer_status": 2,
+  "name": "mataceinc.com",
+  "website": "https://mataceinc.com/",
+  "hashtags": [],
+  "shop_id": 60606,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "5"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.42,
+  "program_id": 75787,
+  "myshopify_domain": "matace.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 296.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "51.02%",
+  "mkp_program_id": 75787,
+  "product_list": []
+}

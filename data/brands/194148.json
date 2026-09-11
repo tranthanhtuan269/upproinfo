@@ -1,0 +1,160 @@
+{
+  "logo": null,
+  "description": "<p><strong>Programa de Afiliados - [Nome da Sua Loja]</strong></p>\r\n<p>Ganhe dinheiro promovendo nossos produtos! Junte-se ao nosso <strong>Programa de Afiliados</strong> e receba <strong>comiss&otilde;es por cada venda</strong> realizada atrav&eacute;s do seu link de afiliado ou c&oacute;digo de desconto exclusivo.</p>\r\n<h3><strong>Como funciona?</strong></h3>\r\n<ol>\r\n<li><strong>Cadastre-se</strong> gratuitamente como afiliado.</li>\r\n<li>Receba um <strong>link &uacute;nico</strong> e um <strong>c&oacute;digo de desconto</strong> para compartilhar com seu p&uacute;blico.</li>\r\n<li>Sempre que algu&eacute;m comprar utilizando seu link ou cupom, voc&ecirc; <strong>ganha uma comiss&atilde;o</strong>.</li>\r\n</ol>\r\n<h3><strong>Benef&iacute;cios:</strong></h3>\r\n<p>✅ Comiss&atilde;o de&nbsp;<strong>XX%</strong> sobre cada venda referida.<br>✅ Acompanhamento de desempenho em um painel exclusivo.<br>✅&nbsp;Apoio e materiais promocionais para ajudar na divulga&ccedil;&atilde;o.<br>✅ Pagamentos garantidos e suporte dedicado.</p>\r\n<p>🚀 <strong>Inscreva-se agora</strong> e comece a lucrar promovendo [Nome da Sua Loja]!</p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34335,
+  "categories": "Beauty & Health",
+  "currency": "BRL",
+  "symbol_currency": "&#82;&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Brazil"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "other": "PIX"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/scn6uf-11/register",
+  "offer_status": 2,
+  "name": "Hallon Dermocosméticos",
+  "website": "https://www.loja.hallondermocosmeticos.com.br",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 194148,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.75,
+  "program_id": 221252,
+  "myshopify_domain": "scn6uf-11.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "14.29%",
+  "mkp_program_id": 221252,
+  "product_list": []
+}

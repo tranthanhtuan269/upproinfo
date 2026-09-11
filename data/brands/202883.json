@@ -1,0 +1,184 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1743520929_5376690_48bff555963cf246134bac3a6dcd2404.png",
+  "description": "<div style=\"font-family:Poppins;\"><p><strong>Hunterworks Inc.</strong> is built by riders, for riders. We design and manufacture high-performance CVT belts, clutches, and clutching components that riders trust to push harder, ride longer, and break less—whether it’s Polaris, Can-Am, Kawasaki, CF Moto or more.</p><p><strong>Why join the Hunterworks Affiliate Program?</strong><br>You’ll promote proven AMERICAN MADE products with a strong reputation, high demand in the off-road market, and a brand people already search for and trust. We back our affiliates with quality gear, real-world credibility, and solid commissions—so when you share Hunterworks, everyone wins.</p></div>",
+  "payout_rate": "1.2%",
+  "payout_period": "We pay out through PayPal every Monday",
+  "recommend_score": 5.05,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37920,
+  "categories": "Others, Automobiles & Motorcycles",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "7%-3% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "other": "CLICK HERE (Hunterworks Payment Method)"
+  },
+  "application_review": "manual",
+  "term_and_condition": "<div style=\"font-family: Poppins;\"><p><strong>Hunterworks Affiliate Program - Terms &amp; Conditions</strong><br>Effective August 19, 2026</p><h3>1. Acceptance</h3><p>By joining the Hunterworks Affiliate Program you agree to these Terms. Hunterworks may update them at any time; continued participation means you accept the current version.</p><h3>2. Enrollment</h3><p>Applications are reviewed manually. Hunterworks may approve or decline any application, and may deactivate any affiliate at any time, at its sole discretion.</p><h3>3. Commission</h3><p>Commission is paid as a percentage of the qualifying product subtotal: 7% on orders $0-$500, 5% on orders $500-$1,000, and 3% on orders above $1,000. Shipping, taxes and shipping tax are excluded. Referrals are tracked by affiliate link with a 30-day cookie window.</p><h3>4. Approval and Payment</h3><p>All referrals are reviewed before approval. Commission is earned only once the associated order is paid, fulfilled, and outside the return window. Commission on orders that are cancelled, refunded, charged back, or found to be fraudulent will be reversed.</p><h3>5. Permitted Promotion</h3><p>You may promote Hunterworks using your own content: social media accounts, YouTube videos, forums, blogs, email lists you own, and word of mouth. Your promotion must be honest and must not misrepresent our products.</p><h3>6. Paid Search and Brand Bidding - Prohibited</h3><p>The following are not permitted, and any commission resulting from them is void:</p><ul><li>Bidding on \"Hunterworks\", any misspelling or variation of it, our domain names, our product names, or our part numbers on Google Ads, Microsoft/Bing Ads, or any other search or shopping ad network.</li><li>Direct linking from any paid advertisement to hunterworks1.com, hunterworks.com, or any other Hunterworks URL.</li><li>Using the Hunterworks name or logo in ad copy, display URLs, ad extensions, or paid listings.</li><li>Any paid placement that intercepts customers who are already searching for Hunterworks by name.</li></ul><p>Referrals that arrive carrying paid-advertising click identifiers, including gclid, gbraid, wbraid, and msclkid, are not eligible for commission and are automatically denied.</p><h3>7. Concealing Traffic Source - Prohibited</h3><p>You must not strip, mask, cloak, or redirect traffic in order to hide where it came from, including routing paid clicks through an intermediate domain before they reach our site. Doing so is a material breach of these Terms and will result in immediate termination and forfeiture of all unpaid commission.</p><h3>8. Other Prohibited Activities</h3><p>Affiliates must not engage in fraudulent activity, spam, or misrepresentation of our products or services. The following traffic sources require prior written approval:</p><ul><li>Adult content websites or platforms</li><li>Illegal content or file-sharing sites</li><li>Sites promoting violence, hate speech, or discrimination</li><li>Gambling or betting platforms</li><li>Cryptocurrency or high-risk investment promotions</li><li>Coupon, deal, and discount-code aggregator sites</li></ul><h3>9. Self-Referrals</h3><p>Commission is not payable on your own purchases or on orders placed on your behalf.</p><h3>10. Reversal and Forfeiture</h3><p>Hunterworks may withhold, reverse, or deny commission on any referral that breaches these Terms, including retroactively. Where a breach is repeated or deliberate, Hunterworks may terminate the account and forfeit all unpaid balances.</p><h3>11. Termination</h3><p>Either party may end the relationship at any time. Approved commission earned in compliance with these Terms before termination remains payable.</p><h3>12. Governing Law</h3><p>These Terms are governed by the laws of the State of Mississippi, United States.</p></div>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/hunterworksoutdoors/register",
+  "offer_status": 2,
+  "name": "Hunterworks",
+  "website": "https://www.hunterworks1.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 202883,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "7",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "500",
+      "commission_val": "5",
+      "disabled": false
+    },
+    {
+      "key": 3,
+      "order_val": "1000",
+      "commission_val": "3",
+      "disabled": false
+    }
+  ],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.39,
+  "program_id": 232706,
+  "myshopify_domain": "hunterworksoutdoors.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 239.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "76.19%",
+  "mkp_program_id": 232706,
+  "product_list": []
+}

@@ -1,0 +1,179 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1727789525_6456075_79d898bfecd384f9db1f404b0e5c5c8f.png",
+  "description": "<p><strong>Join Our Affiliate Program &amp; Earn with Bioexcel&rsquo;s Premium Products</strong></p>\r\n<p>Become a part of Bioexcel&rsquo;s exclusive affiliate program and earn generous commissions by promoting top-quality kitchen and outdoor products! Bioexcel is a trusted brand known for its durable, high-performance propane deep fryers, stainless steel work tables, and heavy-duty outdoor cooking equipment.</p>\r\n<p><strong>Why Partner with Bioexcel?</strong></p>\r\n<ul>\r\n<li><strong>High-Quality Products:</strong> Our products are designed with durability, functionality, and ease of use in mind, catering to both professional kitchens and home chefs. With Bioexcel, you promote premium products that your audience will love.</li>\r\n<li><strong>Generous Commissions:</strong> Earn competitive commissions on every sale you drive through your unique affiliate link. The more you promote, the more you earn!</li>\r\n<li><strong>Proven Popularity:</strong> Our best-selling items, like the <strong>Dual Burner Propane Stove</strong> and <strong>Stainless Steel Fryers</strong>, are already favorites among customers. Affiliates benefit from promoting products with proven sales records.</li>\r\n<li><strong>Comprehensive Support:</strong> Bioexcel provides affiliates with marketing materials, tips, and support to help you succeed and boost your earnings.</li>\r\n</ul>\r\n<p><strong>How It Works:</strong></p>\r\n<ol>\r\n<li>Sign up for our affiliate program and get your unique affiliate link.</li>\r\n<li>Promote Bioexcel products on your blog, social media, or website.</li>\r\n<li>Earn commissions for every purchase made through your link.</li>\r\n</ol>\r\n<p>Ready to start earning? <strong>Sign up today</strong> and partner with Bioexcel to promote premium kitchen and outdoor products while maximizing your earnings!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.1,
+  "average_earning_per_sale": "20",
+  "video_url": null,
+  "mkp_listing_id": 32443,
+  "categories": "Garden & Outdoors",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "American Samoa"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bioexcel/register",
+  "offer_status": 2,
+  "name": "Bioexcel",
+  "website": "https://bioexcelusa.com",
+  "hashtags": [
+    "#outdoor",
+    "#cooking",
+    "#fryer",
+    "#KitchenEquipment",
+    "#CommercialKitchen",
+    "#FoodBusiness"
+  ],
+  "shop_id": 169331,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.05,
+  "program_id": 192631,
+  "myshopify_domain": "bioexcel.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "35.29%",
+  "mkp_program_id": 192631,
+  "product_list": []
+}

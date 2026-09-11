@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/9e7539b4e6db137d35da44da69888555.png",
+  "description": "<h3 class=\"image-with-text__heading text-align-left is-small\">AniSwiss: Qualit&auml;t und Gesundheit</h3>\r\n<p>Unsere Hunde sind mehr als unsere Begleiter. Sie sind Freunde und Partner f&uuml;r ein ganzes Hundeleben. Die Hochwertigkeit des Premium-Hundefutters von AniSwiss aus der Schweiz hat einen Grund: Wir haben in den vergangenen Jahren in Gespr&auml;chen mit Haustier-Besitzern, Tier&auml;rzten und auch Z&uuml;chtern die genauen Anforderungen an zeitgem&auml;sses und gesundes, sensitives und vertr&auml;gliches Hundefutter definiert.</p>\r\n<p>Hundefutter von AniSwiss ist naturbelassen und aus regionalen und lebensmitteltauglichen Rohstoffen in Deutschland hergestellt. Gesundes AniSwiss Hundefutter gibt es als Nassfutter, Trockenfutter und auch als L&auml;ckerli. Das besonders umfassende, grosse Sortiment stellt f&uuml;r jeden Hund die passende Ern&auml;hrung bereit. F&uuml;r die ganz allt&auml;gliche gesunde Ern&auml;hrung, aber auch f&uuml;r besonders sensitive Hunde inklusive getreidefreiem Futter. Mit Kr&auml;utern, mit Fr&uuml;chten, mit Gem&uuml;se und in &uuml;ber zwanzig verschiedenen Geschmacksorten.</p>\r\n<p>F&uuml;r jeden Hundeliebhaber lohnt sich die Partnerschaft mit AniSwiss, mach den n&auml;chsten Schritt.&nbsp;</p>",
+  "payout_rate": "72.4%",
+  "payout_period": null,
+  "recommend_score": 3.19,
+  "average_earning_per_sale": "12.5",
+  "video_url": null,
+  "mkp_listing_id": 27606,
+  "categories": "Pet supplies",
+  "currency": "CHF",
+  "symbol_currency": "&#67;&#72;&#70;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": false,
+  "cookie": 720,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Podcast platforms",
+    "Coupons or Deals website",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Austria",
+    "Switzerland",
+    "Germany"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Lorem Ipsum...</span></span></p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ani-swiss/register",
+  "offer_status": 2,
+  "name": "AniSwiss",
+  "website": "https://aniswiss.com/account/login",
+  "hashtags": [
+    "#petfood",
+    "#Hundefutter",
+    "#Gesundheit",
+    "#hund"
+  ],
+  "shop_id": 79601,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.98,
+  "program_id": 95832,
+  "myshopify_domain": "ani-swiss.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 160,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "53.49%",
+  "mkp_program_id": 95832,
+  "product_list": []
+}

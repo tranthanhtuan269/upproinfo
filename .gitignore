@@ -1,0 +1,5 @@
+data/archive/offers_list.jsonl
+__pycache__/
+*.pyc
+.venv/
+venv/

@@ -1,0 +1,187 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/12ef8d58cec19e23c0a6e67744a47288.png",
+  "description": "<div style=\"font-family: Poppins;\"><p data-start=\"84\" data-end=\"280\" id=\"isPasted\"><strong data-start=\"84\" data-end=\"92\">ANOA</strong> stands for a stylish lifestyle, sustainable design, and lovingly curated jewelry. In our online shop <strong data-start=\"194\" data-end=\"214\"><a data-start=\"196\" data-end=\"212\" rel=\"noopener\" target=\"_new\" class=\"decorated-link\" href=\"http://www.anoashop.com\">www.anoashop.com</a></strong>, customers discover high-quality pieces that bring lasting joy.</p><p data-start=\"282\" data-end=\"465\">Our exclusive <strong data-start=\"296\" data-end=\"316\">Advent calendars</strong> are especially popular, delighting customers year after year with creative surprises and elegant details – a true highlight of the holiday season.</p><p data-start=\"467\" data-end=\"615\">As an affiliate partner, you’ll benefit from attractive commissions, an expanding product range, and a brand that embodies both quality and value.</p><p data-start=\"617\" data-end=\"786\">Together, we inspire people to embrace a more conscious lifestyle with meaningful, beautiful things.<br data-start=\"717\" data-end=\"720\">Join our partner network and help us create sustainable success!</p></div>",
+  "payout_rate": "96.19%",
+  "payout_period": "Each month",
+  "recommend_score": 1.66,
+  "average_earning_per_sale": "50",
+  "video_url": null,
+  "mkp_listing_id": 26761,
+  "categories": "Jewelry & Accessories, Fashion, Others",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 1,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Austria",
+    "Belgium",
+    "Germany",
+    "Spain",
+    "Switzerland",
+    "Netherlands",
+    "Italy",
+    "France",
+    "Portugal",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/anoashop/register",
+  "offer_status": 2,
+  "name": "AnoaShop",
+  "website": "https://www.anoashop.com",
+  "hashtags": [
+    "#Adventskalender",
+    "#Schmuckadventskalender",
+    "#LuxusAdventskalender",
+    "#LuxusSchmuckAdventskalender",
+    "#LuxusAdventskalenderfürFrauen",
+    "#LuxusAdventskalenderfürSie"
+  ],
+  "shop_id": 112442,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.3599999999999999,
+  "program_id": 127478,
+  "myshopify_domain": "anoashop.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 70.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "88.68%",
+  "mkp_program_id": 127478,
+  "product_list": []
+}

@@ -1,0 +1,185 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1710254151_7082126_b31d3ea5fac2028f542de775551f47dc.png",
+  "description": "<p>Brand introduction:<br>Welcome to the world of GRANA, where we strive to create exceptional wardrobe essentials that stand the test of time. Our unwavering commitment to premium materials and sustainable practices sets us apart in the industry. With GRANA, you'll discover an exquisite collection that combines comfort, durability, and effortless elegance.</p>\r\n<p>Product description:<br>At GRANA, we meticulously curate a selection of wardrobe essentials that embody simplicity and versatility. From luxuriously soft organic cotton t-shirts to impeccably tailored denim jeans, our products are designed to effortlessly complement your personal style. Each garment is crafted with attention to detail and a focus on lasting quality, ensuring you cherish and enjoy them for years to come.</p>\r\n<p>USP (Unique Selling Point):<br>What sets GRANA apart is our unwavering dedication to using only the finest materials sourced from around the world. We take pride in our sustainable practices, aiming to reduce our environmental impact and contribute to a better future. With GRANA, you can make fashion choices that align with your values, while indulging in timeless pieces that transcend trends.</p>\r\n<p>Payment terms:<br>As a valued affiliate partner, you'll earn competitive commissions on every referred sale. We offer a fair and transparent commission structure, ensuring that your efforts are handsomely rewarded. Rest assured, your commission payments will be processed on a regular basis, providing you with a reliable income stream. Our affiliate program is designed to be user-friendly, with easy tracking and reporting tools to monitor your performance and earnings.</p>\r\n<p>Other information:</p>\r\n<ul>\r\n<li>Dedicated Affiliate Manager: Our experienced affiliate management team is here to support you every step of the way. Count on us for timely assistance, creative assets, and expert marketing guidance to help you optimize your affiliate efforts.</li>\r\n<li>Exclusive Promotions and Offers: Gain access to exclusive promotions and offers designed to supercharge your conversions and drive more sales.</li>\r\n<li>High Conversion Rate: GRANA's exceptional product quality, brand reputation, and customer loyalty contribute to a high conversion rate, maximizing your earning potential.</li>\r\n</ul>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.31,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29376,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "10%-28% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 3,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Singapore",
+    "United Kingdom",
+    "United States",
+    "Hong Kong",
+    "Sweden",
+    "Switzerland"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/granacom/register",
+  "offer_status": 2,
+  "name": "GRANA",
+  "website": "https://grana.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 139267,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "80",
+      "commission_val": "15",
+      "disabled": false
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 157713,
+  "myshopify_domain": "granacom.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 157713,
+  "product_list": []
+}

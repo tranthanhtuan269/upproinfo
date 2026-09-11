@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1740408479_5453667_63a8f7483e6beb44796436a35869c293.png",
+  "description": "<p data-end=\"576\" data-start=\"134\"><em><strong>Heart for Sneakers is built for the ones who live and breathe kicks. </strong></em>We&rsquo;re not just selling sneakers &mdash; we&rsquo;re pushing culture.</p>\r\n<p data-end=\"576\" data-start=\"134\">From the latest heat to everyday grails, every drop on is curated for real sneakerheads.</p>\r\n<p data-end=\"576\" data-start=\"134\"><em><strong>Join the fam, earn 10% on every sale you bring in</strong></em>, and get your hands on exclusive drops, promo codes, and all the tools you need to flex and earn.</p>\r\n<p data-end=\"576\" data-start=\"134\" style=\"text-align: center;\"><strong><em>&nbsp;No fluff &mdash; just real product, real hype, and real rewards</em></strong>.</p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.57,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35461,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1745514991_3001994_056e98157d577e7aca242912b20f3e1c.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Content or Niche website",
+    "Podcast platforms",
+    "Etsy",
+    "Blog",
+    "Quora"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Spain",
+    "Italy",
+    "France",
+    "Canada",
+    "Germany",
+    "Ireland"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/heartforsneakers/register",
+  "offer_status": 2,
+  "name": "HeartForSneakers",
+  "website": "https://heartforsneakers.com",
+  "hashtags": [
+    "#HeartForSneakers",
+    "#FreshFitsOnly",
+    "#SneakerAddict",
+    "#KickGameStrong",
+    "#StreetwearEssentials",
+    "#SneakerCulture",
+    "#UrbanStyle",
+    "#HypeApproved"
+  ],
+  "shop_id": 196942,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.22,
+  "program_id": 224923,
+  "myshopify_domain": "heartforsneakers.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "54.17%",
+  "mkp_program_id": 224923,
+  "product_list": []
+}

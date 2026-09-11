@@ -1,0 +1,156 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1728373863_7043578_e09159e997e2aa362fd4e42e1b18edc2.jpg",
+  "description": "<p><strong>Brand Introduction:</strong> Free the Void is an audacious streetwear brand that embodies bold and expressive designs. Founded with the mission to challenge the norms of fashion, we provide high-quality, ethically made T-shirts crafted entirely in the Netherlands.</p>\r\n<p><strong>Product Description:</strong> Our products are designed for those who dare to stand out. The T-shirts feature unique, eye-catching prints that range from provocative art to minimalist statements, ensuring something for every style rebel.</p>\r\n<p><strong>USP (Unique Selling Point):</strong> Our unique selling point is the blend of bold designs with ethical production practices. Each T-shirt not only makes a statement but also supports sustainable fashion, all made locally to reduce environmental impact.</p>\r\n<p><strong>Payment Terms:</strong> For our affiliate partners, we offer competitive commission rates with a structured payout system. Commissions are paid out monthly, ensuring our affiliates are rewarded regularly for their efforts.</p>\r\n<p><strong>Other Information:</strong> Free the Void is committed to expanding its reach and empowering its community through collaborations. We welcome affiliates who share our vision of bold and responsible fashion to join us in promoting a style that speaks to individuality and sustainability.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.89,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32542,
+  "categories": "Fashion",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1728374531_5820470_e1fa61006df9c74a9a648306aaf9de69.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Facebook",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "Netherlands",
+    "Belgium"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/FreetheVoid/register",
+  "offer_status": 2,
+  "name": "FreetheVoid",
+  "website": "https://freethevoid.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 170241,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.85,
+  "program_id": 193662,
+  "myshopify_domain": "8d7bb1-84.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "20%",
+  "mkp_program_id": 193662,
+  "product_list": []
+}

@@ -1,0 +1,161 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1723319459_1622600_4ac9554a84afb0248de8c9c92c373ec1.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: <span>Paloverde Botanicals is a California Green Certified e-commerce brand dedicated to offering curated plant gifts that bring joy and sustainability to plant lovers everywhere through custom gift boxes filled with live plants and gifts inspired by nature to our own line of garden accessories. Because plant gifts make the best gifts!</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Product description: <span>Our Disco Garden plant stakes are a whimsical addition to any plant collection. These unique stakes feature mirrored disco balls that catch and reflect light, adding a touch of sparkle and personality to your indoor or outdoor garden. Perfect for plant enthusiasts who want to elevate their greenery with a bit of flair.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; USP (Unique Selling Point):&nbsp;<span>Paloverde Botanicals stands out by combining a love of nature with style. Our Disco Garden plant stakes are not only visually stunning but also help us give back. For every order received, we plant a tree, ensuring that each purchase contributes positively to the planet.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Payment terms: <span>You will get a 10% commission on total referral sales when a customer makes a purchase through your affiliate link or uses your coupon code. Paid via Paypal or Venmo.</span></p>",
+  "payout_rate": "84.21%",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.3,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 31570,
+  "categories": "Garden & Outdoors, Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "email_marketing",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/paloverde-botanicals/register",
+  "offer_status": 2,
+  "name": "Paloverde Botanicals",
+  "website": "https://www.paloverdebotanicals.com",
+  "hashtags": [
+    "#plantgifts",
+    "#disco"
+  ],
+  "shop_id": 161790,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1,
+  "program_id": 184078,
+  "myshopify_domain": "paloverde-botanicals.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 77,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "43.18%",
+  "mkp_program_id": 184078,
+  "product_list": []
+}

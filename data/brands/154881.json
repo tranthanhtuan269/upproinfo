@@ -1,0 +1,172 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1719118780_4652226_1d6e4002791b0f3f45aa7897e44e7152.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Brand introduction:<br></span></strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">We transform digital photos into beautifully framed pictures delivered to people's door in a way that's dead simple. If you can text a picture to someone, you can use our service.<br></span><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Product description:<br></strong>It's a photo framing business that makes it dead simple to get photos from your phone onto your wall. Simply text a photo to a phone number (917-905-1015) and get a product link to purchase a framed copy of it that gets delivered to your door for free within a week. Learn more here:&nbsp;<a href=\"https://texttoframe.it\" title=\"Text To Frame It\">https://texttoframe.it</a>.<br></span><br><span style=\"font-size: 12pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>USP (Unique Selling Point):</strong><br></span>There's quite literally no other service like this. Lots of compaies say that but this is truly the case.<br></span><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Payment terms:</strong><br></span><span style=\"font-size: 12pt;\">$10 for every order made via your referral link. Simple as that.<br><br></span><span style=\"font-size: 12pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Other information:</strong>&nbsp;<br></span>Email info@texttoframeit.com for more info!</span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "10",
+  "video_url": "https://www.youtube.com/shorts/bSwgR5oDxYM",
+  "mkp_listing_id": 30758,
+  "categories": "Home & Tools, Art",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1719121939_7072857_eda1debf9ca6025dcaf366564380067a.png",
+  "rule": 1,
+  "commission_type": 0,
+  "commission": "$10.00 per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ttfi/register",
+  "offer_status": 2,
+  "name": "Text To Frame It",
+  "website": "https://texttoframe.it",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 154881,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.87,
+  "program_id": 176109,
+  "myshopify_domain": "3457cd-5.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 176109,
+  "product_list": []
+}

@@ -1,0 +1,143 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1623432772_7173164_1a3c5d8923f5120a3be77b2ba85a090e.png",
+  "description": "Hola! \r\n\r\nSomos Mori, productores de cafés especiales directamente importados del productor y nuestras plantaciones en Brasil.\r\n\r\nLa hacienda Mori es la historia de la familia Mori. Tercera generación de nipo brasileiros cafeticultores que llegaron a Brasil en 1932 para comenzar a trabajar en las plantaciones de café.  En 1976, después de la Gran Helada del 75 que acabó con las plantaciones de café de Paraná, la familia Mori funda su hacienda.\r\n\r\nEn 2016 llega por casualidades de la vida Pedro, uno de los socios fundadores de Coffee Mori Europa. Su amor por el café coincide con el de Evilasio y juntos ganan el concurso de mejor café de Paraná en 2016. Pedro durante ese tiempo se saca el título de Q Grader (digamos sumiller de café) hasta que finalmente se va de Brasil para dirigir otra plantación de café en Myanmar.\r\n\r\nEn 2020, Avi, el otro fundador de Coffe Mori Europa, a través del contacto de Pedro se va a trabajar a la hacienda Mori aprovechando el estado de alarma en el que nos sitúa el Covid 19.\r\nA partir de entonces, los tres deciden traer la marca Mori a Europa y convertirse en la primera fazenda que trabaja directamente con los productores de Brasil para lograr una mayor transparencia en el mercado del café. \r\n\r\nAdemás de trabajar con los cafés de Mori la fazenda colabora con la COCENP (Cooperativa de Café Especiais e Certificados do Norte do Paraná) productores con sello Fair Trade con indicación de grografica para traer los mejores cafés especiales de productor de Paraná a Europa.\r\n\r\nPara más historia sobre la familia Mori ver el siguiente link:\r\nhttps://www.coffeemori.com/pages/fazenda-de-cafes-especiales\r\n\r\nNos encantaría que colaborases con nosotros para expandir la cultura del buen y justo café y crear así consciencia sobre las cadenas de valos.",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.12,
+  "average_earning_per_sale": "2",
+  "video_url": null,
+  "mkp_listing_id": 7136,
+  "categories": "Grocery & Food",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/coffee-mori/register",
+  "offer_status": 2,
+  "name": "Coffee Mori",
+  "website": "https://www.coffeemori.com",
+  "hashtags": [],
+  "shop_id": 40250,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.12,
+  "program_id": 44406,
+  "myshopify_domain": "coffee-mori.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 37.02,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "30.23%",
+  "mkp_program_id": 44406,
+  "product_list": []
+}

@@ -1,0 +1,176 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1751462836_6671677_79451defab4b692e1fb4eca93f9eea8c.PNG",
+  "description": "<div style=\"font-family: Poppins;\"><div><div class=\"relative\" id=\"isPasted\"><div class=\"prose text-pretty dark:prose-invert inline leading-normal break-words min-w-0 [word-break:break-word]\"><p class=\"my-0\"><strong>Brand Introduction:</strong><br>SmokingJackets.com celebrates the timeless elegance and rich heritage of the smoking jacket, a distinguished garment dating back to the 19th century. Originally crafted for gentlemen to enjoy tobacco in style and comfort, our brand revives this classic symbol of sophistication with modern craftsmanship and luxurious fabrics.</p><p class=\"my-0\"><strong>Product Description:</strong><br>Our smoking jackets are meticulously designed using premium materials such as velvet, silk, and brocade, featuring signature elements like shawl collars, quilted lapels, and toggle fastenings. Each jacket offers a perfect blend of comfort and refinement, ideal for leisure occasions or as a statement piece of men’s lounge wear.</p><p class=\"my-0\"><strong>USP (Unique Selling Point):</strong><br>SmokingJackets.com stands apart by offering authentic, historically inspired smoking jackets that combine traditional luxury with contemporary tailoring. Unlike generic lounge wear, our jackets protect your clothing from smoke odors while elevating your personal style with exclusive fabrics and craftsmanship not found elsewhere.</p><p class=\"my-0\"><strong>Payment Terms:</strong><br>We accept major credit cards, PayPal, and secure online payment methods. Full payment is required at purchase, with clear and transparent pricing. International shipping options and currency conversions are available at checkout.</p><p class=\"my-0\"><strong>Other Information:</strong><br>Our jackets are available in a range of sizes and colors, with customization options upon request. We offer dedicated customer support to ensure a seamless shopping experience and provide care instructions to maintain the longevity of your smoking jacket. Embrace the legacy of leisure and luxury with SmokingJackets.com.</p><p class=\"my-0\"><br></p></div></div></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.3,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35965,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/smokingjackets/register",
+  "offer_status": 2,
+  "name": "smokingjackets",
+  "website": "https://smokingjackets.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 66082,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1400000000000001,
+  "program_id": 75122,
+  "myshopify_domain": "smokingjackets.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "82.05%",
+  "mkp_program_id": 75122,
+  "product_list": []
+}

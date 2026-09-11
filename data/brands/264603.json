@@ -1,0 +1,162 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><div><p><strong>About Pawbelly</strong><br>Pawbelly is a pet brand focused on making everyday pet care simple, affordable, and consistent. Each monthly box includes toys, treats, and essential hygiene products like dental and cleaning items so pet owners can stay on top of their dog’s health without overthinking it.</p><p><strong>What makes us different</strong><br>We focus on real essentials, not just random toys. Our goal is to make pet care easier while still being fun for both pets and owners.</p><p><strong>How affiliates can earn</strong><br>Affiliates earn a commission on every order generated through their personal link or discount code. We also provide a free first box so you can try the product yourself.</p><p><strong>How to promote Pawbelly</strong><br>You can share your experience through Instagram, TikTok, or other social platforms. Content can include unboxings, your dog trying the products, or everyday use.</p><p><strong>Other information</strong><br>We are currently launching and working closely with early partners. This is a great opportunity to grow with a new pet brand and be part of the early community.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "We send payouts on the 15th of every month.",
+  "recommend_score": 1.2,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39136,
+  "categories": "Animals & Pet Supplies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "11% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "content_creators_influencers",
+    "social_group_user_generated_content"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/w9bzsk-06/register",
+  "offer_status": 2,
+  "name": "Pawbelly",
+  "website": "https://pawbelly.org",
+  "hashtags": [
+    "#dogmom",
+    "#puppylife",
+    "#dogsofinstagram",
+    "#petcare",
+    "#doglovers"
+  ],
+  "shop_id": 264603,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.05,
+  "program_id": 312405,
+  "myshopify_domain": "w9bzsk-06.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "11.11%",
+  "mkp_program_id": 312405,
+  "product_list": []
+}

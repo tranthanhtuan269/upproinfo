@@ -1,0 +1,176 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1726646632_5339972_163e6c43c45c923c3047b82196cc4d4c.jpg",
+  "description": "<h3>Brand Introduction:</h3>\r\n<p>Andalung Technologies is dedicated to providing innovative and sustainable energy solutions. We specialize in high-quality microinverters, EV charging stations, and balcony solar panels, helping customers reduce their carbon footprint while maximizing energy efficiency.</p>\r\n<h3>Product Description:</h3>\r\n<p>Our product line includes top-performing microinverters, available in various wattages (e.g., 800W, 400W, and 2000W), which are ideal for residential solar systems. Additionally, we offer reliable EV charging stations designed for both home and commercial use, as well as flexible balcony solar panels that cater to urban energy needs.</p>\r\n<h3>USP (Unique Selling Point):</h3>\r\n<p>What sets Andalung Technologies apart is our commitment to quality and customer satisfaction. Our microinverters consistently rank among the top 10 best sellers on Amazon, showcasing their reliability and efficiency. We also provide excellent customer support and a minimum warranty of 12 years, extendable to 25 years.</p>\r\n<h3>Payment Terms:</h3>\r\n<p>We offer flexible payment options to accommodate our partners, with standard terms of net 30 days after the invoice date. We can discuss alternative arrangements based on mutual agreement.</p>\r\n<h3>Other Information:</h3>\r\n<p>We are continually innovating and expanding our product range. Upcoming launches include advanced microinverters and new solar solutions, allowing affiliates to offer a comprehensive lineup of energy products. For more details, please visit our website at <a target=\"_blank\" href=\"http://www.andalung.com\" rel=\"noopener\">www.andalung.com</a>.</p>",
+  "payout_rate": "80%",
+  "payout_period": null,
+  "recommend_score": 1.4,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32382,
+  "categories": "Garden & Outdoors, Automobiles & Motorcycles",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Germany"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/andalung/register",
+  "offer_status": 2,
+  "name": "Andalung",
+  "website": "https://www.andalung.com",
+  "hashtags": [
+    "#Microinverter",
+    "#EVChargingStation",
+    "#BalconySolarPanels",
+    "#SolarPower"
+  ],
+  "shop_id": 167472,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1,
+  "program_id": 190468,
+  "myshopify_domain": "f5797b-1f.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 125.79,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 190468,
+  "product_list": []
+}

@@ -1,0 +1,216 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1715925469_9476160_a1dd94900043ae49aa9d9f97705ccb88.png",
+  "description": "<p>Welcome to BB Lab, Korea's premier skincare nutrition brand! We're thrilled to have you explore the opportunity to join our growing family of affiliates. As a leader in skincare innovation, we offer our partners rewarding experiences and lucrative benefits.</p>\r\n<p><strong>Brand introduction:</strong> BB Lab stands proud as Korea's No. 1 skincare nutrition brand, dedicated to delivering beauty solutions that truly make a difference.</p>\r\n<p><strong>Payment terms:</strong> Enjoy the simplicity of our payment structure. Commissions are processed on a net-30 basis, paid at the end of each month.</p>\r\n<p><strong>Other information:</strong> We have a minimum payout threshold of $50 to ensure efficient and meaningful earnings for all our partners.</p>\r\n<p>For more details or any assistance you might need, feel free to email us at <a target=\"_new\" rel=\"noreferrer\">help@bblab.shop</a> or send us a direct message on Instagram at @bblabglobal.</p>\r\n<p>Join us at BB Lab and be part of a community that celebrates beautiful, healthy skin every day!</p>",
+  "payout_rate": "38.89%",
+  "payout_period": null,
+  "recommend_score": 2.46,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30178,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://influencers.bblab.me/bblabglobal/register",
+  "offer_status": 2,
+  "name": "BB Lab Global",
+  "website": "https://bblab.shop",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 148415,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.81,
+  "program_id": 168527,
+  "myshopify_domain": "nutrione-us.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "698ab52d3e5a3dd185010512",
+      "name": "livestream_page",
+      "program_id": 168527,
+      "shop_id": 148415,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": false,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": null,
+      "created_at": "2026-02-10T04:33:49.493000Z",
+      "updated_at": "2026-02-10T08:30:49.765000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 124.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "65.29%",
+  "mkp_program_id": 168527,
+  "product_list": []
+}

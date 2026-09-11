@@ -1,0 +1,178 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1741288055_9035748_bb816e1ee4bafe1ee7cdabe1a128ebc9.png",
+  "description": "<p data-end=\"476\" data-start=\"47\">&bull; <strong data-end=\"72\" data-start=\"49\">Brand introduction:</strong><br data-end=\"75\" data-start=\"72\">Kegismall introduces a curated selection of premium lifestyle products sourced from around the world, including beauty, health, culinary, and more. Our mission is to enrich and elevate everyday living, empowering individuals to craft a lifestyle that is uniquely their own. We take pride in offering products that reflect the values of those who cherish self-love and the well-being of their families.</p>\r\n<p data-end=\"748\" data-start=\"478\">&bull; <strong data-end=\"504\" data-start=\"480\">Product description:</strong><br data-end=\"507\" data-start=\"504\">Kegismall offers a diverse range of high-quality, premium lifestyle goods that combine functionality with aesthetic appeal. Each product is carefully selected to meet global standards and provide practical solutions with a touch of elegance.</p>\r\n<p data-end=\"785\" data-start=\"750\">&bull; <strong data-end=\"783\" data-start=\"752\">USP (Unique Selling Point):</strong></p>\r\n<ul data-end=\"1030\" data-start=\"786\">\r\n<li data-end=\"837\" data-start=\"786\">\r\n<p data-end=\"837\" data-start=\"788\">Global sourcing of premium lifestyle essentials</p>\r\n</li>\r\n<li data-end=\"890\" data-start=\"838\">\r\n<p data-end=\"890\" data-start=\"840\">Emphasis on wellness, beauty, and gourmet living</p>\r\n</li>\r\n<li data-end=\"959\" data-start=\"891\">\r\n<p data-end=\"959\" data-start=\"893\">Products that reflect modern values of self-care and family care</p>\r\n</li>\r\n<li data-end=\"1030\" data-start=\"960\">\r\n<p data-end=\"1030\" data-start=\"962\">Tailored selections for creating a personalized lifestyle experience</p>\r\n</li>\r\n</ul>\r\n<p data-end=\"1250\" data-start=\"1032\">&bull; <strong data-end=\"1052\" data-start=\"1034\">Payment terms:</strong><br data-end=\"1055\" data-start=\"1052\">Affiliates receive competitive incentives every two weeks, based on mutual agreement. High-performing affiliates are rewarded with elevated commission rates according to their sales achievements.</p>\r\n<p data-end=\"1523\" data-start=\"1252\">&bull; <strong data-end=\"1276\" data-start=\"1254\">Other information:</strong><br data-end=\"1279\" data-start=\"1276\">Kegismall is committed to building long-term partnerships with passionate affiliates. We support our partners with flexible terms, strong marketing assets, and a shared vision for introducing high-quality lifestyle products to a wider audience.</p>",
+  "payout_rate": "42.57%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35202,
+  "categories": "Beauty & Health, Home & Tools",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "5%-10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "United States",
+    "Korea",
+    " Republic of"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "other": "E-transfer"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/kegismall/register",
+  "offer_status": 2,
+  "name": "KEGISmall",
+  "website": "https://www.kegismall.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 193160,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "5",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "200",
+      "commission_val": "10",
+      "disabled": false
+    }
+  ],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.23,
+  "program_id": 219943,
+  "myshopify_domain": "kegismall.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "18.18%",
+  "mkp_program_id": 219943,
+  "product_list": []
+}

@@ -1,0 +1,170 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1762473563_1842766_71e5d2571eec81b21ddddf5055526487.jpg",
+  "description": "<div style=\"font-family: Poppins;\"><p data-start=\"113\" data-end=\"340\" id=\"isPasted\"><strong data-start=\"113\" data-end=\"146\">About our brand and products:</strong><br data-start=\"146\" data-end=\"149\">MiGoals creates purpose-driven stationery and tools that help people get clear, stay focused, and take action. From diaries to goal planners, we empower you to dream big and make it happen.</p><p data-start=\"342\" data-end=\"510\"><strong data-start=\"342\" data-end=\"370\">What makes us different:</strong><br data-start=\"370\" data-end=\"373\">We blend design, motivation, and structure. MiGoals isn’t just stationery—it’s a movement built to help people turn goals into reality.</p><p data-start=\"512\" data-end=\"673\"><strong data-start=\"512\" data-end=\"540\">How affiliates can earn:</strong><br data-start=\"540\" data-end=\"543\">Earn commission on every sale you refer through your unique link. The more people you inspire to take action, the more you earn.</p><p data-start=\"675\" data-end=\"835\"><strong data-start=\"675\" data-end=\"697\">How to promote us:</strong><br data-start=\"697\" data-end=\"700\">Share MiGoals across social media, blogs, YouTube, or newsletters using lifestyle content, reviews, or your own goal-setting journey.</p><p data-start=\"837\" data-end=\"999\"><strong data-start=\"837\" data-end=\"859\">Other information:</strong><br data-start=\"859\" data-end=\"862\">We provide creative assets, exclusive offers, and early access to launches—helping you inspire your audience while growing your income.</p><p data-start=\"1001\" data-end=\"1128\" data-is-last-node=\"\" data-is-only-node=\"\"><br></p></div>",
+  "payout_rate": "93.13%",
+  "payout_period": "Monthly",
+  "recommend_score": 5.74,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36890,
+  "categories": "Office Supplies",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/mi-goals/register",
+  "offer_status": 2,
+  "name": "Mi Goals",
+  "website": "https://migoals.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 233814,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.83,
+  "program_id": 272342,
+  "myshopify_domain": "mi-goals.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 53.61,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "87.63%",
+  "mkp_program_id": 272342,
+  "product_list": []
+}

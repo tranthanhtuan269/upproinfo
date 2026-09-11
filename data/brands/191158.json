@@ -1,0 +1,177 @@
+{
+  "logo": null,
+  "description": "<p>At Made in Heaven, we believe in empowering individuals through fashion. Our mission is to create clothing that not only reflects personal style but also promotes sustainability and ethical practices. We envision a world where fashion is both beautiful and responsible.</p>\r\n<h4><strong>Our core Values</strong></h4>\r\n<ul style=\"list-style-type: none;\">\r\n<li><strong><a target=\"_blank\" title=\"www.google.com/search?q=Sustainability\">Sustainability</a></strong>: Committed to using eco-friendly materials and sustainable practices, we strive to minimize our environmental footprint.</li>\r\n<li><strong>Quality</strong>: Each piece is crafted with care, ensuring durability and timeless appeal. Our attention to detail sets us apart, offering our customers clothing that lasts.</li>\r\n<li><strong>Inclusivity</strong>: We celebrate diversity and inclusivity, providing a wide range of sizes and styles that cater to every body shape and personal preference.</li>\r\n<li><strong>Innovation</strong>: Our designs fuse contemporary trends with classic elements, resulting in unique pieces that stand out in any wardrobe.</li>\r\n</ul>\r\n<h4><strong>Style and Aesthetic</strong></h4>\r\n<ul style=\"list-style-type: none;\">\r\n<li><strong>Chic and Modern</strong>: Our collections feature sleek lines, bold colors, and innovative silhouettes, appealing to the fashion-forward individual.</li>\r\n<li><strong>Versatile</strong>: Each piece is designed to be versatile, easily transitioning from day to night, making it perfect for various occasions.</li>\r\n<li><strong>Timeless Elegance</strong>: While we embrace current trends, our designs maintain a timeless quality, allowing them to remain staples in your wardrobe for years to come.</li>\r\n</ul>\r\n<h4><strong>Customer Experience</strong></h4>\r\n<ul style=\"list-style-type: none;\">\r\n<li><strong>Personalized Service</strong>: We prioritize customer satisfaction, offering personalized styling advice and attentive service to ensure every shopping experience is exceptional.</li>\r\n<li><strong>Community Engagement</strong>: We actively engage with our community, hosting events and workshops that promote sustainable fashion and educate our customers on mindful purchasing.</li>\r\n</ul>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.74,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34101,
+  "categories": "Fashion",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Reddit",
+    "Tiktok",
+    "Twitch",
+    "Twitter",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "France",
+    "Spain",
+    "Italy",
+    "United Arab Emirates",
+    "United Kingdom",
+    "United States",
+    "Canada",
+    "Germany",
+    "Portugal",
+    "Netherlands"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/jwtmhw-0n/register",
+  "offer_status": 2,
+  "name": "naaba.",
+  "website": "https://madeinheavenclothing7.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 191158,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.67,
+  "program_id": 217373,
+  "myshopify_domain": "jwtmhw-0n.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "20%",
+  "mkp_program_id": 217373,
+  "product_list": []
+}

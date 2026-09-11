@@ -1,0 +1,219 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1685588762_8736429_fdf1a9583c2dbcb0d97d71b93ed30490Untitled design(10).png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Welcome to the world of VDrip, where we believe that your hair is an expression of your unique beauty and individuality. Our brand is dedicated to providing exceptional hair care solutions and impeccable locs services, empowering you to embrace your natural hair journey with confidence and style. Whether you're seeking to nourish your locks with our premium hair oil or looking for top-notch locs services, VDrip is here to transform your haircare experience. &nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Product description:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">VDrip contains the best ingredients for hair such as&nbsp;</p>\r\n<p>Apricot kernel,&nbsp;Sunflower oil,&nbsp;Mornings oil,&nbsp;Aryan oil,Black seed oil,&nbsp;Avocado oil,&nbsp;Lavender ,Peppermint&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; USP (Unique Selling Point):&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Exquisite Blend of Botanical Extracts, Premium Essential Oils, Deep Hair Penetration and Absorption, Versatile Application for all hair types, Unmatched Results.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Payment terms: 50% commission<br><br></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.43,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 24158,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "50% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "<p>All Payouts for fufilled orders will pay out on the 30th day of every month.&nbsp;</p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/vdripla/register",
+  "offer_status": 2,
+  "name": "VDripLA",
+  "website": "https://vdripla.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 102259,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.07,
+  "program_id": 116186,
+  "myshopify_domain": "vdripla.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24da25d235d1f70010310",
+      "name": "Auto-discount rule",
+      "program_id": 116186,
+      "shop_id": 102259,
+      "affiliates": [],
+      "discount_type": 2,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": "10new",
+      "active_at": "2025-09-23 07:34:58",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "88.68%",
+  "mkp_program_id": 116186,
+  "product_list": []
+}

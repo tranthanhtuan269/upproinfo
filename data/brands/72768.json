@@ -1,0 +1,143 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/165d5b1b7cb6b36565a674e3c005a438.png",
+  "description": "<h2>Act your age, whatever you feel that is</h2>\r\n<p>Formulated in conjunction with a nutritional scientist for people 55+ our pro-aging multi nutrient health powder is packed with clean lean plant based protein, key vitamins and heart friendly vegan Omega-3 DHA, turmeric extract and is a good source of fibre</p>\r\n<p><strong>Easily Absorbed and Gut Friendly</strong></p>\r\n<p>Efficient and natural absorption into the body plus it&rsquo;s great for gut health with fibre, prebiotics and turmeric extract.</p>\r\n<p><strong>Plant Based for Optimal Health and Longevity</strong></p>\r\n<p>Plant based protein and algal Omega-3 DHA for heart health derives nutrients direct from the source with longevity benefits.</p>\r\n<p><strong>Convenient and Flexible to your needs</strong></p>\r\n<p>Created to suit your lifestyle this nutrient rich blend can be taken 2-3 times per week, or just when you feel you need a top-up. Simply mixed with water or added to your drink or food</p>\r\n<p><strong>Easy to mix, delicious to drink</strong></p>\r\n<p>BOLD was developed to be easy to mix, so no need for a shaker or blender and has a natural vanilla flavour, so it tastes delicious</p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"text-decoration: underline;\"><strong>BOLD Benefits</strong></span></p>\r\n<p><strong>DHA supports Heart Health</strong></p>\r\n<p>BOLD includes and innovative and nutritious plant based Omega-3 DHA for heart health</p>\r\n<p><strong>Helps develop and Maintain Muscle</strong></p>\r\n<p>Protein is essential for building and repairing muscle tissue. Research has shown that protein intake is positively associated with muscle mass preservation in older adults.</p>\r\n<p><strong>Good source of Vitamins</strong><strong><br></strong>25% of your recommended daily intake of calcium, magnesium, Vitamin B12, Vitamin D and folate.</p>\r\n<p><strong>Protein for Tissue Repair</strong><strong><br></strong>The amino acids in protein will help rebuild any torn tissue and in the process, rebuild the muscle fibres back even stronger and bigger</p>\r\n<p><strong>Gut Friendly</strong><strong><br></strong>Includes fibre, prebiotics and turmeric extract to assist with gut health and inflammation</p>",
+  "payout_rate": "85%",
+  "payout_period": null,
+  "recommend_score": 2.18,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 17477,
+  "categories": "Beauty & Health, Grocery & Food",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/boldwellness/register",
+  "offer_status": 2,
+  "name": "BOLD",
+  "website": "https://www.boldhealth.com.au/products/bold-health-protein-plus-single",
+  "hashtags": [],
+  "shop_id": 72768,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.69,
+  "program_id": 83187,
+  "myshopify_domain": "boldwellness.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 67.22,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "18.57%",
+  "mkp_program_id": 83187,
+  "product_list": []
+}

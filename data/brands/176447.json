@@ -1,0 +1,176 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1738022517_7534231_b601524390e421b9d9929191a0da3ee2.jpg",
+  "description": "<p class=\"p1\"><strong>Description</strong></p>\r\n<p class=\"p2\"><span class=\"Apple-tab-span\"> </span>1.<span class=\"Apple-tab-span\"> </span>Our store specializes in <strong>Trump-themed souvenirs and memorabilia</strong>!</p>\r\n<p class=\"p2\"><span class=\"Apple-tab-span\"> </span>2.<span class=\"Apple-tab-span\"> </span>We sell a wide range of products, including <strong>collectible coins, souvenir boxes, necklaces, and much more</strong>!</p>\r\n<p class=\"p2\"><span class=\"Apple-tab-span\"> </span>3.<span class=\"Apple-tab-span\"> </span><strong>What sets us apart?</strong> We offer <strong>high commissions</strong>, <strong>fast payouts</strong>, and <strong>unique, easy-to-sell products</strong> that resonate with Trump supporters and patriots.</p>\r\n<p class=\"p2\"><span class=\"Apple-tab-span\"> </span>4.<span class=\"Apple-tab-span\"> </span>All sales are paid via <strong>Wire,Ach,Crypto</strong>, ensuring a secure and hassle-free process.</p>\r\n<p class=\"p2\"><span class=\"Apple-tab-span\"> </span>5.<span class=\"Apple-tab-span\"> </span>Join us and tap into this exciting market&mdash;we&rsquo;re thrilled to partner with you!</p>\r\n<p class=\"p1\">#TrumpMemorabilia #PatrioticGifts #MAGA #TrumpSupporters</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 3.13,
+  "average_earning_per_sale": "299",
+  "video_url": null,
+  "mkp_listing_id": 34215,
+  "categories": "Others, Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1738022973_6776920_633756a1ecef7b2d71c9b839ea1f1c79.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "60% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada",
+    "Australia"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://aff.themagaoffers.com/affmaga/register",
+  "offer_status": 2,
+  "name": "The Maga Offers ",
+  "website": "https://themagaoffers.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 176447,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.65,
+  "program_id": 200989,
+  "myshopify_domain": "pnffc6-uf.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Enterprise",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 506.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "28.02%",
+  "mkp_program_id": 200989,
+  "product_list": []
+}

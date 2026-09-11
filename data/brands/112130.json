@@ -1,0 +1,191 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/8d0d3482ed9b9cb74c9557222b0fdf10.jpg",
+  "description": "<h2>Activewear for Women</h2>\r\n<div>\r\n<p>Comfortable, Sustainable, activewear. Proudly Australian made, designed and owned. Made for Women... By women!</p>\r\n<h3>Ethical Clothing Australia Certified</h3>\r\n<div>\r\n<p>We are incredibly proud to be ethical clothing certified, a rigorous certification process of strict guidelines.</p>\r\n<h3>Australian Made &amp; Own Certified</h3>\r\n<div>\r\n<p>We are proud to be certified as 100% Australian made with Australian sustainable grown Bamboo.</p>\r\n<h3>100% Sustainably Sourced materials</h3>\r\n<div>\r\n<p>Using exclusively sustainably sourced materials from Australia, we prioritize environmental friendliness and ethical responsibility at every stage of production.</p>\r\n<h3>About us</h3>\r\n</div>\r\n</div>\r\n</div>\r\n<p>We are dedicated to creating comfortable women's activewear for those who are focused on consciously shaping their lives. We believe that focus is the key to creating our reality and that we possess the power to bring about the change we desire. 'Where your focus goes... Energy flows.</p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.07,
+  "average_earning_per_sale": "23",
+  "video_url": null,
+  "mkp_listing_id": 26397,
+  "categories": "Fashion, Beauty & Health, Home & Tools",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/empowered-clothing-2370/register",
+  "offer_status": 2,
+  "name": "Empowered Clothing",
+  "website": "https://empoweredclothing.com.au",
+  "hashtags": [
+    "#Activewear",
+    "#womensactivewear",
+    "#aromatherapycandles",
+    "#madeinaustraliaclothing",
+    "#SustainableStyle",
+    " #madeinaustralia",
+    "#EthicalActivewear",
+    "#SustainableFashion",
+    "#EthicalFashion",
+    "#SustainableActivewear",
+    " #activewearforwomen"
+  ],
+  "shop_id": 112130,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.82,
+  "program_id": 127132,
+  "myshopify_domain": "empowered-clothing-2370.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 39.03,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "32.56%",
+  "mkp_program_id": 127132,
+  "product_list": []
+}

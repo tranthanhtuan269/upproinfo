@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/63b81af681051759c19035ebab1d26c3.jpg",
+  "description": "<h3>Brand Introduction:</h3>\r\n<p>Welcome to Haiku Pop, your one-stop destination for all things Anime, Counter Style, TCG Trading Card Games, and Pop Culture! We're a Southern California-based eCommerce company and Brick and Mortar with a passion for curating high-quality, exclusive merchandise that resonates with fans and collectors alike.</p>\r\n<h3>Product Description:</h3>\r\n<p>From limited-edition anime action figures, hobby TCG Games, to unique collectibles, Haiku Pop offers a wide range of products that cater to enthusiasts of all ages. Our collection of Collectibles include renowned brands and licenses, ensuring authenticity and quality in every purchase.</p>\r\n<h3>USP (Unique Selling Point):</h3>\r\n<p>What sets Haiku Pop apart is our commitment to community and culture. We don't just sell products; we offer an experience. Our merchandise is carefully curated, and we host regular events and tournaments, making us a hub for fans and collectors. Plus, we're a Military-owned, minority-owned business with over 20 years of combined experience in eCommerce and retail management.</p>\r\n<h3>Payment Terms:</h3>\r\n<p>Our affiliate partners enjoy a competitive commission structure with timely payouts. Earn a commission on every successful referral, with bonuses for top performers. Payments are processed securely and promptly at the end of each payment cycle.</p>\r\n<h3>Other Information:</h3>\r\n<p>By joining the Haiku Pop Affiliate Program, you're not just becoming a part of a business; you're joining a vibrant, passionate community. We provide a range of promotional materials and a dedicated support team to help you succeed. Let's grow together and make fandom dreams come true!</p>",
+  "payout_rate": "14.29%",
+  "payout_period": null,
+  "recommend_score": 1.79,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 27083,
+  "categories": "Fashion, Jewelry & Accessories, Toys & Hobbies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/haikupop/register",
+  "offer_status": 2,
+  "name": "Haiku Pop",
+  "website": "https://haikupop.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 109047,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.41,
+  "program_id": 123839,
+  "myshopify_domain": "haikupop.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 113.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "20.93%",
+  "mkp_program_id": 123839,
+  "product_list": []
+}

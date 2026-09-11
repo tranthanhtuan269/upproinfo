@@ -1,0 +1,164 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/76a21f735e841f38bd2fded8dc28795d.jpg",
+  "description": "<p>The Mini Branch is a children's retail store focusing on products such as durable clothing, educational toys, and sustainable furniture. Our mission is to make parenting easier by offering remarkable customer service, including policies such as: Guaranteed Buy-Back Clothing and no-time limit returns.<br><br>Ottawa-based husband and wife team Scott and Danielle have learned firsthand that buying better quality &amp; more durable products meant buying less and being more selective with the items they bring into their home.</p>\r\n<p>They value supporting local vendors, community outreach, and promoting sustainable made-goods.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.88,
+  "average_earning_per_sale": "100",
+  "video_url": null,
+  "mkp_listing_id": 22997,
+  "categories": "Fashion, Mom & Kids, Toys & Hobbies",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1682298696_6607393_3c823170e8f4797805f99955dc52e68b.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/the-mini-branch-00ff/register",
+  "offer_status": 2,
+  "name": "The Mini Branch",
+  "website": "https://theminibranch.com",
+  "hashtags": [
+    "#kidsclothing",
+    "#sustainablefashion",
+    "#kidsboutique",
+    "#sustainableliving",
+    "#kidsfashion",
+    "#ecokids",
+    "#ecoparenting",
+    "#shoplocal",
+    "#kidstoys",
+    "#smallbusiness",
+    "#childrensboutique"
+  ],
+  "shop_id": 96898,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.8,
+  "program_id": 110446,
+  "myshopify_domain": "the-mini-branch-00ff.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "2.38%",
+  "mkp_program_id": 110446,
+  "product_list": []
+}

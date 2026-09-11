@@ -1,0 +1,181 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742174927_6534557_ba1f87259b81d0d088b1015401f41b75.png",
+  "description": "<h3 data-end=\"109\" data-start=\"80\"><strong data-end=\"107\" data-start=\"84\">Brand Introduction:</strong></h3>\r\n<p data-end=\"396\" data-start=\"110\">Hikma Store is a trusted online retailer dedicated to providing high-quality products that cater to a diverse range of customer needs. With a commitment to excellence, affordability, and customer satisfaction, we strive to bring the best brands and innovative solutions to the market.</p>\r\n<h3 data-end=\"428\" data-start=\"398\"><strong data-end=\"426\" data-start=\"402\">Product Description:</strong></h3>\r\n<p data-end=\"694\" data-start=\"429\">Our product range includes carefully selected items, from household essentials to lifestyle products, ensuring quality and value. Each product is chosen to meet high standards of performance and durability, offering customers reliable solutions for everyday life.</p>\r\n<h3 data-end=\"733\" data-start=\"696\"><strong data-end=\"731\" data-start=\"700\">USP (Unique Selling Point):</strong></h3>\r\n<ul data-end=\"925\" data-start=\"734\">\r\n<li data-end=\"781\" data-start=\"734\">High-quality products at competitive prices</li>\r\n<li data-end=\"832\" data-start=\"782\">A curated selection tailored to customer needs</li>\r\n<li data-end=\"885\" data-start=\"833\">Secure and convenient online shopping experience</li>\r\n<li data-end=\"925\" data-start=\"886\">Fast and reliable delivery services</li>\r\n</ul>\r\n<h3 data-end=\"951\" data-start=\"927\"><strong data-end=\"949\" data-start=\"931\">Payment Terms:</strong></h3>\r\n<p data-end=\"1147\" data-start=\"952\">We offer flexible and secure payment options, including credit/debit card payments, Klarna, and bank transfers. Payment must be completed before order processing unless otherwise agreed.</p>\r\n<h3 data-end=\"1177\" data-start=\"1149\"><strong data-end=\"1175\" data-start=\"1153\">Other Information:</strong></h3>\r\n<p data-end=\"1398\" data-start=\"1178\">Hikma Store prioritizes customer satisfaction with dedicated support, easy returns, and a seamless shopping experience. We continuously expand our product range to provide the best possible selection for our customers.</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "150",
+  "video_url": null,
+  "mkp_listing_id": 34965,
+  "categories": "Books, Home & Tools",
+  "currency": "SEK",
+  "symbol_currency": "&#107;&#114;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Sweden",
+    "United Kingdom",
+    "Norway",
+    "Denmark",
+    "Finland",
+    "Germany"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/6ff14a-2/register",
+  "offer_status": 2,
+  "name": "Hikma Store",
+  "website": "https://hikmastore.se",
+  "hashtags": [
+    "#islam",
+    "#quran",
+    "#allah",
+    "#knowledge",
+    "#read",
+    "#power"
+  ],
+  "shop_id": 200317,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 229389,
+  "myshopify_domain": "6ff14a-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 229389,
+  "product_list": []
+}

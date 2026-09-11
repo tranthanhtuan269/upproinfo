@@ -1,0 +1,178 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1726770938_1337388_b6de1cd13dea1d3187162ad3dd2499af.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p data-start=\"62\" data-end=\"253\" id=\"isPasted\"><strong data-start=\"62\" data-end=\"94\">About Our Brand and Products</strong><br data-start=\"94\" data-end=\"97\">BloomMD is a telehealth and wellness brand offering prescription weight loss, anti-aging, and gut health treatments — plus premium supplements and skincare.</p><p data-start=\"255\" data-end=\"441\"><strong data-start=\"255\" data-end=\"282\">What Makes Us Different</strong><br data-start=\"282\" data-end=\"285\">Affordable, insurance-free care with fast support and nationwide delivery. We’re LegitScript certified and partner with top brands like CellCore and Thorne.</p><p data-start=\"443\" data-end=\"557\"><strong data-start=\"443\" data-end=\"470\">How Affiliates Can Earn</strong><br data-start=\"470\" data-end=\"473\">Earn 15% commission on every order through your referral link. No caps, no minimums.</p><p data-start=\"559\" data-end=\"719\"><strong data-start=\"559\" data-end=\"580\">How to Promote Us</strong><br data-start=\"580\" data-end=\"583\">Share your link on social media, email, websites, or in person. We provide flyers, product guides, and hands-on setup support if needed.</p><p data-start=\"721\" data-end=\"849\"><strong data-start=\"721\" data-end=\"735\">Other Info</strong><br data-start=\"735\" data-end=\"738\">Great for content creators, wellness professionals, <strong>or current users who want to earn by sharing their journey.</strong></p></div></div>",
+  "payout_rate": "93.9%",
+  "payout_period": "Affiliate payouts are issued at the beginning of each month for the previous month’s completed referrals. For example, commissions earned in March will be paid out during the first week of April.\nNote: Orders must be fully processed and outside the refund",
+  "recommend_score": 5.84,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36136,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/BloomMD/register",
+  "offer_status": 2,
+  "name": "BloomMD",
+  "website": "https://aa3fe1-a6.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 167727,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.56,
+  "program_id": 190750,
+  "myshopify_domain": "aa3fe1-a6.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 123,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "96.23%",
+  "mkp_program_id": 190750,
+  "product_list": []
+}

@@ -1,0 +1,169 @@
+{
+  "logo": null,
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:Mcateyenail<br>&bull; Product description:Cat Eye Nail Gel (UV Dry)<br>&bull; USP (Unique Selling Point):&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong style=\"box-sizing: inherit;\">Long-Lasting &amp; Fresh Finish</strong>: Our long-lasting formula ensures that your nails remain bright and fresh for days, giving you a beautiful, enduring manicure.&bull; Payment terms: Paypal<br><br></p>\r\n<ul style=\"box-sizing: inherit; list-style-position: inside; padding-left: 2rem; color: rgba(46, 42, 57, 0.75); font-family: 'Harmonia Sans', sans-serif; font-size: 16px; white-space: normal;\">\r\n<li style=\"box-sizing: inherit; list-style: inherit; margin-bottom: 0px;\"></li>\r\n</ul>\r\n<p style=\"box-sizing: inherit; color: rgba(46, 42, 57, 0.75); font-family: 'Harmonia Sans', sans-serif; font-size: 16px; white-space: normal;\"><strong style=\"box-sizing: inherit;\">&nbsp; &nbsp; &nbsp;How to Use</strong>:</p>\r\n<ol style=\"box-sizing: inherit; list-style-position: inside; padding-left: 2rem; color: rgba(46, 42, 57, 0.75); font-family: 'Harmonia Sans', sans-serif; font-size: 16px; white-space: normal;\">\r\n<li style=\"box-sizing: inherit; list-style: inherit;\">Start by cleaning your nails and applying a base coat.</li>\r\n<li style=\"box-sizing: inherit; list-style: inherit;\">Apply the Fruit Candy Series cat eye nail gel for a fresh burst of color.</li>\r\n<li style=\"box-sizing: inherit; list-style: inherit;\">Use the magnet to create a soft cat eye effect, bringing the color to life.</li>\r\n<li style=\"box-sizing: inherit; list-style: inherit; margin-bottom: 0px;\">Finish with a top coat to lock in the freshness and shine.</li>\r\n</ol>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.9,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32462,
+  "categories": "Beauty & Health, Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Facebook",
+    "Instagram",
+    "Tiktok",
+    "Twitch",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Singapore",
+    "Poland",
+    "New Zealand",
+    "Mexico",
+    "Germany",
+    "French Guiana",
+    "Canada",
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/mcateyenail/register",
+  "offer_status": 2,
+  "name": "M CatEye Nail",
+  "website": "https://mcateyenail.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 169567,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.3,
+  "program_id": 192927,
+  "myshopify_domain": "cc73db-6b.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 48.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "68.97%",
+  "mkp_program_id": 192927,
+  "product_list": []
+}

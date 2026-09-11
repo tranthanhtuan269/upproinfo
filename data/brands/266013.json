@@ -1,0 +1,173 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><div><p style=\"text-align:left;font-size:14px;font-weight:normal;\">• <strong style=\"font-weight:600;\"><span>About our brand and products:</span></strong><span> Everyday Finds is a multi-category online store offering electronics, clothing, skincare, and body care products. We curate quality everyday essentials with a tech-forward, bold aesthetic — making it easy for customers to find what they need across categories.</span></p><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><br>• What makes us different: <span style=\"color:rgb(48,48,48);font-family:Inter, '-apple-system', BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;font-size:13px;font-style:normal;letter-spacing:normal;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;float:none;\">We bring together a diverse range of everyday products under one roof, with a focus on quality, easy navigation, and a seamless shopping experience. Our brand is modern, bold, and built for discovery.</span></p><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><br>• How affiliates can earn:</p><p class=\"_p_3ycjt_109\" style=\"margin:0px;font-size:13px;line-height:20px;letter-spacing:normal;padding:6px 0px;color:rgb(48,48,48);font-family:Inter, '-apple-system', BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;font-style:normal;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;\"><span>Affiliates earn a commission on every sale made through their unique referral link. Share our products with your audience and get rewarded every time someone makes a purchase using your link or code.</span></p><p class=\"_p_3ycjt_109\" style=\"margin:0px;font-size:13px;line-height:20px;letter-spacing:normal;padding:6px 0px;color:rgb(48,48,48);font-family:Inter, '-apple-system', BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;font-style:normal;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;\"><strong style=\"font-weight:600;\"><span>How to promote us:</span></strong></p><ul class=\"_ul_3ycjt_146\" style=\"font-size:13px;line-height:28px;letter-spacing:normal;padding:4px 0px;margin:0px;color:rgb(48,48,48);font-family:Inter, '-apple-system', BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;font-style:normal;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;\"><li style=\"line-height:20px;\"><span>Share product links on social media (Instagram, TikTok, YouTube, etc.)</span></li><li style=\"line-height:20px;margin-top:4px;\"><span>Write reviews or create unboxing/demo content</span></li><li style=\"line-height:20px;margin-top:4px;\"><span>Feature us in newsletters or blog posts</span></li><li style=\"line-height:20px;margin-top:4px;padding-bottom:0px;\"><span>Use your unique discount code to drive conversions</span></li></ul><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><br>• Other information: <span style=\"color:rgb(48,48,48);font-family:Inter, '-apple-system', BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;font-size:13px;font-style:normal;letter-spacing:normal;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;float:none;\"> We're growing fast and love partnering with creators and influencers who align with our brand. Whether you're in tech, fashion, beauty, or lifestyle — there's a place for you in our affiliate program.</span></p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.28,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39253,
+  "categories": "Electronics",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "11% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "display_banner"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bx0jat-yt/register",
+  "offer_status": 2,
+  "name": "Everyday Finds",
+  "website": "https://bgcg-2.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 266013,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1,
+  "program_id": 314128,
+  "myshopify_domain": "bx0jat-yt.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 23.5,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 314128,
+  "product_list": []
+}

@@ -1,0 +1,204 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1705998055_2419629_a53e36140a504f3dbed0093ea96847d8.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Establishment In 2002, KingCamp Has Emerged As A Global Distribution Of Outdoor Gear Across More Than 46 Countries. </span>&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Product description:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Including Camping, Hiking, Travel, And Leisure.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br>&bull; USP (Unique Selling Point):</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>We Integrate Cutting-Edge Technology Into Our Machinery, Manufacturing Processes, And Materials To Ensure That Every Item Meets Our Stringent Quality Standards.&nbsp;</span>&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Payment terms:</p>\r\n<ul>\r\n<li>KingCampoutdoor.com accepts payment through major credit and debit cards, including Visa, MasterCard, American Express, and Discover.</li>\r\n<li>We also support payment via PayPal for a secure and convenient transaction.</li>\r\n</ul>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br>&bull; Other information:</p>\r\n</div>",
+  "payout_rate": "60%",
+  "payout_period": null,
+  "recommend_score": 3.33,
+  "average_earning_per_sale": "0",
+  "video_url": "https://www.youtube.com/watch?v=B3Bbji_q6oE",
+  "mkp_listing_id": 28410,
+  "categories": "Garden & Outdoors, Sports & Entertainment, Automobiles & Motorcycles",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Germany",
+    "United States",
+    "Japan"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/kingcampofficial/register",
+  "offer_status": 2,
+  "name": "KingCamp Outdoors",
+  "website": "https://www.kingcampoutdoors.com",
+  "hashtags": [
+    "#KINGCAMOUTDOOR",
+    "#CAMPINGTENT",
+    "#FAMILYCAMPING",
+    "#GLAMPINGCAMPING",
+    "#CAMPINGCHAIR",
+    "#CAMPINGTABLE",
+    "#BELLTENT",
+    "#CAMPING",
+    "#OUTDOORGEAR"
+  ],
+  "shop_id": 86640,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.31,
+  "program_id": 99104,
+  "myshopify_domain": "kingcampofficial.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Australia",
+    "Canada",
+    "Denmark",
+    "Germany",
+    "Italy",
+    "Japan",
+    "Norway",
+    "South Korea",
+    "Spain",
+    "Swaziland",
+    "Sweden",
+    "Switzerland",
+    "United Arab Emirates",
+    "United Kingdom",
+    "United States"
+  ],
+  "avg_order_value": 252.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "52.53%",
+  "mkp_program_id": 99104,
+  "product_list": []
+}

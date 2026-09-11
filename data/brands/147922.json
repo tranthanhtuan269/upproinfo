@@ -1,0 +1,185 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1717374119_5636541_382bac39e09965c426c1784db45b590c.jpg",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"font-size: 18pt;\"><strong>Aeronautic</strong></span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>\"Clothing designed for your drone passion, made by those who share it.\"</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><em>Description:</em><br><strong>Dare to dream, dress to fly</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Discover the perfect blend of comfort and style with our range of shirts, hoodies, and sweatshirts designed for all pilots and adventure enthusiasts. Elevate your wardrobe with our high-quality apparel made to withstand any flight condition.<br>&nbsp;<br><strong>Our Story<br></strong><br>Our story begins with a passion for flying and drones. Our team consists mostly of passionate and experienced drone enthusiasts, pilots and photographers. As an emerging brand in Germany, who have come together to develop something unique.<br><br>When developing our products, we focus particularly on high quality, sustainable and environmentally aware production and, above all, fair prices. Furthermore, we want to create the perfect mix of stylish, modern looks combined with a connection to the world of drones and pilots.<br><br><strong>Our Mission</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our goal is to provide not just clothing, but a symbol of identity and belonging for pilots and enthusiasts alike. Through our dedication to quality and community engagement, we aim to inspire and empower people to fearlessly pursue their passions.<br><br>We want to be more than just a brand - we want to be an inspiration for more creativity, adventure and connection in the air.<strong></strong></p>\r\n</div>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 0.94,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30436,
+  "categories": "Fashion",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "5%-7.50% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 60,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Tiktok",
+    "Twitter",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "France",
+    "Germany",
+    "Austria",
+    "Belgium",
+    "Denmark",
+    "Finland",
+    "Greece",
+    "Iceland",
+    "Italy",
+    "Spain"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/aeronautic/register",
+  "offer_status": 2,
+  "name": "Aeronautic Clothing",
+  "website": "https://aeronautic-shop.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 147922,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "5",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "150",
+      "commission_val": "7.5",
+      "disabled": false
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.9,
+  "program_id": 172530,
+  "myshopify_domain": "618955-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "75.76%",
+  "mkp_program_id": 172530,
+  "product_list": []
+}

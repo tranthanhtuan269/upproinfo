@@ -1,0 +1,197 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1779215817_2451734_d87547bc127f67c568fbb43abc11408b.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><ul><li class=\"font-claude-response-body whitespace-normal break-words pl-2\"><strong>10% commission</strong> on every sale — $2.20 per kit at $21.99 MSRP</li><li class=\"font-claude-response-body whitespace-normal break-words pl-2\"><strong>30-day cookie window</strong> — long enough to capture real buying cycles</li><li class=\"font-claude-response-body whitespace-normal break-words pl-2\"><strong>Made in USA, veteran-owned</strong> — patent-pending build plate adhesive</li><li class=\"font-claude-response-body whitespace-normal break-words pl-2\"><strong>Broad audience appeal</strong> — works across PLA, PETG, ABS, ASA, PC, TPU, and Nylon</li><li class=\"font-claude-response-body whitespace-normal break-words pl-2\"><strong>High repurchase rate</strong> — adhesive is a consumable, customers come back</li><li class=\"font-claude-response-body whitespace-normal break-words pl-2\"><strong>Monthly PayPal payouts</strong> — $25 minimum threshold, no chasing</li><li class=\"font-claude-response-body whitespace-normal break-words pl-2\"><strong>Creator Partner tier available</strong> — qualified 3D printing creators earn 20% plus free product</li></ul></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Monthlly Payouts for affiliates with a minimum balance of $25",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": "https://cdn.shopify.com/videos/c/o/v/0d1c93eed57e4fc7bbd00753d29583dc.mp4",
+  "mkp_listing_id": 39605,
+  "categories": "Electronics",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "email_marketing",
+    "display_banner"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/0wu4sv-xw/register",
+  "offer_status": 2,
+  "name": "Black Magic Adhesives",
+  "website": "https://www.blackmagicadhesives.com",
+  "hashtags": [
+    "#3dprinting#3dprinter",
+    "#maker",
+    "#makercommunity",
+    "#makerspace",
+    "#makerlife",
+    "#makers",
+    "#buildplateadhesive",
+    "#3dprintingsupplies",
+    "#madeinusa",
+    "#cosplay",
+    "#robotics",
+    "#tabletopgaming",
+    "#filament",
+    "#fdm",
+    "#bambulab",
+    "#3dprintingcommunity",
+    "#propmaking",
+    "#functionalprints",
+    "#prusa",
+    "#woodworking",
+    "#stem",
+    "#woodworkingcommunity",
+    "#voron",
+    "#hackerspace",
+    "#makermovement",
+    "#jigmaking",
+    "#fablab",
+    "#shopmade",
+    "#desktopfabrication",
+    "#toolmaker",
+    "#woodshoplife"
+  ],
+  "shop_id": 270391,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 319779,
+  "myshopify_domain": "0wu4sv-xw.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 31,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 319779,
+  "product_list": []
+}

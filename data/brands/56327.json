@@ -1,0 +1,150 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1645140291_9301445_9db5f55f5fddd1f1fabe79a631f58deaPrimary Brandmark@2x.png",
+  "description": "Canvia is a segment-defining digital art display powered by patented Artsense technology. You can display art from Canvia art library which has over ten thousand artworks from our partner galleries and artists. or you can upload your images, photographs or NFTs. You can display art in both landscape and portrait modes, zoom/reposition the artworks or see the text description of the artworks on the display. Canvia is first in many technologies and use cases. First in the market to allow display of NFTs directly from the crypto wallet. First to get patents from USPTO on realistic rendering of artworks on the display. First to solve aspect ratio mismatch using zoom/respositioning ...and counting....Canvia is known for cutting edge technology and first company/product to define art/tech use cases...",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.73,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 12225,
+  "categories": "Sports & Entertainment, Home & Tools, Art",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "10%-12% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": [],
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/canviart/register",
+  "offer_status": 2,
+  "name": "Canviart",
+  "website": "https://canvia.art",
+  "hashtags": [],
+  "shop_id": 56327,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    },
+    {
+      "key": 2,
+      "order_val": "250",
+      "commission_val": "11"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.27,
+  "program_id": 63215,
+  "myshopify_domain": "canviart.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 308.1,
+  "new_customer_commission": "8% per order",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "32.79%",
+  "mkp_program_id": 63215,
+  "product_list": []
+}

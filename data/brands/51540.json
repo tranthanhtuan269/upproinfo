@@ -1,0 +1,153 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1668605912_7068208_35e08fa12f5aafa0e42020050a59ea34TCH_Logo_BK_1200.png",
+  "description": "<p>Do you ride regularly and are you considered by your friends and family to be the leading cycling expert? Are you a member of a club, an informal group or simply so passionate about cycling that you talk about it every day? Do you agree with our mission to offer to the greatest number of cyclists the access to the most beautiful machines without breaking the bank? Do you want to participate in the development of the circular economy alongside a young European startup? If you answered \"yes\" to at least one question, then our referral program is perfect for you!</p>\r\n<p>At The Cyclist House, we believe in the joy of cycling together. We also believe in the power of communities to make a difference.</p>\r\n<p>As an avid cyclist, you know how much influence your recommendations can have on those around you. With this in mind, we created our Ambassador program... and we need you!</p>\r\n<p>Our Ambassadors participate in the development of the Certified Pre-Owned bike and the transition to a circular economy: less new bikes, less waste!</p>\r\n<p>By becoming an Ambassador, you will receive a unique recommendation code to share with your community to give them an immediate discount on the purchase of a bike.</p>\r\n<p>With each purchase, we credit your kitty, which you can follow live on your online Ambassador account.</p>\r\n<p>It's that simple and everyone wins!</p>\r\n<p>In Europe, more than 9 out of 10 bicycles are bought new.&nbsp;</p>\r\n<p>Why so few?&nbsp;<br>Bicycles are complex objects, with dozens of technical components, which require serious guarantees on quality and safety.</p>\r\n<p>At The Cyclist House, we are passionate about bicycles: road, urban, gravel or mountain bikes, muscular or electric. Our mission is to offer the largest number of cyclists the opportunity to ride the most beautiful machines available, without breaking the bank and with complete confidence.&nbsp;<br>Like you, we refuse to be satisfied with approximate information, and to take the risk of buying defective, dangerous and unusable equipment.</p>\r\n<p>Our team searches every day for the best used models available. Our mechanics inspect, recondition and upgrade them to give them a second life. Each bike reconditioned by The Cyclist House is delivered within 3 days, ready to ride and guaranteed for 1 year. And if it doesn't fit, we take it back within 30 days, no questions asked.</p>\r\n<p>All our bikes are purchased in Europe, serviced and stored in our warehouse near Strasbourg.&nbsp;</p>\r\n<p>Every bike has a story. Our ambition is to make it as long as possible!&nbsp;</p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 19026,
+  "categories": "Sports & Entertainment",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 0,
+  "commission": "€50.00 per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<p><a href=\"https://www.thecyclisthouse.com/policies/terms-of-service\" target=\"_blank\" rel=\"noopener\">Conditions g&eacute;n&eacute;rales d'utilisation</a></p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/thecyclisthouse/register",
+  "offer_status": 2,
+  "name": "The Cyclist House",
+  "website": "https://www.thecyclisthouse.com",
+  "hashtags": [],
+  "shop_id": 51540,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1400000000000001,
+  "program_id": 57620,
+  "myshopify_domain": "procycles.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 57620,
+  "product_list": []
+}

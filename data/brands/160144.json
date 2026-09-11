@@ -1,0 +1,160 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1722436168_6286085_40a34ea47b155e9a509ef4a4336272d2.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: SimplyGood (www.simplygood.sg) is a new age consumer brand specialising in refillable home cleaning products that eliminates single use plastics and inefficiencies of transporting water. As compared to traditional liquid cleaning solutions which contain over 90% water, SimplyGood offers a more natural, efficient, eco friendly and affordable alternative.<br><br>&bull; Product description: Cleaning refills without single use plastic and water. 1 bottle + Refills for life</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; USP (Unique Selling Point):</p>\r\n<ol>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Natural &amp; Safe Ingredients (Non Toxic)- Pet &amp; Kids safe</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Space saving &amp; Minimalistic - 300x lighter &amp; 200x smaller than traditional liquid cleaning products. No storage &amp; messy cleaning bottles. SimplyGood spray bottles are minimalistic, color coded, good quality and made from recycled plastic.&nbsp;</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">High Cleaning power - TURI Lab certified. Gets rid of stain, grease, mold, water mark, fingerprints, dust, ...</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Eco friendly - No single use plastic waste. Refills the bottle with cleaning tablets after finishing. REuse, Reduce, Refill.</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Affordable - Just $3/ refill. 50% cheaper than traditional natural cleaning product</li>\r\n</ol>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br>&bull; Payment terms:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br>&bull; Other information:</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.51,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 31408,
+  "categories": "Home & Tools",
+  "currency": "SGD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Youtube",
+    "Facebook"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Singapore"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/thesimplygood/register",
+  "offer_status": 2,
+  "name": "SimplyGood",
+  "website": "https://simplygood.sg",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 160144,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.44,
+  "program_id": 182109,
+  "myshopify_domain": "thesimplygood.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 80.56,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "1.85%",
+  "mkp_program_id": 182109,
+  "product_list": []
+}

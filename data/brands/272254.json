@@ -1,0 +1,192 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1780164742_456767_f1704d16b0943d9b13dbb2673f05b650.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p class=\"isSelectedEnd\"><strong>About our brand and products:</strong><br>We are dedicated to providing premium-quality Moringa supplements made from carefully selected ingredients. Our mission is to help people support their daily wellness naturally through high-quality, effective, and affordable health products.</p><p class=\"isSelectedEnd\"><strong>What makes us different:</strong></p><ul><li>Premium-quality Moringa sourced from trusted suppliers</li><li>Manufactured to high quality and safety standards</li><li>Natural wellness support without unnecessary fillers</li><li>Competitive pricing and excellent customer service</li><li>Strong focus on customer satisfaction and repeat purchases</li></ul><p class=\"isSelectedEnd\"><strong>How affiliates can earn:</strong><br>Affiliates earn a commission on every qualified sale generated through their unique referral link. The more sales you generate, the more you earn. We provide reliable tracking, real-time reporting, and timely commission payouts.</p><p class=\"isSelectedEnd\"><strong>How to promote us:</strong></p><ul><li>Share your affiliate link on social media platforms</li><li>Create product reviews and educational content</li><li>Recommend our products through blogs, websites, and email newsletters</li><li>Use videos, short-form content, and testimonials to showcase the benefits of Moringa</li><li>Promote special offers and discounts to your audience</li></ul><p><strong>Other information:</strong><br>We are actively looking for wellness, health, fitness, nutrition, and lifestyle creators who are passionate about helping their audience discover natural wellness solutions. We value long-term partnerships and are committed to supporting our affiliates with promotional materials, exclusive offers, and responsive communication.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "We value our affiliates and creators, which is why we offer weekly commission payouts. Approved commissions are processed every week, allowing our partners to earn consistently and get rewarded quickly for the sales they generate.",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39766,
+  "categories": "Health & Beauty",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "France",
+    "Australia",
+    "Netherlands",
+    "Sweden",
+    "Italy",
+    "Belgium",
+    "Denmark"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/0sucjx-ae/register",
+  "offer_status": 2,
+  "name": "Rivo",
+  "website": "https://rivosupplement.store",
+  "hashtags": [
+    "#moringa",
+    "#supplement",
+    "#health",
+    "#wellness",
+    "#energy",
+    "#nutriton",
+    "#vitamins",
+    "#minerals"
+  ],
+  "shop_id": 272254,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 322251,
+  "myshopify_domain": "0sucjx-ae.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "66.67%",
+  "mkp_program_id": 322251,
+  "product_list": []
+}

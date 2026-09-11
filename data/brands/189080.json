@@ -1,0 +1,169 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1736694349_2864996_84ac3b434c23c93eeee12fe46dbcf198.png",
+  "description": "<p style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Start je eigen affiliate avontuur met Dreamlash! ✨</p>\r\n<p style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Wil jij je eigen bedrijf starten of gewoon een extra inkomen verdienen? Dreamlash biedt je de perfecte kans om dit te doen via ons affiliate programma! 🌟</p>\r\n<p style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Als affiliate partner werk je op basis van commissie door het promoten van onze hoogwaardige wimpers, tools en andere beautyproducten. Het beste van alles? Je bepaalt zelf hoe je het aanpakt! Je kunt Dreamlash producten via je website, social media kanalen of blog promoten en verdient commissie voor elke verkoop die via jouw unieke link wordt gerealiseerd.</p>\r\n<h3 style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Hoe werkt het?</h3>\r\n<ol style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">\r\n<li>\r\n<p>Meld je aan: Het aanmelden voor ons affiliate programma is eenvoudig en snel! Vul je gegevens in en krijg meteen toegang tot je persoonlijke affiliate dashboard.</p>\r\n</li>\r\n<li>\r\n<p>Promoot Dreamlash: Gebruik de marketingmaterialen die we beschikbaar stellen om Dreamlash producten te promoten. Denk aan banners, links, en afbeeldingen die je kunt delen op je website, blog, of social media.</p>\r\n</li>\r\n<li>\r\n<p>Verdien commissie: Voor elke klant die via jouw link een aankoop doet, ontvang jij een aantrekkelijke commissie. Hoe meer je promoot, hoe meer je kunt verdienen!</p>\r\n</li>\r\n</ol>\r\n<h3 style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Waarom kiezen voor Dreamlash?</h3>\r\n<ul style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">\r\n<li>Hoge kwaliteit producten: Dreamlash is een betrouwbare naam in de beauty-industrie met producten die geliefd zijn bij duizenden klanten.</li>\r\n<li>Aantrekkelijke commissies: We bieden een van de beste commissies in de branche, zodat jouw inspanningen goed beloond worden.</li>\r\n<li>Betrouwbare tracking: Ons systeem volgt jouw verkopen nauwkeurig, zodat je altijd weet hoeveel je hebt verdiend.</li>\r\n<li>Marketingmaterialen: Je krijgt toegang tot banners, links en andere hulpmiddelen om je verkoop te bevorderen.</li>\r\n<li>Flexibiliteit: Jij bepaalt zelf hoeveel tijd je erin wilt steken en op welke manier je Dreamlash promoot.</li>\r\n</ul>\r\n<h3 style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Klaar om te beginnen?</h3>\r\n<p style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Meld je vandaag nog aan voor het Dreamlash affiliate programma en begin met het verdienen van commissie! Klik op de knop hieronder om je aan te melden en start jouw affiliate reis met Dreamlash! 🚀</p>",
+  "payout_rate": "75.56%",
+  "payout_period": null,
+  "recommend_score": 1.84,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33981,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Netherlands"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "other": "Overmaken via bank"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bydreamlash/register",
+  "offer_status": 2,
+  "name": "Dreamlash",
+  "website": "https://bydreamlash.nl",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 189080,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "15",
+      "disabled": false
+    }
+  ],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.37,
+  "program_id": 214880,
+  "myshopify_domain": "2wk7ia-hj.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Belgium",
+    "Germany",
+    "Netherlands"
+  ],
+  "avg_order_value": 39.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "64.29%",
+  "mkp_program_id": 214880,
+  "product_list": []
+}

@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1743706457_8886205_2bd4ba92e3c3788587d09c7c70774ae2.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p style=\"text-align:left;font-size:14px;font-weight:normal;\">We are an established brand within the outdoor industry with over 250+ retailers accross the USA mainly focusing on the running and ski/snowboards industry. We designed our products to help prolong the life of your outdoor gear by keeping them cleaner and dryer longer to help improve performance and longevity of your outdoor gear.</p><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><br>We've taken traditionally boring products, and have given them new life for retailers and their audience by creating fun packaging and content that anyone your customers and audience can relate to.</p><p style=\"text-align:left;font-size:14px;font-weight:normal;\">We offer industry leading commissions at 15%, $50 AOV, and discounts for your audience. In addition we give 60 day tracking, and commission for the lifetime of that customer.</p><p style=\"text-align:left;font-size:14px;font-weight:normal;\">Upon being accepted, we give you a full media package + a discount code you can use at our online store for yourself to purchase product. You will be given exclusive access to new product for testing and events throughout the country.</p><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><br></p><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><br></p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "15",
+  "recommend_score": 1.68,
+  "average_earning_per_sale": null,
+  "video_url": "https://www.youtube.com/watch?v=eWGMqgEpeFM",
+  "mkp_listing_id": 39208,
+  "categories": "Sports & Entertainment, Garden & Outdoors, Wellness & Lifestyle",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 60,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/reviveandrevel/register",
+  "offer_status": 2,
+  "name": "ReviveRevel",
+  "website": "https://www.reviverevel.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 203237,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.42,
+  "program_id": 233217,
+  "myshopify_domain": "39ee0a.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 31.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "80%",
+  "mkp_program_id": 233217,
+  "product_list": []
+}

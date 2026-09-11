@@ -1,0 +1,160 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1728309065_2439850_4e25b2aa5852861e21708e82355fc6ef.png",
+  "description": "<h3><strong>Lira Moda Affiliate-Programm</strong></h3>\r\n<p><strong>Brand Introduction:</strong><br>Lira Moda ist eine aufstrebende Modemarke, die stilvolle und moderne Frauenkleidung f&uuml;r modebewusste Kundinnen anbietet. Unsere Kollektionen verbinden Eleganz und Komfort, mit dem Ziel, jede Frau in ihrer besten Version zu zeigen. Wir sind stolz darauf, hochwertige Kleidungsst&uuml;cke zu kreieren, die sowohl im Alltag als auch zu besonderen Anl&auml;ssen getragen werden k&ouml;nnen. Bei Lira Moda dreht sich alles um Selbstbewusstsein, Stil und Qualit&auml;t.</p>\r\n<p><strong>Product Description:</strong><br>Unsere Produktpalette umfasst elegante Kleider, trendige Oberteile, raffinierte R&ouml;cke und vielseitige Accessoires, die den Stil jeder Frau unterstreichen. Jedes St&uuml;ck wird sorgf&auml;ltig designt und aus hochwertigen Materialien gefertigt, um maximalen Komfort und eine perfekte Passform zu garantieren. Unsere Kollektionen sprechen moderne Frauen an, die Wert auf Mode und Einzigartigkeit legen.</p>\r\n<p><strong>USP (Unique Selling Point):</strong><br>Lira Moda hebt sich durch exklusive Designs, hochwertige Materialien und ma&szlig;geschneiderte Passformen ab. Wir bieten zeitlose Mode, die Trends &uuml;berdauert, und arbeiten st&auml;ndig daran, neue Kollektionen zu entwickeln, die unsere Kundinnen begeistern. Unser Fokus liegt auf Qualit&auml;t und einzigartigen Kleidungsst&uuml;cken, die das Selbstvertrauen jeder Frau st&auml;rken.</p>\r\n<p><strong>Payment Terms:</strong><br>Wir bieten unseren Affiliates attraktive Konditionen und sind bereit, Provisionen von bis zu <strong>20%</strong> pro Verkauf zu zahlen. Unsere standardm&auml;&szlig;ige Provision liegt bei 15%, doch bei herausragender Leistung und starkem Engagement sind wir offen f&uuml;r h&ouml;here Provisionss&auml;tze. Zahlungen erfolgen monatlich &uuml;ber PayPal oder eine bevorzugte Zahlungsmethode des Affiliates.</p>\r\n<p><strong>Other Information:</strong><br>Wir bei Lira Moda sch&auml;tzen die Zusammenarbeit mit unseren Affiliates und unterst&uuml;tzen euch mit allen notwendigen Tools und Ressourcen, um eure Verk&auml;ufe zu maximieren. Unser Team steht euch jederzeit zur Verf&uuml;gung, um bei Fragen oder Herausforderungen zu helfen. Lasst uns gemeinsam wachsen und Mode in die Welt tragen!</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32525,
+  "categories": "Fashion",
+  "currency": "CHF",
+  "symbol_currency": "&#67;&#72;&#70;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Tiktok",
+    "Instagram"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "18-24",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Germany",
+    "Switzerland",
+    "Austria"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/liramoda/register",
+  "offer_status": 2,
+  "name": "Lira Moda",
+  "website": "https://liramoda.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 170108,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 193524,
+  "myshopify_domain": "badf04-34.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "25%",
+  "mkp_program_id": 193524,
+  "product_list": []
+}

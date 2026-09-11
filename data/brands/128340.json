@@ -1,0 +1,177 @@
+{
+  "logo": null,
+  "description": "<p>Once upon a time, in a team filled with creativity and a deep love for pets, the MEEXPAWS brand came to life. We are a group of individuals passionate about providing the most comfortable, stylish, and practical products for pets because we understand that pets are not just animals; they are cherished members of our families.</p>\r\n<p>The founders of MEEXPAWS are pet enthusiasts, and we comprehend the needs of our furry friends and what we can do to ensure their happiness and well-being. Thus, we gathered a team of creative and passionate designers, engineers, and pet industry professionals to embark on the journey of creating the MEEXPAWS brand.</p>\r\n<p>Our primary mission was to craft a space where pets could feel safe and joyful, while also allowing pet owners to relish the beautiful moments spent with their companions. We poured our hearts and expertise into developing a range of products, including our pride and joy &ndash; artificial grass for dogs, dog litter box potty, cat litter box furniture, litter box enclosure, stainless steel litter box, dog crate topper, and various accessories.</p>\r\n<p>MEEXPAWS' artificial grass provides a comfortable, safe, and non-toxic outdoor space for dogs to run and play freely within the confines of their homes. Our cat litter box furniture and enclosures offer cats a private space for their needs while adding a touch of chic decor to households.</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.14,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 28261,
+  "categories": "Pet supplies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "1% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 45,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Germany",
+    "United Kingdom",
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/meexpaws/register",
+  "offer_status": 2,
+  "name": "MeexPaws",
+  "website": "https://www.meexpaws.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 128340,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.02,
+  "program_id": 145378,
+  "myshopify_domain": "meexpaws.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Canada",
+    "United States"
+  ],
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "60%",
+  "mkp_program_id": 145378,
+  "product_list": []
+}
