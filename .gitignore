@@ -4,3 +4,6 @@ __pycache__/
 .venv/
 venv/
 web/_ssh.py
+web/_deploy.py
+web/_nginx_upproinfo.conf
+web/oauth.secret.json

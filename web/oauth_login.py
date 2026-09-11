@@ -13,18 +13,34 @@ from urllib.request import Request, urlopen
 
 WEB_DIR = Path(__file__).resolve().parent
 OAUTH_PATH = WEB_DIR / "oauth.json"
+OAUTH_SECRET_PATH = WEB_DIR / "oauth.secret.json"
 PROVIDERS = ("google", "github")
 USERNAME_CLEAN = re.compile(r"[^A-Za-z0-9._-]+")
 
 
-def load_oauth_file() -> dict:
-    if not OAUTH_PATH.exists():
+def _read_oauth_json(path: Path) -> dict:
+    if not path.exists():
         return {}
     try:
-        data = json.loads(OAUTH_PATH.read_text(encoding="utf-8"))
+        data = json.loads(path.read_text(encoding="utf-8"))
     except json.JSONDecodeError:
         return {}
     return data if isinstance(data, dict) else {}
+
+
+def load_oauth_file() -> dict:
+    data = _read_oauth_json(OAUTH_PATH)
+    secret = _read_oauth_json(OAUTH_SECRET_PATH)
+    merged = dict(data)
+    for key in PROVIDERS:
+        item = {}
+        if isinstance(data.get(key), dict):
+            item.update(data[key])
+        if isinstance(secret.get(key), dict):
+            item.update(secret[key])
+        if item:
+            merged[key] = item
+    return merged
 
 
 def provider_config(provider: str) -> dict | None:

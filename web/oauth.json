@@ -1,5 +1,5 @@
 {
-  "_comment": "Điền client_id và client_secret. Redirect Google: http://127.0.0.1:5050/auth/google/callback — GitHub: http://127.0.0.1:5050/auth/github/callback",
+  "_comment": "Điền client_id và client_secret. Redirect Google: https://upproinfo.com/auth/google/callback — local: http://127.0.0.1:5050/auth/google/callback. Có thể dùng web/oauth.secret.json (không commit).",
   "google": {
     "client_id": "",
     "client_secret": ""

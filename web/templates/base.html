@@ -150,7 +150,11 @@
         <span class="text-outline">|</span>
         <span>{{ t.footer_tag }}</span>
       </div>
-      <div class="text-xs text-outline">{{ t.footer_copy }}</div>
+      <div class="flex flex-wrap items-center justify-center gap-x-4 gap-y-2 text-xs">
+        <a class="text-on-surface-variant no-underline hover:text-on-surface" href="{{ url_for('policy') }}">{{ t.privacy_policy }}</a>
+        <a class="text-on-surface-variant no-underline hover:text-on-surface" href="{{ url_for('term_of_service') }}">{{ t.terms_of_service }}</a>
+        <span class="text-outline">{{ t.footer_copy }}</span>
+      </div>
     </div>
   </footer>
   {% endblock %}

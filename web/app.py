@@ -30,6 +30,7 @@ from i18n import LANG_COOKIE, texts_for
 from oauth_login import PROVIDERS, authorize_url, fetch_identity, new_state, provider_config, safe_username
 import billing
 import binance_pay
+import legal
 
 DB_PATH = ROOT / "data" / "uppromote.db"
 BRANDS_DIR = ROOT / "data" / "brands"
@@ -51,6 +52,8 @@ OPEN_ENDPOINTS = {
     "oauth_start",
     "oauth_callback",
     "billing_webhook",
+    "policy",
+    "term_of_service",
 }
 LOGO_FILES = ("logo.png", "logo.jpg", "logo.jpeg", "logo.webp", "logo.gif", "logo.svg")
 USERNAME_RE = re.compile(r"^[A-Za-z0-9._-]{3,32}$")
@@ -267,6 +270,8 @@ def inject_i18n() -> dict:
         "expires_date": access["expires_date"],
         "sub_plan": access["plan"],
         "pay_configured": binance_pay.is_configured(),
+        "oauth_google": bool(provider_config("google")),
+        "oauth_github": bool(provider_config("github")),
     }
 
 
@@ -356,6 +361,20 @@ def logout():
     return redirect(url_for("login"))
 
 
+def oauth_redirect_uri(provider: str) -> str:
+    host = (request.host or "").split(":")[0].lower()
+    if host in ("upproinfo.com", "www.upproinfo.com"):
+        return f"https://{host}/auth/{provider}/callback"
+    return url_for("oauth_callback", provider=provider, _external=True)
+
+
+def oauth_fail_message(texts: dict, err: Exception) -> str:
+    detail = str(err).lower()
+    if "redirect_uri" in detail:
+        return texts["oauth_redirect_mismatch"]
+    return texts["oauth_error"]
+
+
 @app.route("/login/<provider>")
 def oauth_start(provider: str):
     provider = provider.lower()
@@ -369,11 +388,12 @@ def oauth_start(provider: str):
         session["auth_error"] = t["oauth_not_configured"]
         return redirect(url_for(fail_endpoint, next=next_url))
     state = new_state()
+    redirect_uri = oauth_redirect_uri(provider)
     session["oauth_state"] = state
     session["oauth_provider"] = provider
     session["oauth_next"] = next_url
     session["oauth_from"] = fail_endpoint
-    redirect_uri = url_for("oauth_callback", provider=provider, _external=True)
+    session["oauth_redirect_uri"] = redirect_uri
     return redirect(authorize_url(provider, cfg["client_id"], redirect_uri, state))
 
 
@@ -383,6 +403,7 @@ def oauth_callback(provider: str):
     t = texts_for(current_lang())
     fail_endpoint = session.get("oauth_from") or "login"
     next_url = safe_next_url(session.get("oauth_next"))
+    stored_redirect = session.get("oauth_redirect_uri")
     if provider not in PROVIDERS:
         abort(404)
     if request.args.get("error"):
@@ -396,6 +417,7 @@ def oauth_callback(provider: str):
     session.pop("oauth_provider", None)
     session.pop("oauth_next", None)
     session.pop("oauth_from", None)
+    session.pop("oauth_redirect_uri", None)
     if not code or not expected_state or expected_provider != provider:
         session["auth_error"] = t["oauth_error"]
         return redirect(url_for(fail_endpoint, next=next_url))
@@ -410,16 +432,27 @@ def oauth_callback(provider: str):
     if not cfg:
         session["auth_error"] = t["oauth_not_configured"]
         return redirect(url_for(fail_endpoint, next=next_url))
-    redirect_uri = url_for("oauth_callback", provider=provider, _external=True)
+    redirect_uri = stored_redirect or oauth_redirect_uri(provider)
     try:
         identity = fetch_identity(provider, cfg, redirect_uri, code)
         username = login_oauth_identity(provider, identity)
-    except RuntimeError:
-        session["auth_error"] = t["oauth_error"]
+    except RuntimeError as err:
+        app.logger.warning("OAuth %s failed: %s", provider, err)
+        session["auth_error"] = oauth_fail_message(t, err)
         return redirect(url_for(fail_endpoint, next=next_url))
     session["user"] = username
     session.permanent = True
     return redirect(next_url)
+
+
+@app.route("/policy")
+def policy():
+    return render_template("legal.html", page=legal.page("policy", current_lang()))
+
+
+@app.route("/term-of-service")
+def term_of_service():
+    return render_template("legal.html", page=legal.page("terms", current_lang()))
 
 
 @app.route("/lang/<code>")
