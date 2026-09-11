@@ -16,6 +16,7 @@ from pathlib import Path
 from urllib.parse import urlencode, urlparse
 
 from flask import Flask, Response, abort, jsonify, redirect, render_template, request, send_from_directory, session, url_for
+from werkzeug.middleware.proxy_fix import ProxyFix
 
 ROOT = Path(__file__).resolve().parent.parent
 WEB_DIR = Path(__file__).resolve().parent
@@ -34,6 +35,7 @@ DB_PATH = ROOT / "data" / "uppromote.db"
 BRANDS_DIR = ROOT / "data" / "brands"
 
 app = Flask(__name__)
+app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
 app.jinja_env.auto_reload = True
 PAGE_SIZE = 40
