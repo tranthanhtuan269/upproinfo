@@ -1,0 +1,244 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1709230002_5440372_1037b627a47381535a36aea5394160f7.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: Bone Broth Elixirs, 4-21 Day Gut Resets and more<br>&bull; Product description: 4-day Reset includes 6 hemp based mylkshakes, 6 bone broth elixirs, anti-inflammatory food list, health coaching 15 min consult and access to private facebook community&nbsp;<br>&bull; USP (Unique Selling Point): Organic, Alluim free, gluten free, sugar free+ Vegan options and one of the only cleanses that includes food options<br>&bull; Payment terms: affliate commission payouts monthly<br>&bull; Other information: OWL Partners enjoy quarterly collabs to try product range of supplements, skincare, bone broth challenges and more!</p>\r\n</div>",
+  "payout_rate": "69.99%",
+  "payout_period": null,
+  "recommend_score": 5.41,
+  "average_earning_per_sale": "14",
+  "video_url": null,
+  "mkp_listing_id": 28644,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Facebook",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Blog",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "other": "Bank Transfer (Affiliately Info)"
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://affiliates.owlvenice.com/owlvenice/register",
+  "offer_status": 2,
+  "name": "OWL Venice",
+  "website": "https://www.owlvenice.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 65802,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.56,
+  "program_id": 74812,
+  "myshopify_domain": "owlvenice.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "6a0f99244b7294f6570c5c37",
+      "name": "affiliate link",
+      "program_id": 74812,
+      "shop_id": 65802,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": [
+            "7913087172656",
+            "7796554924080",
+            "7796551876656",
+            "7795619070000",
+            "7795619004464",
+            "7795617333296",
+            "7795616940080",
+            "7778922463280",
+            "7773607329840",
+            "7736587255856",
+            "7736140595248",
+            "7693650329648",
+            "7635966656560",
+            "7598840283184",
+            "7588814815280",
+            "7574414852144",
+            "7574413836336",
+            "7574407643184",
+            "7574403874864",
+            "7574403448880",
+            "7574388834352",
+            "7570684969008",
+            "7570680873008",
+            "7570673565744",
+            "7570672681008",
+            "7570671861808",
+            "7553453588528",
+            "7484348497968",
+            "7368044216368",
+            "7362882797616",
+            "7326282842160",
+            "7287892836400",
+            "7287892344880",
+            "7279005040688"
+          ]
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-05-22 17:34:05",
+      "created_at": "2026-05-21T23:45:40.648000Z",
+      "updated_at": "2026-05-22T17:34:05.525000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 129,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "92.33%",
+  "mkp_program_id": 74812,
+  "product_list": []
+}

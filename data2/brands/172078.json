@@ -1,0 +1,168 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1732441123_3280779_66d3845a193d827d042aa3f880079cc7.png",
+  "description": "<p><strong>&bull; Brand introduction:</strong><br>ShinySeeds is an online store specializing in the sale of high-quality cannabis seeds. Our mission is to support both experienced growers and beginners with a wide selection of seeds tailored to various needs. We focus on delivering top-notch products and exceptional customer satisfaction, complemented by informative blog posts and tutorials on cultivation and DIY projects.</p>\r\n<p><strong>&bull; Product description:</strong><br>Our cannabis seeds offer a wide variety of strains to meet diverse preferences and requirements. From potent THC strains to CBD-rich seeds, ShinySeeds provides the perfect options for every type of grower and cultivation environment. All of our products undergo strict quality control to ensure maximum germination rates and healthy plants.</p>\r\n<p><strong>&bull; USP (Unique Selling Point):</strong></p>\r\n<ul>\r\n<li>Premium quality cannabis seeds with maximum germination rates.</li>\r\n<li>A wide range of products from THC to CBD strains.</li>\r\n<li>Comprehensive blog posts on cultivation, DIY projects, and cannabis applications.</li>\r\n<li>Transparent and fast shipping directly to our customers.</li>\r\n</ul>\r\n<p><strong>&bull; Payment terms:</strong><br>We offer flexible payment options including major credit cards, PayPal, and bank transfers. Payments are processed securely to ensure customer trust and satisfaction.</p>\r\n<p><strong>&bull; Other information:</strong><br>Our affiliate program provides partners with competitive commissions and personalized marketing support. We also regularly introduce exclusive offers and discounts for affiliates to share with their audience.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32764,
+  "categories": "Garden & Outdoors",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Germany",
+    "Netherlands"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/shinyseeds/register",
+  "offer_status": 2,
+  "name": "ShinySeeds",
+  "website": "https://shinyseeds.de",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 172078,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "15"
+    }
+  ],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 195780,
+  "myshopify_domain": "04d1ec-d6.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "33.33%",
+  "mkp_program_id": 195780,
+  "product_list": []
+}

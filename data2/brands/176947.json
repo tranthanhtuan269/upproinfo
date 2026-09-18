@@ -1,0 +1,154 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1732464966_3924895_c84b35b0fd1512c2c299837735ef3cb7.PNG",
+  "description": "<h3><strong>Prime State Affiliate Program</strong></h3>\r\n<p>Welcome to the <strong>Prime State Affiliate Program</strong>, where you can earn <strong>15% commission</strong> on every sale you refer!</p>\r\n<p><strong>About Prime State</strong><br>Prime State is a premium supplement brand tailored for <strong>entrepreneurs</strong>, <strong>hustlers</strong>, and those who strive for peak <strong>performance and success</strong>. Our products are designed with science-backed ingredients like <strong>Tongkat Ali</strong>, <strong>Magnesium</strong>, and <strong>Zinc</strong>, offering powerful support for <strong>testosterone</strong>, <strong>energy</strong>, and overall <strong>well-being</strong>.</p>\r\n<p><strong>Why Join Us?</strong></p>\r\n<ul>\r\n<li><strong>Generous Commission</strong>: Earn <strong>15% per sale</strong>&mdash;paid via <strong>PayPal</strong> or <strong>bank transfer</strong>.</li>\r\n<li><strong>High-Quality Products</strong>: Our supplements stand out with clean, potent formulations targeting key needs like <strong>performance</strong>, <strong>focus</strong>, and <strong>hormonal balance</strong>.</li>\r\n<li><strong>Global Reach</strong>: Free shipping within the USA, ensuring customer satisfaction.</li>\r\n</ul>\r\n<p><strong>Your Benefits</strong></p>\r\n<ul>\r\n<li><strong>Unique Selling Point</strong>: Market a brand trusted by modern go-getters, offering life-changing results.</li>\r\n<li><strong>Simple Process</strong>: Get a unique referral link to share across your socials, website, or email campaigns.</li>\r\n<li><strong>Exclusive Support</strong>: Access marketing resources and ongoing guidance to maximize your success.</li>\r\n</ul>\r\n<p>Start earning by sharing <strong>Prime State</strong> with your audience today! 🚀</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "7",
+  "video_url": null,
+  "mkp_listing_id": 33332,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1732464892_2973874_9b67bc13b18d9895dd645c87cc2afcb3.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 200,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/0b3bb9-ec/register",
+  "offer_status": 2,
+  "name": "PRIME STATE",
+  "website": "https://primestatelifestyle.com/products/alpha-energy",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 176947,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1400000000000001,
+  "program_id": 201604,
+  "myshopify_domain": "0b3bb9-ec.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 201604,
+  "product_list": []
+}

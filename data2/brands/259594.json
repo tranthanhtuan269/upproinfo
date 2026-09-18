@@ -1,0 +1,179 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><div><div class=\"flex max-w-full flex-col gap-4 grow\"><div class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden\"><div class=\"markdown prose dark:prose-invert w-full wrap-break-word dark markdown-new-styling\"><p>Join the ASE Golf affiliate program and partner with a fast-growing brand built around performance, value, and accessibility for golfers of all skill levels. Our products—especially our wedges and club sets—are designed to deliver premium feel and performance at a price point that makes them incredibly easy to sell. What sets us apart is simple: we combine clean design, trusted performance, and unbeatable pricing, which naturally attracts a wide range of customers—from beginners to serious players looking for value without sacrificing quality. Our products truly speak for themselves, making conversions easier and more consistent for affiliates. As a partner, you’ll earn a 15% commission on every sale, giving you strong earning potential with a product that already resonates in the market. You can promote ASE Golf through social media, content creation, email lists, or your website—our brand performs well across all channels thanks to its broad appeal and competitive positioning. If you’re looking to promote a product that’s proven, easy to market, and built for scale, we’d love to have you on board.</p></div></div></div></div><div class=\"z-0 flex min-h-[46px] justify-start\"><br></div><div class=\"mt-3 w-full empty:hidden\"><div class=\"text-center\"><div class=\"inline-flex border border-gray-100 dark:border-gray-700 rounded-xl\"><div class=\"bg-token-main-surface-tertiary w-px flex-1 self-stretch\"><br></div></div></div></div></div></div>",
+  "payout_rate": "100%",
+  "payout_period": "1st of every month",
+  "recommend_score": 2.91,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38672,
+  "categories": "Sporting Goods",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/9813c5-e9/register",
+  "offer_status": 2,
+  "name": "Ase Golf",
+  "website": "https://asegolf.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 259594,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.02,
+  "program_id": 304578,
+  "myshopify_domain": "9813c5-e9.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 114.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "28.57%",
+  "mkp_program_id": 304578,
+  "product_list": []
+}

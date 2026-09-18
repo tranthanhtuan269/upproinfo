@@ -1,0 +1,160 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1714493792_4788597_4ef64605fee450b94079d8851ca55f2c.png",
+  "description": "<p>&bull; Brand introduction: Gymfox is a sceince based health and wellness company.&nbsp;Our products combine the best of nature's ingredients with the latest in modern technology to ensure a healthy you. We have developed our nutritional products to support the human body with the nutrients it needs, but does not receive from the modern diet. We aspire to create a movement of health awareness and education for all.</p>\r\n<p>&nbsp;<br>&bull; Product description: MIND is a scientifically designed Neurotrophic that promotes optimal mood and mental health. Our tasteless capsules offer superior bioavailability, while RedNite&reg; helps your body absorb more brain-boosting goodness. Improve your overall well-being and physical health with MIND.</p>\r\n<p><br>&bull; Other information: Join the movement to #BecomeMore</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.04,
+  "average_earning_per_sale": "0",
+  "video_url": "https://gymfox.wistia.com/medias/p5vav3zl4s",
+  "mkp_listing_id": 29250,
+  "categories": "Sports & Entertainment, Beauty & Health",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Facebook"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/gymfox/register",
+  "offer_status": 2,
+  "name": "GYMFOX",
+  "website": "https://www.gymfox.com/collections",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 140117,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.8,
+  "program_id": 158732,
+  "myshopify_domain": "gymfox-ltd.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "80.77%",
+  "mkp_program_id": 158732,
+  "product_list": []
+}

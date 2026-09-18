@@ -1,0 +1,149 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1621132051_3552549_ade84c74abd0d843b3fef13936e14d08.jpg",
+  "description": "<p><span style=\"color: rgb(56, 54, 57); font-family: Roboto, sans-serif; font-size: 17px; background-color: rgb(250, 250, 250);\">Dr Noel’s Mushroom Powder is collaboration between two expert microbiologists, who share a love for organic sustainable mushrooms and who have been growing and studying them for over 50 years.</span></p><p style=\"box-sizing: inherit; margin-bottom: 1rem; padding: 0px; color: rgb(56, 54, 57); font-family: Roboto, sans-serif; font-size: 17px; background-color: rgb(250, 250, 250);\">Our mushroom powders are made from the extracted whole mushroom fruiting body, which contains the vast majority of the beta glucans. Some mushroom supplements are made by simply grinding up mushroom mycelium that has been grown on brown rice. This final product of mycelium on grain contains non-significant quantities of the beneficial compounds. In our process the whole mushroom is dried, screened, granulated, milled and steam sterilised at a minimum of 110 degrees Celsius for forty minutes. The resulting powder is then screened again and packaged.</p><p style=\"box-sizing: inherit; margin-bottom: 1rem; padding: 0px; color: rgb(56, 54, 57); font-family: Roboto, sans-serif; font-size: 17px; background-color: rgb(250, 250, 250);\">Rigorous testing protocols are undertaken at each stage in the preparation of Dr Noel’s Mushroom Powders. We test for:</p><ul style=\"box-sizing: inherit; margin-right: 0px; margin-bottom: 1rem; margin-left: 2rem; padding: 0px; color: rgb(56, 54, 57); font-family: Roboto, sans-serif; font-size: 17px; background-color: rgb(250, 250, 250);\"><li style=\"box-sizing: inherit; margin-bottom: 0.4rem;\">Heavy metals</li><li style=\"box-sizing: inherit; margin-bottom: 0.4rem;\">Pesticide residues</li><li style=\"box-sizing: inherit; margin-bottom: 0.4rem;\">Microbal contamination</li></ul><p style=\"box-sizing: inherit; margin-bottom: 1rem; padding: 0px; color: rgb(56, 54, 57); font-family: Roboto, sans-serif; font-size: 17px; background-color: rgb(250, 250, 250);\">In addition, each batch of mushrooms used to make our mushroom powders must have a guaranteed level of beta-glucans in the final product. Dr Noel’s Mushroom Powders are made from whole fruiting bodies grown organically with standardised processes for growing, harvesting, drying and packaging, producing a consistent product.</p><h3 style=\"box-sizing: inherit; margin: 1rem 0px; padding: 0px; font-size: calc((var(--font--size-h3) / var(--font--size-base)) * 1rem); line-height: 1.7; color: rgb(56, 54, 57); font-family: var(--font--title); font-weight: var(--font--title-weight); letter-spacing: var(--font--title-space); text-transform: var(--font--title-transform); background-color: rgb(250, 250, 250);\"><span style=\"box-sizing: inherit; font-weight: bolder;\">ORGANIC CERTIFICATIONS</span></h3><p>                                                </p><p style=\"box-sizing: inherit; margin-bottom: 1rem; padding: 0px; color: rgb(56, 54, 57); font-family: Roboto, sans-serif; font-size: 17px; background-color: rgb(250, 250, 250);\">All our medicinal mushroom powders are fully certified organic meeting the highest standards around the world to assure you of the quality of our ingredients. Organic is good for you, good for the planet and our mushrooms are 100% grown and made in their native environment from natural waste materials.</p>",
+  "payout_rate": "92.19%",
+  "payout_period": null,
+  "recommend_score": 2.74,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 12065,
+  "categories": "Beauty & Health, Grocery & Food",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1644410366_3056432_fc66da2b48024590e17f6da729ea082e.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/dr-noel-s-mushroom-powder/register",
+  "offer_status": 2,
+  "name": "Dr Noel's Mushroom Powder",
+  "website": "https://drnoelsmushroompowder.com.au",
+  "hashtags": [],
+  "shop_id": 38860,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.21,
+  "program_id": 42764,
+  "myshopify_domain": "dr-noel-s-mushroom-powder.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 124.86,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "82.64%",
+  "mkp_program_id": 42764,
+  "product_list": []
+}

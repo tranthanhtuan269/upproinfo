@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1710159293_2058587_8f5af4434f5b2c8332bc3a0ab40d5bf8.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>Wir sind ein <strong>E-Commerce-Unternehmen aus Österreich</strong>, das hochwertige Produkte im Bereich <strong>Gesundheit und Wohlbefinden</strong> entwickelt und europaweit online vertreibt.</p><p><strong>Warum unser Affiliate-Programm?</strong></p><ul><li><p><strong>Mindestens 30 % Provision</strong> auf jede erfolgreiche Bestellung</p></li><li><p><strong>Monatliche Auszahlungen</strong></p></li><li><p><strong>Kostenlose Produkte</strong> zum Testen und für authentischen Content</p></li><li><p><strong>Persönlicher Support</strong> durch unser Team</p></li><li><p>Zugang zu unserer <strong>kostenlosen Creator School</strong> (Strategien, Best Practices &amp; Content-Tipps)</p></li><li><p><strong>Langfristige Partnerschaften</strong> statt kurzfristiger Kampagnen</p></li></ul><p><strong>Wichtig:</strong> Teilnahme aktuell <strong>nur für Creator und Partner innerhalb der EU</strong> möglich. 🚀</p></div></div>",
+  "payout_rate": "67.59%",
+  "payout_period": "Monthly payment",
+  "recommend_score": 7.31,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38655,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "coupon_discount_codes",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Germany",
+    "Austria",
+    "Spain",
+    "United Kingdom",
+    "Netherlands",
+    "France"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "store_credit": 1,
+    "other": "Rechnung"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/healthroutine/register",
+  "offer_status": 2,
+  "name": "Health Routine",
+  "website": "https://www.healthroutine.de",
+  "hashtags": [
+    "#health",
+    "#gesundheit",
+    "#wellness",
+    "#holistic"
+  ],
+  "shop_id": 138298,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.18,
+  "program_id": 287806,
+  "myshopify_domain": "healthrituals.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 65,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 287806,
+  "product_list": []
+}

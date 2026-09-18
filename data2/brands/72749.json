@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1678126620_4679065_bab559565668f73267d87b8ab35dba41logo-Joplins-black.png",
+  "description": "<p>Joplins is an eco-friendly sunglasses brand based in Lisbon, Portugal. The company was founded in 2016 with a mission to create stylish and sustainable eyewear that not only looks great but also has a positive impact on the environment and society. Joplins uses only natural, FSC-certified reprocessed wood and bio acetate sourced from wood pulp mixed with natural plasticizers to create their frames. The result is a high-resistance frame with a unique finish that stands out from other sunglasses on the market.</p>\r\n<p>Joplins also takes great pride in the quality of their lenses. Each pair of sunglasses features 9 layers of polarized and scratch-resistant lenses, ensuring that customers receive the best possible protection for their eyes. In addition, Joplins offers a 2-year guarantee on all their products. But what sets Joplins apart from other eyewear brands is their commitment to sustainability and social responsibility.</p>\r\n<p>Besides producing eco-friendly shades, for every pair of sunglasses sold, Joplins plants 3 trees while supporting local communities in projects in Africa, and removes 1kg of plastic from the oceans in projects in Indonesia and Brazil, all of this through partnerships with the Plastic Bank, the Eden Reforestation Projects and the Trees For The Future. Customers will also receive a sustainable linen bag, a premium microfiber cloth for the lenses with instructions for better care, and an easy-to-carry elegant and sustainable trifold cork case for when they're on the go.</p>\r\n<p>Come partner with us and let's enjoy sunny days and nature together.</p>\r\n<p>https://www.wearjoplins.com</p>",
+  "payout_rate": "92.86%",
+  "payout_period": null,
+  "recommend_score": 2.64,
+  "average_earning_per_sale": "25",
+  "video_url": null,
+  "mkp_listing_id": 17470,
+  "categories": "Fashion, Others, Jewelry & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1681315416_1354132_17f135e31567a876aa70801440b0e29e.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Reddit",
+    "Quora",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Belgium",
+    "Brazil",
+    "Canada",
+    "Germany",
+    "Spain",
+    "France",
+    "United Kingdom",
+    "Netherlands",
+    "Portugal",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/joplins/register",
+  "offer_status": 2,
+  "name": "JOPLINS® | Premium Sustainable Sunglasses",
+  "website": "https://www.wearjoplins.com",
+  "hashtags": [
+    "#sustainablebrands",
+    " #ecosunglasses",
+    "#ecogifts",
+    "#joplins"
+  ],
+  "shop_id": 72749,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.06,
+  "program_id": 83162,
+  "myshopify_domain": "joplins-sunglasses.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 100.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "90.32%",
+  "mkp_program_id": 83162,
+  "product_list": []
+}

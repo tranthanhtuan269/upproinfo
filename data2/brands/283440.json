@@ -1,0 +1,190 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1786474582_3797372_4b12061311edc294c53e9b411add5103.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p class=\"PDq2pG_selectionAnchorContainer\"><strong>About our brand and products:</strong><br>Blue Spring Living Water is a premium natural spring water company based in Alabama. Our water comes from a protected, naturally replenishing spring and is bottled with minimal processing to preserve its clean, refreshing character. We offer premium bottled spring water for customers, retailers, businesses, hospitality partners, and health-conscious households.</p><p><strong>What makes us different:</strong><br>Blue Spring is naturally sourced and exceptionally pure, with a refreshing taste that reflects its protected underground origin. Our water is treated using only 0.5-micron particulate filtration and ozone. Blue Spring also earned a Bronze Medal at the Fine Water Society’s 2025 international competition, providing independent recognition of its quality and taste.</p><p><strong>How affiliates can earn:</strong><br>Affiliates earn commissions by sharing their unique referral link and generating qualifying purchases through our online store. This provides an opportunity to create recurring income by introducing Blue Spring to health-conscious consumers, families, wellness communities, businesses, and customers searching for a premium alternative to ordinary bottled water.</p><p><strong>How to promote us:</strong><br>Affiliates can promote Blue Spring through social media posts, product reviews, unboxing videos, wellness content, email newsletters, blogs, podcasts, and direct referrals. The most effective promotions share an authentic experience with the water, explain its natural source and minimal treatment, and encourage followers to order using the affiliate’s unique link.</p><p><strong>Other information:</strong><br>We welcome affiliates who value authenticity, premium products, natural living, health and wellness, and responsible brand promotion. Affiliates must avoid making unsupported medical claims or using misleading advertising. We encourage original content that accurately represents Blue Spring Living Water, its source, quality, award recognition, and commitment to delivering exceptional natural spring water.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "1st of each month",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 40526,
+  "categories": "Food, Beverages & Tobacco",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "12% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/fc07d3-1b/register",
+  "offer_status": 2,
+  "name": "Blue Spring Living Water",
+  "website": "https://bluespringlivingwater.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 283440,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": 0,
+      "commission_val": 18
+    },
+    {
+      "key": 2,
+      "order_val": 300,
+      "commission_val": 22
+    }
+  ],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 336379,
+  "myshopify_domain": "fc07d3-1b.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 48.4,
+  "new_customer_commission": "15% per order",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 336379,
+  "product_list": []
+}

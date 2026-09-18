@@ -1,0 +1,186 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1711005649_1084062_1ebf8a8e1156f5ef97bc0301929a433d.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: Natural Skin and Body Care</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Product description: Turmeric &amp; Kojic Exfoliation Pads</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br>&bull; Payment terms: No minimum payout, Supports Bi-weekly payments via bank transfer or check</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Made in Issaquah Washington (Small Business)</span><br><br><span>Made with ingredients that brighten and even out skin while leaving a glow!</span><br><br><span>Best for: Hyperpigmentation, Acne, Dark Spots, Acne Scars, Dark Circles, Melasma, Improves Texture, Evening Skin Tone, Dull Skin, Blemishes, Deep Clean Clogged Pores, Perimenopause Skin</span><br><br><span>(Thick Pads With Finger Pocket) Made from Viscose - NOT Cotton which leaves residue and falls apart</span><br><br><span>Foaming - Pads have lots of foam when washing face to ensure a clean and refreshing feeling</span><br><br><span>Gently Exfoliates and Cleanses Skin - All Skin Types</span></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 2.03,
+  "average_earning_per_sale": "5",
+  "video_url": null,
+  "mkp_listing_id": 31276,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Mexico",
+    "Australia",
+    "United Arab Emirates",
+    "Singapore",
+    "Japan",
+    "New Zealand",
+    "Philippines"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "cheque": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/olahoni-affiliate/register",
+  "offer_status": 2,
+  "name": "Olahoni Co",
+  "website": "https://olahoni.com",
+  "hashtags": [
+    "#Turmericpads",
+    "#skincare",
+    "#natural",
+    "#olahoni"
+  ],
+  "shop_id": 141593,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.44,
+  "program_id": 160513,
+  "myshopify_domain": "0dc5e4-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 34.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "94.59%",
+  "mkp_program_id": 160513,
+  "product_list": []
+}

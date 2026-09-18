@@ -1,0 +1,164 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1702402986_8372881_a57bf5df8824bc8157a144f2d897a942.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: Jewelry Online-Shop<br>&bull; Product description: 18k plated gold jewelry<br>&bull; USP (Unique Selling Point): Unique waterproof jewelry<br>&bull; Payment terms: PayPal&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"font-size: 10pt;\">Join our Affiliate Program and turn your enthusiasm into earnings!</span></p>\r\n<p><span style=\"font-size: 10pt;\"><strong>Why Become an Affiliate?</strong></span></p>\r\n<ul>\r\n<li style=\"font-size: 10pt;\">\r\n<p><span style=\"font-size: 10pt;\"><strong>Earn Generous Commissions:</strong> As a valued affiliate, you'll enjoy competitive commission rates on every sale you generate.</span></p>\r\n</li>\r\n<li style=\"font-size: 10pt;\">\r\n<p><span style=\"font-size: 10pt;\"><strong>Exclusive Promotions:</strong> Access special promotions, discounts, and exclusive offers to share with your audience, making your content even more compelling.</span></p>\r\n</li>\r\n<li style=\"font-size: 10pt;\">\r\n<p><span style=\"font-size: 10pt;\"><strong>Easy Tracking and Reporting:</strong> Our user-friendly affiliate platform provides real-time tracking and detailed reporting, giving you insights into your performance and commissions.</span></p>\r\n</li>\r\n<li style=\"font-size: 10pt;\">\r\n<p><span style=\"font-size: 10pt;\"><strong>Dedicated Support:</strong> Our affiliate team is here to assist you every step of the way. If you have questions or need support, we've got you covered.</span></p>\r\n</li>\r\n</ul>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.15,
+  "average_earning_per_sale": "12.46",
+  "video_url": null,
+  "mkp_listing_id": 27921,
+  "categories": "Jewelry & Accessories",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "18-24",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Germany",
+    "Austria",
+    "Switzerland"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/f3fbbd/register",
+  "offer_status": 2,
+  "name": "Valjew",
+  "website": "https://valjew.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 126864,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.95,
+  "program_id": 143780,
+  "myshopify_domain": "f3fbbd.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "93.75%",
+  "mkp_program_id": 143780,
+  "product_list": []
+}

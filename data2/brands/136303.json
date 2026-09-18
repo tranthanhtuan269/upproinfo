@@ -1,0 +1,163 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742830062_8058758_b681495fa5c76ac2b7cc2dbf578ca2d8.png",
+  "description": "<p><i><strong>IntyEssentials</strong>&nbsp;</i>est une marque d&eacute;di&eacute;e au bien-&ecirc;tre intime. A travers une s&eacute;lection tri&eacute;e sur le volet de produits &agrave; la composition saine et d'accessoires sans danger pour le corps, notre objectif est de permettre &agrave; tous&middot;tes de vivre une intimit&eacute; &eacute;panouie.&nbsp;</p>\r\n<p>Notre mission est d'&eacute;lever les standards en mati&egrave;re de sant&eacute; sexuelle &agrave; travers des essentiels formul&eacute;s avec soin, mais aussi des informations utiles de qualit&eacute;, toujours valid&eacute;es par la science.&nbsp;</p>\r\n<p>Sur <strong><i>IntyEssentials </i></strong>vous trouverez tout ce dont vous avez besoin pour vivre une intimit&eacute; &eacute;panouie sans compromis pour votre sant&eacute;: lubrifiants, gels stimulants ou encore des huiles de massage. Tous les soins propos&eacute;s sur notre site sont reconnus pour leur composition saine et leur efficacit&eacute;. &nbsp;</p>\r\n<p>Notre <i>e-shop</i> &nbsp;est sp&eacute;cialis&eacute; dans le confort intime et propose &eacute;galement des dispositifs tels que des dilatateurs vaginaux pour aider les personnes souffrant de douleurs sexuelles &agrave; reprendre go&ucirc;t au plaisir.</p>",
+  "payout_rate": "40.62%",
+  "payout_period": null,
+  "recommend_score": 2.66,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29164,
+  "categories": "Beauty & Health, Others",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1709717094_6686485_e0b1e3b7b6c0f251363b68495fe4b89e.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "France",
+    "Belgium",
+    "Spain"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/intyessentials-com/register",
+  "offer_status": 2,
+  "name": "IntyEssentials.com",
+  "website": "https://intyessentials.com/",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 136303,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.06,
+  "program_id": 154233,
+  "myshopify_domain": "intyessentials-com.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 35.39,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 154233,
+  "product_list": []
+}

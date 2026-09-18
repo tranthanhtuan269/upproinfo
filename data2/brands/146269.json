@@ -1,0 +1,164 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1745343396_975842_7ad0067a760b63891455313ed524643c.png",
+  "description": "<p><strong>Welcome to the Baroma Family</strong></p>\r\n<p>Are you passionate about wellness and eager to share transformative products with your audience? Join the Baroma Affiliate Program today and turn your passion into profit. Whether you're a wellness blogger, a social media influencer, or just starting out, we offer an opportunity to partner with a brand that values health and natural beauty.</p>\r\n<h4>Why Partner with Us?</h4>\r\n<p><strong>Generous Commissions:</strong> Earn a competitive 10% commission on every sale made through your unique affiliate link. Plus, benefit from our performance bonuses.</p>\r\n<p><strong>Resources at Your Fingertips:</strong> We support our affiliates with extensive marketing materials, personal discounted products for review, and a personal affiliate dashboard for tracking your success.</p>\r\n<p><strong>Be Part of a Community:</strong> Joining our affiliate program means you become part of a movement towards healthier, more sustainable living. Share your journey with a network of like-minded individuals.</p>\r\n<hr>\r\n<h4>How It Works</h4>\r\n<ol>\r\n<li><strong>Sign Up:</strong> Fill out our easy contact us form. We will ask a few questions. Once approved, you&rsquo;ll receive your unique affiliate link and access to our marketing toolkit.</li>\r\n<li><strong>Promote:</strong> Use the tools and insights we provide to share Baroma products with your audience. Customize your approach to fit your style.</li>\r\n<li><strong>Earn:</strong> Receive monthly payouts via PayPal or bank transfer for all qualifying purchases made through your link.</li>\r\n</ol>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.64,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29876,
+  "categories": "Home & Tools, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok",
+    "Youtube",
+    "Twitch"
+  ],
+  "target_audience_ages": [
+    "45-54",
+    "35-44",
+    "25-34",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/6d95b7-2/register",
+  "offer_status": 2,
+  "name": "Olaroma®",
+  "website": "https://baroma.shop",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 146269,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.07,
+  "program_id": 166034,
+  "myshopify_domain": "6d95b7-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 0,
+  "new_customer_commission": "10% per order",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 166034,
+  "product_list": []
+}

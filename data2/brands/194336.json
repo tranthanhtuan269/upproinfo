@@ -1,0 +1,200 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1747845666_5928907_6772b8b502fa7c775e3fcac2a35c030b.png",
+  "description": "<p style=\"box-sizing: border-box; margin: 0px 0px 1.25em; color: rgb(79, 79, 79); font-family: 'PT Serif', serif; font-size: 18px; text-align: center; white-space: normal; background-color: rgb(255, 255, 255); border: 0px solid rgb(229, 231, 235);\">AcroGrip is the world&rsquo;s first and only liquid chalk designed specifically for the unique needs of Circus Artists, Acro-Yogis, and Acrobats. Released in 2018, AcroGrip has revolutionized the way performers approach their craft, providing unmatched grip and reliability.</p>\r\n<p style=\"box-sizing: border-box; margin: 1.25em 0px; color: rgb(79, 79, 79); font-family: 'PT Serif', serif; font-size: 18px; text-align: center; white-space: normal; background-color: rgb(255, 255, 255); border: 0px solid rgb(229, 231, 235);\">Standing Acrobatics, founded in 2016, has become one of the leading resources for learning partner acrobatics and hand to hand techniques. Our commitment to excellence is reflected through our high-quality online tutorials, in-depth acrobatic articles, and engaging in-person events.</p>\r\n<p style=\"box-sizing: border-box; margin: 1.25em 0px 0px; color: rgb(79, 79, 79); font-family: 'PT Serif', serif; font-size: 18px; text-align: center; white-space: normal; background-color: rgb(255, 255, 255); border: 0px solid rgb(229, 231, 235);\">With AcroGrip, they&rsquo;ve taken their dedication to the community a step further, offering a product tailored to enhance performance and safety for acrobats everywhere.</p>",
+  "payout_rate": "50%",
+  "payout_period": null,
+  "recommend_score": 1.84,
+  "average_earning_per_sale": "5",
+  "video_url": null,
+  "mkp_listing_id": 34601,
+  "categories": "Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1740235907_7203059_49182a2c2caeeb50b2aa227388ed726c.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Facebook"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada",
+    "United Kingdom",
+    "Australia",
+    "Germany"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/standing-acrobatics/register",
+  "offer_status": 2,
+  "name": "AcroGrip",
+  "website": "https://acrogrip.com/",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 194336,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.5899999999999999,
+  "program_id": 221496,
+  "myshopify_domain": "standing-acrobatics.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24dac5d235d1f70011414",
+      "name": "Auto-discount rule",
+      "program_id": 221496,
+      "shop_id": 194336,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:35:08",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "86.67%",
+  "mkp_program_id": 221496,
+  "product_list": []
+}

@@ -1,0 +1,147 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/719d09ef8eee2e1866b2476564fbb863.jpg",
+  "description": "<p class=\"MsoNormal\"><span style=\"font-family: helvetica, arial, sans-serif;\">TE WAI products are made in New Zealand. The range is carefully created using five native botanicals Kawakawa, Manuka, Kowhai, Mamaku, and Pohutukawa selected for their hydrating and refreshing properties. A clean, fresh New Zealand skincare range to hydrate, refresh and nourish; restoring skin to a happy hydrated state.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-family: helvetica, arial, sans-serif;\">We started with TE WAI&rsquo;s hero product; the international award winning hydrating, fine-mist facial spray TE WAI ~ &lsquo;The Water&rsquo;. (TE WAI is the most internationally awarded facial spray for 2021 &amp; 2022).</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-family: helvetica, arial, sans-serif;\">This hydration rich, skin nourishing facial mist instantly refreshes whether its pre or post makeup, helping refresh tired-looking skin and provides an additional boost of hydration, restoring skin to happy rehydrated state. Perfect for a midday pick me up.&nbsp;Suitable for all skin types.&nbsp;</span></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.22,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 18298,
+  "categories": "Beauty & Health, Mom & Kids",
+  "currency": "NZD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1667189085_4054849_b1d3881780bb62898e2dbcf4f196dc5e.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/tewai/register",
+  "offer_status": 2,
+  "name": "TE WAI Hydrating Facial Mist Spray ",
+  "website": "https://tewai.co.nz",
+  "hashtags": [],
+  "shop_id": 75743,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.02,
+  "program_id": 86788,
+  "myshopify_domain": "tewai.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "54.76%",
+  "mkp_program_id": 86788,
+  "product_list": []
+}

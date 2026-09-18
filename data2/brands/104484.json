@@ -1,0 +1,167 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1687389864_4678391_2f75051cb447b651188af36c4da85220Viral_Brand_FINAL BLACK.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Welcome to Viral Brand Precision Optics Goggles and Sunglasses. Viral Brand strives to set itself apart from all of the other manufacturers with innovative products, common sense, and patent-pending features that make your fit and comfort second to none.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our new Signature Series + Goggles Feature a Huge Field of View, Quick Change Precision Optics Lens, Patent Pending Magnetic Removable Face Foam, Patent Pending Quick Change Straps along with a Modular design that will allow you to mix and match outriggers, and noseguards to give you a very customizable look to your new Viral Brand Goggle that no there goggle can do.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our Affiliate program gives you the tools to help promote Viral Brand through direct promotion and allows you to earn up to 10% commission paid directly to you or in-store credit depending on your level.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">To apply please fill out our affiliate information sheet.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Viral Brand</p>\r\n</div>",
+  "payout_rate": "66.67%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 24618,
+  "categories": "Sports & Entertainment, Automobiles & Motorcycles",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1687198526_203311_1563449b3f9c1287628525a51aa8b095.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Canada",
+    "Mexico",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/viral-brand/register",
+  "offer_status": 2,
+  "name": "Viral Brand ",
+  "website": "https://www.viral-optics.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 104484,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.2,
+  "program_id": 118661,
+  "myshopify_domain": "viral-brand.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 83.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "72.94%",
+  "mkp_program_id": 118661,
+  "product_list": []
+}

@@ -1,0 +1,149 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/147f0e08ac34930527522d2d275de865.jpeg",
+  "description": "<p style=\"text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: 'Cormorant Garamond', serif; color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);\">FL&Otilde;WY is a sustainable luxury activewear brand for women. FL&Otilde;WY clothes are characterized by romantic and graceful designs, offering style, comfort and high-quality at the same time.</span></p>\r\n<p style=\"text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\r\n<p style=\"text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: 'Cormorant Garamond', serif; color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);\">FL&Otilde;WY produces every item on a sustainable made-to-order model in order to avoid overproduction and waste. All items are shipped with 100% carbon-neutral shipping and packed in sustainable packaging.&nbsp; With each order, customers support reforestation efforts as FL&Otilde;WY will plant a tree on their behalf in one of the <span style=\"font-size: 12pt; font-family: 'Cormorant Garamond', serif; color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);\">FL&Otilde;WY Forest locations in</span>&nbsp;South America, Africa or Asia.</span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.92,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 19504,
+  "categories": "Fashion, Beauty & Health, Sports & Entertainment",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1670969957_6082304_1d0653d229eb77611033d3e9ba1e1ae1.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/flowy/register",
+  "offer_status": 2,
+  "name": "FLÕWY",
+  "website": "https://www.flowywear.com/collections/all",
+  "hashtags": [],
+  "shop_id": 80617,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.77,
+  "program_id": 92396,
+  "myshopify_domain": "flowywear.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "50%",
+  "mkp_program_id": 92396,
+  "product_list": []
+}

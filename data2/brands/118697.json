@@ -1,0 +1,158 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1709646868_1440606_b1367a1c06fe4a50b8d6015f775d6784.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull;Moonskyn is a skincare studio that puts emphasis on embracing your natural beauty. O<span>ur purpose is to help women take care of their skin &amp; their body in the most effective way. We soon realized that a healthy &amp; efficient beauty routine for the modern women needs simplicity &amp; consistency. We wanted to help our clients take the in-salon experience home with a professional beauty routine that drives results and is easy to implement in a day- to -day modern lifestyle, Our natural skincare line&nbsp; for all skin types launched to give women an affordable &amp; simple way to make their skincare a priority.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;Moon Oil is a transformative blend of precious oils that restore a blemish-free, nourished glow to your skin. Blue Tansy, Raspberry Seed, and Pomegranate Seed Oils soothe, repair, and protect the skin, preventing dehydration and adding firmness.</p>\r\n<div class=\"standard__rte font--3 columns--1 aos-init aos-animate\" data-aos=\"hero\" data-aos-order=\"3\">\r\n<p>&nbsp;</p>\r\n<p><strong>WHAT MAKES SO SPECIAL?</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Made of 100% pure, potent botanical oils, the Moon Oil is a lightweight, brightening face oil brimming with essential vitamins, minerals, and antioxidants that nourish the skin from the outside in.</p>\r\n</div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><a href=\"https://moonskyn.com/products/moon-oil\" class=\"standard__cta hero__btn btn btn--large btn--outline caps btn--neutral aos-init aos-animate\" data-aos=\"hero\" data-aos-order=\"4\"></a><br>&bull; Payment terms: Pay through Paypal or bank Transfer&nbsp;<br><br></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.91,
+  "average_earning_per_sale": "10",
+  "video_url": null,
+  "mkp_listing_id": 27185,
+  "categories": "Beauty & Health",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Tiktok",
+    "Youtube",
+    "Instagram",
+    "Pinterest",
+    "Blog",
+    "Content or Niche website"
+  ],
+  "target_audience_ages": [
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/moonskyn/register",
+  "offer_status": 2,
+  "name": "MoonSkyn",
+  "website": "https://moonskyn.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 118697,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 134584,
+  "myshopify_domain": "beautybar-mtl.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "4.55%",
+  "mkp_program_id": 134584,
+  "product_list": []
+}

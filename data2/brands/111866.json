@@ -1,0 +1,170 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/b9aabca2344fc74860ecaabba63d2f5d.jpg",
+  "description": "<p>Welcome to GILL'S Bar-B-QUE!</p>\r\n<p>Once upon a time in the 1950s, there was a tiny roadside diner that began its journey as a snake attraction. Those slithery creatures were such a hit that Mac and Hazel Gilliam realized they needed to treat their curious guests to something yummy.</p>\r\n<p>That's when they got to smokin, adding a touch of magic to pork and whipping up the most scrumptious sauce around!</p>\r\n<p>And now, with the grand return of GILL'S Bar-B-QUE, we've gone on a mission to find the very same natural ingredients Mac used way back when. It's like bringing a piece of history home to your plate.</p>\r\n<p>Unlike those other sauces that try to hide the tasty flavors of meat, Gill's famous Bar-B-Que and Steak Sauce works its delicious charm, making the flavors even more awesome. We put lots of love into each small batch we create, guaranteeing you the best. Plus, here's the super cool part: our sauce doesn't have any of that high fructose corn syrup or extra sugar stuff, so it's the healthiest pick for your meals.&nbsp;</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.94,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 26211,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 10,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Coupons or Deals website",
+    "Content or Niche website"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/gillsbbq/register",
+  "offer_status": 2,
+  "name": "GILL'S BBQ",
+  "website": "https://gillsbbq.com",
+  "hashtags": [
+    "#BBQsauce",
+    " #BBQ",
+    "#DaytonBeachOriginal"
+  ],
+  "shop_id": 111866,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.85,
+  "program_id": 126847,
+  "myshopify_domain": "gillsbbq.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 8.5,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "90%",
+  "mkp_program_id": 126847,
+  "product_list": []
+}

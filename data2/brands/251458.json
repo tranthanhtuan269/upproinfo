@@ -1,0 +1,208 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1769701704_7080569_d7dac27b0e6c8f3d46d772855b51b1bc.png",
+  "description": "<div style=\"font-family:Poppins;\"><p><strong>• À propos de notre marque et de nos produits :</strong><br>bleu.eco est une entreprise québécoise spécialisée dans les produits de sommeil durables et confortables. Nous concevons des matelas, oreillers et lits articulés pensés pour améliorer la qualité de vie au quotidien. Nos produits sont fabriqués avec soin, en mettant l’accent sur la qualité, la durabilité et le bien-être.</p><hr><p><strong>• Ce qui nous distingue :</strong><br>Nous misons sur une approche humaine et transparente. Nos produits offrent un excellent rapport qualité-prix, sans compromis sur le confort. De plus, une grande partie de notre croissance repose sur la recommandation client — preuve de la confiance que les gens nous accordent. bleu.eco, c’est un confort accessible, pensé pour durer.</p><hr><p><strong>• Comment les affiliés peuvent gagner de l’argent :</strong><br>Les affiliés gagnent une commission sur chaque vente générée grâce à leur recommandation.<br>Concrètement :</p><ul><li>Le client recommandé reçoit un rabais immédiat</li><li>L’affilié reçoit un pourcentage du montant de la vente (avant taxes)<br>Les commissions seront versées après un délai de 60 jours suivant la validation de la vente.</li></ul><hr><p><strong>• Comment nous promouvoir :</strong><br>Les affiliés peuvent partager leur lien ou code personnalisé via :</p><ul><li>Réseaux sociaux (Instagram, TikTok, Facebook)</li><li>Bouche-à-oreille</li><li>Email ou message direct</li><li>Contenu (reviews, vidéos, témoignages)</li></ul><p>Nous encourageons une promotion authentique basée sur l’expérience réelle et la confiance.</p><hr><p><strong>• Autres informations :</strong><br>Nous valorisons les relations à long terme avec nos affiliés. Notre programme est simple, transparent et conçu pour récompenser les recommandations sincères.<br>Chez Bleu.eco, on ne cherche pas seulement des ventes — on construit une communauté autour du bien-être.</p></div>",
+  "payout_rate": "13.95%",
+  "payout_period": "Après un délai de 60 jours suivant la validation de la vente.",
+  "recommend_score": 2.75,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38782,
+  "categories": "Uncategorized",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "email_marketing",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bleueco/register",
+  "offer_status": 2,
+  "name": "BLEU.ECO",
+  "website": "https://bleu.eco",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 251458,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.37,
+  "program_id": 294170,
+  "myshopify_domain": "bleueco.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "6984fbef66e3691b1404b484",
+      "name": "Réduction client",
+      "program_id": 294170,
+      "shop_id": 251458,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-03-17 22:46:37",
+      "created_at": "2026-02-05T20:22:07.724000Z",
+      "updated_at": "2026-03-17T22:46:37.659000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Enterprise",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Canada"
+  ],
+  "avg_order_value": 1173.59,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "99.8%",
+  "mkp_program_id": 294170,
+  "product_list": []
+}

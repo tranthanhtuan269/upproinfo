@@ -1,0 +1,151 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/fc2e164825730af7abe7ba8d93f4f8ae.png",
+  "description": "<main id=\"MainContent\" tabindex=\"-1\" role=\"main\">\r\n<section id=\"shopify-section-template--16736178077983__main\">\r\n<div>\r\n<div>\r\n<h2><span style=\"font-size: 12pt;\">We are a group of bike enthusiasts that love to take the party with us on the ride. Our team's HQ being Australia but, our partners are scattered across the globe. There is no where out of our reach.</span></h2>\r\n<h2><span style=\"font-size: 12pt;\">Our true belief is that technology can be used to enhance the riding experience whether it be a strong front light to ensure you can see in front of you in the dark, power banks to keep your device on, phone holders and of course speakers. We bring all of the different elements in order to take the riding experience to the next level and make your bike as unique as you are.</span></h2>\r\n<div>&nbsp;</div>\r\n</div>\r\n</div>\r\n</section>\r\n<section id=\"shopify-section-template--16736178077983__newsletter\">\r\n<div>\r\n<div>&nbsp;</div>\r\n</div>\r\n</section>\r\n</main>\r\n<p>&nbsp;</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "40",
+  "video_url": null,
+  "mkp_listing_id": 19358,
+  "categories": "Sports & Entertainment, Electronics",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "other": "Western Union"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/pimpmybike001/register",
+  "offer_status": 2,
+  "name": "Pimp My Bike",
+  "website": "https://pimpmybike.store",
+  "hashtags": [],
+  "shop_id": 80095,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.85,
+  "program_id": 91778,
+  "myshopify_domain": "pimpmybike001.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 138.63,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "52.63%",
+  "mkp_program_id": 91778,
+  "product_list": []
+}

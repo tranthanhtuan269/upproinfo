@@ -1,0 +1,168 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1700068692_3515339_35767ba7b0deb9c5bb42983939ac57d3.png",
+  "description": "<p>Welcome to the world of Yarok! We've been creating salon quality vegan hair and skin care products since 2010. Our founder, Mordechai Alvow is a renowned NYC stylist who is on a mission to bring hair <strong>products that get results</strong> and are good for you.&nbsp;</p>\r\n<p>Healthy you, Healthy hair, Healthy planet.</p>\r\n<p>The Yarok Team</p>\r\n<p></p>\r\n<p><strong>Powerful, natural and full of style</strong></p>\r\n<p>Each Yarok formula is a research-driven, powerful blend of organic and natural botanicals created to nourish, protect, and heal scalp, hair and body issues while providing optimum health and styling possibilities.</p>\r\n<p><strong>High quality ingredients</strong></p>\r\n<p>Every Yarok product incorporates the highest quality essential oils chosen for their aromatic qualities as well as their healing, nourishing and restorative properties and are guaranteed to work.</p>\r\n<p><strong>Fresh and long lasting</strong></p>\r\n<p>Everything is made from fresh ingredients, and our products have a substantial shelf life of one year (once open) to two years.</p>",
+  "payout_rate": "94.05%",
+  "payout_period": null,
+  "recommend_score": 4.26,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29524,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 365,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "undefined",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Yarok/register",
+  "offer_status": 2,
+  "name": "Yarok Plant-Based Beauty",
+  "website": "https://yarokhair.com",
+  "hashtags": [
+    "#vegan",
+    "#veganhaircare",
+    "#cleanproducts",
+    "#salonhair",
+    "#salon"
+  ],
+  "shop_id": 4335,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.8,
+  "program_id": 5059,
+  "myshopify_domain": "yarok.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 130.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "29.55%",
+  "mkp_program_id": 5059,
+  "product_list": []
+}

@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1738744239_3773551_4d6cc97e9563b19f3ec2eb11e39389a2.jpg",
+  "description": "<p><strong>Join the Margot Bardot Affiliate Program!</strong>&nbsp;</p>\r\n<ol>\r\n<li>Earn <strong>50% commission on sales</strong> by promoting our bold, timeless fashion jewellery.</li>\r\n<li>Designed for <strong>confidence and self-expression</strong>, each piece empowers every women at any occasion.&nbsp;</li>\r\n<li><strong>High-quality craftsmanship</strong>, striking designs, and a strong brand identity make Margot Bardot a standout.</li>\r\n<li>The <strong>Best-Sellers</strong> are included in the program!&nbsp;</li>\r\n</ol>\r\n<p>Get paid seamlessly&mdash;partner with us!&nbsp;</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.82,
+  "average_earning_per_sale": "50",
+  "video_url": "www.margotbardot.com",
+  "mkp_listing_id": 34317,
+  "categories": "Jewelry & Accessories",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1739384248_2601493_c779c7208c0f7008c52de049c725ca26.png",
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "30%-50% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Facebook",
+    "Youtube",
+    "Tiktok",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Germany",
+    "France",
+    "United Arab Emirates",
+    "Netherlands"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/margot-bardot/register",
+  "offer_status": 2,
+  "name": "Margot Bardot Online",
+  "website": "https://margotbardot.com",
+  "hashtags": [
+    "#statement-jewelry",
+    "#chic-fashion-jewelry",
+    "#elegant-jewelry",
+    "#parisian-jewelry"
+  ],
+  "shop_id": 84167,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "30"
+    },
+    {
+      "key": 2,
+      "order_val": "170",
+      "commission_val": "50"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.54,
+  "program_id": 96340,
+  "myshopify_domain": "margot-bardot.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 82.65,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "20%",
+  "mkp_program_id": 96340,
+  "product_list": []
+}

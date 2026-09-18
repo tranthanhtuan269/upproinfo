@@ -1,0 +1,175 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1775445371_2554072_f9a56640b663fcb490da7fda68eb46e8.png",
+  "description": "<div style=\"font-family:Poppins;\"><div class=\"text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\"><div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\"><div class=\"flex max-w-full flex-col gap-4 grow\"><div class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden\"><div class=\"markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling\"><p><strong>• About our brand and products:</strong><br>JW Distribution is focused on simple products that help people improve their appearance and feel more confident. Our current product, the JW Ice Sculptor, is designed to help reduce facial puffiness and give a sharper, more defined look in just a few minutes a day.</p><hr><p><strong>• What makes us different:</strong><br>We keep things simple. No complicated routines, no unnecessary products—just tools that actually make a visible difference. Our brand is built around self-improvement and helping people look their best with minimal effort.</p><hr><p><strong>• How affiliates can earn:</strong><br>Affiliates earn <strong>25% commission on every sale</strong> through a unique tracking link. You’ll have access to a dashboard to track clicks, sales, and earnings in real time. Payments are sent weekly.</p><hr><p><strong>• How to promote us:</strong><br>Create short, natural content that fits your style. Focus on simple routines, before/after improvements, or explaining how the product helps reduce puffiness and improve appearance. Keep videos fast, real, and relatable.</p><hr><p><strong>• Other information:</strong><br>We’re looking to work with motivated creators who want to grow and earn. We provide support, content ideas, and free product for selected partners. Top performers may receive higher commissions and long-term collaboration opportunities.</p></div></div></div></div><div class=\"z-0 flex min-h-[46px] justify-start\"><br></div></div></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "Weekly payouts (every 7 days). Payments are sent consistently based on tracked sales.",
+  "recommend_score": 1.85,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38993,
+  "categories": "Media",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Australia",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/d1xwcs-41/register",
+  "offer_status": 2,
+  "name": "LOOXMAX",
+  "website": "https://jw-distribution-2.myshopify.com",
+  "hashtags": [
+    "#looksmax",
+    "#mensgrooming",
+    "#selfimprovement",
+    "#glowup",
+    "#mensstyle",
+    "#facialcare",
+    "#jawline",
+    "#morningroutine",
+    "#skincareformen",
+    "#appearance"
+  ],
+  "shop_id": 262869,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.54,
+  "program_id": 308837,
+  "myshopify_domain": "d1xwcs-41.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "52.94%",
+  "mkp_program_id": 308837,
+  "product_list": []
+}

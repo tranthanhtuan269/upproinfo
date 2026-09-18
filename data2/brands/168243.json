@@ -1,0 +1,162 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1727126557_6703729_f6f08cd8b268133c9d4282f264478d0e.png",
+  "description": "<p><span style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; float: none; display: inline;\"></span></p>\r\n<p><span style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; float: none; display: inline;\">We&rsquo;re a dynamic supplement brand dedicated to providing high-quality, scientifically-backed products that support health and wellness, particularly for the Gen Z community.&nbsp;</span></p>\r\n<p>Our supplements range from energy boosters to immune support and cognitve support, all made with premium ingredients and third-party testing to ensure safety and effectiveness.</p>\r\n<p>We believe in educating our customers, so we provide research links in our product descriptions to back up the benefits of each ingredient.</p>\r\n<p><br></p>\r\n<p><strong>Unique Selling Points</strong></p>\r\n<p>1. High-Quality Ingredients: Our products are crafted using scientifically-supported ingredients.</p>\r\n<p>2. Gen Z Focused: As a new brand, we are keen on connecting with the Gen Z audience, offering products tailored to their needs and values.</p>\r\n<p>3. Transparency &amp; Education: We provide detailed research links for all our ingredients, empowering customers to make informed choices.</p>\r\n<p><strong></strong>4. Customer Discount Code: We povide you with a code for your customers to get 10% off any purchase, making it easier for you to drive conversions.&nbsp;</p>\r\n<p>5. Inclusive Partnerships: We partner with affiliates across various different levels and audiences.</p>\r\n<p><br></p>\r\n<p><strong>Payment Terms</strong></p>\r\n<p>15% commission on every sale you generate. Payments are made monthly.&nbsp;</p>\r\n<p>-----------------------------------------------------------------</p>\r\n<p>Join us and earn by promoting supplements that prioritize quality, transparency, and innovation!</p>\r\n<p><span style=\"font-size: 10pt;\"><strong></strong></span></p>\r\n<p><span style=\"font-size: 10pt;\"><strong>Importnat Infomration:&nbsp;</strong><em>Our products are currently sold in the <strong>United States</strong> only.</em></span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32315,
+  "categories": "Beauty & Health, Others, Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Twitch",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "18-24",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/hlthsci/register",
+  "offer_status": 2,
+  "name": "HLTH SCI",
+  "website": "https://www.hlthscisupplements.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 168243,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.02,
+  "program_id": 191318,
+  "myshopify_domain": "26a27e-5b.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "31.25%",
+  "mkp_program_id": 191318,
+  "product_list": []
+}

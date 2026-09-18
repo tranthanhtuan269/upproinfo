@@ -1,0 +1,147 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1647965771_2142522_c48a84c2ff369f5415f9d58594f496b9S I M P L I C I T I E (1500 x 500 px).png",
+  "description": "<span data-mce-fragment=\"1\" style=\"font-weight: 700; font-family: &quot;Twentieth Century&quot;, sans-serif; font-size: 18px; letter-spacing: 0.45px;\">Kooniez are the most comfortable and versatile pants you'll ever wear. Whether you're going to work, heading to your next yoga class, or lounging at home - do it all in comfort and style.&nbsp;</span>",
+  "payout_rate": "99.42%",
+  "payout_period": null,
+  "recommend_score": 1.52,
+  "average_earning_per_sale": "25",
+  "video_url": null,
+  "mkp_listing_id": 12900,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial;\"><span style=\"color: rgb(51, 51, 51); font-size: 14px;\">Affiliate may NOT use their own link or coupon code to purchase items for themselves, family members, or anyone in the same household as the affiliate. If an affiliate plans to purchase for themselves, family members, or anyone in the same household as the affiliate, please notify us PRIOR to purchasing at Happiness</span><span style=\"color: rgb(51, 51, 51); font-size: 14px;\">@kooniez.com</span><span style=\"color: rgb(51, 51, 51); font-size: 14px;\"> of this possible conflict. Affiliates will receive 20% of all sales generated through affiliate links and promo codes 30 days after the customer receives the order. If the customer returns the item within 30 days, Kooniez reserves the right to deduct the commission from that sale. 20% payment is calculated after deducting for tax, shipping, and discounts. Payments will be made at the end of every month via Paypal. If a sale results in a return by a customer, Kooniez reserves the right to deduct the commission earned on that sale from future commissions. Kooniez reserves the right to cancel anyone's affiliate link at any time. Our terms may be updated without prior notice.</span></span></span></p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/kooniez/register",
+  "offer_status": 2,
+  "name": "Kooniez",
+  "website": "https://www.kooniez.com/products/kooniez",
+  "hashtags": [],
+  "shop_id": 7978,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.42,
+  "program_id": 8718,
+  "myshopify_domain": "kooniez.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 139.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "59.57%",
+  "mkp_program_id": 8718,
+  "product_list": []
+}

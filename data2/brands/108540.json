@@ -1,0 +1,175 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1689967337_2257868_c17e04ca6fde75cc0392861593d455d8Suppleminds Logo black transparent 2000x2000-01.png",
+  "description": "<p>Willkommen beim Affiliate-Programm von Suppleminds.de! Unser Programm bietet gro&szlig;artige M&ouml;glichkeiten, um mit Leidenschaft f&uuml;r Gesundheit und Wohlbefinden Geld zu verdienen. Als Affiliate-Partner erh&auml;ltst du eine gro&szlig;z&uuml;gige Provision von 10% oder sogar mehr auf den Gesamtumsatz der Empfehlungsverk&auml;ufe.</p>\r\n<p>So funktioniert es: Registriere dich als Affiliate-Partner und erhalte deinen einzigartigen Partner-Link oder Gutscheincode. Teile diesen Link oder Code mit deinem Netzwerk, deinen Followern und deiner Zielgruppe. Wenn jemand &uuml;ber deinen Link einkauft oder deinen Code verwendet, erh&auml;ltst du 10% der Gesamtverk&auml;ufe als Provision.</p>\r\n<p>Unser Shop bietet hochwertige Nahrungserg&auml;nzungsmittel und Produkte f&uuml;r die geistige und k&ouml;rperliche Gesundheit. Mit einer breiten Produktpalette und zufriedenen Kunden kannst du sicher sein, dass deine Empfehlungen auf positive Resonanz sto&szlig;en werden.</p>\r\n<p>Neben der gro&szlig;z&uuml;gigen Provision bieten wir auch regelm&auml;&szlig;ige Aktionen, Rabatte und spezielle Angebote, die deine Verk&auml;ufe f&ouml;rdern. Du wirst au&szlig;erdem Zugang zu umfassenden Berichten und Statistiken haben, um deine Leistung zu verfolgen und zu optimieren.</p>\r\n<p>Mach mit bei unserem Affiliate-Programm und werde Teil der Suppleminds-Familie, w&auml;hrend du von deiner Leidenschaft f&uuml;r Gesundheit profitierst. Melde dich noch heute an und starte dein erfolgreiches Partnerabenteuer!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 2.18,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 25548,
+  "categories": "Beauty & Health, Sports & Entertainment",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Austria",
+    "Switzerland",
+    "Germany"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/suppleminds/register",
+  "offer_status": 2,
+  "name": "Suppleminds",
+  "website": "https://suppleminds.de",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 108540,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.72,
+  "program_id": 123250,
+  "myshopify_domain": "suppleminds.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 60.09,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "51.92%",
+  "mkp_program_id": 123250,
+  "product_list": []
+}

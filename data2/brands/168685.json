@@ -1,0 +1,172 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1727374422_8913197_fefc1ed54624910fb426d487553d0395.png",
+  "description": "<h2 style=\"font-family: Haffer; text-transform: uppercase; font-size: clamp(18px, 7vw, 32px); line-height: 1.15; margin: 0px; color: rgb(255, 255, 255); text-align: left; white-space: normal; background-color: rgb(0, 0, 0);\" class=\"subheading\">Partner with Jung+</h2>\r\n<h1 style=\"font-family: Haffer; text-transform: uppercase; font-size: clamp(32px, 15vw, 72px); line-height: 1.15; margin: 0px; color: rgb(255, 255, 255); text-align: left; white-space: normal; background-color: rgb(0, 0, 0);\">Welcome to Jung+'s Affiliate Program</h1>\r\n<p style=\"margin: 1em 0px; font-size: 16px; line-height: 25.6px; color: rgb(255, 255, 255); font-family: Inter, Arial, sans-serif; text-align: left; white-space: normal; background-color: rgb(0, 0, 0);\">Born in Oxford, Jung+ is leading the longevity revolution. We turn breakthrough aging research into products and supplements that extend your healthy years. Our Total Longevity System&trade; brings the best of a longevity clinic into your daily routine, making it easy to live longer, better.</p>\r\n<div style=\"width: min(90vw, 1320px); margin: 0px auto 56px; display: flex; justify-content: space-between; align-items: center; color: rgb(0, 0, 0); font-family: Inter, Arial, sans-serif; font-size: 22px; text-align: left; white-space: normal;\" class=\"why-partner-heading container\">\r\n<h2 style=\"font-family: Haffer; text-transform: uppercase; font-size: clamp(32px, 12vw, 48px); line-height: 1.15; margin: 0px;\">Why Partner With Us?</h2>\r\n<a target=\"_blank\" style=\"text-decoration-line: none; background-color: rgb(227, 74, 32); color: rgb(255, 255, 255); padding: 10px 15px; text-transform: uppercase; border-radius: 150px; display: inline-block; font-family: Haffer, Arial, Helvetica, sans-serif; font-size: 18px; font-weight: 500; text-align: center; border: 2px solid rgb(227, 74, 32);\" class=\"btn desktop\">Get Started</a></div>\r\n<ul style=\"width: min(90vw, 1320px); margin: 0px auto 60px; display: grid; grid-template-columns: repeat(4, 1fr); list-style-type: none; max-width: min(90vw, 1320px); gap: 40px; padding: 0px; color: rgb(0, 0, 0); font-family: Inter, Arial, sans-serif; font-size: 22px; text-align: left; white-space: normal;\" class=\"container\">\r\n<li style=\"font-size: 16px; line-height: 25.6px;\">\r\n<div class=\"card-top\"><img style=\"max-width: 100%; height: auto;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0625/2150/8004/files/competitive-commissions-icon.png?v=1725506598\">\r\n<h3 style=\"font-family: Haffer; text-transform: uppercase;\">Competitive Commissions</h3>\r\n</div>\r\n<p style=\"margin: 1em 0px; font-size: 16px; line-height: 25.6px;\" class=\"card-bottom\">Earn attractive rewards for promoting cutting-edge longevity supplements.</p>\r\n</li>\r\n<li style=\"font-size: 16px; line-height: 25.6px;\">\r\n<div class=\"card-top\"><img style=\"max-width: 100%; height: auto;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0625/2150/8004/files/exclusive-promotions-icon.png?v=1725506597\">\r\n<h3 style=\"font-family: Haffer; text-transform: uppercase;\">Exclusive Promotions</h3>\r\n</div>\r\n<p style=\"margin: 1em 0px; font-size: 16px; line-height: 25.6px;\" class=\"card-bottom\">Access to special offers, driving higher conversions.</p>\r\n</li>\r\n<li style=\"font-size: 16px; line-height: 25.6px;\">\r\n<div class=\"card-top\"><img style=\"max-width: 100%; height: auto;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0625/2150/8004/files/extended-cookies-icon.png?v=1725506598\">\r\n<h3 style=\"font-family: Haffer; text-transform: uppercase;\">Extended Cookie Duration</h3>\r\n</div>\r\n<p style=\"margin: 1em 0px; font-size: 16px; line-height: 25.6px;\" class=\"card-bottom\">Benefit from a generous window to secure your commissions.</p>\r\n</li>\r\n<li style=\"font-size: 16px; line-height: 25.6px;\">\r\n<div class=\"card-top\"><img style=\"max-width: 100%; height: auto;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0625/2150/8004/files/comprehensive-support-icon.png?v=1725506597\">\r\n<h3 style=\"font-family: Haffer; text-transform: uppercase;\">Comprehensive Support</h3>\r\n</div>\r\n<p style=\"margin: 1em 0px; font-size: 16px; line-height: 25.6px;\" class=\"card-bottom\">Regular updates and resources to maximize your success.</p>\r\n</li>\r\n</ul>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.59,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32375,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/jung-e-store/register",
+  "offer_status": 2,
+  "name": "Jung+ Longevity",
+  "website": "https://foreverjung.co",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 168685,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.17,
+  "program_id": 191879,
+  "myshopify_domain": "jung-e-store.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 164.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 191879,
+  "product_list": []
+}

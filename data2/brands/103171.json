@@ -1,0 +1,179 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/7da3c882f99282630749ab43391af588.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:&nbsp; OBIONO is a handmade retro leather shoe website.<br>&bull; Product Description: Our products are made of real leather with unique designs. Specifically made for comfortable wearing with the soft insole and outsole. We provide round-toe, wide-toe box shoes for those who needed.&nbsp;<br>&bull; USP (Unique Selling Point): Our products meet most client's requirements. With more than 1000 designs can easily find their own styles.&nbsp;<br>&bull; Payment terms: We accept PayPal and Credit Card payment method<br>&bull; Other information: We have professional and kind customer service help you to resolve all the issues you have. They will always understand you and assist you.</p>\r\n</div>",
+  "payout_rate": "61.11%",
+  "payout_period": null,
+  "recommend_score": 2.68,
+  "average_earning_per_sale": "10",
+  "video_url": "https://www.youtube.com/watch?v=-LtC8B9Cg7I",
+  "mkp_listing_id": 24335,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1740973315_8596548_46468bd8fae122f19050d15425728c87.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "3% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Content or Niche website",
+    "Etsy",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Reddit",
+    "Tiktok",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Brazil",
+    "Canada",
+    "Germany",
+    "Spain",
+    "France",
+    "United Kingdom",
+    "Italy",
+    "Mexico",
+    "Portugal",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/gift-shoes/register",
+  "offer_status": 2,
+  "name": "Obiono",
+  "website": "https://www.obiono.com",
+  "hashtags": [
+    "#leathershoesforwomen",
+    " #comfortableshoesforwomen",
+    " #comfortableshoes"
+  ],
+  "shop_id": 103171,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.14,
+  "program_id": 117189,
+  "myshopify_domain": "gift-shoes.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 119,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "89.08%",
+  "mkp_program_id": 117189,
+  "product_list": []
+}

@@ -1,0 +1,312 @@
+{% extends "base.html" %}
+{% block title %}Quản lý tài khoản · Admin{% endblock %}
+{% block content %}
+<div class="w-full px-4 lg:px-6 py-3">
+  <div class="flex items-center gap-2 text-xs font-label text-on-surface-variant">
+    <span class="material-symbols-outlined text-[16px]">home</span>
+    <a class="hover:text-on-surface transition-colors no-underline" href="/">Trang chủ</a>
+    <span class="material-symbols-outlined text-[14px] text-outline">chevron_right</span>
+    <span class="text-on-surface font-medium">Quản lý tài khoản</span>
+  </div>
+</div>
+
+<section class="w-full px-4 lg:px-6 py-8 max-w-7xl mx-auto space-y-6">
+  <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+    <div>
+      <h1 class="text-3xl font-headline font-bold m-0">Quản lý người dùng & VIP</h1>
+      <p class="mt-2 mb-0 text-sm text-on-surface-variant">Danh sách tất cả tài khoản đã đăng ký (mật khẩu & Google OAuth), quản lý VIP / gia hạn ngày và đổi mật khẩu.</p>
+    </div>
+    <div class="flex items-center gap-2">
+      <span class="px-3 py-1 rounded-full bg-surface-container-high text-xs font-semibold text-on-surface">
+        Hiển thị: <span id="visible-count">{{ users|length }}</span>/{{ users|length }} tài khoản
+      </span>
+    </div>
+  </div>
+
+  <!-- Thanh lọc & tìm kiếm -->
+  <div class="flex flex-col md:flex-row items-stretch md:items-center justify-between gap-3 p-3 rounded-2xl bg-surface-container-lowest border border-outline-variant/30">
+    <!-- Bộ nút lọc trạng thái -->
+    <div class="flex items-center gap-1.5 overflow-x-auto pb-1 md:pb-0">
+      <button type="button" onclick="setFilter('all')" id="btn-filter-all" class="filter-tab px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-colors bg-primary text-on-primary border-0 cursor-pointer">
+        Tất cả ({{ users|length }})
+      </button>
+      <button type="button" onclick="setFilter('active')" id="btn-filter-active" class="filter-tab px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-colors bg-surface-container text-on-surface-variant hover:text-on-surface border-0 cursor-pointer flex items-center gap-1.5">
+        <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
+        Đã kích hoạt / VIP (<span id="count-active">0</span>)
+      </button>
+      <button type="button" onclick="setFilter('inactive')" id="btn-filter-inactive" class="filter-tab px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-colors bg-surface-container text-on-surface-variant hover:text-on-surface border-0 cursor-pointer">
+        Chưa kích hoạt / Free (<span id="count-inactive">0</span>)
+      </button>
+    </div>
+
+    <!-- Ô tìm kiếm tài khoản/email -->
+    <div class="relative min-w-[240px]">
+      <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-on-surface-variant text-[18px]">search</span>
+      <input type="text" id="search-input" oninput="applyFilters()" placeholder="Tìm username, email, tên..." class="w-full pl-9 pr-3 py-1.5 text-xs rounded-xl border border-outline-variant/50 bg-surface-container-low text-on-surface focus:outline-none focus:border-primary">
+    </div>
+  </div>
+
+  {% if notice %}
+  <div class="rounded-xl bg-secondary-container px-4 py-3 text-sm text-on-secondary-container font-medium">
+    {{ notice }}
+  </div>
+  {% endif %}
+
+  <!-- Bảng danh sách người dùng -->
+  <div class="overflow-x-auto rounded-2xl bg-surface-container-lowest shadow-sm border border-outline-variant/30">
+    <table class="w-full text-sm text-left">
+      <thead class="text-xs uppercase tracking-wider text-on-surface-variant bg-surface-container">
+        <tr>
+          <th class="px-4 py-3 font-semibold">Tài khoản</th>
+          <th class="px-4 py-3 font-semibold">Email & Tên</th>
+          <th class="px-4 py-3 font-semibold">Đăng nhập qua</th>
+          <th class="px-4 py-3 font-semibold">Gói / Hạn dùng</th>
+          <th class="px-4 py-3 font-semibold">Trạng thái VIP</th>
+          <th class="px-4 py-3 font-semibold text-right">Thao tác</th>
+        </tr>
+      </thead>
+      <tbody class="divide-y divide-outline-variant/30" id="users-tbody">
+        {% for u in users %}
+        <tr class="user-row hover:bg-surface-container-low/50 transition-colors"
+            data-username="{{ u.username|lower }}"
+            data-email="{{ (u.email or '')|lower }}"
+            data-name="{{ (u.name or '')|lower }}"
+            data-status="{% if u.is_admin or u.entitled %}active{% else %}inactive{% endif %}">
+          <td class="px-4 py-3">
+            <div class="flex items-center gap-2">
+              <span class="font-semibold text-on-surface">{{ u.username }}</span>
+              {% if u.username == 'admin' %}
+              <span class="px-2 py-0.5 rounded-full bg-primary text-on-primary text-[10px] font-bold">Admin</span>
+              {% endif %}
+            </div>
+          </td>
+          <td class="px-4 py-3">
+            <div class="text-xs">
+              <div class="text-on-surface font-medium">{{ u.email or '—' }}</div>
+              {% if u.name %}
+              <div class="text-on-surface-variant">{{ u.name }}</div>
+              {% endif %}
+            </div>
+          </td>
+          <td class="px-4 py-3">
+            {% if u.provider == 'google' %}
+            <span class="inline-flex items-center gap-1 text-xs px-2 py-0.5 rounded-full bg-surface-container text-on-surface font-medium">
+              <svg class="w-3.5 h-3.5" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.06H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.94l2.85-2.22.81-.63z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.06l3.66 2.84c.87-2.6 3.3-4.52 6.16-4.52z"/></svg>
+              Google
+            </span>
+            {% else %}
+            <span class="inline-flex items-center gap-1 text-xs px-2 py-0.5 rounded-full bg-surface-container text-on-surface font-medium">
+              <span class="material-symbols-outlined text-[13px]">key</span>
+              Mật khẩu
+            </span>
+            {% endif %}
+          </td>
+          <td class="px-4 py-3 whitespace-nowrap">
+            {% if u.is_admin %}
+            <span class="text-xs font-semibold text-primary">Vĩnh viễn (Admin)</span>
+            {% elif u.sub %}
+            <div class="text-xs">
+              <span class="font-medium text-on-surface uppercase">{{ u.sub.plan }}</span>
+              <div class="text-on-surface-variant font-mono">{{ u.sub.expires_at[:10] }}</div>
+            </div>
+            {% else %}
+            <span class="text-xs text-outline">Miễn phí / Chưa có gói</span>
+            {% endif %}
+          </td>
+          <td class="px-4 py-3">
+            {% if u.is_admin %}
+            <span class="inline-flex rounded-full bg-primary/10 text-primary px-2.5 py-0.5 text-xs font-semibold">Toàn quyền</span>
+            {% elif u.entitled %}
+            <span class="inline-flex rounded-full bg-secondary-container text-on-secondary-container px-2.5 py-0.5 text-xs font-semibold">Đang kích hoạt</span>
+            {% else %}
+            <span class="inline-flex rounded-full bg-surface-container-high text-on-surface-variant px-2.5 py-0.5 text-xs font-semibold">Hết hạn / Free</span>
+            {% endif %}
+          </td>
+          <td class="px-4 py-3 text-right whitespace-nowrap">
+            <div class="flex items-center justify-end gap-2">
+              <!-- Nút cộng ngày VIP -->
+              {% if not u.is_admin %}
+              <button onclick="openVipModal('{{ u.username }}')" class="inline-flex items-center gap-1 rounded-lg bg-surface-container hover:bg-surface-container-high text-on-surface px-2.5 py-1.5 text-xs font-semibold border border-outline-variant cursor-pointer transition-colors" title="Thêm ngày VIP">
+                <span class="material-symbols-outlined text-[15px] text-tertiary">workspace_premium</span>
+                +VIP
+              </button>
+              {% endif %}
+
+              <!-- Nút đổi mật khẩu -->
+              <button onclick="openPassModal('{{ u.username }}', '{{ u.provider }}')" class="inline-flex items-center gap-1 rounded-lg bg-surface-container hover:bg-surface-container-high text-on-surface px-2.5 py-1.5 text-xs font-semibold border border-outline-variant cursor-pointer transition-colors" title="Đổi mật khẩu">
+                <span class="material-symbols-outlined text-[15px]">lock_reset</span>
+                Đổi pass
+              </button>
+
+              <!-- Nút xóa user -->
+              {% if not u.is_admin %}
+              <form method="post" action="{{ url_for('admin_delete_user', username=u.username) }}" onsubmit="return confirm('Bạn có chắc chắn muốn xóa tài khoản {{ u.username }}?');" class="inline m-0">
+                <button type="submit" class="inline-flex items-center rounded-lg bg-error/10 hover:bg-error/20 text-error p-1.5 text-xs font-semibold border-0 cursor-pointer transition-colors" title="Xóa tài khoản">
+                  <span class="material-symbols-outlined text-[16px]">delete</span>
+                </button>
+              </form>
+              {% endif %}
+            </div>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- Modal Thêm Ngày VIP -->
+<div id="vipModal" class="fixed inset-0 bg-ink/40 backdrop-blur-xs flex items-center justify-center p-4 z-50 hidden">
+  <div class="bg-surface-container-lowest rounded-2xl max-w-sm w-full p-6 shadow-xl border border-outline-variant space-y-4">
+    <div class="flex items-center justify-between">
+      <h3 class="text-lg font-headline font-bold m-0 flex items-center gap-2">
+        <span class="material-symbols-outlined text-tertiary">workspace_premium</span>
+        Cấp / Gia hạn VIP
+      </h3>
+      <button onclick="closeVipModal()" class="text-on-surface-variant hover:text-on-surface border-0 bg-transparent cursor-pointer p-1">
+        <span class="material-symbols-outlined">close</span>
+      </button>
+    </div>
+    <form method="post" action="{{ url_for('admin_set_vip') }}" class="space-y-4 m-0">
+      <input type="hidden" name="username" id="vipUsername">
+      <div>
+        <label class="block text-xs font-semibold text-on-surface-variant mb-1">Tài khoản:</label>
+        <span id="vipUsernameDisplay" class="font-bold text-on-surface text-sm"></span>
+      </div>
+      <div>
+        <label for="vipDays" class="block text-xs font-semibold text-on-surface-variant mb-1">Số ngày cộng thêm:</label>
+        <select name="days" id="vipDays" class="w-full px-3 py-2 text-sm rounded-xl border border-outline-variant bg-surface-container-lowest text-on-surface">
+          <option value="30">30 ngày (1 tháng)</option>
+          <option value="90">90 ngày (3 tháng)</option>
+          <option value="180">180 ngày (6 tháng)</option>
+          <option value="365">365 ngày (1 năm)</option>
+          <option value="1095">3 năm</option>
+        </select>
+      </div>
+      <div class="flex items-center justify-end gap-2 pt-2">
+        <button type="button" onclick="closeVipModal()" class="px-4 py-2 text-xs font-semibold rounded-xl bg-surface-container text-on-surface border-0 cursor-pointer">Hủy</button>
+        <button type="submit" class="px-4 py-2 text-xs font-semibold rounded-xl bg-primary text-on-primary border-0 cursor-pointer">Lưu VIP</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- Modal Đổi Mật Khẩu -->
+<div id="passModal" class="fixed inset-0 bg-ink/40 backdrop-blur-xs flex items-center justify-center p-4 z-50 hidden">
+  <div class="bg-surface-container-lowest rounded-2xl max-w-sm w-full p-6 shadow-xl border border-outline-variant space-y-4">
+    <div class="flex items-center justify-between">
+      <h3 class="text-lg font-headline font-bold m-0 flex items-center gap-2">
+        <span class="material-symbols-outlined text-primary">lock_reset</span>
+        Đổi mật khẩu
+      </h3>
+      <button onclick="closePassModal()" class="text-on-surface-variant hover:text-on-surface border-0 bg-transparent cursor-pointer p-1">
+        <span class="material-symbols-outlined">close</span>
+      </button>
+    </div>
+    <form method="post" action="{{ url_for('admin_change_password') }}" class="space-y-4 m-0">
+      <input type="hidden" name="username" id="passUsername">
+      <div>
+        <label class="block text-xs font-semibold text-on-surface-variant mb-1">Tài khoản:</label>
+        <span id="passUsernameDisplay" class="font-bold text-on-surface text-sm"></span>
+        <span id="passProviderNote" class="block text-xs text-outline mt-0.5"></span>
+      </div>
+      <div>
+        <label for="newPassword" class="block text-xs font-semibold text-on-surface-variant mb-1">Mật khẩu mới:</label>
+        <input type="text" name="password" id="newPassword" required minlength="6" placeholder="Nhập ít nhất 6 ký tự" class="w-full px-3 py-2 text-sm rounded-xl border border-outline-variant bg-surface-container-lowest text-on-surface">
+      </div>
+      <div class="flex items-center justify-end gap-2 pt-2">
+        <button type="button" onclick="closePassModal()" class="px-4 py-2 text-xs font-semibold rounded-xl bg-surface-container text-on-surface border-0 cursor-pointer">Hủy</button>
+        <button type="submit" class="px-4 py-2 text-xs font-semibold rounded-xl bg-primary text-on-primary border-0 cursor-pointer">Đổi mật khẩu</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<script>
+var currentFilter = 'all';
+
+function updateCounts() {
+  var rows = document.querySelectorAll('.user-row');
+  var activeCount = 0;
+  var inactiveCount = 0;
+  rows.forEach(function(row) {
+    if (row.getAttribute('data-status') === 'active') {
+      activeCount++;
+    } else {
+      inactiveCount++;
+    }
+  });
+  var elA = document.getElementById('count-active');
+  var elI = document.getElementById('count-inactive');
+  if (elA) elA.textContent = activeCount;
+  if (elI) elI.textContent = inactiveCount;
+}
+
+function setFilter(filter) {
+  currentFilter = filter;
+  var tabs = document.querySelectorAll('.filter-tab');
+  tabs.forEach(function(btn) {
+    btn.className = 'filter-tab px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-colors bg-surface-container text-on-surface-variant hover:text-on-surface border-0 cursor-pointer flex items-center gap-1.5';
+  });
+  var activeBtn = document.getElementById('btn-filter-' + filter);
+  if (activeBtn) {
+    activeBtn.className = 'filter-tab px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-colors bg-primary text-on-primary border-0 cursor-pointer flex items-center gap-1.5';
+  }
+  applyFilters();
+}
+
+function applyFilters() {
+  var query = (document.getElementById('search-input').value || '').trim().toLowerCase();
+  var rows = document.querySelectorAll('.user-row');
+  var visible = 0;
+
+  rows.forEach(function(row) {
+    var status = row.getAttribute('data-status');
+    var uname = row.getAttribute('data-username');
+    var email = row.getAttribute('data-email');
+    var name = row.getAttribute('data-name');
+
+    var matchStatus = (currentFilter === 'all') || (status === currentFilter);
+    var matchQuery = !query || uname.includes(query) || email.includes(query) || name.includes(query);
+
+    if (matchStatus && matchQuery) {
+      row.style.display = '';
+      visible++;
+    } else {
+      row.style.display = 'none';
+    }
+  });
+
+  var countEl = document.getElementById('visible-count');
+  if (countEl) countEl.textContent = visible;
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  updateCounts();
+});
+
+function openVipModal(username) {
+  document.getElementById('vipUsername').value = username;
+  document.getElementById('vipUsernameDisplay').textContent = username;
+  document.getElementById('vipModal').classList.remove('hidden');
+}
+function closeVipModal() {
+  document.getElementById('vipModal').classList.add('hidden');
+}
+function openPassModal(username, provider) {
+  document.getElementById('passUsername').value = username;
+  document.getElementById('passUsernameDisplay').textContent = username;
+  var note = document.getElementById('passProviderNote');
+  if (provider === 'google') {
+    note.textContent = '(Tài khoản Google: đặt mật khẩu tại đây sẽ cho phép người này đăng nhập thêm bằng mật khẩu thông thường)';
+  } else {
+    note.textContent = '';
+  }
+  document.getElementById('newPassword').value = '';
+  document.getElementById('passModal').classList.remove('hidden');
+}
+function closePassModal() {
+  document.getElementById('passModal').classList.add('hidden');
+}
+</script>
+{% endblock %}

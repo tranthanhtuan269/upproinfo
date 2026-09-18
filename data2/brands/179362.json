@@ -1,0 +1,164 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1733977339_3012578_40fc075103e8a36eb355930c20175f71.png",
+  "description": "<h2><span style=\"text-decoration: underline;\"><span style=\"font-size: 10pt;\">Brand introduction:&nbsp;</span></span></h2>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">The value of music is at an all time low. You try to stream your favorite artist's new album only to get bombarded by news headlines, Facebook notifications, text messages, and countless other interruptions. The music becomes another blip of \"content\" in a sea of digital nonsense.&nbsp; It is hard to truly listen through all the noise. &nbsp;When you listen to a vinyl record it is a mindful experience that enriches your life. Drop the needle, sit back, and experience the record the way you would watch a movie.&nbsp; You don't skip songs. You listen to the whole album the way the artist intended. It is art rather than content.At Waxmode, we sell record players. But more than that we are promoting an idea.</span></p>\r\n<h4><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><strong>Music is not disposable.</strong></span></h4>\r\n<h2><span style=\"text-decoration: underline;\"><span style=\"font-size: 10pt; font-family: arial, helvetica, sans-serif;\">Payment terms: </span></span></h2>\r\n<p><span style=\"font-size: 10pt; font-family: arial, helvetica, sans-serif;\">$50 per record player, commission paid monthly.</span><br><br></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.95,
+  "average_earning_per_sale": "50",
+  "video_url": null,
+  "mkp_listing_id": 33581,
+  "categories": "Others, Home & Tools, Electronics",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1733979108_6806409_fa7f12e77968a24ed89c6ba33c75d434.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "$50 per record player",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Facebook",
+    "Youtube",
+    "Blog",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/waxmode/register",
+  "offer_status": 2,
+  "name": "Waxmode",
+  "website": "https://waxmodeplayers.com",
+  "hashtags": [
+    "#waxmode",
+    "#musicisnotdisposable"
+  ],
+  "shop_id": 179362,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.85,
+  "program_id": 204491,
+  "myshopify_domain": "5ae2e7-fe.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 222.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "10%",
+  "mkp_program_id": 204491,
+  "product_list": []
+}

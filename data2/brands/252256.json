@@ -1,0 +1,172 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1771254241_8539840_bfabbe0e5bf519a996b5fd2cd210e7d9.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>• <strong>About our brand and products:</strong><br>Sally B’s Skin Yummies is a clean, toxin-free skincare brand founded on the belief that what goes on your skin should be as safe and nourishing as what goes in your body. Every product is thoughtfully formulated using safe, effective ingredients and crafted with care. Our mission is to help women feel confident and radiant without compromising their health.</p><p>• <strong>What makes us different:</strong><br>We are deeply committed to clean beauty standards and ingredient integrity. Our formulas are EWG-verified where applicable, thoughtfully sourced, and created with transparency and trust at the forefront. Unlike mass-produced skincare brands, Sally personally formulates products with intention, ensuring they are gentle, effective, and aligned with a toxin-free lifestyle.</p><p>• <strong>How affiliates can earn:</strong><br>Glow Ambassadors earn 10% commission on every confirmed order placed using their personal referral link or code. Commissions are tracked automatically through our affiliate dashboard. Ambassadors also receive a 25% discount on their first personal order and special milestone rewards, including our Wildflower 20oz Jumbo Mug after 5 confirmed referrals.</p><p>• <strong>How to promote us:</strong><br>Ambassadors can share their personalized link or code through Instagram posts, stories, reels, blogs, email newsletters, Facebook groups, or direct recommendations to friends and family. We encourage authentic storytelling — sharing personal experiences, favorite products, skincare routines, and before-and-after journeys resonates most with audiences.</p><p>• <strong>Other information:</strong><br>There is no obligation or minimum requirement to stay in the program. We review referrals monthly and notify ambassadors of milestone rewards. Our team is available to provide messaging ideas, product recommendations, and content guidance to support success. We believe in building a warm, supportive community — not just a commission program.</p></div></div>",
+  "payout_rate": "78.57%",
+  "payout_period": "Quarterly",
+  "recommend_score": 3.66,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38260,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "email_marketing",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United States Minor Outlying Islands"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "other": "Zelle"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/sally-bs-skin-yummies/register",
+  "offer_status": 2,
+  "name": "Sally B's Skin Yummies",
+  "website": "https://www.sallybskinyummies.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 252256,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.44,
+  "program_id": 295136,
+  "myshopify_domain": "sally-bs-skin-yummies.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 75.5,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "91.82%",
+  "mkp_program_id": 295136,
+  "product_list": []
+}

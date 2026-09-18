@@ -1,0 +1,166 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1740907413_6829282_c65555e2af2abe4f38fa9cb4ee9c9277.png",
+  "description": "<div>\r\n<p data-end=\"352\" data-start=\"0\"><strong data-end=\"23\" data-start=\"0\">Brand Introduction:</strong><br data-end=\"26\" data-start=\"23\">Calliope Cosmetics AB is a niche beauty brand inspired by the timeless elegance of Greece. With a mission to make luxury makeup accessible, we combine high-quality ingredients with innovative formulas. Our products are developed under EU regulations and produced in Athens to ensure premium quality at an affordable price.</p>\r\n<p data-end=\"709\" data-start=\"354\"><strong data-end=\"378\" data-start=\"354\">Product Description:</strong><br data-end=\"381\" data-start=\"378\">Our lipsticks offer the perfect blend of beauty and care, featuring a rich, matte finish that is long-lasting and moisturizing. Infused with castor oil, beeswax, and hyaluronic acid, they nourish the lips while providing vibrant, full-coverage color. Versatile in use, they can also be applied as a cream blush or eyeshadow for a complete look.</p>\r\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"1083\" data-start=\"711\"><strong data-end=\"742\" data-start=\"711\">USP (Unique Selling Point):</strong><br data-end=\"745\" data-start=\"742\">Calliope Cosmetics redefines affordable luxury with the first ever high-performance, cruelty-free, moisture matte lipstick in the makeup market inspired by Greek aesthetics. Our products are designed for modern, busy individuals who seek elegance, efficiency, and nourishment in one. Produced in Athens with carefully sourced ingredients, we deliver premium quality at a competitive price.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong data-end=\"742\" data-start=\"711\">Payment terms: <br></strong><span style=\"font-size: 12pt;\">15% commission on each sale through personal affiliate links and discount codes.&nbsp;<br>Payout by Paypal or bank transfer every 7 days.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"></p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34713,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Greece",
+    "Sweden"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/calliopecosmetics/register",
+  "offer_status": 2,
+  "name": "Calliope Cosmetics",
+  "website": "https://calliopecosmetics.eu",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 197923,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.82,
+  "program_id": 226214,
+  "myshopify_domain": "calliopecosmetics.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "41.67%",
+  "mkp_program_id": 226214,
+  "product_list": []
+}

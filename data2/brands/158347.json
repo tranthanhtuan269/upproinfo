@@ -1,0 +1,180 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1721283782_348273_f640830c07b6e831fdd800c2bc44f2de.png",
+  "description": "<div style=\"font-family: Poppins;\"><div id=\"shopify-section-template--16788031406248__custom_content_XpNz6i\" class=\"shopify-section\"><div id=\"m-custom-template--16788031406248__custom_content_XpNz6i\" class=\"m-section m-custom-content m-gradient m-color-default\" data-section-type=\"custom-content\" data-section-id=\"template--16788031406248__custom_content_XpNz6i\"><div class=\"container-fluid m-section-my m-section-py\"><div class=\"m-section__header m:text-center\"><div class=\"m-section__description rte m-scroll-trigger animate--fade-in\">Fondvue is an online eyewear retailer. We always focus on affordable, stylish and high-quality glasses. Explore our new frame collections and lens types, including cat-eye glasses, browline glasses, blue light filter lenses, progressive lenses, driving lenses and more. From the factory to the doorstep, our excellent one-stop service can meet all your optical needs.</div></div></div></div></div><div id=\"shopify-section-template--16788031406248__icon_box_md_optimize_AnKC8g\" class=\"shopify-section\"><section id=\"m-section--template--16788031406248__icon_box_md_optimize_AnKC8g\" class=\"m-section m-icon-box-section m-gradient m-color-default\" data-section-type=\"icon-box\" data-section-id=\"template--16788031406248__icon_box_md_optimize_AnKC8g\"><div class=\"container-fluid m-section-my m-section-py\"><div class=\"m-section__header m:text-center\"><br></div></div></section></div></div>",
+  "payout_rate": "100%",
+  "payout_period": "1. 1st of each month for payout timing, the successful orders of the previous 2 months will be settled.\n2. If an order is refunded, the corresponding commission will be deducted on the next settlement day.\n3. Minimum payment is $10 USD.",
+  "recommend_score": 7.3,
+  "average_earning_per_sale": "5",
+  "video_url": null,
+  "mkp_listing_id": 31197,
+  "categories": "Fashion, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States",
+    "Canada",
+    "Australia",
+    "France",
+    "Finland",
+    "Germany",
+    "New Zealand",
+    "Netherlands",
+    "Mexico"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<p>1. Commissions for valid affiliate orders will be settled two months after the order date, e.g., on April 1st, the commission for orders placed on February 1st will be paid.</p><p>2. A valid affiliate order is defined as one where your corresponding promotional link is present in the Conversion summary section of the Shopify order details page.</p><p>3. When applying for commission settlement, please provide relevant proof of promotion, such as links to promotional articles, social media videos, screenshots of posts, etc.</p><p>4. Google Ads traffic is not allowed.</p><p>5. To prevent fraud, we will reject affiliate orders that do not meet our criteria.</p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/fondvue/register",
+  "offer_status": 2,
+  "name": "Fondvue",
+  "website": "https://www.fondvue.com",
+  "hashtags": [
+    "#glasses",
+    "#eyewear"
+  ],
+  "shop_id": 158347,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.41,
+  "program_id": 180108,
+  "myshopify_domain": "6817fd.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 54.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "26.27%",
+  "mkp_program_id": 180108,
+  "product_list": []
+}

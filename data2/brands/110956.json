@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/bb97648dc60bc1e9ae0ea2eb46f76e10.png",
+  "description": "<p>Grill Game is all about making the best BBQ possible regardless of the circumstances while out in the <em>absolute</em> middle of nowhere. Sometimes you have the time and resources to build a smoldering oak fire and reverse sear some Elk steaks. Sometimes you need to grill a dozen burgers in a hurry over propane. No matter the situation or resources, up your Grill Game and grill up the most enjoyable BBQ possible when you find yourself lucky enough to be where others wouldn&rsquo;t know to go.</p>\r\n<p>&nbsp;</p>\r\n<p>Our flagship product is the G1 Modular Grill &amp; Smoker</p>\r\n<p><strong>Any Fuel. Any Where. The G1 has got your back. One Grill, three fuel sources, unlimited potential.</strong></p>\r\n<p>A one of a kind modular grill system that can be&nbsp;<strong>configured four ways</strong>&nbsp;to fit your needs in any situation that calls for the best, most consistent backwoods grilling and smoking you&rsquo;ve ever cooked up.&nbsp;<strong>Proudly assembled in the USA with a limited lifetime warranty</strong>, the G1 can run on&nbsp;<strong>Propane, Charcoal, or over a Campfire</strong>. Weighing just 17 lbs with an all steel construction and offering 218 sq inches of grilling space it's the <strong>ultimate outdoor grilling multi-tool.</strong></p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.89,
+  "average_earning_per_sale": "26.90",
+  "video_url": "https://www.youtube.com/watch?v=JRCa1-wQMcw",
+  "mkp_listing_id": 26033,
+  "categories": "Sports & Entertainment, Garden & Outdoors, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "other": "Zelle"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/grillgame/register",
+  "offer_status": 2,
+  "name": "Grill Game",
+  "website": "https://grillgame.com/products/g2-8-in-1-grill",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 110956,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.4,
+  "program_id": 125898,
+  "myshopify_domain": "grill-game.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 376.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "5.26%",
+  "mkp_program_id": 125898,
+  "product_list": []
+}

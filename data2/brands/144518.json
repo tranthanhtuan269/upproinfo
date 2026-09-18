@@ -1,0 +1,168 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1712890969_761635_a1b8242a26276a81ded83f8730cfa609.jpg",
+  "description": "<p data-end=\"255\" data-start=\"28\">Dear, We think you'd be a great fit for our <strong data-end=\"134\" data-start=\"88\">Nonie of Beverly Hills Ambassador Program!</strong> 🌿✨ We're looking for passionate creators to join us in sharing our 100% natural, vegan skincare with their community.</p>\r\n<p data-end=\"490\" data-start=\"257\">As an ambassador, you'll get:<br data-end=\"289\" data-start=\"286\">✅ <strong data-end=\"343\" data-start=\"291\">A personalized 10% off coupon for your followers</strong><br data-end=\"346\" data-start=\"343\">✅ <strong data-is-only-node=\"\" data-end=\"393\" data-start=\"348\">20% commission on every sale you generate</strong><br data-end=\"396\" data-start=\"393\">✅ <strong data-end=\"433\" data-start=\"398\">Monthly free products to review</strong><br data-end=\"436\" data-start=\"433\">✅ <strong data-end=\"488\" data-start=\"438\">Exclusive perks &amp; early access to new launches</strong></p>\r\n<p data-end=\"621\" data-start=\"492\">We&rsquo;d love to collaborate and have you as part of our brand! Let us know if you're interested, and we can share more details. 💚</p>\r\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"662\" data-start=\"623\">Looking forward to hearing from you! 😊</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 3.12,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34870,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Blog",
+    "Podcast platforms",
+    "Content or Niche website"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "store_credit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/nonieaha/register",
+  "offer_status": 2,
+  "name": "Nonie of Beverly Hills",
+  "website": "https://nonieofbeverlyhills.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 144518,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.23,
+  "program_id": 225710,
+  "myshopify_domain": "my-aha-life.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 112.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 225710,
+  "product_list": []
+}

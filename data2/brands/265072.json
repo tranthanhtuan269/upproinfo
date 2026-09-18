@@ -1,0 +1,218 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1777039585_260963_04ce510db9c8aabf7c5870ad53905b74.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p><strong>About our brand and products:</strong><br>Adora Glow is a growing beauty brand focused on creating simple, effective, and time-saving makeup solutions. Our products are designed for everyday users who want professional-looking results without complexity. One of our featured items, the Rotating Eyeliner Stamp Pen, helps users achieve clean and symmetrical winged eyeliner in seconds. We aim to combine convenience with quality to improve daily beauty routines.</p><p><strong>What makes us different:</strong><br>Our approach focuses on ease of use and practical innovation. The rotating stamp design allows for quick and consistent application, reducing common struggles with traditional eyeliner. We also focus on product quality and user-friendly designs suitable for both beginners and experienced users.</p><p><strong>How affiliates can earn:</strong><br>Affiliates can earn commissions by promoting our products through their unique referral links, and if the customer buys. We aim to offer competitive rates and a product that converts well in the beauty market.</p><p><strong>How to promote us:</strong><br>Our products perform well on visual platforms such as TikTok, Instagram, and YouTube. Content like tutorials, reviews, and before-and-after demonstrations are</p><p>Preferred content style: UGC Videos<br>Alcohol, Gambling, or anything that harms the human body is extremely prohibited.</p><p><strong>Other information:</strong><br>We aim to provide reliable customer service and a smooth shopping experience for all customers.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "1st of each month (after you start earning)",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39273,
+  "categories": "Health & Beauty",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "14% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "Under 18"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States",
+    "Canada",
+    "Australia",
+    "Germany",
+    "France"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/adoraglow/register",
+  "offer_status": 2,
+  "name": "Adora Glow",
+  "website": "https://adoraglow.store",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 265072,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 312996,
+  "myshopify_domain": "79ezt5-tm.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "69eb7abb1ffaa3f576019572",
+      "name": "Auto-Discount Rule",
+      "program_id": 312996,
+      "shop_id": 265072,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": [
+            "8469431124013"
+          ]
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": true,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-04-24 14:14:19",
+      "created_at": "2026-04-24T14:14:19.768000Z",
+      "updated_at": "2026-04-24T14:14:19.768000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "20%",
+  "mkp_program_id": 312996,
+  "product_list": []
+}

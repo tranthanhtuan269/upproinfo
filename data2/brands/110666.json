@@ -1,0 +1,164 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/646d68ff5e0c33aefe6042d15c6c7572.jpg",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:</p>\r\n<h4>FitBItes&reg; bubble tea flavored protein is made with real tea, matcha, and taro to provide you delicious bubble-tea flavored protein shakes. Long gone are the days of chalky chocolate. FitBites&reg;&nbsp;is changing the game with the best protein you've ever tasted!</h4>\r\n<h4>Why did we want to make our protein taste like bubble tea? Because we LOVE bubble tea, but we knew that we had to kick our sugar habit.</h4>\r\n<h4>No matter how badly we wanted to, we knew we couldn't keep drinking regular bubble tea like we used to. Whether it's the bloat from the lactose, the crash from all the sugar, or the expanding waistline from all the calories, bubble tea just didn't love us the way we love it. Then, an idea was born. What if we could have lactose-free bubble tea that's as good for us as it tastes. What if our bubble-tea could be made with all natural ingredients and pack a protein punch to help keep us fueled throughout the day? Such a thing would be amazing. Amazing indeed.</h4>\r\n<h4>Now with FitBites&reg;&nbsp;Bubble Tea protein flavors, we have bubble tea every day and we've never been happier. (Or healthier). We hope you'll join us on our bubble tea journey.</h4>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;&bull; Product description:</p>\r\n<ul>\r\n<li>Highest Protein Content in Class: At 25 G protein for 110 calories, other products can&rsquo;t compete with FitBites protein powders. FitBites provides the highest quality in nutrition and health. No other flavored protein on the market offers the same amount of protein for as little calories. We do this by using high grade whey protein isolate and real ingredients, instead of added flavorings.</li>\r\n</ul>\r\n<ul>\r\n<li>Bubble Tea Flavor Without the Sugar: FitBites flavor delivery has been repeatedly tested and optimized to minimize protein after taste and maximizes deliciousness. This guilt-free protein shake tastes amazing, and comes with NO SUGAR.</li>\r\n</ul>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br>&bull; USP (Unique Selling Point): Bubble Tea flavored (Brown sugar milk tea, milk tea, matcha, taro) Protein powder</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.33,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 26028,
+  "categories": "Sports & Entertainment, Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/fitbitesprotein/register",
+  "offer_status": 2,
+  "name": "FitBitesProtein",
+  "website": "https://fitbitesprotein.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 110666,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.17,
+  "program_id": 125588,
+  "myshopify_domain": "fitbitesprotein.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 81.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "8.82%",
+  "mkp_program_id": 125588,
+  "product_list": []
+}

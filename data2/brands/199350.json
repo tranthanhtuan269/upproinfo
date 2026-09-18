@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1749199767_3808391_154cbadce97670089f6814d453fcd3b0.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p style=\"text-align:left;font-size: 14px;font-weight: normal;\">• Brand introduction: OKHEALING specializes in high-performance fiber composite products made from carbon fiber and fiberglass, including billiard cues, trekking poles, canes, and paddles.<br>• Product description: Carbon fiber cues, Carbon fiber trekking poles, Carbon canes, Carbon paddles.<br>• USP (Unique Selling Point): Factory Direct Sale. Our factory that established in 2018, holds 11 utility model patents and ISO quality certification certificates.<br>• Payment terms: Paypal, Credit card</p></div></div>",
+  "payout_rate": "90.43%",
+  "payout_period": null,
+  "recommend_score": 4.1,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35831,
+  "categories": "Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "6% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 21,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States",
+    "Spain",
+    "Singapore",
+    "Greece",
+    "Germany",
+    "France",
+    "Belgium",
+    "Japan",
+    "Thailand"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "<div style=\"font-family:Poppins;\"><blockquote><p><b>Prohibited Paid Search (PPC) Activities</b></p><ol start=\"1\"><li><p><b>Strict Brand Bidding Ban:</b> Affiliates may not bid on \"OKhealing,\" \"OK healing,\" \"OK-healing,\" or any other trademarked terms or variations. This includes bidding on our brand name in combination with other words (e.g., \"OKhealing coupon\").</p></li><li><p><b>Negative Keyword Requirement:</b> Affiliates are <b>strictly required</b> to add \"OKhealing\" and its variations as <b>Negative Keywords</b> in their campaign settings to prevent \"Broad Match\" triggering.</p></li><li><p><b>Landing Page Requirement:</b> Direct linking to okhealing.shop or its subdomains from any paid search platform (Google Ads, Bing, etc.) is strictly prohibited. Traffic must be directed to the affiliate's own pre-landing page first.</p></li><li><p><b>Enforcement &amp; Clawback:</b> Any violation of this policy will result in the <b>immediate and permanent forfeiture</b> of all pending and future commissions associated with the violation. We reserve the right to terminate affiliate accounts immediately and seek reimbursement for any commissions already paid out under fraudulent pretenses.</p></li></ol></blockquote></div>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/b88bec-ad/register",
+  "offer_status": 2,
+  "name": "OKHEALING",
+  "website": "https://okhealing.shop",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 199350,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.13,
+  "program_id": 228086,
+  "myshopify_domain": "b88bec-ad.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 184,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "94.44%",
+  "mkp_program_id": 228086,
+  "product_list": []
+}

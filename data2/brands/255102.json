@@ -1,0 +1,172 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1771520736_456101_10caa6107bb45ece59c54fede6583a00.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p><span style=\"font-size:12px;\">About our brand and products:</span><br><span style=\"font-size:12px;\">CASALEO is a premium Pilates-focused brand for style-conscious women (20–40). We create high-quality, functional grip socks (and growing into Pilates equipment &amp; activewear) built for Reformer sessions and studio-to-street wear. </span></p><p><span style=\"font-size:12px;\">What makes us different:</span><br><span style=\"font-size:12px;\">We blend strong performance with an aesthetic-first, minimal-yet-fun design language. Key differentiators: reliable grip, premium feel, and multiple sizes for a better fit—plus real studio/instructor proximity and community credibility. </span></p><p><span style=\"font-size:12px;\">How affiliates can earn:</span><br><span style=\"font-size:12px;\">Affiliates earn a competitive commission on validated net sales via a unique tracking link and/or discount code. High performers can unlock tiered perks like higher rates, bonuses, early drops, and exclusive collab opportunities.</span></p><p><span style=\"font-size:12px;\">How to promote us:</span><br><span style=\"font-size:12px;\">Create short-form UGC: Reformer clips, “no slipping” tests, outfit styling, unboxing, and “Pilates + coffee” lifestyle moments. Share your code/link in captions, Stories, bio, and pinned posts; highlight bundles and giftable sets.</span></p><p><span style=\"font-size:12px;\">Other information:</span><br><span style=\"font-size:12px;\">We provide a media kit (brand assets, product photos, key talking points) and support with best-performing angles. Please disclose ads (#ad), avoid medical/health claims, and keep messaging premium, clean, and honest—performance + aesthetics.</span></p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.89,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38250,
+  "categories": "Apparel & Accessories",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Germany",
+    "Austria",
+    "Switzerland"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/casaleo/register",
+  "offer_status": 2,
+  "name": "casaleo",
+  "website": "https://casaleo.store",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 255102,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.67,
+  "program_id": 298735,
+  "myshopify_domain": "d0qwxa-un.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 58.03,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "6.06%",
+  "mkp_program_id": 298735,
+  "product_list": []
+}

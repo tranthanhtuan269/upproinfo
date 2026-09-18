@@ -1,0 +1,236 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1754928816_9989172_5bf88352b3a3bb9c31a758003fe63c3a.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p data-start=\"696\" data-end=\"978\" id=\"isPasted\">Welcome to the 21st Century Essential Affiliate Program!<br data-start=\"797\" data-end=\"800\">We specialize in premium Japanese baby diapers (Merries, Moony, Oyasumiman) trusted by parents for their skin-friendly comfort, leak protection and ultra-soft feel.</p><p data-start=\"472\" data-end=\"492\" id=\"isPasted\">✨ Why join us?</p><ul data-start=\"493\" data-end=\"932\"><li data-start=\"493\" data-end=\"537\"><p data-start=\"495\" data-end=\"537\">💵 Earn 15% commission on every sale</p></li><li data-start=\"538\" data-end=\"631\"><p data-start=\"540\" data-end=\"631\">🎯 Our store has a high conversion rate, thanks to a loyal and very reliable audience</p></li><li data-start=\"632\" data-end=\"715\"><p data-start=\"634\" data-end=\"715\">🔄 Most of our customers are repeat buyers, giving you more chances to earn</p></li><li data-start=\"716\" data-end=\"784\"><p data-start=\"718\" data-end=\"784\">🎟 Get exclusive coupon codes on request to boost your sales</p></li><li data-start=\"785\" data-end=\"847\"><p data-start=\"787\" data-end=\"847\">🏆 Top affiliates receive bonus commissions each month</p></li><li data-start=\"848\" data-end=\"881\"><p data-start=\"850\" data-end=\"881\">📦 Fast, reliable next business day US shipping</p></li><li data-start=\"882\" data-end=\"932\"><p data-start=\"884\" data-end=\"932\">🤝 Friendly affiliate support to help you grow</p></li></ul><p data-start=\"934\" data-end=\"1015\">Promote a brand parents ❤️ and enjoy strong sales from a trusted customer base!</p></div></div>",
+  "payout_rate": "100%",
+  "payout_period": "Payments are sent on the 15th of each month via PayPal or DC for the previous month’s earnings.",
+  "recommend_score": 1.59,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36230,
+  "categories": "Toys & Hobbies, Mom & Kids",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "10%-20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "social_media_ads",
+    "search_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "undefined",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/21stcenturyessential/register",
+  "offer_status": 2,
+  "name": "21st Century Essential",
+  "website": "https://21stcenturyessential.com",
+  "hashtags": [
+    "#babyproducts",
+    "#parenting",
+    "#japanesediapers",
+    "#momlife",
+    "#ecobaby",
+    "#merries",
+    "#moony",
+    "#oyasumiman",
+    "#motherhood",
+    "#baby",
+    "#parents"
+  ],
+  "shop_id": 167236,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "150",
+      "commission_val": "15",
+      "disabled": false
+    }
+  ],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.3,
+  "program_id": 190178,
+  "myshopify_domain": "21stcenturyessential.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "68d24da95d235d1f70010eda",
+      "name": "Auto-discount rule",
+      "program_id": 190178,
+      "shop_id": 167236,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:35:05",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "5% per order",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "96%",
+  "mkp_program_id": 190178,
+  "product_list": []
+}

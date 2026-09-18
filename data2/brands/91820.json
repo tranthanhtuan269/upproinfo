@@ -1,0 +1,223 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/6c5fc0015e8eb6f521e4d7754161f05e.png",
+  "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"h-full\">\r\n<div class=\"react-scroll-to-bottom--css-ncuix-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-ncuix-1n7m0yu\">\r\n<div class=\"flex flex-col text-sm\">\r\n<div class=\"w-full text-token-text-primary\" dir=\"auto\" data-testid=\"conversation-turn-3\" data-scroll-anchor=\"true\">\r\n<div class=\"py-2 juice:py-[18px] px-3 text-base md:px-4 m-auto md:px-5 lg:px-1 xl:px-5\">\r\n<div class=\"mx-auto flex flex-1 gap-3 text-base juice:gap-4 juice:md:gap-5 juice:lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem]\">\r\n<div class=\"group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div data-message-author-role=\"assistant\" data-message-id=\"873cdab2-4945-45c8-8bf0-20d22b5d8993\" dir=\"auto\" class=\"min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-3\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n<p>Marco Bucci Art Store is a vibrant online destination for art enthusiasts and collectors alike. Featuring a diverse array of original paintings, prints, and digital artwork, the store showcases Marco Bucci's distinctive style and creative vision. From stunning landscapes to captivating abstract compositions, each piece reflects Bucci's mastery of color, texture, and form. Whether you're looking to enhance your living space or add to your art collection, Marco Bucci Art Store offers something unique and inspiring for every taste and preference. Discover the beauty and creativity of Marco Bucci's work through his online store today.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Our program is free to join, it&rsquo;s easy to sign-up and requires no technical knowledge. Affiliate programs are common throughout the Internet and offer website owners an additional way to profit from their websites. Affiliates generate traffic and sales for commercial websites and in return receive a commission payment.</p>\r\n<h2>How Does It Work?</h2>\r\n<p>When you join our affiliate program, you will be supplied with a custom id that you can use to link to any page on marcobucciartstore.com. When a user clicks on one of your custom links, a cookie will be saved in their browser. When that user purchases something from the Marco Bucci Art store, you will receive a commission based on your commission type. Our cookies last for 30 days.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30896,
+  "categories": "Art, Books",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "18-24",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/marcobucci/register",
+  "offer_status": 2,
+  "name": "Marco Bucci Art Store",
+  "website": "https://marcobucciartstore.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 91820,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.94,
+  "program_id": 104797,
+  "myshopify_domain": "marcobucci.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Australia",
+    "Austria",
+    "Bahamas",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Brazil",
+    "Canada",
+    "Cayman Islands",
+    "Costa Rica",
+    "Croatia",
+    "Czech Republic",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "French Polynesia",
+    "Germany",
+    "Greece",
+    "Greenland",
+    "Hungary",
+    "Iceland",
+    "India",
+    "Indonesia",
+    "Ireland",
+    "Isle of Man",
+    "Italy",
+    "Japan",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Mexico",
+    "Montenegro",
+    "Montserrat",
+    "Morocco",
+    "Netherlands",
+    "New Zealand",
+    "Norway",
+    "Peru",
+    "Philippines",
+    "Poland",
+    "Portugal",
+    "Saint Martin",
+    "Singapore",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Thailand",
+    "Turkey",
+    "Ukraine",
+    "United Arab Emirates",
+    "United Kingdom",
+    "United States",
+    "Vatican City",
+    "Venezuela",
+    "Vietnam"
+  ],
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "11.11%",
+  "mkp_program_id": 104797,
+  "product_list": []
+}

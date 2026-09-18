@@ -1,0 +1,161 @@
+{
+  "logo": null,
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>&bull; Brand Introduction:</strong>&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">👨&zwj;💻 Welcome to Programmer Merch &ndash; Your One-Stop Shop for Developer and Tech Enthusiast Gear! 👕🎉 💻🚀 Our store is packed with a wide range of high-quality, unique apparel designed just for developers, coders, and techies. Show off your love for all things code! 👕🔥</p>\r\n<p><strong>&bull; Product Description:</strong></p>\r\n<p>At Programmer Merch, we offer high-quality, stylish apparel designed for developers, coders, and tech enthusiasts. Our collections feature unique designs that resonate with the programming community, with daily releases of shirts and sweatshirts. Whether you're looking for casual wear to represent your coding passion or a cozy hoodie for those long coding sessions, Programmer Merch has you covered. We blend comfort with creativity, using premium fabrics and cutting-edge printing techniques.</p>\r\n<p><strong>&bull; USP (Unique Selling Point):</strong></p>\r\n<p>Programmer Merch stands out by offering exclusive, programmer-themed apparel that celebrates the coding lifestyle. With daily drops for the first 31 days, we continuously provide fresh, trendy designs, ensuring that there's always something new for the tech community. Our products are designed with both style and functionality in mind&mdash;perfect for both the office and casual wear. We also cater specifically to programmer girlfriends with unique and fun designs they can wear to support their loved ones.</p>\r\n<p><strong>&bull; Payment Terms:</strong></p>\r\n<p>We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and select digital wallets. Payments are processed securely to ensure the protection of your data. Orders are charged at the time of purchase, and shipping will commence upon successful payment.</p>\r\n<p><strong>&bull; Other Information:</strong></p>\r\n<p>Our return policy allows for a 14-day return period for USA customers only. All items must be unworn and in their original packaging. Programmer Merch takes pride in offering fast and reliable shipping, with most orders processed within 2-3 business days. Be sure to sign up for our newsletter to stay informed on exclusive deals, new product releases, and upcoming sales.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32346,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1727273880_1147014_003cb2e5886ebb17f26806cd705cd825.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok",
+    "Youtube",
+    "Twitter",
+    "Reddit"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/71b95c-d9/register",
+  "offer_status": 2,
+  "name": "ProgrammerMerch",
+  "website": "https://programmermerch.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 168487,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.05,
+  "program_id": 191637,
+  "myshopify_domain": "71b95c-d9.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "92.86%",
+  "mkp_program_id": 191637,
+  "product_list": []
+}

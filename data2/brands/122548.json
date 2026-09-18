@@ -1,0 +1,204 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1745271214_9871691_6238efb04f60fa7c8c3264440d2c8cf4.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><h3 data-pm-slice=\"1 1 []\" id=\"isPasted\"><strong>Brand Introduction</strong></h3><p>Born and established in London, <strong>skinnovationLab®</strong> is a pioneering British beauty tech brand dedicated to bringing <strong>professional-grade skincare treatments into the home</strong>. Our award-winning collection of beauty devices, featuring advanced in-house technology, is <strong>clinically proven to tone, firm, and reduce wrinkles</strong>, enabling users to achieve their best skin yet.</p><hr><h3><strong>Product Description</strong></h3><p>skinnovationLab® offers an exclusive range of high-performance skincare devices, including:</p><ul data-spread=\"false\"><li><p><strong>Crystal Ultra 336 MX‑LED</strong>: Professional-grade LED skincare.</p></li><li><p><strong>Muse 3D RF 430C</strong>: Advanced 3D Multi-Polar Radio Frequency Technology.</p></li><li><p>Devices specifically designed for anti-ageing, acne treatment, brightening, hydration, redness relief, collagen enhancement, and texture improvement.</p></li></ul><p>All products are clinically tested, backed by 2-year warranties, 30-day money-back guarantees, free shipping within the UK, Europe, and the Middle East, alongside 24/7 customer support.</p><hr><h3><strong>Unique Selling Point (USP)</strong></h3><ul data-spread=\"false\"><li><p><strong>Clinically-backed innovation</strong>: Immediate visible results and sustained skin health.</p></li><li><p><strong>Home spa experience</strong>: Award-winning design for salon-quality skincare at home.</p></li><li><p><strong>Premium customer service</strong>: Comprehensive support with warranties, returns, and expert advice.</p></li></ul><hr><h3><strong>Payment Terms</strong></h3><p>Affiliates earn commissions based on the order value:</p><ul data-spread=\"false\"><li><p>£0 - £99: <strong>0% commission</strong></p></li><li><p>£100 - £249: <strong>5% commission</strong></p></li><li><p>£250 - £499: <strong>10% commission</strong></p></li><li><p>£500 and above: <strong>12% commission</strong></p></li></ul><p>Cookie duration: 30 days<br>Payout schedule: Monthly payouts via PayPal or Bank Transfer once the minimum threshold is reached.</p><hr><h3><strong>Other Information</strong></h3><ul data-spread=\"false\"><li><p>Affiliates have access to high-quality promotional materials (banners, images, text links).</p></li><li><p>Regular campaign updates, exclusive affiliate offers, and dedicated affiliate support.</p></li><li><p>Ideal for influencers and marketers targeting beauty enthusiasts, technology-focused consumers, and luxury skincare audiences.</p></li><li><p>Attractive introductory offers available for first-time buyers across the UK, Europe, and the Middle East.</p></li></ul><p><br></p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.26,
+  "average_earning_per_sale": "40",
+  "video_url": null,
+  "mkp_listing_id": 35794,
+  "categories": "Beauty & Health",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "0%-12% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Blog",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "Turkey",
+    "Switzerland",
+    "Netherlands",
+    "Germany",
+    "Italy",
+    "France",
+    "United Arab Emirates",
+    "Sweden",
+    "Spain"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/skinovationlab/register",
+  "offer_status": 2,
+  "name": "SkinovationLab",
+  "website": "https://skinovationlab.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 122548,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "0",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "100",
+      "commission_val": "5",
+      "disabled": false
+    },
+    {
+      "key": 3,
+      "order_val": "250",
+      "commission_val": "10",
+      "disabled": false
+    },
+    {
+      "key": 4,
+      "order_val": "500",
+      "commission_val": "12",
+      "disabled": false
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.97,
+  "program_id": 138962,
+  "myshopify_domain": "b7ad00-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 526.67,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 138962,
+  "product_list": []
+}

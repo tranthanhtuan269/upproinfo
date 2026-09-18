@@ -1,0 +1,178 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1723847049_2796908_f2a331f340ab675195777cf3c3eb92aa.png",
+  "description": "<p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Phase 1 is all about helping people level up. We&rsquo;re a supplement brand focused on boosting mental performance so you can stay sharp, focused, and energized all day. Whether you&rsquo;re studying, working, or just living life, we&rsquo;ve got you covered.</span></p>\r\n<p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Our flagship product, DIAL IN Nootropic Drops, combines Caffeine, L-Theanine, L-tyrosine, Citicoline, and Vitamin B12 to keep you locked in and on top of your game. It&rsquo;s the perfect way to get a clean, crash-free energy boost whenever you need it.</span></p>\r\n<p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">DIAL IN is different because we mix natural caffeine with nootropics to give you that mental edge without the jitters or crash like other stimulants. Plus, with all-natural clean ingredients and a 30-day risk-free trial, its a top choice for anyone looking to get laser focused.&nbsp;</span></p>\r\n<p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Affiliates will be given a monthly rate plus earn 30% commission on every sale made through their link, paid out monthly.<br><br></span>Our most popular customers are people with ADHD looking for natural alternatives to stimulants, working professionals looking to increase their productivity, and people looking for a mental boost after a late-night of drinking.<br><br><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">We&rsquo;ve got your back with dedicated support, marketing tools, and opportunities to work on exciting campaigns. Join us in promoting a product that delivers real, proven results.</span></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.72,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 31659,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Tiktok",
+    "Instagram",
+    "Youtube",
+    "Facebook",
+    "Twitter",
+    "Pinterest",
+    "Reddit",
+    "Content or Niche website",
+    "Podcast platforms",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Twitch"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada",
+    "Mexico"
+  ],
+  "payment_support": {
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Phase1/register",
+  "offer_status": 2,
+  "name": "Phase 1",
+  "website": "https://startphase1.com/products/format?variant=43668717600949&selling_plan=1297023157",
+  "hashtags": [
+    "#nootropics",
+    "#brainhealth",
+    "#selfimprovement",
+    "#fitness",
+    "#adhd",
+    "#focus",
+    "#productivity",
+    "#brainfog"
+  ],
+  "shop_id": 161496,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.25,
+  "program_id": 183728,
+  "myshopify_domain": "2ec399-4.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 37.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "96.97%",
+  "mkp_program_id": 183728,
+  "product_list": []
+}

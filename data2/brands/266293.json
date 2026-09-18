@@ -1,0 +1,186 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1777043389_3847613_43edd9c84c5be7ba7e8ee5fed50fac86.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>• About our brand and products:</p><p>Ellasie is a fast-growing women’s wellness brand focused on intimate balance, gut health, and daily self-care. Our products are designed for real results, using targeted ingredients women actually need.</p><p>• What makes us different:</p><p>We focus on high-converting products with strong demand and proven customer interest. Affiliates benefit from a brand that already converts well, making it easier to generate consistent commissions.</p><p>• How affiliates can earn:</p><p>Earn 15% commission on every sale you generate. We also reward top-performing partners with bonuses, higher commission tiers, and exclusive opportunities as you grow.</p><p>• How to promote us:</p><p>Promote using TikTok, Instagram, YouTube, or any content platform. You’ll receive your own affiliate link and discount code, plus access to ready-to-use creatives and content assets.</p><p>• Other information:</p><p>We are actively looking for content creators and influencers in women’s wellness, lifestyle, and self-care. If you have an engaged audience and want to monetize it with a proven product, we’d love to work with you.</p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "Commissions are reviewed and paid monthly via PayPal. Payments are processed within the first 7–10 days of each month for the previous month’s earnings.",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39275,
+  "categories": "Health & Beauty",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "cashback",
+    "display_banner",
+    "adult_pornographic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "Netherlands",
+    "Belgium",
+    "Germany",
+    "Sweden",
+    "Finland",
+    "France",
+    "Spain",
+    "Portugal",
+    "Ireland"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ellasie/register",
+  "offer_status": 2,
+  "name": "Ellasie",
+  "website": "https://ellasie.com",
+  "hashtags": [
+    "#womenswellness",
+    "#selfcare",
+    "#guthealth",
+    "#intimatehealth",
+    "#wellnessproducts",
+    "#supplements",
+    "#healthylifestyle",
+    "#contentcreator",
+    "#tiktokcreator",
+    "#affiliatemarketing"
+  ],
+  "shop_id": 266293,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 314481,
+  "myshopify_domain": "f4bfe7-43.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 35.66,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "19.35%",
+  "mkp_program_id": 314481,
+  "product_list": []
+}

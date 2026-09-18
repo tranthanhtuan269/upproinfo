@@ -1,0 +1,168 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1734044018_481329_a8791d5bd49a3ec2f45e0a7663fbebdb.png",
+  "description": "<h3>Join the Electric Bike Super Shop Affiliate Program: Earn 4% Commission on Every Sale!</h3>\r\n<p>Are you passionate about electric bikes? Do you love sharing the benefits of eBiking with others? Join the Electric Bike Super Shop Affiliate Program and turn your enthusiasm into earnings!</p>\r\n<h4>Why Join Our Affiliate Program?</h4>\r\n<p>With our program, you&rsquo;ll earn <strong>4% commission</strong> on every sale generated through your affiliate link or coupon code. Whether you&rsquo;re a blogger, social media influencer, or simply someone who loves eBikes, this is your chance to monetize your audience while promoting the best electric bike shop.</p>\r\n<h4>Here&rsquo;s How It Works:</h4>\r\n<ol>\r\n<li><strong>Sign Up for Free</strong> &ndash; Getting started is easy and costs nothing.</li>\r\n<li><strong>Promote Electric Bikes</strong> &ndash; Share your unique affiliate link or coupon code through your channels.</li>\r\n<li><strong>Earn 4% on Every Sale</strong> &ndash; When someone makes a purchase using your referral, you get paid!</li>\r\n</ol>\r\n<h4>Benefits of Partnering with Us:</h4>\r\n<ul>\r\n<li><strong>Top-Tier Products:</strong> Electric Bike Super Shop is a trusted destination for premium electric bikes and accessories.</li>\r\n<li><strong>Generous 4% Commission:</strong> Maximize your earning potential with every sale you refer.</li>\r\n<li><strong>Marketing Resources:</strong> We provide you with everything you need&mdash;banners, product photos, and exclusive deals to share with your audience.</li>\r\n<li><strong>Fast Payments:</strong> Enjoy timely payouts so you can focus on growing your earnings.</li>\r\n</ul>\r\n<h4>Who Can Join?</h4>\r\n<ul>\r\n<li>Influencers and bloggers passionate about sustainable transportation</li>\r\n<li>YouTubers creating content about electric bikes and adventures</li>\r\n<li>Anyone with a community that loves eBikes and outdoor fun!</li>\r\n</ul>\r\n<h4>Start Earning Today!</h4>\r\n<p>Don&rsquo;t miss the opportunity to partner with Electric Bike Super Shop. Help spread the word about the joys of electric biking and get rewarded for your efforts.</p>\r\n<p><strong>Ready to roll?</strong> Sign up now and start earning with every referral!</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 2.02,
+  "average_earning_per_sale": "100",
+  "video_url": null,
+  "mkp_listing_id": 33591,
+  "categories": "Automobiles & Motorcycles, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "2% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 120,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Facebook",
+    "Tiktok",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ebikesupershop/register",
+  "offer_status": 2,
+  "name": "eBike Super Shop",
+  "website": "https://ebikesupershop.com",
+  "hashtags": [
+    "#electricbikes",
+    "#ebikes",
+    "#ebike",
+    "#electricmotorcycles"
+  ],
+  "shop_id": 179464,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.51,
+  "program_id": 204598,
+  "myshopify_domain": "d2d393-33.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 246,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "10%",
+  "mkp_program_id": 204598,
+  "product_list": []
+}

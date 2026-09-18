@@ -1,0 +1,187 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1694080403_6547974_e032701da808331c15d60cc1cc7df81bAsset 11.png",
+  "description": "<div style=\"font-family: Poppins;\"><h3 style=\"box-sizing: border-box; font-family: var(--hFontFamily); color: rgb(0, 0, 0); margin: 0px 0px 15px; font-size: var(--hSize); font-weight: var(--hWeight); line-height: var(--hLine); text-transform: var(--hTxTransform); padding: 0px; overflow-wrap: break-word; word-break: normal; background-color: rgb(255, 255, 255);\">WELCOME TO BLUSHWOOD HEALTH! WE ARE A TEAM OF PASSIONATE INDIVIDUALS WHO ARE DEDICATED TO BRINGING THE POWER OF BLUSHWOOD TO PEOPLE AROUND THE WORLD.</h3><p style=\"box-sizing: border-box; overflow-wrap: break-word; word-break: normal; color: rgb(0, 0, 0); font-family: Helvetica, 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); margin-bottom: 15px;\">Native to the rainforests of Australia, Blushwood berries have been used traditionally by Indigenous Australians for their medicinal properties. Today, we are proud to offer a selection of high-quality Blushwood berry products, including supplements&nbsp;and tinctures, all made from sustainably sourced berries.</p><p style=\"box-sizing: border-box; overflow-wrap: break-word; word-break: normal; color: rgb(0, 0, 0); font-family: Helvetica, 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); margin-bottom: 15px;\">At Blushwood Health, we believe in the potent health benefits of Blushwood and are dedicated to sharing them with our customers. Our selection of products is designed to support your immune system, reduce inflammation, and improve the appearance of your skin.</p><p style=\"box-sizing: border-box; overflow-wrap: break-word; word-break: normal; color: rgb(0, 0, 0); font-family: Helvetica, 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); margin-bottom: 15px;\">We are committed to providing our customers with the highest quality products and exceptional customer service. When you shop with us, you can trust that you are getting products that are pure, natural, and made with care.</p></div>",
+  "payout_rate": "74.19%",
+  "payout_period": "1st of each month",
+  "recommend_score": 3.3,
+  "average_earning_per_sale": "6.70",
+  "video_url": "https://www.youtube.com/watch?v=mChYlX02qaA",
+  "mkp_listing_id": 19562,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Arab Emirates",
+    "Austria",
+    "Australia",
+    "Canada",
+    "Switzerland",
+    "Germany",
+    "France",
+    "United Kingdom",
+    "New Zealand",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/blushwood-health/register",
+  "offer_status": 2,
+  "name": "Blushwood Health",
+  "website": "https://blushwood.health/",
+  "hashtags": [
+    "#health",
+    "#supplements",
+    "#blushwood",
+    "#ebc46",
+    "#collagen"
+  ],
+  "shop_id": 80831,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.36,
+  "program_id": 92624,
+  "myshopify_domain": "blushwood-health.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 143.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "99.66%",
+  "mkp_program_id": 92624,
+  "product_list": []
+}

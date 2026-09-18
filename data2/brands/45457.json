@@ -1,0 +1,141 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1648540489_3409941_717e3668415b96602740a884b7a743bcScreen Shot 2022-03-29 at 10.53.00 AM.png",
+  "description": "<h1 class=\"product__title\" style=\"box-sizing: inherit; font-family: Assistant, sans-serif; font-weight: var(--font-heading-weight); letter-spacing: calc(var(--font-heading-scale) * 0.06rem); line-height: calc(1 + 0.3/max(1,var(--font-heading-scale))); font-size: calc(var(--font-heading-scale) * 4rem); margin-top: 0px; margin-bottom: 1.5rem; word-break: break-word;\">\"Tony and the Pony\" Bed Set For Kids That Comes to Life!</h1><h1 class=\"product__title\" style=\"box-sizing: inherit; font-family: Assistant, sans-serif; font-weight: var(--font-heading-weight); letter-spacing: calc(var(--font-heading-scale) * 0.06rem); line-height: calc(1 + 0.3/max(1,var(--font-heading-scale))); font-size: calc(var(--font-heading-scale) * 4rem); margin-top: 0px; margin-bottom: 1.5rem; word-break: break-word;\"><strong style=\"font-family: Poppins, sans-serif; box-sizing: inherit;\">MAGICAL EXPERIENCE:&nbsp;</strong><span style=\"font-family: Poppins, sans-serif; font-size: var(--size-body);\">Let your kids dive into a whole new world of interactive, 3D storytelling! Our bed set offers your kids a top sleep experience and exceptional entertainment for both day and night.</span></h1><h1 class=\"product__title\" style=\"box-sizing: inherit; font-family: Assistant, sans-serif; font-weight: var(--font-heading-weight); letter-spacing: calc(var(--font-heading-scale) * 0.06rem); line-height: calc(1 + 0.3/max(1,var(--font-heading-scale))); font-size: calc(var(--font-heading-scale) * 4rem); margin-top: 0px; margin-bottom: 1.5rem; word-break: break-word;\"><span style=\"font-family: Poppins, sans-serif; font-size: var(--size-body);\">Earn a 20% commission for every sale with 30 days cookie!</span></h1>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.87,
+  "average_earning_per_sale": null,
+  "video_url": "https://www.youtube.com/watch?v=3MHCaD11Czc&feature=emb_imp_woyt",
+  "mkp_listing_id": 13050,
+  "categories": "Home & Tools, Mom & Kids, Gaming",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/nogili/register",
+  "offer_status": 2,
+  "name": "MyNogili",
+  "website": "https://mynogili.com",
+  "hashtags": [],
+  "shop_id": 45457,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.87,
+  "program_id": 66107,
+  "myshopify_domain": "mynogili.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "39.29%",
+  "mkp_program_id": 66107,
+  "product_list": []
+}

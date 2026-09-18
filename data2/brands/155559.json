@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1736440198_928376_af6eb66e111669baf795cccf09cdd6c8.png",
+  "description": "<div style=\"font-family: Poppins;\"><p class=\"p1\" id=\"isPasted\">We’d love to have you join our affiliate program. As our affiliate, you’ll enjoy:</p><p class=\"p1\">&nbsp; &nbsp; • &nbsp; &nbsp;🎾 A free demo kit – includes four paddles (one from each model), eyewear, and accessories. The products are on us—you just cover shipping (approx. 10–20% of item value)</p><p class=\"p1\">&nbsp; &nbsp; • &nbsp; &nbsp;🟡 Exclusive deal – get competition balls for $1 each, minimum 100 balls, shipping included</p><p class=\"p1\">&nbsp; &nbsp; • &nbsp; &nbsp;💸 Custom discount code – give your community 10% off, stackable with other promotions for the best price</p><p class=\"p1\">&nbsp; &nbsp; • &nbsp; &nbsp;📈 Earn 8% commission on all net sales you refer</p><p class=\"p1\">&nbsp; &nbsp; • &nbsp; &nbsp;🚀 After just 3 referred orders, you’ll be upgraded to Ambassador status and earn 16% commission</p><p class=\"p1\">&nbsp; &nbsp; • &nbsp; &nbsp;🤝 Referral bonus – receive $20 for every qualified player, coach, or community leader you refer to our program</p></div>",
+  "payout_rate": "89.58%",
+  "payout_period": null,
+  "recommend_score": 2.64,
+  "average_earning_per_sale": "20",
+  "video_url": "n",
+  "mkp_listing_id": 35964,
+  "categories": "Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "8% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Coupons or Deals website",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Podcast platforms",
+    "Quora",
+    "Reddit",
+    "Tiktok",
+    "Twitter",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Spain",
+    "Italy",
+    "Germany",
+    "Australia",
+    "New Zealand",
+    "Malaysia",
+    "Philippines",
+    "Singapore"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bbf84d-a6/register",
+  "offer_status": 2,
+  "name": "Astes Sports",
+  "website": "https://bbf84d-a6.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 155559,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.2800000000000002,
+  "program_id": 176924,
+  "myshopify_domain": "bbf84d-a6.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 122.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "99.36%",
+  "mkp_program_id": 176924,
+  "product_list": []
+}

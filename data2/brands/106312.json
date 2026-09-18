@@ -1,0 +1,189 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/705cb47a2a2dbea2e4fcf41d5897059a.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>&bull; Brand Introduction: </strong><br><span style=\"font-size: 12pt;\">At Jigoo, we believe that a comfortable home goes beyond the eye-pleasing appeal we typically see online, in magazines, and through social media. The definition of a comfortable home, for us, is where style and function go hand in hand to bring you the most tranquil experience for every member of the family&hellip; and that is whether your definition of family is being at peace alone with yourself or merry with a handful of kids plus pets under your 24/7 watch.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br><strong>&bull; USP (Unique Selling Point):</strong></p>\r\n<p><span style=\"font-size: 12pt;\">Original Dual Cups; Dust Mite Sensor; Metal Brushroll; 13KPa Suction; UV Light &amp; Ultrasonic Tech; Multi-Directional Heating</span></p>",
+  "payout_rate": "37.25%",
+  "payout_period": null,
+  "recommend_score": 3.34,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 25049,
+  "categories": "Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Austria",
+    "Germany",
+    "France",
+    "United Kingdom",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Sweden",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/jigoolife/register",
+  "offer_status": 2,
+  "name": "Jigoolife.com",
+  "website": "https://jigoolife.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 106312,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.76,
+  "program_id": 120764,
+  "myshopify_domain": "jigoolife.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 100.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "99.15%",
+  "mkp_program_id": 120764,
+  "product_list": []
+}

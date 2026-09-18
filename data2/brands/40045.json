@@ -1,0 +1,222 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1682590986_7118403_a7b056065c8c2be18c66630fc364feb7DT logo220704-02.png",
+  "description": "<h3 class=\"title\" style=\"margin: 0px 0px 20px; font-family: Poppins, Arial,;\"><span class=\"title\" style=\"background: none;\">THE DANNI &amp; TONI STORY</span></h3>\r\n<div class=\"content\" style=\"text-align: center; line-height: 22px; color: rgb(35, 35, 35); font-family: Poppins, Arial,;\">\r\n<div class=\"\">Danni &amp; Toni is a premium semi cured gel nail sticker brand based in California, that has over a decade experience in creating high-quality, salon-grade gel nail strips. What&rsquo;s best: these innovative nail stickers DO NOT harm your original nails! From now on, location, money, time and nail condition, all these elements are no longer be the obstacles for you to change nail styles! You can get salon-quality nail look by yourself, anytime, anywhere, and all in 10 mins.&nbsp;</div>\r\n</div>",
+  "payout_rate": "50.5%",
+  "payout_period": null,
+  "recommend_score": 5.26,
+  "average_earning_per_sale": "10",
+  "video_url": "https://www.youtube.com/channel/UCLVY69_xVvseWIWv3LAYZRg",
+  "mkp_listing_id": 17140,
+  "categories": "Fashion, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1715154634_3581116_85aef8ec0c32f6819392af89383a4713.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 10,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Canada",
+    "Germany",
+    "France",
+    "United Kingdom",
+    "Ireland",
+    "Puerto Rico",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/danni-toni/register",
+  "offer_status": 2,
+  "name": "Danni & Toni",
+  "website": "https://www.dannitoni.com",
+  "hashtags": [
+    "#semicuredgelnailsticker",
+    " #gelnailsticker"
+  ],
+  "shop_id": 40045,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.37,
+  "program_id": 44165,
+  "myshopify_domain": "danni-toni.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24d9e5d235d1f7000f7d7",
+      "name": "Auto-discount rule",
+      "program_id": 44165,
+      "shop_id": 40045,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:34:54",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 64.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "99.67%",
+  "mkp_program_id": 44165,
+  "product_list": []
+}

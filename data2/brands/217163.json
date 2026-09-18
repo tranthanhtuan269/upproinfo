@@ -1,0 +1,165 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1751915049_1578223_6990439d56cbb79750e5451992c7615d.png",
+  "description": "<div style=\"font-family: Poppins;\"><p class=\"font-inter my-2\" node=\"[object Object]\" style=\"line-height: 21px;\" id=\"isPasted\"><strong>• Introduction de la marque :</strong>LuxNaturae est une marque française spécialisée dans la fabrication de produits cosmétiques naturels et bio, conçus pour prendre soin de la peau tout en respectant l’environnement. Notre engagement est d’offrir des soins de haute qualité, élaborés à partir d’ingrédients naturels, pour une beauté saine et responsable.</p><p class=\"font-inter my-2\" node=\"[object Object]\" style=\"line-height: 21px;\"><strong>• Description des produits :</strong>Nous proposons une gamme complète de soins cosmétiques, comprenant des crèmes hydratantes, des sérums, des huiles essentielles, et des produits de bien-être. Chaque produit est formulé avec des ingrédients issus de l’agriculture biologique, sans parabènes, sulfates ou additifs synthétiques, pour garantir douceur et efficacité.</p><p class=\"font-inter my-2\" node=\"[object Object]\" style=\"line-height: 21px;\"><strong>• Point de vente unique (USP) :</strong>LuxNaturae se distingue par sa démarche éco-responsable, ses ingrédients 100% naturels et bio, et ses formulations innovantes qui allient science et nature. Notre engagement envers la durabilité, la transparence et la qualité premium fait de LuxNaturae une marque de confiance pour les consommateurs soucieux de leur santé et de l’environnement.</p><p class=\"font-inter my-2\" node=\"[object Object]\" style=\"line-height: 21px;\"><strong>• Conditions de paiement :</strong>Les commissions sont versées mensuellement, par virement bancaire ou autre mode de paiement convenu, dès que le seuil minimum de 20 € est atteint. Les paiements sont effectués dans un délai de 15 jours après la clôture de chaque mois. Il est important de mettre à jour vos coordonnées bancaires dans votre espace affilié pour assurer un traitement rapide.</p><p class=\"font-inter my-2\" node=\"[object Object]\" style=\"line-height: 21px;\"><strong>• Autres informations :</strong></p><ul class=\"list-disc list-outside font-inter\" node=\"[object Object]\" style=\"line-height: 21px;\"><li class=\" ml-4 list-outside font-inter\" node=\"[object Object]\" style=\"line-height: 21px;\">Tous les affiliés ont accès à une plateforme dédiée avec des ressources marketing (bannières, images, textes).</li><li class=\" ml-4 list-outside font-inter\" node=\"[object Object]\" style=\"line-height: 21px;\">La transparence et la conformité sont nos priorités : toutes nos communications et promotions doivent respecter notre charte éthique.</li><li class=\" ml-4 list-outside font-inter\" node=\"[object Object]\" style=\"line-height: 21px;\">Pour toute question ou assistance, contactez notre équipe à l’adresse <a href=\"mailto:support@luxnaturae.com\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-[#0000ff] hover:underline font-inter\">support@luxnaturae.com</a>.</li></ul></div>",
+  "payout_rate": "76.55%",
+  "payout_period": "le 1er de chaque mois",
+  "recommend_score": 3.5,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35989,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "social_media_ads",
+    "search_ads",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Male"
+  ],
+  "target_audience_locations": [
+    "France"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/891379-2/register",
+  "offer_status": 2,
+  "name": "Luxnaturae",
+  "website": "https://luxnaturae.fr",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 217163,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.59,
+  "program_id": 251112,
+  "myshopify_domain": "891379-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 50.62,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "88.24%",
+  "mkp_program_id": 251112,
+  "product_list": []
+}

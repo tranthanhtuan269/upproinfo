@@ -1,0 +1,164 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><p>Affiliate Program Description – NEVOR</p><p><br></p><p>NEVOR is a premium fashion brand focused on delivering modern, elegant, and high-quality apparel designed for individuals who value style, confidence, and exclusivity. Our products are carefully crafted with attention to detail, offering a luxury aesthetic that stands out in today’s fashion market.</p><p><br></p><p>What makes NEVOR different is our strong brand identity, minimalist luxury design, and commitment to quality. We focus on creating timeless pieces that can be worn for multiple occasions while maintaining a bold and sophisticated look.</p><p><br></p><p>Affiliates can earn commissions by promoting NEVOR products through their unique affiliate links and personalized discount codes. Every successful referral generates a commission, allowing affiliates to monetize their audience while promoting a trusted and growing fashion brand.</p><p><br></p><p>You can promote NEVOR through social media platforms such as Instagram and TikTok, using organic content, lifestyle videos, outfit inspirations, and product reviews. Monthly payouts are processed after order verification, ensuring transparency and reliability for our partners.</p></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Payouts are processed once per month, within the first 7 days of the following month, after order verification and return period.",
+  "recommend_score": 0.86,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37301,
+  "categories": "Uncategorized",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes"
+  ],
+  "target_audience_ages": [
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Dominican Republic",
+    "Haiti",
+    "France"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/zk5wn1-6g/register",
+  "offer_status": 2,
+  "name": "Nevor",
+  "website": "https://nervoht.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 243544,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.8,
+  "program_id": 284489,
+  "myshopify_domain": "zk5wn1-6g.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 284489,
+  "product_list": []
+}

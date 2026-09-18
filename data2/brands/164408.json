@@ -1,0 +1,177 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1733478570_1995511_dd498d59aeb5a82940259f9beace0c3b.png",
+  "description": "<p><strong>&ldquo;Join the Wild Stylar Affiliate Program!&rdquo;</strong></p>\r\n<p>At Wild Stylar, we&rsquo;re all about style, fandom, and community. If you&rsquo;re passionate about pop culture and fashion, this is your chance to earn while spreading the love.</p>\r\n<p>🌟<span>&nbsp;</span><strong>What&rsquo;s in it for you?</strong></p>\r\n<ul>\r\n<li><strong>Earn $4 per item</strong>: Every sale you drive through your unique affiliate link puts $4 directly in your pocket.</li>\r\n<li><strong>Fast Payouts</strong>: Flexibility to receive your earnings in as little as 3 days from your payout request.</li>\r\n<li><strong>Room for Growth</strong>: Sell 50 shirts? You&rsquo;ll receive an additional $2 per shirt sold. The more you sell, the more you earn!</li>\r\n</ul>\r\n<p>🚀<span>&nbsp;</span><strong>How It Works:</strong></p>\r\n<ol>\r\n<li><strong>Sign Up</strong>: Join our affiliate program&mdash;it&rsquo;s free!</li>\r\n<li><strong>Share</strong>: Get your personalized link and share it on TikTok, Instagram, Facebook, YouTube&mdash;wherever your audience hangs out.</li>\r\n<li><strong>Start Earning</strong>: Turn your passion into profit.</li>\r\n</ol>\r\n<p>👕<span>&nbsp;</span><strong>Why Wild Stylar?</strong><span>&nbsp;</span>We&rsquo;re not just a store; we&rsquo;re a creative journey. Together, we&rsquo;ll turn fandom into wearable art. Plus, our own merch is on the horizon&mdash;exclusive designs with our logo that&rsquo;ll make waves.</p>\r\n<p>Ready to level up your style game and your earnings? Welcome to the Wild Stylar team! 🎨👚</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "6",
+  "video_url": null,
+  "mkp_listing_id": 31854,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 1,
+  "commission": "$10.00 per item",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Facebook",
+    "Etsy",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States",
+    "United Arab Emirates",
+    "Germany",
+    "Spain",
+    "Italy",
+    "France",
+    "Australia",
+    "Poland",
+    "Turkey"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/lifevac/register",
+  "offer_status": 2,
+  "name": "CIVLIBRARY",
+  "website": "https://lifevackits.com/",
+  "hashtags": [
+    "#fashion",
+    "#clothes",
+    "#brand",
+    "#viral",
+    "#mearch"
+  ],
+  "shop_id": 164408,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.32,
+  "program_id": 186976,
+  "myshopify_domain": "8c7b5b.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "93.94%",
+  "mkp_program_id": 186976,
+  "product_list": []
+}

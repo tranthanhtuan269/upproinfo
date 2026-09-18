@@ -1,0 +1,178 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/ef66b5b0421f064ade3bfac085cf86de.png",
+  "description": "<div style=\"font-family: Poppins;\"><p>👕 <strong>Unleash Your Earnings Potential with Print Me Shirts – Canada’s Premier Print On Demand Custom Apparel Affiliate Program! Earn 10% Commission on Every Sale!</strong> 👕</p><p>Are you passionate about fashion and ready to turn your influence into income? Your golden opportunity is here! Print Me Shirts, Canada's leading Print On Demand company for custom apparel, invites you to be part of our thriving Affiliate Program and capitalize on the booming custom apparel industry.</p><p><strong>Why Choose Print Me Shirts?</strong></p><p>🌟 <strong>Premium-Quality Products:</strong> Deliver excellence to your audience with our top-tier custom shirts, hoodies, and more.</p><p>💼 <strong>Diverse Range of Designs:</strong> Cater to every style and preference with our extensive catalog of trendy graphics and personalized creations.</p><p>💰 <strong>Lucrative 10% Commission:</strong> Enjoy a generous commission of 10% on every sale generated through your unique affiliate link.</p><p>🌐 <strong>Canadian Print On Demand:</strong> Proudly based in Canada, Print Me Shirts ensures prompt and reliable fulfillment for your Canadian audience.</p><p>🚀 <strong>Swift Payouts:</strong> We believe in rewarding your efforts promptly. Get paid quickly and hassle-free.</p><p>📈 <strong>Real-Time Analytics:</strong> Optimize your strategies for maximum results using our user-friendly dashboard to track your performance.</p><p>🎯 <strong>Targeted Marketing Resources:</strong> Access a wealth of banners, social media content, and marketing materials to elevate your promotional game.</p><p>🤝 <strong>Dedicated Support:</strong> Our affiliate support team is here to assist you at every step, ensuring your success as a Print Me Shirts affiliate.</p></div>",
+  "payout_rate": "100%",
+  "payout_period": "Payouts are paid 30 days after the order has been fulfilled.",
+  "recommend_score": 3.11,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 28541,
+  "categories": "Fashion",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 15,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/print-me-shirts/register",
+  "offer_status": 2,
+  "name": "Print Me Shirts",
+  "website": "https://printmeshirts.com",
+  "hashtags": [
+    "#pod",
+    "#printondemand",
+    "#customapparel",
+    "#canadiancompany",
+    "#customtshirt",
+    "#customhoodies"
+  ],
+  "shop_id": 53445,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.19,
+  "program_id": 59743,
+  "myshopify_domain": "print-me-shirts.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 289.52,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "46.28%",
+  "mkp_program_id": 59743,
+  "product_list": []
+}

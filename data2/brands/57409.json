@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1743745177_2288822_f4da80d14536794675ecd172ad29254e.png",
+  "description": "<p data-end=\"260\" data-start=\"197\"><strong data-end=\"260\" data-start=\"197\">Join the Kitty Up Affiliate Program &ndash; Earn with Every Purr!</strong></p>\r\n<p data-end=\"522\" data-start=\"262\">Kitty Up is revolutionizing feline wellness with science-backed, functional treats and supplements made just for cats. Our products are created with precision nutrition, transparency, and care&mdash;trusted by cat parents who want the very best for their fur babies.</p>\r\n<p data-end=\"755\" data-start=\"524\">As a Kitty Up affiliate, you&rsquo;ll earn commission for every sale you refer. Whether you're a pet influencer, blogger, or fellow cat lover, we make it easy to share products that truly make a difference in feline health and longevity.</p>\r\n<p data-end=\"995\" data-start=\"757\"><strong data-end=\"770\" data-start=\"757\">Why Join?</strong><br data-end=\"773\" data-start=\"770\">🐾 Competitive commissions<br data-end=\"802\" data-start=\"799\">🐾 Trusted, premium brand with repeat customers<br data-end=\"852\" data-start=\"849\">🐾 High-converting products &amp; proven performance<br data-end=\"903\" data-start=\"900\">🐾 Creative assets and ongoing support<br data-end=\"944\" data-start=\"941\">🐾 Purr-worthy perks and bonuses for top performers</p>\r\n<p data-end=\"1143\" data-start=\"997\">Ready to help cats live healthier, happier, longer lives&mdash;while earning along the way? Sign up now and start sharing the future of feline wellness.</p>",
+  "payout_rate": "93.15%",
+  "payout_period": null,
+  "recommend_score": 1.79,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 12601,
+  "categories": "Grocery & Food, Pet supplies, Mom & Kids",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1743745076_5904823_a3ed2e0c801b4618f29c1313a3a90968.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/kittyupcats/register",
+  "offer_status": 2,
+  "name": "Kitty Up ",
+  "website": "https://www.kittyupcats.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 57409,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.49,
+  "program_id": 64496,
+  "myshopify_domain": "stoutandcake.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 49.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "16%",
+  "mkp_program_id": 64496,
+  "product_list": []
+}

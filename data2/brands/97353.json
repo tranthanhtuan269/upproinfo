@@ -1,0 +1,208 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1744354022_9364430_2de4a364bdb9424b22edf2b1459c72bd.png",
+  "description": "<p>Alcami Elements is a natural nootropic supplement that contains a blend of powerful ingredients, including:</p>\r\n<ul>\r\n<li>Cordyceps mushroom for energy, vitality, and immunity</li>\r\n<li>Lion's Mane mushroom for focus, mood, and memory</li>\r\n<li>Polygala root for mental clarity, sleep, and willpower</li>\r\n<li>Shilajit for energy, focus, and immunity</li>\r\n<li>He Shou Wu root for vitality, rejuvenation, and fertility</li>\r\n<li>Gynostemma leaf for anti-aging and stress resistance</li>\r\n<li>Mucuna Pruriens for brain function and sleep</li>\r\n<li>Astragalus root for immune and digestive function</li>\r\n<li>Reishi mushroom for calmness, energy, and immunity</li>\r\n</ul>\r\n<p>These natural ingredients work together to provide a comprehensive cognitive boost while supporting overall health and well-being.&nbsp;</p>\r\n<p>It&rsquo;s extremely delicious mixed with other drinks, coffee and smoothies or by itself. Most importantly it works, you actually feel calmer more focused and vibrant.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+  "payout_rate": "94.36%",
+  "payout_period": null,
+  "recommend_score": 6.92,
+  "average_earning_per_sale": "7.96",
+  "video_url": null,
+  "mkp_listing_id": 23104,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 90,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "<p>undefined</p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://partners.alcamielements.com/alcamielements/register",
+  "offer_status": 2,
+  "name": "alcamielements",
+  "website": "https://www.alcamielements.com",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#yoga",
+    "#meditation",
+    "#breathwork",
+    "#biohacking",
+    "#lifecoach",
+    "#selfimprovement",
+    "#performance"
+  ],
+  "shop_id": 97353,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 4.38,
+  "program_id": 110939,
+  "myshopify_domain": "alcamielements.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24da25d235d1f7001027d",
+      "name": "Auto-discount rule",
+      "program_id": 110939,
+      "shop_id": 97353,
+      "affiliates": [],
+      "discount_type": 2,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": "20%OFF",
+      "active_at": "2025-09-23 07:34:58",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 58.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "99.86%",
+  "mkp_program_id": 110939,
+  "product_list": []
+}

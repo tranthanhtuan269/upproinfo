@@ -1,0 +1,158 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742695714_5141274_d0b7c75d7e723d3b921ac1755a35d70c.png",
+  "description": "<p data-end=\"53\" data-start=\"0\">✨ <strong data-end=\"51\" data-start=\"2\">Join Our Affiliate Program &amp; Share the Trend!</strong> ✨</p>\r\n<p data-end=\"369\" data-start=\"55\">Hey, trendsetters! Are you ready to partner with a chic, girly online boutique that&rsquo;s all about fashion-forward styles and irresistible deals? Become an affiliate with us on <strong data-end=\"242\" data-start=\"229\">UpPromote</strong> and earn while sharing the latest in buttery-soft bodysuits, stylish tanks, and must-have wardrobe staples with your audience!</p>\r\n<p data-end=\"726\" data-start=\"371\">With every sale you drive, you&rsquo;ll earn a commission&mdash;plus, your followers will thank you for introducing them to a boutique filled with the softest fabrics, flattering fits, and head-turning styles. Whether you're a fashion influencer, blogger, or just love sharing your style, our affiliate program is the perfect way to monetize your passion for fashion.</p>\r\n<p data-end=\"755\" data-start=\"728\">🌟 <strong data-end=\"755\" data-start=\"731\">Why Partner With Us?</strong></p>\r\n<ul data-end=\"911\" data-start=\"756\">\r\n<li data-end=\"816\" data-start=\"756\">Trendy, high-quality pieces that your followers will adore</li>\r\n<li data-end=\"863\" data-start=\"817\">Competitive commissions &amp; special promotions</li>\r\n<li data-end=\"911\" data-start=\"864\">Access to exclusive affiliate content &amp; deals</li>\r\n</ul>\r\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"1083\" data-start=\"913\"></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35076,
+  "categories": "Fashion, Mom & Kids",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Tiktok",
+    "Instagram",
+    "Facebook",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "18-24",
+    "35-44",
+    "Under 18"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/everybabe-boutique/register",
+  "offer_status": 2,
+  "name": "Everybabe Boutique ",
+  "website": "https://www.everybabeboutique.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 201398,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.9,
+  "program_id": 230780,
+  "myshopify_domain": "everybabe-boutique.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "22.22%",
+  "mkp_program_id": 230780,
+  "product_list": []
+}

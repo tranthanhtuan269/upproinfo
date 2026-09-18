@@ -1,0 +1,692 @@
+2026-09-15 01:08:24,650 [INFO] Starting Batch Scan for Brand Metrics...
+2026-09-15 01:08:24,732 [INFO] Total brands: 9388. Already processed: 20. Remaining to scan: 9368
+2026-09-15 01:08:39,863 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:08:40,893 [INFO] Batch 1/469 done (+20 brands). Total: 40/9388 (0.43%). Elapsed: 16.2s
+2026-09-15 01:08:42,540 [INFO] Batch 2/469 done (+20 brands). Total: 60/9388 (0.64%). Elapsed: 17.8s
+2026-09-15 01:08:45,009 [INFO] Batch 3/469 done (+20 brands). Total: 80/9388 (0.85%). Elapsed: 20.3s
+2026-09-15 01:09:01,799 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:09:02,861 [INFO] Batch 4/469 done (+20 brands). Total: 100/9388 (1.07%). Elapsed: 38.1s
+2026-09-15 01:09:05,620 [INFO] Batch 5/469 done (+20 brands). Total: 120/9388 (1.28%). Elapsed: 40.9s
+2026-09-15 01:09:08,065 [INFO] Batch 6/469 done (+20 brands). Total: 140/9388 (1.49%). Elapsed: 43.3s
+2026-09-15 01:09:23,568 [INFO] Batch 7/469 done (+20 brands). Total: 160/9388 (1.7%). Elapsed: 58.8s
+2026-09-15 01:09:26,284 [INFO] Batch 8/469 done (+20 brands). Total: 180/9388 (1.92%). Elapsed: 61.6s
+2026-09-15 01:09:43,094 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:09:44,202 [INFO] Batch 9/469 done (+20 brands). Total: 200/9388 (2.13%). Elapsed: 79.5s
+2026-09-15 01:09:47,038 [INFO] Batch 10/469 done (+20 brands). Total: 220/9388 (2.34%). Elapsed: 82.3s
+2026-09-15 01:10:15,851 [INFO] Batch 11/469 done (+20 brands). Total: 240/9388 (2.56%). Elapsed: 111.1s
+2026-09-15 01:10:19,428 [INFO] Batch 12/469 done (+20 brands). Total: 260/9388 (2.77%). Elapsed: 114.7s
+2026-09-15 01:10:36,020 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:10:37,926 [INFO] Batch 13/469 done (+20 brands). Total: 280/9388 (2.98%). Elapsed: 133.2s
+2026-09-15 01:10:41,732 [INFO] Batch 14/469 done (+20 brands). Total: 300/9388 (3.2%). Elapsed: 137.0s
+2026-09-15 01:10:56,584 [INFO] Batch 15/469 done (+20 brands). Total: 320/9388 (3.41%). Elapsed: 151.9s
+2026-09-15 01:11:13,721 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:11:15,607 [INFO] Batch 16/469 done (+20 brands). Total: 340/9388 (3.62%). Elapsed: 170.9s
+2026-09-15 01:11:32,513 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:11:34,337 [INFO] Batch 17/469 done (+20 brands). Total: 360/9388 (3.83%). Elapsed: 189.6s
+2026-09-15 01:11:38,192 [INFO] Batch 18/469 done (+20 brands). Total: 380/9388 (4.05%). Elapsed: 193.5s
+2026-09-15 01:12:06,172 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:12:07,931 [INFO] Batch 19/469 done (+20 brands). Total: 400/9388 (4.26%). Elapsed: 223.2s
+2026-09-15 01:12:25,164 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:12:27,288 [INFO] Batch 20/469 done (+20 brands). Total: 420/9388 (4.47%). Elapsed: 242.6s
+2026-09-15 01:12:44,121 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:12:46,214 [INFO] Batch 21/469 done (+20 brands). Total: 440/9388 (4.69%). Elapsed: 261.5s
+2026-09-15 01:13:03,569 [INFO] Batch 22/469 done (+20 brands). Total: 460/9388 (4.9%). Elapsed: 278.8s
+2026-09-15 01:13:07,216 [INFO] Batch 23/469 done (+20 brands). Total: 480/9388 (5.11%). Elapsed: 282.5s
+2026-09-15 01:13:24,080 [INFO] Batch 24/469 done (+20 brands). Total: 500/9388 (5.33%). Elapsed: 299.3s
+2026-09-15 01:13:40,472 [INFO] Batch 25/469 done (+20 brands). Total: 520/9388 (5.54%). Elapsed: 315.7s
+2026-09-15 01:13:58,973 [INFO] Batch 26/469 done (+20 brands). Total: 540/9388 (5.75%). Elapsed: 334.2s
+2026-09-15 01:14:15,852 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:14:17,836 [INFO] Batch 27/469 done (+20 brands). Total: 560/9388 (5.97%). Elapsed: 353.1s
+2026-09-15 01:14:21,706 [INFO] Batch 28/469 done (+20 brands). Total: 580/9388 (6.18%). Elapsed: 357.0s
+2026-09-15 01:14:25,231 [INFO] Batch 29/469 done (+20 brands). Total: 600/9388 (6.39%). Elapsed: 360.5s
+2026-09-15 01:14:42,590 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:14:44,661 [INFO] Batch 30/469 done (+20 brands). Total: 620/9388 (6.6%). Elapsed: 379.9s
+2026-09-15 01:14:48,528 [INFO] Batch 31/469 done (+20 brands). Total: 640/9388 (6.82%). Elapsed: 383.8s
+2026-09-15 01:15:06,573 [INFO] Batch 32/469 done (+20 brands). Total: 660/9388 (7.03%). Elapsed: 401.8s
+2026-09-15 01:15:10,339 [INFO] Batch 33/469 done (+20 brands). Total: 680/9388 (7.24%). Elapsed: 405.6s
+2026-09-15 01:15:29,519 [INFO] Batch 34/469 done (+20 brands). Total: 700/9388 (7.46%). Elapsed: 424.8s
+2026-09-15 01:15:46,355 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:15:48,404 [INFO] Batch 35/469 done (+20 brands). Total: 720/9388 (7.67%). Elapsed: 443.7s
+2026-09-15 01:16:03,407 [INFO] Batch 36/469 done (+20 brands). Total: 740/9388 (7.88%). Elapsed: 458.7s
+2026-09-15 01:16:07,405 [INFO] Batch 37/469 done (+20 brands). Total: 760/9388 (8.1%). Elapsed: 462.7s
+2026-09-15 01:16:12,087 [INFO] Batch 38/469 done (+20 brands). Total: 780/9388 (8.31%). Elapsed: 467.4s
+2026-09-15 01:16:16,113 [INFO] Batch 39/469 done (+20 brands). Total: 800/9388 (8.52%). Elapsed: 471.4s
+2026-09-15 01:16:20,009 [INFO] Batch 40/469 done (+20 brands). Total: 820/9388 (8.73%). Elapsed: 475.3s
+2026-09-15 01:16:37,096 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:16:39,189 [INFO] Batch 41/469 done (+20 brands). Total: 840/9388 (8.95%). Elapsed: 494.5s
+2026-09-15 01:16:56,297 [INFO] Batch 42/469 done (+20 brands). Total: 860/9388 (9.16%). Elapsed: 511.6s
+2026-09-15 01:17:13,108 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:17:15,114 [INFO] Batch 43/469 done (+20 brands). Total: 880/9388 (9.37%). Elapsed: 530.4s
+2026-09-15 01:17:31,971 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:17:34,048 [INFO] Batch 44/469 done (+20 brands). Total: 900/9388 (9.59%). Elapsed: 549.3s
+2026-09-15 01:17:51,360 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:17:53,254 [INFO] Batch 45/469 done (+20 brands). Total: 920/9388 (9.8%). Elapsed: 568.5s
+2026-09-15 01:17:57,336 [INFO] Batch 46/469 done (+20 brands). Total: 940/9388 (10.01%). Elapsed: 572.6s
+2026-09-15 01:18:01,425 [INFO] Batch 47/469 done (+20 brands). Total: 960/9388 (10.23%). Elapsed: 576.7s
+2026-09-15 01:18:15,351 [INFO] Batch 48/469 done (+20 brands). Total: 980/9388 (10.44%). Elapsed: 590.6s
+2026-09-15 01:18:22,319 [INFO] Batch 49/469 done (+20 brands). Total: 1000/9388 (10.65%). Elapsed: 597.6s
+2026-09-15 01:18:26,799 [INFO] Batch 50/469 done (+20 brands). Total: 1020/9388 (10.86%). Elapsed: 602.1s
+2026-09-15 01:18:30,310 [INFO] Batch 51/469 done (+20 brands). Total: 1040/9388 (11.08%). Elapsed: 605.6s
+2026-09-15 01:18:34,202 [INFO] Batch 52/469 done (+20 brands). Total: 1060/9388 (11.29%). Elapsed: 609.5s
+2026-09-15 01:18:37,979 [INFO] Batch 53/469 done (+20 brands). Total: 1080/9388 (11.5%). Elapsed: 613.2s
+2026-09-15 01:18:54,927 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:18:56,863 [INFO] Batch 54/469 done (+20 brands). Total: 1100/9388 (11.72%). Elapsed: 632.1s
+2026-09-15 01:19:13,739 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:19:15,834 [INFO] Batch 55/469 done (+20 brands). Total: 1120/9388 (11.93%). Elapsed: 651.1s
+2026-09-15 01:19:19,883 [INFO] Batch 56/469 done (+20 brands). Total: 1140/9388 (12.14%). Elapsed: 655.2s
+2026-09-15 01:19:23,596 [INFO] Batch 57/469 done (+20 brands). Total: 1160/9388 (12.36%). Elapsed: 658.9s
+2026-09-15 01:19:39,819 [INFO] Batch 58/469 done (+20 brands). Total: 1180/9388 (12.57%). Elapsed: 675.1s
+2026-09-15 01:19:43,920 [INFO] Batch 59/469 done (+20 brands). Total: 1200/9388 (12.78%). Elapsed: 679.2s
+2026-09-15 01:20:04,117 [INFO] Batch 60/469 done (+20 brands). Total: 1220/9388 (13.0%). Elapsed: 699.4s
+2026-09-15 01:20:07,874 [INFO] Batch 61/469 done (+20 brands). Total: 1240/9388 (13.21%). Elapsed: 703.1s
+2026-09-15 01:20:11,966 [INFO] Batch 62/469 done (+20 brands). Total: 1260/9388 (13.42%). Elapsed: 707.2s
+2026-09-15 01:20:15,226 [INFO] Batch 63/469 done (+20 brands). Total: 1280/9388 (13.63%). Elapsed: 710.5s
+2026-09-15 01:20:18,970 [INFO] Batch 64/469 done (+20 brands). Total: 1300/9388 (13.85%). Elapsed: 714.2s
+2026-09-15 01:20:35,762 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:20:37,799 [INFO] Batch 65/469 done (+20 brands). Total: 1320/9388 (14.06%). Elapsed: 733.1s
+2026-09-15 01:20:41,260 [INFO] Batch 66/469 done (+20 brands). Total: 1340/9388 (14.27%). Elapsed: 736.5s
+2026-09-15 01:20:45,294 [INFO] Batch 67/469 done (+20 brands). Total: 1360/9388 (14.49%). Elapsed: 740.6s
+2026-09-15 01:20:49,367 [INFO] Batch 68/469 done (+20 brands). Total: 1380/9388 (14.7%). Elapsed: 744.6s
+2026-09-15 01:21:08,109 [INFO] Batch 69/469 done (+20 brands). Total: 1400/9388 (14.91%). Elapsed: 763.4s
+2026-09-15 01:21:12,068 [INFO] Batch 70/469 done (+20 brands). Total: 1420/9388 (15.13%). Elapsed: 767.3s
+2026-09-15 01:21:15,880 [INFO] Batch 71/469 done (+20 brands). Total: 1440/9388 (15.34%). Elapsed: 771.1s
+2026-09-15 01:21:19,277 [INFO] Batch 72/469 done (+20 brands). Total: 1460/9388 (15.55%). Elapsed: 774.5s
+2026-09-15 01:21:40,927 [INFO] Batch 73/469 done (+20 brands). Total: 1480/9388 (15.76%). Elapsed: 796.2s
+2026-09-15 01:21:44,705 [INFO] Batch 74/469 done (+20 brands). Total: 1500/9388 (15.98%). Elapsed: 800.0s
+2026-09-15 01:22:03,176 [INFO] Batch 75/469 done (+20 brands). Total: 1520/9388 (16.19%). Elapsed: 818.4s
+2026-09-15 01:22:07,451 [INFO] Batch 76/469 done (+20 brands). Total: 1540/9388 (16.4%). Elapsed: 822.7s
+2026-09-15 01:22:24,451 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:22:26,318 [INFO] Batch 77/469 done (+20 brands). Total: 1560/9388 (16.62%). Elapsed: 841.6s
+2026-09-15 01:22:43,150 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:22:45,333 [INFO] Batch 78/469 done (+20 brands). Total: 1580/9388 (16.83%). Elapsed: 860.6s
+2026-09-15 01:23:01,765 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:23:03,545 [INFO] Batch 79/469 done (+20 brands). Total: 1600/9388 (17.04%). Elapsed: 878.8s
+2026-09-15 01:23:21,894 [INFO] Batch 80/469 done (+20 brands). Total: 1620/9388 (17.26%). Elapsed: 897.2s
+2026-09-15 01:23:38,598 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:23:40,579 [INFO] Batch 81/469 done (+20 brands). Total: 1640/9388 (17.47%). Elapsed: 915.8s
+2026-09-15 01:23:44,116 [INFO] Batch 82/469 done (+20 brands). Total: 1660/9388 (17.68%). Elapsed: 919.4s
+2026-09-15 01:24:01,004 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:24:03,054 [INFO] Batch 83/469 done (+20 brands). Total: 1680/9388 (17.9%). Elapsed: 938.3s
+2026-09-15 01:24:19,544 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:24:21,659 [INFO] Batch 84/469 done (+20 brands). Total: 1700/9388 (18.11%). Elapsed: 956.9s
+2026-09-15 01:24:38,551 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:24:40,431 [INFO] Batch 85/469 done (+20 brands). Total: 1720/9388 (18.32%). Elapsed: 975.7s
+2026-09-15 01:24:44,097 [INFO] Batch 86/469 done (+20 brands). Total: 1740/9388 (18.53%). Elapsed: 979.4s
+2026-09-15 01:24:48,024 [INFO] Batch 87/469 done (+20 brands). Total: 1760/9388 (18.75%). Elapsed: 983.3s
+2026-09-15 01:25:04,889 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:25:06,727 [INFO] Batch 88/469 done (+20 brands). Total: 1780/9388 (18.96%). Elapsed: 1002.0s
+2026-09-15 01:25:23,306 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:25:25,246 [INFO] Batch 89/469 done (+20 brands). Total: 1800/9388 (19.17%). Elapsed: 1020.5s
+2026-09-15 01:25:41,831 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:25:43,757 [INFO] Batch 90/469 done (+20 brands). Total: 1820/9388 (19.39%). Elapsed: 1039.0s
+2026-09-15 01:26:00,533 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:26:02,255 [INFO] Batch 91/469 done (+20 brands). Total: 1840/9388 (19.6%). Elapsed: 1057.5s
+2026-09-15 01:26:19,312 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:26:21,241 [INFO] Batch 92/469 done (+20 brands). Total: 1860/9388 (19.81%). Elapsed: 1076.5s
+2026-09-15 01:26:38,346 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:26:40,251 [INFO] Batch 93/469 done (+20 brands). Total: 1880/9388 (20.03%). Elapsed: 1095.5s
+2026-09-15 01:26:57,117 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:26:59,029 [INFO] Batch 94/469 done (+20 brands). Total: 1900/9388 (20.24%). Elapsed: 1114.3s
+2026-09-15 01:27:15,378 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:27:17,322 [INFO] Batch 95/469 done (+20 brands). Total: 1920/9388 (20.45%). Elapsed: 1132.6s
+2026-09-15 01:27:34,263 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:27:36,266 [INFO] Batch 96/469 done (+20 brands). Total: 1940/9388 (20.66%). Elapsed: 1151.5s
+2026-09-15 01:27:53,345 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:27:55,333 [INFO] Batch 97/469 done (+20 brands). Total: 1960/9388 (20.88%). Elapsed: 1170.6s
+2026-09-15 01:28:13,775 [INFO] Batch 98/469 done (+20 brands). Total: 1980/9388 (21.09%). Elapsed: 1189.0s
+2026-09-15 01:28:18,044 [INFO] Batch 99/469 done (+20 brands). Total: 2000/9388 (21.3%). Elapsed: 1193.3s
+2026-09-15 01:28:34,916 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:28:36,920 [INFO] Batch 100/469 done (+20 brands). Total: 2020/9388 (21.52%). Elapsed: 1212.2s
+2026-09-15 01:28:41,113 [INFO] Batch 101/469 done (+20 brands). Total: 2040/9388 (21.73%). Elapsed: 1216.4s
+2026-09-15 01:28:58,442 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:29:00,425 [INFO] Batch 102/469 done (+20 brands). Total: 2060/9388 (21.94%). Elapsed: 1235.7s
+2026-09-15 01:29:17,437 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:29:19,440 [INFO] Batch 103/469 done (+20 brands). Total: 2080/9388 (22.16%). Elapsed: 1254.7s
+2026-09-15 01:29:35,926 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:29:38,119 [INFO] Batch 104/469 done (+20 brands). Total: 2100/9388 (22.37%). Elapsed: 1273.4s
+2026-09-15 01:29:42,155 [INFO] Batch 105/469 done (+20 brands). Total: 2120/9388 (22.58%). Elapsed: 1277.4s
+2026-09-15 01:29:46,050 [INFO] Batch 106/469 done (+20 brands). Total: 2140/9388 (22.8%). Elapsed: 1281.3s
+2026-09-15 01:29:49,731 [INFO] Batch 107/469 done (+20 brands). Total: 2160/9388 (23.01%). Elapsed: 1285.0s
+2026-09-15 01:30:06,300 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:30:08,449 [INFO] Batch 108/469 done (+20 brands). Total: 2180/9388 (23.22%). Elapsed: 1303.7s
+2026-09-15 01:30:25,238 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:30:27,251 [INFO] Batch 109/469 done (+20 brands). Total: 2200/9388 (23.43%). Elapsed: 1322.5s
+2026-09-15 01:30:30,627 [INFO] Batch 110/469 done (+20 brands). Total: 2220/9388 (23.65%). Elapsed: 1325.9s
+2026-09-15 01:30:34,306 [INFO] Batch 111/469 done (+20 brands). Total: 2240/9388 (23.86%). Elapsed: 1329.6s
+2026-09-15 01:30:38,105 [INFO] Batch 112/469 done (+20 brands). Total: 2260/9388 (24.07%). Elapsed: 1333.4s
+2026-09-15 01:30:41,828 [INFO] Batch 113/469 done (+20 brands). Total: 2280/9388 (24.29%). Elapsed: 1337.1s
+2026-09-15 01:30:45,793 [INFO] Batch 114/469 done (+20 brands). Total: 2300/9388 (24.5%). Elapsed: 1341.1s
+2026-09-15 01:31:02,496 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:31:04,375 [INFO] Batch 115/469 done (+20 brands). Total: 2320/9388 (24.71%). Elapsed: 1359.6s
+2026-09-15 01:31:34,962 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:31:37,056 [INFO] Batch 116/469 done (+20 brands). Total: 2340/9388 (24.93%). Elapsed: 1392.3s
+2026-09-15 01:31:54,077 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:31:56,113 [INFO] Batch 117/469 done (+20 brands). Total: 2360/9388 (25.14%). Elapsed: 1411.4s
+2026-09-15 01:32:12,782 [INFO] Batch 118/469 done (+20 brands). Total: 2380/9388 (25.35%). Elapsed: 1428.0s
+2026-09-15 01:32:16,616 [INFO] Batch 119/469 done (+20 brands). Total: 2400/9388 (25.56%). Elapsed: 1431.9s
+2026-09-15 01:32:20,726 [INFO] Batch 120/469 done (+20 brands). Total: 2420/9388 (25.78%). Elapsed: 1436.0s
+2026-09-15 01:32:37,605 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:32:39,618 [INFO] Batch 121/469 done (+20 brands). Total: 2440/9388 (25.99%). Elapsed: 1454.9s
+2026-09-15 01:32:56,871 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:32:58,912 [INFO] Batch 122/469 done (+20 brands). Total: 2460/9388 (26.2%). Elapsed: 1474.2s
+2026-09-15 01:33:15,287 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:33:17,391 [INFO] Batch 123/469 done (+20 brands). Total: 2480/9388 (26.42%). Elapsed: 1492.7s
+2026-09-15 01:33:34,360 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:33:36,467 [INFO] Batch 124/469 done (+20 brands). Total: 2500/9388 (26.63%). Elapsed: 1511.7s
+2026-09-15 01:33:40,414 [INFO] Batch 125/469 done (+20 brands). Total: 2520/9388 (26.84%). Elapsed: 1515.7s
+2026-09-15 01:33:57,298 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:33:59,236 [INFO] Batch 126/469 done (+20 brands). Total: 2540/9388 (27.06%). Elapsed: 1534.5s
+2026-09-15 01:34:17,540 [INFO] Batch 127/469 done (+20 brands). Total: 2560/9388 (27.27%). Elapsed: 1552.8s
+2026-09-15 01:34:21,461 [INFO] Batch 128/469 done (+20 brands). Total: 2580/9388 (27.48%). Elapsed: 1556.7s
+2026-09-15 01:34:37,912 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:34:40,017 [INFO] Batch 129/469 done (+20 brands). Total: 2600/9388 (27.69%). Elapsed: 1575.3s
+2026-09-15 01:34:56,604 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:34:58,760 [INFO] Batch 130/469 done (+20 brands). Total: 2620/9388 (27.91%). Elapsed: 1594.0s
+2026-09-15 01:35:02,675 [INFO] Batch 131/469 done (+20 brands). Total: 2640/9388 (28.12%). Elapsed: 1597.9s
+2026-09-15 01:35:06,085 [INFO] Batch 132/469 done (+20 brands). Total: 2660/9388 (28.33%). Elapsed: 1601.4s
+2026-09-15 01:35:09,843 [INFO] Batch 133/469 done (+20 brands). Total: 2680/9388 (28.55%). Elapsed: 1605.1s
+2026-09-15 01:35:26,826 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:35:29,008 [INFO] Batch 134/469 done (+20 brands). Total: 2700/9388 (28.76%). Elapsed: 1624.3s
+2026-09-15 01:35:46,002 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:35:47,955 [INFO] Batch 135/469 done (+20 brands). Total: 2720/9388 (28.97%). Elapsed: 1643.2s
+2026-09-15 01:35:51,850 [INFO] Batch 136/469 done (+20 brands). Total: 2740/9388 (29.19%). Elapsed: 1647.1s
+2026-09-15 01:35:55,652 [INFO] Batch 137/469 done (+20 brands). Total: 2760/9388 (29.4%). Elapsed: 1650.9s
+2026-09-15 01:36:15,338 [INFO] Batch 138/469 done (+20 brands). Total: 2780/9388 (29.61%). Elapsed: 1670.6s
+2026-09-15 01:36:32,394 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:36:34,416 [INFO] Batch 139/469 done (+20 brands). Total: 2800/9388 (29.83%). Elapsed: 1689.7s
+2026-09-15 01:36:50,751 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:36:52,936 [INFO] Batch 140/469 done (+20 brands). Total: 2820/9388 (30.04%). Elapsed: 1708.2s
+2026-09-15 01:37:09,315 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:37:11,419 [INFO] Batch 141/469 done (+20 brands). Total: 2840/9388 (30.25%). Elapsed: 1726.7s
+2026-09-15 01:37:28,425 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:37:30,672 [INFO] Batch 142/469 done (+20 brands). Total: 2860/9388 (30.46%). Elapsed: 1745.9s
+2026-09-15 01:37:34,703 [INFO] Batch 143/469 done (+20 brands). Total: 2880/9388 (30.68%). Elapsed: 1750.0s
+2026-09-15 01:37:51,173 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:37:53,222 [INFO] Batch 144/469 done (+20 brands). Total: 2900/9388 (30.89%). Elapsed: 1768.5s
+2026-09-15 01:38:10,365 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:38:12,412 [INFO] Batch 145/469 done (+20 brands). Total: 2920/9388 (31.1%). Elapsed: 1787.7s
+2026-09-15 01:38:29,235 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:38:31,064 [INFO] Batch 146/469 done (+20 brands). Total: 2940/9388 (31.32%). Elapsed: 1806.3s
+2026-09-15 01:38:47,938 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:38:50,165 [INFO] Batch 147/469 done (+20 brands). Total: 2960/9388 (31.53%). Elapsed: 1825.4s
+2026-09-15 01:39:06,654 [INFO] Batch 148/469 done (+20 brands). Total: 2980/9388 (31.74%). Elapsed: 1841.9s
+2026-09-15 01:39:23,134 [INFO] Batch 149/469 done (+20 brands). Total: 3000/9388 (31.96%). Elapsed: 1858.4s
+2026-09-15 01:39:27,268 [INFO] Batch 150/469 done (+20 brands). Total: 3020/9388 (32.17%). Elapsed: 1862.5s
+2026-09-15 01:39:47,016 [INFO] Batch 151/469 done (+20 brands). Total: 3040/9388 (32.38%). Elapsed: 1882.3s
+2026-09-15 01:40:03,864 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:40:05,751 [INFO] Batch 152/469 done (+20 brands). Total: 3060/9388 (32.59%). Elapsed: 1901.0s
+2026-09-15 01:40:09,365 [INFO] Batch 153/469 done (+20 brands). Total: 3080/9388 (32.81%). Elapsed: 1904.6s
+2026-09-15 01:40:25,902 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:40:28,017 [INFO] Batch 154/469 done (+20 brands). Total: 3100/9388 (33.02%). Elapsed: 1923.3s
+2026-09-15 01:40:32,061 [INFO] Batch 155/469 done (+20 brands). Total: 3120/9388 (33.23%). Elapsed: 1927.3s
+2026-09-15 01:40:48,564 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:40:50,719 [INFO] Batch 156/469 done (+20 brands). Total: 3140/9388 (33.45%). Elapsed: 1946.0s
+2026-09-15 01:41:07,186 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:41:09,111 [INFO] Batch 157/469 done (+20 brands). Total: 3160/9388 (33.66%). Elapsed: 1964.4s
+2026-09-15 01:41:12,832 [INFO] Batch 158/469 done (+20 brands). Total: 3180/9388 (33.87%). Elapsed: 1968.1s
+2026-09-15 01:41:29,773 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:41:32,001 [INFO] Batch 159/469 done (+20 brands). Total: 3200/9388 (34.09%). Elapsed: 1987.3s
+2026-09-15 01:41:50,220 [INFO] Batch 160/469 done (+20 brands). Total: 3220/9388 (34.3%). Elapsed: 2005.5s
+2026-09-15 01:42:06,771 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:42:08,698 [INFO] Batch 161/469 done (+20 brands). Total: 3240/9388 (34.51%). Elapsed: 2024.0s
+2026-09-15 01:42:12,412 [INFO] Batch 162/469 done (+20 brands). Total: 3260/9388 (34.73%). Elapsed: 2027.7s
+2026-09-15 01:42:29,605 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:42:31,543 [INFO] Batch 163/469 done (+20 brands). Total: 3280/9388 (34.94%). Elapsed: 2046.8s
+2026-09-15 01:42:35,142 [INFO] Batch 164/469 done (+20 brands). Total: 3300/9388 (35.15%). Elapsed: 2050.4s
+2026-09-15 01:42:52,274 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:42:54,266 [INFO] Batch 165/469 done (+20 brands). Total: 3320/9388 (35.36%). Elapsed: 2069.5s
+2026-09-15 01:42:58,047 [INFO] Batch 166/469 done (+20 brands). Total: 3340/9388 (35.58%). Elapsed: 2073.3s
+2026-09-15 01:43:02,019 [INFO] Batch 167/469 done (+20 brands). Total: 3360/9388 (35.79%). Elapsed: 2077.3s
+2026-09-15 01:43:19,117 [INFO] Batch 168/469 done (+20 brands). Total: 3380/9388 (36.0%). Elapsed: 2094.4s
+2026-09-15 01:43:22,509 [INFO] Batch 169/469 done (+20 brands). Total: 3400/9388 (36.22%). Elapsed: 2097.8s
+2026-09-15 01:43:26,168 [INFO] Batch 170/469 done (+20 brands). Total: 3420/9388 (36.43%). Elapsed: 2101.4s
+2026-09-15 01:43:42,834 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:43:44,831 [INFO] Batch 171/469 done (+20 brands). Total: 3440/9388 (36.64%). Elapsed: 2120.1s
+2026-09-15 01:44:00,173 [INFO] Batch 172/469 done (+20 brands). Total: 3460/9388 (36.86%). Elapsed: 2135.4s
+2026-09-15 01:44:16,897 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:44:19,090 [INFO] Batch 173/469 done (+20 brands). Total: 3480/9388 (37.07%). Elapsed: 2154.4s
+2026-09-15 01:44:35,836 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:44:38,100 [INFO] Batch 174/469 done (+20 brands). Total: 3500/9388 (37.28%). Elapsed: 2173.4s
+2026-09-15 01:44:41,566 [INFO] Batch 175/469 done (+20 brands). Total: 3520/9388 (37.49%). Elapsed: 2176.8s
+2026-09-15 01:44:45,590 [INFO] Batch 176/469 done (+20 brands). Total: 3540/9388 (37.71%). Elapsed: 2180.9s
+2026-09-15 01:44:49,380 [INFO] Batch 177/469 done (+20 brands). Total: 3560/9388 (37.92%). Elapsed: 2184.6s
+2026-09-15 01:45:06,264 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:45:08,065 [INFO] Batch 178/469 done (+20 brands). Total: 3580/9388 (38.13%). Elapsed: 2203.3s
+2026-09-15 01:45:24,950 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:45:26,888 [INFO] Batch 179/469 done (+20 brands). Total: 3600/9388 (38.35%). Elapsed: 2222.2s
+2026-09-15 01:45:30,745 [INFO] Batch 180/469 done (+20 brands). Total: 3620/9388 (38.56%). Elapsed: 2226.0s
+2026-09-15 01:45:35,017 [INFO] Batch 181/469 done (+20 brands). Total: 3640/9388 (38.77%). Elapsed: 2230.3s
+2026-09-15 01:45:56,178 [INFO] Batch 182/469 done (+20 brands). Total: 3660/9388 (38.99%). Elapsed: 2251.4s
+2026-09-15 01:46:00,046 [INFO] Batch 183/469 done (+20 brands). Total: 3680/9388 (39.2%). Elapsed: 2255.3s
+2026-09-15 01:46:18,035 [INFO] Batch 184/469 done (+20 brands). Total: 3700/9388 (39.41%). Elapsed: 2273.3s
+2026-09-15 01:46:21,896 [INFO] Batch 185/469 done (+20 brands). Total: 3720/9388 (39.63%). Elapsed: 2277.2s
+2026-09-15 01:46:26,055 [INFO] Batch 186/469 done (+20 brands). Total: 3740/9388 (39.84%). Elapsed: 2281.3s
+2026-09-15 01:46:42,863 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:46:44,791 [INFO] Batch 187/469 done (+20 brands). Total: 3760/9388 (40.05%). Elapsed: 2300.1s
+2026-09-15 01:46:49,072 [INFO] Batch 188/469 done (+20 brands). Total: 3780/9388 (40.26%). Elapsed: 2304.3s
+2026-09-15 01:46:53,041 [INFO] Batch 189/469 done (+20 brands). Total: 3800/9388 (40.48%). Elapsed: 2308.3s
+2026-09-15 01:46:59,850 [INFO] Batch 190/469 done (+20 brands). Total: 3820/9388 (40.69%). Elapsed: 2315.1s
+2026-09-15 01:47:16,783 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:47:18,732 [INFO] Batch 191/469 done (+20 brands). Total: 3840/9388 (40.9%). Elapsed: 2334.0s
+2026-09-15 01:47:36,069 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:47:38,028 [INFO] Batch 192/469 done (+20 brands). Total: 3860/9388 (41.12%). Elapsed: 2353.3s
+2026-09-15 01:47:41,749 [INFO] Batch 193/469 done (+20 brands). Total: 3880/9388 (41.33%). Elapsed: 2357.0s
+2026-09-15 01:47:58,514 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:48:00,458 [INFO] Batch 194/469 done (+20 brands). Total: 3900/9388 (41.54%). Elapsed: 2375.7s
+2026-09-15 01:48:17,200 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:48:19,212 [INFO] Batch 195/469 done (+20 brands). Total: 3920/9388 (41.76%). Elapsed: 2394.5s
+2026-09-15 01:48:22,405 [INFO] Batch 196/469 done (+20 brands). Total: 3940/9388 (41.97%). Elapsed: 2397.7s
+2026-09-15 01:48:26,337 [INFO] Batch 197/469 done (+20 brands). Total: 3960/9388 (42.18%). Elapsed: 2401.6s
+2026-09-15 01:48:30,435 [INFO] Batch 198/469 done (+20 brands). Total: 3980/9388 (42.39%). Elapsed: 2405.7s
+2026-09-15 01:48:34,453 [INFO] Batch 199/469 done (+20 brands). Total: 4000/9388 (42.61%). Elapsed: 2409.7s
+2026-09-15 01:48:38,513 [INFO] Batch 200/469 done (+20 brands). Total: 4020/9388 (42.82%). Elapsed: 2413.8s
+2026-09-15 01:48:41,698 [INFO] Batch 201/469 done (+20 brands). Total: 4040/9388 (43.03%). Elapsed: 2417.0s
+2026-09-15 01:48:58,555 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:49:00,604 [INFO] Batch 202/469 done (+20 brands). Total: 4060/9388 (43.25%). Elapsed: 2435.9s
+2026-09-15 01:49:17,435 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:49:19,430 [INFO] Batch 203/469 done (+20 brands). Total: 4080/9388 (43.46%). Elapsed: 2454.7s
+2026-09-15 01:49:23,549 [INFO] Batch 204/469 done (+20 brands). Total: 4100/9388 (43.67%). Elapsed: 2458.8s
+2026-09-15 01:49:40,116 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:49:42,228 [INFO] Batch 205/469 done (+20 brands). Total: 4120/9388 (43.89%). Elapsed: 2477.5s
+2026-09-15 01:49:58,550 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:50:00,631 [INFO] Batch 206/469 done (+20 brands). Total: 4140/9388 (44.1%). Elapsed: 2495.9s
+2026-09-15 01:50:04,311 [INFO] Batch 207/469 done (+20 brands). Total: 4160/9388 (44.31%). Elapsed: 2499.6s
+2026-09-15 01:50:21,260 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:50:23,088 [INFO] Batch 208/469 done (+20 brands). Total: 4180/9388 (44.52%). Elapsed: 2518.4s
+2026-09-15 01:50:40,127 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:50:42,259 [INFO] Batch 209/469 done (+20 brands). Total: 4200/9388 (44.74%). Elapsed: 2537.5s
+2026-09-15 01:50:45,839 [INFO] Batch 210/469 done (+20 brands). Total: 4220/9388 (44.95%). Elapsed: 2541.1s
+2026-09-15 01:51:02,427 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:51:04,417 [INFO] Batch 211/469 done (+20 brands). Total: 4240/9388 (45.16%). Elapsed: 2559.7s
+2026-09-15 01:51:08,252 [INFO] Batch 212/469 done (+20 brands). Total: 4260/9388 (45.38%). Elapsed: 2563.5s
+2026-09-15 01:51:12,835 [INFO] Batch 213/469 done (+20 brands). Total: 4280/9388 (45.59%). Elapsed: 2568.1s
+2026-09-15 01:51:16,646 [INFO] Batch 214/469 done (+20 brands). Total: 4300/9388 (45.8%). Elapsed: 2571.9s
+2026-09-15 01:51:33,087 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:51:35,256 [INFO] Batch 215/469 done (+20 brands). Total: 4320/9388 (46.02%). Elapsed: 2590.5s
+2026-09-15 01:51:51,930 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:51:54,019 [INFO] Batch 216/469 done (+20 brands). Total: 4340/9388 (46.23%). Elapsed: 2609.3s
+2026-09-15 01:51:57,695 [INFO] Batch 217/469 done (+20 brands). Total: 4360/9388 (46.44%). Elapsed: 2613.0s
+2026-09-15 01:52:16,372 [INFO] Batch 218/469 done (+20 brands). Total: 4380/9388 (46.66%). Elapsed: 2631.6s
+2026-09-15 01:52:33,260 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:52:35,280 [INFO] Batch 219/469 done (+20 brands). Total: 4400/9388 (46.87%). Elapsed: 2650.5s
+2026-09-15 01:52:38,977 [INFO] Batch 220/469 done (+20 brands). Total: 4420/9388 (47.08%). Elapsed: 2654.2s
+2026-09-15 01:52:42,448 [INFO] Batch 221/469 done (+20 brands). Total: 4440/9388 (47.29%). Elapsed: 2657.7s
+2026-09-15 01:52:59,190 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:53:00,992 [INFO] Batch 222/469 done (+20 brands). Total: 4460/9388 (47.51%). Elapsed: 2676.3s
+2026-09-15 01:53:23,063 [INFO] Batch 223/469 done (+20 brands). Total: 4480/9388 (47.72%). Elapsed: 2698.3s
+2026-09-15 01:53:26,693 [INFO] Batch 224/469 done (+20 brands). Total: 4500/9388 (47.93%). Elapsed: 2702.0s
+2026-09-15 01:53:43,786 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:53:45,713 [INFO] Batch 225/469 done (+20 brands). Total: 4520/9388 (48.15%). Elapsed: 2721.0s
+2026-09-15 01:54:02,293 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:54:04,468 [INFO] Batch 226/469 done (+20 brands). Total: 4540/9388 (48.36%). Elapsed: 2739.7s
+2026-09-15 01:54:08,214 [INFO] Batch 227/469 done (+20 brands). Total: 4560/9388 (48.57%). Elapsed: 2743.5s
+2026-09-15 01:54:12,211 [INFO] Batch 228/469 done (+20 brands). Total: 4580/9388 (48.79%). Elapsed: 2747.5s
+2026-09-15 01:54:28,953 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:54:31,111 [INFO] Batch 229/469 done (+20 brands). Total: 4600/9388 (49.0%). Elapsed: 2766.4s
+2026-09-15 01:54:48,758 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:54:50,715 [INFO] Batch 230/469 done (+20 brands). Total: 4620/9388 (49.21%). Elapsed: 2786.0s
+2026-09-15 01:54:54,525 [INFO] Batch 231/469 done (+20 brands). Total: 4640/9388 (49.42%). Elapsed: 2789.8s
+2026-09-15 01:54:57,954 [INFO] Batch 232/469 done (+20 brands). Total: 4660/9388 (49.64%). Elapsed: 2793.2s
+2026-09-15 01:55:01,645 [INFO] Batch 233/469 done (+20 brands). Total: 4680/9388 (49.85%). Elapsed: 2796.9s
+2026-09-15 01:55:05,814 [INFO] Batch 234/469 done (+20 brands). Total: 4700/9388 (50.06%). Elapsed: 2801.1s
+2026-09-15 01:55:09,127 [INFO] Batch 235/469 done (+20 brands). Total: 4720/9388 (50.28%). Elapsed: 2804.4s
+2026-09-15 01:55:12,867 [INFO] Batch 236/469 done (+20 brands). Total: 4740/9388 (50.49%). Elapsed: 2808.1s
+2026-09-15 01:55:17,183 [INFO] Batch 237/469 done (+20 brands). Total: 4760/9388 (50.7%). Elapsed: 2812.5s
+2026-09-15 01:55:37,338 [INFO] Batch 238/469 done (+20 brands). Total: 4780/9388 (50.92%). Elapsed: 2832.6s
+2026-09-15 01:55:43,931 [INFO] Batch 239/469 done (+20 brands). Total: 4800/9388 (51.13%). Elapsed: 2839.2s
+2026-09-15 01:55:58,473 [INFO] Batch 240/469 done (+20 brands). Total: 4820/9388 (51.34%). Elapsed: 2853.7s
+2026-09-15 01:56:15,590 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:56:17,561 [INFO] Batch 241/469 done (+20 brands). Total: 4840/9388 (51.56%). Elapsed: 2872.8s
+2026-09-15 01:56:34,557 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:56:36,622 [INFO] Batch 242/469 done (+20 brands). Total: 4860/9388 (51.77%). Elapsed: 2891.9s
+2026-09-15 01:56:40,210 [INFO] Batch 243/469 done (+20 brands). Total: 4880/9388 (51.98%). Elapsed: 2895.5s
+2026-09-15 01:56:44,434 [INFO] Batch 244/469 done (+20 brands). Total: 4900/9388 (52.19%). Elapsed: 2899.7s
+2026-09-15 01:56:48,321 [INFO] Batch 245/469 done (+20 brands). Total: 4920/9388 (52.41%). Elapsed: 2903.6s
+2026-09-15 01:57:05,182 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:57:07,262 [INFO] Batch 246/469 done (+20 brands). Total: 4940/9388 (52.62%). Elapsed: 2922.5s
+2026-09-15 01:57:10,816 [INFO] Batch 247/469 done (+20 brands). Total: 4960/9388 (52.83%). Elapsed: 2926.1s
+2026-09-15 01:57:27,312 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:57:29,366 [INFO] Batch 248/469 done (+20 brands). Total: 4980/9388 (53.05%). Elapsed: 2944.6s
+2026-09-15 01:57:45,411 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:57:47,465 [INFO] Batch 249/469 done (+20 brands). Total: 5000/9388 (53.26%). Elapsed: 2962.7s
+2026-09-15 01:58:04,139 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:58:06,260 [INFO] Batch 250/469 done (+20 brands). Total: 5020/9388 (53.47%). Elapsed: 2981.5s
+2026-09-15 01:58:22,694 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:58:24,799 [INFO] Batch 251/469 done (+20 brands). Total: 5040/9388 (53.69%). Elapsed: 3000.1s
+2026-09-15 01:58:41,065 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:58:43,066 [INFO] Batch 252/469 done (+20 brands). Total: 5060/9388 (53.9%). Elapsed: 3018.3s
+2026-09-15 01:58:55,693 [INFO] Batch 253/469 done (+20 brands). Total: 5080/9388 (54.11%). Elapsed: 3031.0s
+2026-09-15 01:59:00,145 [INFO] Batch 254/469 done (+20 brands). Total: 5100/9388 (54.32%). Elapsed: 3035.4s
+2026-09-15 01:59:04,220 [INFO] Batch 255/469 done (+20 brands). Total: 5120/9388 (54.54%). Elapsed: 3039.5s
+2026-09-15 01:59:08,454 [INFO] Batch 256/469 done (+20 brands). Total: 5140/9388 (54.75%). Elapsed: 3043.7s
+2026-09-15 01:59:12,532 [INFO] Batch 257/469 done (+20 brands). Total: 5160/9388 (54.96%). Elapsed: 3047.8s
+2026-09-15 01:59:29,298 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 01:59:31,269 [INFO] Batch 258/469 done (+20 brands). Total: 5180/9388 (55.18%). Elapsed: 3066.5s
+2026-09-15 01:59:35,124 [INFO] Batch 259/469 done (+20 brands). Total: 5200/9388 (55.39%). Elapsed: 3070.4s
+2026-09-15 01:59:38,629 [INFO] Batch 260/469 done (+20 brands). Total: 5220/9388 (55.6%). Elapsed: 3073.9s
+2026-09-15 01:59:42,565 [INFO] Batch 261/469 done (+20 brands). Total: 5240/9388 (55.82%). Elapsed: 3077.8s
+2026-09-15 01:59:58,925 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:00:00,984 [INFO] Batch 262/469 done (+20 brands). Total: 5260/9388 (56.03%). Elapsed: 3096.3s
+2026-09-15 02:00:17,629 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:00:19,750 [INFO] Batch 263/469 done (+20 brands). Total: 5280/9388 (56.24%). Elapsed: 3115.0s
+2026-09-15 02:00:36,133 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:00:38,165 [INFO] Batch 264/469 done (+20 brands). Total: 5300/9388 (56.46%). Elapsed: 3133.4s
+2026-09-15 02:00:55,004 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:00:56,935 [INFO] Batch 265/469 done (+20 brands). Total: 5320/9388 (56.67%). Elapsed: 3152.2s
+2026-09-15 02:01:13,536 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:01:15,533 [INFO] Batch 266/469 done (+20 brands). Total: 5340/9388 (56.88%). Elapsed: 3170.8s
+2026-09-15 02:01:19,460 [INFO] Batch 267/469 done (+20 brands). Total: 5360/9388 (57.09%). Elapsed: 3174.7s
+2026-09-15 02:01:35,875 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:01:37,885 [INFO] Batch 268/469 done (+20 brands). Total: 5380/9388 (57.31%). Elapsed: 3193.2s
+2026-09-15 02:01:41,984 [INFO] Batch 269/469 done (+20 brands). Total: 5400/9388 (57.52%). Elapsed: 3197.3s
+2026-09-15 02:01:45,995 [INFO] Batch 270/469 done (+20 brands). Total: 5420/9388 (57.73%). Elapsed: 3201.3s
+2026-09-15 02:01:49,819 [INFO] Batch 271/469 done (+20 brands). Total: 5440/9388 (57.95%). Elapsed: 3205.1s
+2026-09-15 02:02:07,046 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:02:08,999 [INFO] Batch 272/469 done (+20 brands). Total: 5460/9388 (58.16%). Elapsed: 3224.3s
+2026-09-15 02:02:25,767 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:02:27,842 [INFO] Batch 273/469 done (+20 brands). Total: 5480/9388 (58.37%). Elapsed: 3243.1s
+2026-09-15 02:02:44,972 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:02:46,981 [INFO] Batch 274/469 done (+20 brands). Total: 5500/9388 (58.59%). Elapsed: 3262.2s
+2026-09-15 02:03:03,702 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:03:05,833 [INFO] Batch 275/469 done (+20 brands). Total: 5520/9388 (58.8%). Elapsed: 3281.1s
+2026-09-15 02:03:09,728 [INFO] Batch 276/469 done (+20 brands). Total: 5540/9388 (59.01%). Elapsed: 3285.0s
+2026-09-15 02:03:13,312 [INFO] Batch 277/469 done (+20 brands). Total: 5560/9388 (59.22%). Elapsed: 3288.6s
+2026-09-15 02:03:17,404 [INFO] Batch 278/469 done (+20 brands). Total: 5580/9388 (59.44%). Elapsed: 3292.7s
+2026-09-15 02:03:21,257 [INFO] Batch 279/469 done (+20 brands). Total: 5600/9388 (59.65%). Elapsed: 3296.5s
+2026-09-15 02:03:38,027 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:03:40,211 [INFO] Batch 280/469 done (+20 brands). Total: 5620/9388 (59.86%). Elapsed: 3315.5s
+2026-09-15 02:03:44,119 [INFO] Batch 281/469 done (+20 brands). Total: 5640/9388 (60.08%). Elapsed: 3319.4s
+2026-09-15 02:03:47,458 [INFO] Batch 282/469 done (+20 brands). Total: 5660/9388 (60.29%). Elapsed: 3322.7s
+2026-09-15 02:04:04,575 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:04:06,669 [INFO] Batch 283/469 done (+20 brands). Total: 5680/9388 (60.5%). Elapsed: 3341.9s
+2026-09-15 02:04:10,884 [INFO] Batch 284/469 done (+20 brands). Total: 5700/9388 (60.72%). Elapsed: 3346.2s
+2026-09-15 02:04:27,364 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:04:29,360 [INFO] Batch 285/469 done (+20 brands). Total: 5720/9388 (60.93%). Elapsed: 3364.6s
+2026-09-15 02:04:46,136 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:04:48,204 [INFO] Batch 286/469 done (+20 brands). Total: 5740/9388 (61.14%). Elapsed: 3383.5s
+2026-09-15 02:04:51,551 [INFO] Batch 287/469 done (+20 brands). Total: 5760/9388 (61.35%). Elapsed: 3386.8s
+2026-09-15 02:04:55,267 [INFO] Batch 288/469 done (+20 brands). Total: 5780/9388 (61.57%). Elapsed: 3390.5s
+2026-09-15 02:05:12,354 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:05:14,359 [INFO] Batch 289/469 done (+20 brands). Total: 5800/9388 (61.78%). Elapsed: 3409.6s
+2026-09-15 02:05:31,251 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:05:33,236 [INFO] Batch 290/469 done (+20 brands). Total: 5820/9388 (61.99%). Elapsed: 3428.5s
+2026-09-15 02:05:37,052 [INFO] Batch 291/469 done (+20 brands). Total: 5840/9388 (62.21%). Elapsed: 3432.3s
+2026-09-15 02:05:53,552 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:05:55,454 [INFO] Batch 292/469 done (+20 brands). Total: 5860/9388 (62.42%). Elapsed: 3450.7s
+2026-09-15 02:05:59,127 [INFO] Batch 293/469 done (+20 brands). Total: 5880/9388 (62.63%). Elapsed: 3454.4s
+2026-09-15 02:06:15,822 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:06:17,751 [INFO] Batch 294/469 done (+20 brands). Total: 5900/9388 (62.85%). Elapsed: 3473.0s
+2026-09-15 02:06:34,572 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:06:36,465 [INFO] Batch 295/469 done (+20 brands). Total: 5920/9388 (63.06%). Elapsed: 3491.7s
+2026-09-15 02:06:52,814 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:06:54,712 [INFO] Batch 296/469 done (+20 brands). Total: 5940/9388 (63.27%). Elapsed: 3510.0s
+2026-09-15 02:06:58,459 [INFO] Batch 297/469 done (+20 brands). Total: 5960/9388 (63.49%). Elapsed: 3513.7s
+2026-09-15 02:07:15,507 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:07:17,600 [INFO] Batch 298/469 done (+20 brands). Total: 5980/9388 (63.7%). Elapsed: 3532.9s
+2026-09-15 02:07:33,974 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:07:35,870 [INFO] Batch 299/469 done (+20 brands). Total: 6000/9388 (63.91%). Elapsed: 3551.1s
+2026-09-15 02:07:40,258 [INFO] Batch 300/469 done (+20 brands). Total: 6020/9388 (64.12%). Elapsed: 3555.5s
+2026-09-15 02:07:57,644 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:07:59,517 [INFO] Batch 301/469 done (+20 brands). Total: 6040/9388 (64.34%). Elapsed: 3574.8s
+2026-09-15 02:08:03,638 [INFO] Batch 302/469 done (+20 brands). Total: 6060/9388 (64.55%). Elapsed: 3578.9s
+2026-09-15 02:08:07,403 [INFO] Batch 303/469 done (+20 brands). Total: 6080/9388 (64.76%). Elapsed: 3582.7s
+2026-09-15 02:08:23,871 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:08:25,943 [INFO] Batch 304/469 done (+20 brands). Total: 6100/9388 (64.98%). Elapsed: 3601.2s
+2026-09-15 02:08:42,370 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:08:44,374 [INFO] Batch 305/469 done (+20 brands). Total: 6120/9388 (65.19%). Elapsed: 3619.6s
+2026-09-15 02:08:47,928 [INFO] Batch 306/469 done (+20 brands). Total: 6140/9388 (65.4%). Elapsed: 3623.2s
+2026-09-15 02:09:04,837 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:09:06,889 [INFO] Batch 307/469 done (+20 brands). Total: 6160/9388 (65.62%). Elapsed: 3642.2s
+2026-09-15 02:09:23,725 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:09:25,730 [INFO] Batch 308/469 done (+20 brands). Total: 6180/9388 (65.83%). Elapsed: 3661.0s
+2026-09-15 02:09:42,266 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:09:44,232 [INFO] Batch 309/469 done (+20 brands). Total: 6200/9388 (66.04%). Elapsed: 3679.5s
+2026-09-15 02:10:00,964 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:10:02,884 [INFO] Batch 310/469 done (+20 brands). Total: 6220/9388 (66.25%). Elapsed: 3698.2s
+2026-09-15 02:10:06,487 [INFO] Batch 311/469 done (+20 brands). Total: 6240/9388 (66.47%). Elapsed: 3701.8s
+2026-09-15 02:10:10,363 [INFO] Batch 312/469 done (+20 brands). Total: 6260/9388 (66.68%). Elapsed: 3705.6s
+2026-09-15 02:10:26,723 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:10:28,742 [INFO] Batch 313/469 done (+20 brands). Total: 6280/9388 (66.89%). Elapsed: 3724.0s
+2026-09-15 02:10:45,236 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:10:46,964 [INFO] Batch 314/469 done (+20 brands). Total: 6300/9388 (67.11%). Elapsed: 3742.2s
+2026-09-15 02:11:03,371 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:11:05,146 [INFO] Batch 315/469 done (+20 brands). Total: 6320/9388 (67.32%). Elapsed: 3760.4s
+2026-09-15 02:11:09,202 [INFO] Batch 316/469 done (+20 brands). Total: 6340/9388 (67.53%). Elapsed: 3764.5s
+2026-09-15 02:11:25,927 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:11:27,923 [INFO] Batch 317/469 done (+20 brands). Total: 6360/9388 (67.75%). Elapsed: 3783.2s
+2026-09-15 02:11:31,234 [INFO] Batch 318/469 done (+20 brands). Total: 6380/9388 (67.96%). Elapsed: 3786.5s
+2026-09-15 02:12:00,253 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:12:02,337 [INFO] Batch 319/469 done (+20 brands). Total: 6400/9388 (68.17%). Elapsed: 3817.6s
+2026-09-15 02:12:19,013 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:12:20,999 [INFO] Batch 320/469 done (+20 brands). Total: 6420/9388 (68.39%). Elapsed: 3836.3s
+2026-09-15 02:12:37,758 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:12:39,791 [INFO] Batch 321/469 done (+20 brands). Total: 6440/9388 (68.6%). Elapsed: 3855.1s
+2026-09-15 02:12:57,048 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:12:59,082 [INFO] Batch 322/469 done (+20 brands). Total: 6460/9388 (68.81%). Elapsed: 3874.3s
+2026-09-15 02:13:15,522 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:13:17,566 [INFO] Batch 323/469 done (+20 brands). Total: 6480/9388 (69.02%). Elapsed: 3892.8s
+2026-09-15 02:13:34,547 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:13:36,478 [INFO] Batch 324/469 done (+20 brands). Total: 6500/9388 (69.24%). Elapsed: 3911.7s
+2026-09-15 02:13:40,247 [INFO] Batch 325/469 done (+20 brands). Total: 6520/9388 (69.45%). Elapsed: 3915.5s
+2026-09-15 02:13:44,004 [INFO] Batch 326/469 done (+20 brands). Total: 6540/9388 (69.66%). Elapsed: 3919.3s
+2026-09-15 02:14:13,109 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:14:14,928 [INFO] Batch 327/469 done (+20 brands). Total: 6560/9388 (69.88%). Elapsed: 3950.2s
+2026-09-15 02:14:31,321 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:14:33,467 [INFO] Batch 328/469 done (+20 brands). Total: 6580/9388 (70.09%). Elapsed: 3968.7s
+2026-09-15 02:14:37,132 [INFO] Batch 329/469 done (+20 brands). Total: 6600/9388 (70.3%). Elapsed: 3972.4s
+2026-09-15 02:14:53,787 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:14:55,779 [INFO] Batch 330/469 done (+20 brands). Total: 6620/9388 (70.52%). Elapsed: 3991.0s
+2026-09-15 02:15:13,342 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:15:15,432 [INFO] Batch 331/469 done (+20 brands). Total: 6640/9388 (70.73%). Elapsed: 4010.7s
+2026-09-15 02:15:32,208 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:15:34,286 [INFO] Batch 332/469 done (+20 brands). Total: 6660/9388 (70.94%). Elapsed: 4029.6s
+2026-09-15 02:15:50,632 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:15:52,586 [INFO] Batch 333/469 done (+20 brands). Total: 6680/9388 (71.15%). Elapsed: 4047.9s
+2026-09-15 02:16:10,888 [INFO] Batch 334/469 done (+20 brands). Total: 6700/9388 (71.37%). Elapsed: 4066.2s
+2026-09-15 02:16:27,712 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:16:29,724 [INFO] Batch 335/469 done (+20 brands). Total: 6720/9388 (71.58%). Elapsed: 4085.0s
+2026-09-15 02:16:33,626 [INFO] Batch 336/469 done (+20 brands). Total: 6740/9388 (71.79%). Elapsed: 4088.9s
+2026-09-15 02:16:37,230 [INFO] Batch 337/469 done (+20 brands). Total: 6760/9388 (72.01%). Elapsed: 4092.5s
+2026-09-15 02:16:40,818 [INFO] Batch 338/469 done (+20 brands). Total: 6780/9388 (72.22%). Elapsed: 4096.1s
+2026-09-15 02:16:44,673 [INFO] Batch 339/469 done (+20 brands). Total: 6800/9388 (72.43%). Elapsed: 4099.9s
+2026-09-15 02:16:47,867 [INFO] Batch 340/469 done (+20 brands). Total: 6820/9388 (72.65%). Elapsed: 4103.1s
+2026-09-15 02:16:51,309 [INFO] Batch 341/469 done (+20 brands). Total: 6840/9388 (72.86%). Elapsed: 4106.6s
+2026-09-15 02:17:07,746 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:17:09,882 [INFO] Batch 342/469 done (+20 brands). Total: 6860/9388 (73.07%). Elapsed: 4125.1s
+2026-09-15 02:17:13,826 [INFO] Batch 343/469 done (+20 brands). Total: 6880/9388 (73.29%). Elapsed: 4129.1s
+2026-09-15 02:17:30,874 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:17:32,970 [INFO] Batch 344/469 done (+20 brands). Total: 6900/9388 (73.5%). Elapsed: 4148.2s
+2026-09-15 02:17:49,566 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:17:51,640 [INFO] Batch 345/469 done (+20 brands). Total: 6920/9388 (73.71%). Elapsed: 4166.9s
+2026-09-15 02:18:10,436 [INFO] Batch 346/469 done (+20 brands). Total: 6940/9388 (73.92%). Elapsed: 4185.7s
+2026-09-15 02:18:13,968 [INFO] Batch 347/469 done (+20 brands). Total: 6960/9388 (74.14%). Elapsed: 4189.2s
+2026-09-15 02:18:17,453 [INFO] Batch 348/469 done (+20 brands). Total: 6980/9388 (74.35%). Elapsed: 4192.7s
+2026-09-15 02:18:35,350 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:18:37,342 [INFO] Batch 349/469 done (+20 brands). Total: 7000/9388 (74.56%). Elapsed: 4212.6s
+2026-09-15 02:18:40,738 [INFO] Batch 350/469 done (+20 brands). Total: 7020/9388 (74.78%). Elapsed: 4216.0s
+2026-09-15 02:18:57,905 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:18:59,942 [INFO] Batch 351/469 done (+20 brands). Total: 7040/9388 (74.99%). Elapsed: 4235.2s
+2026-09-15 02:19:16,470 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:19:18,609 [INFO] Batch 352/469 done (+20 brands). Total: 7060/9388 (75.2%). Elapsed: 4253.9s
+2026-09-15 02:19:22,417 [INFO] Batch 353/469 done (+20 brands). Total: 7080/9388 (75.42%). Elapsed: 4257.7s
+2026-09-15 02:19:38,876 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:19:41,036 [INFO] Batch 354/469 done (+20 brands). Total: 7100/9388 (75.63%). Elapsed: 4276.3s
+2026-09-15 02:19:44,999 [INFO] Batch 355/469 done (+20 brands). Total: 7120/9388 (75.84%). Elapsed: 4280.3s
+2026-09-15 02:20:01,499 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:20:03,718 [INFO] Batch 356/469 done (+20 brands). Total: 7140/9388 (76.05%). Elapsed: 4299.0s
+2026-09-15 02:20:07,100 [INFO] Batch 357/469 done (+20 brands). Total: 7160/9388 (76.27%). Elapsed: 4302.4s
+2026-09-15 02:20:24,127 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:20:26,074 [INFO] Batch 358/469 done (+20 brands). Total: 7180/9388 (76.48%). Elapsed: 4321.3s
+2026-09-15 02:20:42,108 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:20:44,121 [INFO] Batch 359/469 done (+20 brands). Total: 7200/9388 (76.69%). Elapsed: 4339.4s
+2026-09-15 02:21:00,325 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:21:02,266 [INFO] Batch 360/469 done (+20 brands). Total: 7220/9388 (76.91%). Elapsed: 4357.5s
+2026-09-15 02:21:18,812 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:21:20,761 [INFO] Batch 361/469 done (+20 brands). Total: 7240/9388 (77.12%). Elapsed: 4376.0s
+2026-09-15 02:21:37,542 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:21:39,473 [INFO] Batch 362/469 done (+20 brands). Total: 7260/9388 (77.33%). Elapsed: 4394.7s
+2026-09-15 02:21:43,037 [INFO] Batch 363/469 done (+20 brands). Total: 7280/9388 (77.55%). Elapsed: 4398.3s
+2026-09-15 02:21:46,301 [INFO] Batch 364/469 done (+20 brands). Total: 7300/9388 (77.76%). Elapsed: 4401.6s
+2026-09-15 02:22:03,456 [INFO] Batch 365/469 done (+20 brands). Total: 7320/9388 (77.97%). Elapsed: 4418.7s
+2026-09-15 02:22:07,060 [INFO] Batch 366/469 done (+20 brands). Total: 7340/9388 (78.18%). Elapsed: 4422.3s
+2026-09-15 02:22:11,409 [INFO] Batch 367/469 done (+20 brands). Total: 7360/9388 (78.4%). Elapsed: 4426.7s
+2026-09-15 02:22:28,471 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:22:30,481 [INFO] Batch 368/469 done (+20 brands). Total: 7380/9388 (78.61%). Elapsed: 4445.7s
+2026-09-15 02:22:47,364 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:22:49,380 [INFO] Batch 369/469 done (+20 brands). Total: 7400/9388 (78.82%). Elapsed: 4464.6s
+2026-09-15 02:23:06,346 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:23:08,288 [INFO] Batch 370/469 done (+20 brands). Total: 7420/9388 (79.04%). Elapsed: 4483.6s
+2026-09-15 02:23:24,464 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:23:26,574 [INFO] Batch 371/469 done (+20 brands). Total: 7440/9388 (79.25%). Elapsed: 4501.8s
+2026-09-15 02:23:30,007 [INFO] Batch 372/469 done (+20 brands). Total: 7460/9388 (79.46%). Elapsed: 4505.3s
+2026-09-15 02:23:33,518 [INFO] Batch 373/469 done (+20 brands). Total: 7480/9388 (79.68%). Elapsed: 4508.8s
+2026-09-15 02:23:51,402 [INFO] Batch 374/469 done (+20 brands). Total: 7500/9388 (79.89%). Elapsed: 4526.7s
+2026-09-15 02:24:08,164 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:24:10,173 [INFO] Batch 375/469 done (+20 brands). Total: 7520/9388 (80.1%). Elapsed: 4545.4s
+2026-09-15 02:24:26,670 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:24:28,495 [INFO] Batch 376/469 done (+20 brands). Total: 7540/9388 (80.32%). Elapsed: 4563.8s
+2026-09-15 02:24:45,241 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:24:47,282 [INFO] Batch 377/469 done (+20 brands). Total: 7560/9388 (80.53%). Elapsed: 4582.5s
+2026-09-15 02:25:04,382 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:25:06,323 [INFO] Batch 378/469 done (+20 brands). Total: 7580/9388 (80.74%). Elapsed: 4601.6s
+2026-09-15 02:25:10,329 [INFO] Batch 379/469 done (+20 brands). Total: 7600/9388 (80.95%). Elapsed: 4605.6s
+2026-09-15 02:25:26,792 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:25:28,691 [INFO] Batch 380/469 done (+20 brands). Total: 7620/9388 (81.17%). Elapsed: 4624.0s
+2026-09-15 02:25:32,148 [INFO] Batch 381/469 done (+20 brands). Total: 7640/9388 (81.38%). Elapsed: 4627.4s
+2026-09-15 02:25:48,779 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:25:50,826 [INFO] Batch 382/469 done (+20 brands). Total: 7660/9388 (81.59%). Elapsed: 4646.1s
+2026-09-15 02:26:07,862 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:26:09,901 [INFO] Batch 383/469 done (+20 brands). Total: 7680/9388 (81.81%). Elapsed: 4665.2s
+2026-09-15 02:26:26,908 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:26:29,030 [INFO] Batch 384/469 done (+20 brands). Total: 7700/9388 (82.02%). Elapsed: 4684.3s
+2026-09-15 02:26:45,507 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:26:47,511 [INFO] Batch 385/469 done (+20 brands). Total: 7720/9388 (82.23%). Elapsed: 4702.8s
+2026-09-15 02:26:50,989 [INFO] Batch 386/469 done (+20 brands). Total: 7740/9388 (82.45%). Elapsed: 4706.3s
+2026-09-15 02:26:54,620 [INFO] Batch 387/469 done (+20 brands). Total: 7760/9388 (82.66%). Elapsed: 4709.9s
+2026-09-15 02:27:11,190 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:27:13,170 [INFO] Batch 388/469 done (+20 brands). Total: 7780/9388 (82.87%). Elapsed: 4728.4s
+2026-09-15 02:27:16,834 [INFO] Batch 389/469 done (+20 brands). Total: 7800/9388 (83.08%). Elapsed: 4732.1s
+2026-09-15 02:27:20,631 [INFO] Batch 390/469 done (+20 brands). Total: 7820/9388 (83.3%). Elapsed: 4735.9s
+2026-09-15 02:27:24,505 [INFO] Batch 391/469 done (+20 brands). Total: 7840/9388 (83.51%). Elapsed: 4739.8s
+2026-09-15 02:27:28,145 [INFO] Batch 392/469 done (+20 brands). Total: 7860/9388 (83.72%). Elapsed: 4743.4s
+2026-09-15 02:27:45,129 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:27:47,313 [INFO] Batch 393/469 done (+20 brands). Total: 7880/9388 (83.94%). Elapsed: 4762.6s
+2026-09-15 02:27:50,841 [INFO] Batch 394/469 done (+20 brands). Total: 7900/9388 (84.15%). Elapsed: 4766.1s
+2026-09-15 02:27:54,549 [INFO] Batch 395/469 done (+20 brands). Total: 7920/9388 (84.36%). Elapsed: 4769.8s
+2026-09-15 02:27:57,725 [INFO] Batch 396/469 done (+20 brands). Total: 7940/9388 (84.58%). Elapsed: 4773.0s
+2026-09-15 02:28:14,441 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:28:16,459 [INFO] Batch 397/469 done (+20 brands). Total: 7960/9388 (84.79%). Elapsed: 4791.7s
+2026-09-15 02:28:33,124 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:28:35,245 [INFO] Batch 398/469 done (+20 brands). Total: 7980/9388 (85.0%). Elapsed: 4810.5s
+2026-09-15 02:28:52,255 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:28:54,297 [INFO] Batch 399/469 done (+20 brands). Total: 8000/9388 (85.22%). Elapsed: 4829.6s
+2026-09-15 02:29:11,133 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:29:13,112 [INFO] Batch 400/469 done (+20 brands). Total: 8020/9388 (85.43%). Elapsed: 4848.4s
+2026-09-15 02:29:29,386 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:29:31,395 [INFO] Batch 401/469 done (+20 brands). Total: 8040/9388 (85.64%). Elapsed: 4866.7s
+2026-09-15 02:29:47,651 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:29:49,598 [INFO] Batch 402/469 done (+20 brands). Total: 8060/9388 (85.85%). Elapsed: 4884.9s
+2026-09-15 02:30:06,051 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:30:07,836 [INFO] Batch 403/469 done (+20 brands). Total: 8080/9388 (86.07%). Elapsed: 4903.1s
+2026-09-15 02:30:11,268 [INFO] Batch 404/469 done (+20 brands). Total: 8100/9388 (86.28%). Elapsed: 4906.5s
+2026-09-15 02:30:27,317 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:30:29,390 [INFO] Batch 405/469 done (+20 brands). Total: 8120/9388 (86.49%). Elapsed: 4924.7s
+2026-09-15 02:30:45,641 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:30:47,737 [INFO] Batch 406/469 done (+20 brands). Total: 8140/9388 (86.71%). Elapsed: 4943.0s
+2026-09-15 02:31:04,032 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:31:06,036 [INFO] Batch 407/469 done (+20 brands). Total: 8160/9388 (86.92%). Elapsed: 4961.3s
+2026-09-15 02:31:23,045 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:31:25,213 [INFO] Batch 408/469 done (+20 brands). Total: 8180/9388 (87.13%). Elapsed: 4980.5s
+2026-09-15 02:31:42,460 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:31:44,414 [INFO] Batch 409/469 done (+20 brands). Total: 8200/9388 (87.35%). Elapsed: 4999.7s
+2026-09-15 02:32:01,277 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:32:03,166 [INFO] Batch 410/469 done (+20 brands). Total: 8220/9388 (87.56%). Elapsed: 5018.4s
+2026-09-15 02:32:06,730 [INFO] Batch 411/469 done (+20 brands). Total: 8240/9388 (87.77%). Elapsed: 5022.0s
+2026-09-15 02:32:23,367 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:32:25,285 [INFO] Batch 412/469 done (+20 brands). Total: 8260/9388 (87.98%). Elapsed: 5040.6s
+2026-09-15 02:32:28,452 [INFO] Batch 413/469 done (+20 brands). Total: 8280/9388 (88.2%). Elapsed: 5043.7s
+2026-09-15 02:32:32,263 [INFO] Batch 414/469 done (+20 brands). Total: 8300/9388 (88.41%). Elapsed: 5047.5s
+2026-09-15 02:32:48,704 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:32:50,790 [INFO] Batch 415/469 done (+20 brands). Total: 8320/9388 (88.62%). Elapsed: 5066.1s
+2026-09-15 02:33:06,979 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:33:08,912 [INFO] Batch 416/469 done (+20 brands). Total: 8340/9388 (88.84%). Elapsed: 5084.2s
+2026-09-15 02:33:25,898 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:33:28,028 [INFO] Batch 417/469 done (+20 brands). Total: 8360/9388 (89.05%). Elapsed: 5103.3s
+2026-09-15 02:33:50,088 [INFO] Batch 418/469 done (+20 brands). Total: 8380/9388 (89.26%). Elapsed: 5125.4s
+2026-09-15 02:34:18,230 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:34:20,159 [INFO] Batch 419/469 done (+20 brands). Total: 8400/9388 (89.48%). Elapsed: 5155.4s
+2026-09-15 02:34:36,823 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:34:38,664 [INFO] Batch 420/469 done (+20 brands). Total: 8420/9388 (89.69%). Elapsed: 5173.9s
+2026-09-15 02:34:42,105 [INFO] Batch 421/469 done (+20 brands). Total: 8440/9388 (89.9%). Elapsed: 5177.4s
+2026-09-15 02:34:58,599 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:35:00,625 [INFO] Batch 422/469 done (+20 brands). Total: 8460/9388 (90.12%). Elapsed: 5195.9s
+2026-09-15 02:35:17,421 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:35:19,446 [INFO] Batch 423/469 done (+20 brands). Total: 8480/9388 (90.33%). Elapsed: 5214.7s
+2026-09-15 02:35:36,928 [INFO] Batch 424/469 done (+20 brands). Total: 8500/9388 (90.54%). Elapsed: 5232.2s
+2026-09-15 02:36:07,239 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:36:09,094 [INFO] Batch 425/469 done (+20 brands). Total: 8520/9388 (90.75%). Elapsed: 5264.4s
+2026-09-15 02:36:25,560 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:36:27,424 [INFO] Batch 426/469 done (+20 brands). Total: 8540/9388 (90.97%). Elapsed: 5282.7s
+2026-09-15 02:36:43,847 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:36:45,897 [INFO] Batch 427/469 done (+20 brands). Total: 8560/9388 (91.18%). Elapsed: 5301.2s
+2026-09-15 02:37:02,752 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:37:04,725 [INFO] Batch 428/469 done (+20 brands). Total: 8580/9388 (91.39%). Elapsed: 5320.0s
+2026-09-15 02:37:08,388 [INFO] Batch 429/469 done (+20 brands). Total: 8600/9388 (91.61%). Elapsed: 5323.7s
+2026-09-15 02:37:40,256 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:37:42,173 [INFO] Batch 430/469 done (+20 brands). Total: 8620/9388 (91.82%). Elapsed: 5357.4s
+2026-09-15 02:38:01,099 [INFO] Batch 431/469 done (+20 brands). Total: 8640/9388 (92.03%). Elapsed: 5376.4s
+2026-09-15 02:38:17,577 [INFO] Batch 432/469 done (+20 brands). Total: 8660/9388 (92.25%). Elapsed: 5392.8s
+2026-09-15 02:38:34,053 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:38:35,919 [INFO] Batch 433/469 done (+20 brands). Total: 8680/9388 (92.46%). Elapsed: 5411.2s
+2026-09-15 02:38:54,196 [INFO] Batch 434/469 done (+20 brands). Total: 8700/9388 (92.67%). Elapsed: 5429.5s
+2026-09-15 02:38:57,695 [INFO] Batch 435/469 done (+20 brands). Total: 8720/9388 (92.88%). Elapsed: 5433.0s
+2026-09-15 02:39:28,062 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:39:30,040 [INFO] Batch 436/469 done (+20 brands). Total: 8740/9388 (93.1%). Elapsed: 5465.3s
+2026-09-15 02:39:33,889 [INFO] Batch 437/469 done (+20 brands). Total: 8760/9388 (93.31%). Elapsed: 5469.2s
+2026-09-15 02:39:37,144 [INFO] Batch 438/469 done (+20 brands). Total: 8780/9388 (93.52%). Elapsed: 5472.4s
+2026-09-15 02:39:53,664 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:39:55,526 [INFO] Batch 439/469 done (+20 brands). Total: 8800/9388 (93.74%). Elapsed: 5490.8s
+2026-09-15 02:40:25,914 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:40:27,946 [INFO] Batch 440/469 done (+20 brands). Total: 8820/9388 (93.95%). Elapsed: 5523.2s
+2026-09-15 02:40:46,838 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:40:49,713 [INFO] Batch 441/469 done (+20 brands). Total: 8840/9388 (94.16%). Elapsed: 5545.0s
+2026-09-15 02:41:08,753 [INFO] Batch 442/469 done (+20 brands). Total: 8860/9388 (94.38%). Elapsed: 5564.0s
+2026-09-15 02:41:31,885 [INFO] Batch 443/469 done (+20 brands). Total: 8880/9388 (94.59%). Elapsed: 5587.2s
+2026-09-15 02:42:01,129 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:42:03,173 [INFO] Batch 444/469 done (+20 brands). Total: 8900/9388 (94.8%). Elapsed: 5618.4s
+2026-09-15 02:42:21,212 [INFO] Batch 445/469 done (+20 brands). Total: 8920/9388 (95.01%). Elapsed: 5636.5s
+2026-09-15 02:42:25,200 [INFO] Batch 446/469 done (+20 brands). Total: 8940/9388 (95.23%). Elapsed: 5640.5s
+2026-09-15 02:42:41,650 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:42:43,619 [INFO] Batch 447/469 done (+20 brands). Total: 8960/9388 (95.44%). Elapsed: 5658.9s
+2026-09-15 02:42:59,879 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:43:01,769 [INFO] Batch 448/469 done (+20 brands). Total: 8980/9388 (95.65%). Elapsed: 5677.0s
+2026-09-15 02:43:20,420 [INFO] Batch 449/469 done (+20 brands). Total: 9000/9388 (95.87%). Elapsed: 5695.7s
+2026-09-15 02:43:37,124 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:43:39,089 [INFO] Batch 450/469 done (+20 brands). Total: 9020/9388 (96.08%). Elapsed: 5714.4s
+2026-09-15 02:44:10,150 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:44:12,012 [INFO] Batch 451/469 done (+20 brands). Total: 9040/9388 (96.29%). Elapsed: 5747.3s
+2026-09-15 02:44:28,533 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:44:30,330 [INFO] Batch 452/469 done (+20 brands). Total: 9060/9388 (96.51%). Elapsed: 5765.6s
+2026-09-15 02:44:34,263 [INFO] Batch 453/469 done (+20 brands). Total: 9080/9388 (96.72%). Elapsed: 5769.5s
+2026-09-15 02:44:37,925 [INFO] Batch 454/469 done (+20 brands). Total: 9100/9388 (96.93%). Elapsed: 5773.2s
+2026-09-15 02:44:54,247 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:44:56,282 [INFO] Batch 455/469 done (+20 brands). Total: 9120/9388 (97.15%). Elapsed: 5791.5s
+2026-09-15 02:45:14,584 [INFO] Batch 456/469 done (+20 brands). Total: 9140/9388 (97.36%). Elapsed: 5809.9s
+2026-09-15 02:45:44,644 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:45:46,661 [INFO] Batch 457/469 done (+20 brands). Total: 9160/9388 (97.57%). Elapsed: 5841.9s
+2026-09-15 02:45:49,936 [INFO] Batch 458/469 done (+20 brands). Total: 9180/9388 (97.78%). Elapsed: 5845.2s
+2026-09-15 02:46:08,286 [INFO] Batch 459/469 done (+20 brands). Total: 9200/9388 (98.0%). Elapsed: 5863.6s
+2026-09-15 02:46:11,716 [INFO] Batch 460/469 done (+20 brands). Total: 9220/9388 (98.21%). Elapsed: 5867.0s
+2026-09-15 02:46:15,211 [INFO] Batch 461/469 done (+20 brands). Total: 9240/9388 (98.42%). Elapsed: 5870.5s
+2026-09-15 02:46:18,697 [INFO] Batch 462/469 done (+20 brands). Total: 9260/9388 (98.64%). Elapsed: 5874.0s
+2026-09-15 02:46:35,019 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:46:37,008 [INFO] Batch 463/469 done (+20 brands). Total: 9280/9388 (98.85%). Elapsed: 5892.3s
+2026-09-15 02:46:40,504 [INFO] Batch 464/469 done (+20 brands). Total: 9300/9388 (99.06%). Elapsed: 5895.8s
+2026-09-15 02:46:43,894 [INFO] Batch 465/469 done (+20 brands). Total: 9320/9388 (99.28%). Elapsed: 5899.2s
+2026-09-15 02:47:00,675 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:47:02,715 [INFO] Batch 466/469 done (+20 brands). Total: 9340/9388 (99.49%). Elapsed: 5918.0s
+2026-09-15 02:47:20,170 [INFO] Batch 467/469 done (+20 brands). Total: 9360/9388 (99.7%). Elapsed: 5935.4s
+2026-09-15 02:47:36,619 [WARNING] AITDK error for batch (20 domains): The read operation timed out
+2026-09-15 02:47:38,519 [INFO] Batch 468/469 done (+20 brands). Total: 9380/9388 (99.91%). Elapsed: 5953.8s
+2026-09-15 02:47:40,766 [INFO] Batch 469/469 done (+8 brands). Total: 9388/9388 (100.0%). Elapsed: 5956.0s
+2026-09-15 02:47:41,266 [INFO] Scan completed successfully!

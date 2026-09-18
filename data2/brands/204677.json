@@ -1,0 +1,160 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1754541243_4205477_e3f5f8f5cc486426e465ca21cd8f4e90.png",
+  "description": "<div style=\"font-family: Poppins;\"><p><strong>About us</strong><br id=\"isPasted\">Founded in 1895 in Kyoto, Marusan Koroen is a premium matcha brand rooted in Japanese tea tradition.&nbsp;<br>We currently offer two internationally available products — SHINRA and KUKAI — both 100% JAS-certified organic and stone-milled in small batches.<br><br><strong>Why promote us</strong><br>Our matcha is crafted from carefully selected tencha leaves in partnership with Kyoto farmers and artisans.&nbsp;<br>We focus on quality, authenticity, and sustainable production.<br><br><strong>Affiliate program</strong><br>・<strong>15%</strong> commission per sale&nbsp;<br>・30-day cookie window&nbsp;<br>・Payout via PayPal on the 1st of each month&nbsp;<br>・Shipping to 220+ countries from Kyoto (USA,Canada,Australia,ext...)<br>・First purchase refund: buy once, promote, and get reimbursed with your first payout<br><br><strong>How to join</strong><br>Promote on Instagram, TikTok, or YouTube in your own voice. We’ll support you with visuals, product info, and promo tools.</p></div>",
+  "payout_rate": "20%",
+  "payout_period": "We pay out commissions for the previous month on the 1st of each month.\nPlease note that payments may be delayed if the date falls on a weekend or public holiday.",
+  "recommend_score": 1.53,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36214,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/marusan-koroen/register",
+  "offer_status": 2,
+  "name": "Marusan Koroen",
+  "website": "https://marusan-koroen.com",
+  "hashtags": [
+    "#matcha"
+  ],
+  "shop_id": 204677,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.32,
+  "program_id": 235061,
+  "myshopify_domain": "marusan-koroen.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 71,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "59.46%",
+  "mkp_program_id": 235061,
+  "product_list": []
+}

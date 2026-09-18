@@ -1,0 +1,169 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1782104159_8474005_c4ad226a46f7046fe3dac369d76ea67d.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p class=\"font-claude-response-body break-words whitespace-normal\">Neuravella is a stress and cortisol support supplement brand built around helping people reclaim calm and balance in the face of everyday life. Our products are designed for men and women who are feeling the weight of modern-day stress and are looking for a natural solution to help them feel like themselves again. Available on a subscription basis, meaning customers can reorder monthly with ease.</p><p class=\"font-claude-response-body break-words whitespace-normal\"><br></p><p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What makes us different:</strong><br>We treat our affiliates as genuine partners, not just a marketing channel. Every affiliate earns lifetime commissions — meaning if your audience subscribes and renews every month, you keep earning on every single order. No caps, no expiry.</p><p class=\"font-claude-response-body break-words whitespace-normal\"><strong>How affiliates can earn:</strong><br>You'll receive your own unique link and discount code to share with your audience. Every purchase made through your link earns you a 20% commission, including all future renewals from that customer for life. Our top-performing affiliates are also considered for paid monthly retainer partnerships.</p><p class=\"font-claude-response-body break-words whitespace-normal\"><strong>How to promote us:</strong><br>Video content performs best for our brand — TikTok, Instagram Reels, and YouTube Shorts are ideal. We encourage authentic reviews, unboxings, and lifestyle content that speaks directly to your audience.</p><p class=\"font-claude-response-body break-words whitespace-normal\"><strong>Other information:</strong><br>All affiliates are onboarded into our private Discord community where you'll find support, updates, and a network of fellow creators. For serious, long-term creators we also offer paid advertising rewards and monthly retainer partnerships. We're actively looking for people who want to grow with us closely and long-term, the more initiative you show, the more we invest in you.</p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "Payout is on the 30th of every month.",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 40087,
+  "categories": "Health & Beauty",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "extension_software",
+    "social_media_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Male"
+  ],
+  "target_audience_locations": [
+    "Australia"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Neuravella/register",
+  "offer_status": 2,
+  "name": "Bloome Organics",
+  "website": "https://neuravella.com.au/",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 258731,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 303469,
+  "myshopify_domain": "mm6xza-j0.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 90.57,
+  "new_customer_commission": "20% per order",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "35.71%",
+  "mkp_program_id": 303469,
+  "product_list": []
+}

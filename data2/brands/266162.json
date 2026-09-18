@@ -1,0 +1,191 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1776981192_3873625_bf4680458a9a3b8a099b968fa488c4ed.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>• About our brand and products:</p><p>Decosignature is a home decor brand focused on modern, aesthetic dinnerware and table setups that stand out. Our products are designed to make everyday dining feel premium, whether it’s for daily use or hosting.</p><p><br></p><p>• What makes us different:</p><p>We’re building a group of reliable partners instead of working with random affiliates. We focus on long-term relationships and consistent growth.</p><p><br></p><p>• How affiliates can earn:</p><p>You’ll get your own unique referral link and discount code to share.</p><p>Our average order value is around $300, so you can earn about $30 per referral depending on your commission tier.</p><p>We offer competitive commission on every sale you generate, and selected partners may also receive additional incentives over time based on performance.</p><p><br></p><p>• How to promote us:</p><p>You can promote Decosignature in a way that fits your audience best, including:</p><p>social media</p><p>blogs or websites</p><p>email marketing</p><p>product recommendations</p><p><br></p><p>Keep it natural and focused on real use.</p><p><br></p><p>• Other information:</p><p>We’re looking for partners who are consistent and serious about growing with the brand.</p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "Payouts are issued 30 days after order delivery to account for returns. Payments are sent on the 1st of each month via PayPal.",
+  "recommend_score": 1.49,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39264,
+  "categories": "Home & Garden",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 0,
+  "commission": "$25.00 per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "United Arab Emirates",
+    "India",
+    "Pakistan",
+    "Bangladesh",
+    "Brazil",
+    "France",
+    "Germany",
+    "Philippines"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/decosignature/register",
+  "offer_status": 2,
+  "name": "DECOSIGNATURE",
+  "website": "https://decosignature.shop",
+  "hashtags": [
+    "#homeessential",
+    "#dinnerset",
+    "#homedecor"
+  ],
+  "shop_id": 266162,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1400000000000001,
+  "program_id": 314321,
+  "myshopify_domain": "23892e-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 330,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "97.71%",
+  "mkp_program_id": 314321,
+  "product_list": []
+}

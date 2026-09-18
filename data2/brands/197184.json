@@ -1,0 +1,161 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1740516714_2580072_55163e3367e35b54b3229b38f90cb782.jpg",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull;<strong> Brand introduction</strong>:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We're Davies Reid!&nbsp; A high-end rug &amp; art store located in Sun Valley, ID.&nbsp; For 40+ years, we've been designing and manufacturing organic, handmade rugs made by Turkmen refugees that have been weaving rugs for generations.&nbsp; Our business helps support the livelihoods of the Turkmen people as well as support our foundation, Yurts to Universities, which educates girls &amp; women in Afghanistan.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br>&bull; <strong>Product description</strong>:&nbsp;&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our rugs are handmade from high mountain, handspun wool and organic vegetable dyes.&nbsp; They are as organic and high-quality as rugs come.&nbsp; Dense and full of texture.&nbsp; Hand woven by Turkmen weavers in their homes which allows for a healthy work environment for our weavers.&nbsp;&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We also sell rare Asian artifacts from all over the middle east.&nbsp;&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our rugs are eco-friendly... chemicals never touch our rugs, will last multiple lifetimes, easy to clean, and support a good cause.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>Opportunity For BIG PAYDAY</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our high quality rugs come with a big price tag... which mean 10% goes a long way.&nbsp; For example, our 9x12 rugs range from $10,000 - $15,000... thats $1000-$1500 for you on a single sale!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.32,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34947,
+  "categories": "Art, Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Facebook"
+  ],
+  "target_audience_ages": [
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ec8dba-30/register",
+  "offer_status": 2,
+  "name": "Davies Reid Rugs",
+  "website": "https://daviesreid.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 197184,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 225222,
+  "myshopify_domain": "ec8dba-30.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "15%",
+  "mkp_program_id": 225222,
+  "product_list": []
+}

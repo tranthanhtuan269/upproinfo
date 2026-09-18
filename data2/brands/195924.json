@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1739955780_1957813_87cb65d23767de81629e90d45e45f8f4.png",
+  "description": "<div>At LINENESE, we're dedicated to revolutionizing men's fashion with the timeless charm and eco-friendliness of linen. As a player that has been operating in physical stores for a long time in men's linen apparel, we've earned a reputation for offering high-quality, stylish, and sustainable clothing that appeals to modern men seeking both fashion and functionality.</div>\r\n<div></div>\r\n<div>Our brand is founded on simplicity, comfort, and sustainability. Linen, with its natural texture, breathability, and durability, is our fabric of choice. Each piece in our collection is meticulously designed to highlight linen's unique features while incorporating the latest fashion trends for a great look.</div>\r\n<div></div>\r\n<div>Our products' versatility is a major selling point. Suitable for casual and formal occasions alike, whether it's a smart linen shirt for work, comfortable linen pants for a trip, or an elegant linen blazer for a special event, we've got you covered.</div>\r\n<div></div>\r\n<div>Quality is paramount. We source the finest linen from Europe and work with skilled artisans. Our attention to detail ensures not only style and comfort but also longevity.</div>\r\n<div></div>\r\n<div>Sustainability is at the core of our brand. We aim to minimize our environmental footprint through every business aspect, from material selection to manufacturing.</div>\r\n<div></div>\r\n<div>Our product lineup includes a diverse range of men's linen items such as shirts, pants, jackets, suits, and accessories. With various styles, colors, and sizes, there's a perfect fit for everyone.</div>\r\n<div></div>\r\n<div>We're seeking partners to spread the allure of linen men's fashion worldwide. Let's create a more sustainable and fashionable future for men's fashion together. Contact us today to learn more about our brand and partnership opportunities.</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34540,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1739958299_859969_da5ce581b1ebc6f9852a57f5733b2af0.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Content or Niche website",
+    "Coupons or Deals website",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Reddit",
+    "Tiktok",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "United Arab Emirates",
+    "Austria",
+    "Australia",
+    "Italy",
+    "Spain",
+    "France",
+    "Germany",
+    "Netherlands"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/linenese/register",
+  "offer_status": 2,
+  "name": "LINENESE",
+  "website": "https://linenese.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 195924,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.82,
+  "program_id": 223625,
+  "myshopify_domain": "k4nd96-sz.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "46.15%",
+  "mkp_program_id": 223625,
+  "product_list": []
+}

@@ -1,0 +1,169 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1715452293_1974102_f03d068a98c15355801475fef62b5e48.png",
+  "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-nhret-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-nhret-1n7m0yu\">\r\n<div>\r\n<div class=\"flex flex-col text-sm pb-9\">\r\n<div class=\"w-full text-token-text-primary\" dir=\"auto\" data-testid=\"conversation-turn-43\" data-scroll-anchor=\"true\">\r\n<div class=\"py-2 px-3 text-base md:px-4 m-auto md:px-5 lg:px-1 xl:px-5\">\r\n<div class=\"mx-auto flex flex-1 gap-3 text-base juice:gap-4 juice:md:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem]\">\r\n<div class=\"relative flex w-full min-w-0 flex-col agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div data-message-author-role=\"assistant\" data-message-id=\"bc4ac857-fb2d-4c3f-ac8c-cdc374835f45\" dir=\"auto\" class=\"min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto gap-3\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n<p><strong>Brand Introduction:</strong><br>We provide premium silicone earplugs that deliver unmatched comfort and effective hearing protection, making them essential for any lifestyle. Orbis Earplugs offer reliable solutions for people seeking to shield their hearing while maintaining a stylish look.</p>\r\n<p><img style=\"max-width: 100%; height: auto;\" src=\"https://www.orbisearplugs.com/cdn/shop/files/Orbis9.jpg?v=1713722933&amp;width=1100\" width=\"350\" height=\"350\" alt=\"\"></p>\r\n<p><strong>Product Description:</strong><br>Orbis Earplugs are crafted from high-quality, medical-grade silicone to ensure a comfortable, secure fit while effectively reducing noise. They are reusable and durable, adapting to various ear sizes for all-day wear. Ideal for professionals and enthusiasts alike, they are perfect for minimizing distractions while focusing on daily activities.</p>\r\n<p><strong>Key Applications:</strong></p>\r\n<ul>\r\n<li><strong>Traveling:</strong> Shield your ears from the hum of airplane engines or chatter with our earplugs, designed to offer maximum comfort throughout your journey.</li>\r\n<li><strong>Yoga &amp; Meditation:</strong> Find your inner peace without disruptions by blocking out external noise, helping you to maintain focus in any setting.</li>\r\n<li><strong>Work &amp; Study:</strong> Increase productivity by minimizing background noise in shared spaces, whether at the office or the library.</li>\r\n<li><strong>Sleeping:</strong> Ensure uninterrupted sleep by drowning out traffic, snoring, or other disturbances, offering peaceful rest at home or on the go.</li>\r\n<li><strong>Concerts &amp; Sports Events:</strong> Protect your hearing from loud music or cheers while enjoying a comfortable and secure fit.</li>\r\n</ul>\r\n<p><strong>USP (Unique Selling Point):</strong></p>\r\n<ul>\r\n<li>Soft, medical-grade silicone for exceptional comfort</li>\r\n<li>Superior noise reduction for various environments</li>\r\n<li>Reusable, durable, and easy to maintain</li>\r\n<li>Universal fit for all ear sizes</li>\r\n</ul>\r\n<p><strong>Payment Terms:</strong></p>\r\n<ul>\r\n<li>Commission: 25% of each sale</li>\r\n<li>Cookie: 30 days</li>\r\n<li>Payment Method: PayPal</li>\r\n</ul>\r\n<p><strong>Other Information:</strong></p>\r\n<ul>\r\n<li>Affiliates receive a unique affiliate link to promote Orbis products</li>\r\n<li>No automatic discounts or auto-approve affiliates</li>\r\n</ul>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"w-full md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)] juice:w-full\">\r\n<div class=\"px-3 text-base md:px-4 m-auto md:px-5 lg:px-1 xl:px-5\">\r\n<div class=\"mx-auto flex flex-1 gap-3 text-base juice:gap-4 juice:md:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem]\"><form class=\"w-full\">\r\n<div class=\"relative flex h-full max-w-full flex-1 flex-col\">\r\n<div class=\"absolute bottom-full left-0 right-0\"></div>\r\n<div class=\"flex w-full items-center\"></div>\r\n</div>\r\n</form></div>\r\n</div>\r\n</div>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "7.25",
+  "video_url": null,
+  "mkp_listing_id": 30080,
+  "categories": "Beauty & Health, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Orbis/register",
+  "offer_status": 2,
+  "name": "Orbis Earplugs",
+  "website": "https://www.orbisearplugs.com",
+  "hashtags": [
+    "#OrbisEarplugs",
+    "#SiliconeEarplugs",
+    "#NoiseReduction",
+    "#TravelEssentials",
+    "#YogaGear",
+    "#FocusBetter",
+    "#ProtectYourHearing",
+    "#ReusableEarplugs",
+    "#ComfortFit",
+    "#LifestyleProduct"
+  ],
+  "shop_id": 147501,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 167476,
+  "myshopify_domain": "78cbb5-9b.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "98%",
+  "mkp_program_id": 167476,
+  "product_list": []
+}

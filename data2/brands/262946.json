@@ -1,0 +1,183 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><div><div class=\"flex flex-col text-sm pb-25\"><section class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\"><div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\"><div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\"><div class=\"flex max-w-full flex-col gap-4 grow\"><div class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden\"><div class=\"markdown prose dark:prose-invert w-full wrap-break-word dark markdown-new-styling\"><p>We’re so glad you’re here and taking the time to learn more about our influencer program. At Modern Skyn Alchemy, we handcraft 100% natural, non-toxic skincare in our sunny Los Angeles workshop.</p><p>We’d love for you to join us in sharing a simple truth: real, recognizable ingredients can deliver lasting results—without compromising your health or well-being.</p></div></div></div></div></div></div></section></div><p><strong>Who We Are</strong><br>At the heart of everything we create is a commitment to caring for both skin and self through natural, non-toxic ingredients. This philosophy weaves through our products, our projects, and our partnerships.</p><p>We strive to live the same way we formulate—grounded in integrity, simplicity, and purity.</p><p>We believe in the ritual of daily bathing and in a deeper kind of beauty—one that goes far beyond skincare.</p><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><br></p><p><strong>Program Outline + Perks</strong></p><ul><li><p>60-day cookie window</p></li><li><p>Unlimited discount codes </p></li><li><p>Tiered commission structure ranging from 5%–15%</p></li><li><p>Monthly posting requirements to maintain active status</p></li><li><p>Minimum sales threshold to remain an active affiliate</p></li><li><p>Exclusive quarterly discounts for affiliates</p></li><li><p>Early access to new product launches and sales</p></li><li><p>Dedicated one-on-one support from our team to help you succeed</p></li></ul><p><strong>Who You Are</strong><br>You value simplicity and intentionally support your health and well-being by choosing real, natural, and non-toxic alternatives to conventional beauty products.</p><p>Your commitment to a healthier, more conscious lifestyle inspires those around you. You cultivate authentic, meaningful connections within your community and create a positive, lasting impact in the lives of others.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "1st of each month",
+  "recommend_score": 1.78,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38997,
+  "categories": "Health & Beauty",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "14% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Germany",
+    "Spain",
+    "Mexico",
+    "Austria",
+    "Australia",
+    "Belgium",
+    "Belarus"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/49712b-04/register",
+  "offer_status": 2,
+  "name": "Modern Skyn Alchemy",
+  "website": "https://modernskyn.com",
+  "hashtags": [
+    "#modernskyn",
+    "#modernskynalchemy"
+  ],
+  "shop_id": 262946,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.25,
+  "program_id": 308927,
+  "myshopify_domain": "49712b-04.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 86.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 308927,
+  "product_list": []
+}

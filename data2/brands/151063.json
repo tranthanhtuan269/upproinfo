@@ -1,0 +1,162 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1716912007_8043227_353687cd90e4f391ac8150945aa56197.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>We're The Salty Nest, a small, family-owned business of ocean lovers. We are also parents (to our 3 little ones) &amp; we create products for children that embrace style and minimalism.</span><br><br><span>We're excited to introduce you to our Outdoor Baby Swing! Designed with our own children in mind, our swing isn't just about fun; it's about creating unforgettable moments with your little one while enjoying the fresh air outdoors. With heavy-duty mounting hardware and a secure seatbelt, you can swing your baby to toddler worry-free.</span><br><br><span>We invite you to collaborate with us as a long-term affiliate through your own personalized link. For every sale made, we'll give you a 20% commission, building a relationship that benefits both our small company and the families we work with.</span><br><br><span>We cherish the memories with our children, and we're happy to provide a product that allows other moms and dads to create lasting memories with their children too!</span></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.09,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30361,
+  "categories": "Mom & Kids, Garden & Outdoors",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/the-salty-nest-com/register",
+  "offer_status": 2,
+  "name": "The Salty Nest",
+  "website": "https://thesaltynest.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 151063,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.94,
+  "program_id": 171637,
+  "myshopify_domain": "the-salty-nest-com.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 26.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "28.57%",
+  "mkp_program_id": 171637,
+  "product_list": []
+}

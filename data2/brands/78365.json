@@ -1,0 +1,149 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/b5a500519e180e8ff07e33136befb9a9.gif",
+  "description": "<p style=\"margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Join our affiliate program and earn cash by promoting our brand and products on your website or ads. Every time you direct a consumer from your website our add to ours, you earn money when that consumer makes a purchase.&nbsp;</span></p>\r\n<p style=\"margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Our program is FREE to join and easy to use. As a Publisher, you place our links (e.g., banners, buttons, or textual links) on your ad or website. When a visitor to your website clicks on the link and makes a purchase at our website, you earn a commission (percentage of sale). We handle the entire shopping and buying experience. We use one highly respected third-party Shopify affiliate systems to track and report affiliate activity.&nbsp;</span></p>\r\n<p style=\"margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">We can also design an ad, banner, buttons or link to your specifications. Example, say you want to promote a new shoe that dropped and want to us the shoe image as a button. Just send us an email and we can discuss it.</span></p>\r\n<p style=\"margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Thanks, Good Luck and let the Wi-Fi bread start stacking up!</span></p>\r\n<p style=\"margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;\">&nbsp;</p>\r\n<p style=\"margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">- Freestyleshop</span></p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.79,
+  "average_earning_per_sale": "10.00",
+  "video_url": null,
+  "mkp_listing_id": 18972,
+  "categories": "Fashion, Sports & Entertainment, Toys & Hobbies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1669150709_3010438_448d02a99c806678d9eb60fa624e8061.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Freestyleshop/register",
+  "offer_status": 2,
+  "name": "Freestyleshop",
+  "website": "https://freestyleshop.com",
+  "hashtags": [],
+  "shop_id": 78365,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.5699999999999998,
+  "program_id": 89862,
+  "myshopify_domain": "freestyleshop01.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 106.5,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 89862,
+  "product_list": []
+}

@@ -1,0 +1,224 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1701921483_200601_58e2d30c63e129eaa485117dc1d4137e.png",
+  "description": "<p>Ayurvedic Rasayanas knows that incorporating Ayurvedic practices into your self-care routine can be daunting. The simplification of Ayurveda is one of our top priorities. \"Since 1985, we have aided thousands of individuals in reclaiming their power and achieving balance in their lives, providing exceptional support to our valued customers.&rdquo;</p>\r\n<p>Our Rasayana products offers a unique blend of botanicals, including concentrated powdered extracts, raw herbs, and essential oils, all preserved in ghee and honey for optimal effectiveness.</p>\r\n<p>Discover our wide selection of Rasyanas, teas, spice masalas, cleansers, creams, and oils specifically designed for each body type (dosha). Enhance your well-being with our specialized products.</p>\r\n<p>We utilize an age-old method known as \"Sneha Kalpana,\" which is akin to the contemporary process of encapsulating active components like liposomal supplements. When consuming nutrients, it is crucial to have the medicinal properties encapsulated for optimal absorption due to the slippery nature of the cells.<br><br></p>\r\n<p><br></p>",
+  "payout_rate": "79.17%",
+  "payout_period": null,
+  "recommend_score": 3.08,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 27938,
+  "categories": "Beauty & Health, Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "venmo": 1,
+    "store_credit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ayurvedaherbs/register",
+  "offer_status": 2,
+  "name": "Ayurvedic Rasayanas",
+  "website": "https://www.ayurveda-herbs.com",
+  "hashtags": [
+    "#ayurveda",
+    "",
+    "#naturalproducts",
+    "",
+    "#supplements",
+    ""
+  ],
+  "shop_id": 126122,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.08,
+  "program_id": 233852,
+  "myshopify_domain": "ayurvedaherbs.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24dae5d235d1f700116b9",
+      "name": "Auto-discount rule",
+      "program_id": 233852,
+      "shop_id": 126122,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:35:10",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 108.2,
+  "new_customer_commission": "10% per order",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "96.49%",
+  "mkp_program_id": 233852,
+  "product_list": []
+}

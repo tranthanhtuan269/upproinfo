@@ -1,0 +1,246 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1763068244_8644723_fcacba8662b051546ce02715bad16a1d.jpg",
+  "description": "<div style=\"font-family:Poppins;\"><div><article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto [content-visibility:auto] supports-[content-visibility:auto]:[contain-intrinsic-size:auto_100lvh] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\"><div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\"><div class=\"[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\"><div class=\"flex max-w-full flex-col grow\"><div class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[1px]\"><div class=\"markdown prose dark:prose-invert w-full break-words light markdown-new-styling\"><h3><strong>About Our Brand &amp; Products</strong></h3><p>Natural Cardiology Institute (NCI) is founded by board-certified cardiologist <strong>Dr. James Kneller</strong>, offering science-backed, natural heart-health supplements and protocols. Our best-sellers include <strong>Just Beet It</strong>, <strong>Golden Balance</strong>, <strong>Heart Harmony</strong>, and the <strong>1-2-3 Pressure Down Trio</strong>.</p><h3><strong>What Makes Us Different</strong></h3><ul><li><p>Created by a practicing cardiologist</p></li><li><p>Evidence-based, clinically inspired formulas</p></li><li><p>High trust + strong customer results</p></li><li><p>Premium packaging and educational support that boosts conversions</p></li></ul><h3><strong>How Affiliates Can Earn</strong></h3><ul><li><p><strong>25% commission</strong> on every sale</p></li><li><p>Recurring commissions on subscriptions (if enabled)</p></li><li><p>High average order value</p></li><li><p>Monthly payouts + easy tracking dashboard</p></li></ul><h3><strong>How to Promote Us</strong></h3><ul><li><p>Share wellness videos, product reviews, or heart-health tips</p></li><li><p>Use TikTok, Instagram, YouTube, blogs, or email lists</p></li><li><p>Promote the <strong>1-2-3 Pressure Down Trio</strong> as a daily natural protocol</p></li><li><p>No medical claims—focus on wellness and lifestyle benefits</p></li></ul><h3><strong>Other Information</strong></h3><ul><li><p>30-day cookie window</p></li><li><p>Access to branded photos + promo materials</p></li><li><p>Early access to new product launches</p></li><li><p>Affiliate support available anytime</p></li></ul><hr><p><br></p></div></div></div></div></div></div></article></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "1st of each month",
+  "recommend_score": 3,
+  "average_earning_per_sale": null,
+  "video_url": "https://naturalcardiologyinstitute.com/cdn/shop/videos/c/vp/ff10bdc4bca84dab9af9ce52949c0d32/ff10bdc4bca84dab9af9ce52949c0d32.HD-1080p-7.2Mbps-43306803.mp4?v=0",
+  "mkp_listing_id": 36989,
+  "categories": "Health & Beauty",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/vcaf2d-iw/register",
+  "offer_status": 2,
+  "name": "Natural Cardiology Institute",
+  "website": "https://naturalcardiologyinstitute.com",
+  "hashtags": [
+    "#naturalcardiology",
+    "#beetsforblood"
+  ],
+  "shop_id": 238238,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.03,
+  "program_id": 277924,
+  "myshopify_domain": "vcaf2d-iw.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "693dbf2e01c1605c9e04f132",
+      "name": "5dollaroff",
+      "program_id": 277924,
+      "shop_id": 238238,
+      "affiliates": [
+        10245424,
+        10244993,
+        10221878,
+        10215725,
+        10209095,
+        10038112,
+        10016351,
+        10014522,
+        9988847
+      ],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": true,
+          "discount_type": "fixed_amount",
+          "amount": 5,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": [
+            "10302899323044",
+            "10294245359780",
+            "10290659721380",
+            "10290417008804",
+            "10287103475876",
+            "10274021703844",
+            "10269110010020",
+            "10269109846180",
+            "10267278737572",
+            "10267278573732",
+            "10267278114980",
+            "10267277951140",
+            "10264603885732",
+            "10208990134436",
+            "10183937130660"
+          ]
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 2,
+      "status": true,
+      "minimum_type": "amount",
+      "minimum": 50,
+      "defined_coupon": null,
+      "active_at": "2025-12-13 20:46:13",
+      "created_at": "2025-12-13T19:31:58.947000Z",
+      "updated_at": "2025-12-22T17:36:51.582000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 109.5,
+  "new_customer_commission": "25% per order",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "58.97%",
+  "mkp_program_id": 277924,
+  "product_list": []
+}

@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1670954464_8798455_832334a518822294dc838f08c6db27c3midunu3_logo_NEW_web_360x-removebg-preview.png",
+  "description": "<p><strong>15% Affiliate Commission - Premium Chocolate Brand<br><br></strong>We are a premium, luxury chocolate brand. Our chocolates are handcrafted by our all-female team of chocolatiers based in Accra, Ghana. Ghana is renowned for its cocoa quality and quantity.</p>\r\n<p>The traditional method of fermenting cocoa beans in plantain and banana leaves instills a unique flavor. We then work our magic and create subtle infusions in our ganache with teas, tisanes, and complex spice blends. We work with local farmers and producers to cultivate and create our chocolates in Ghana.&nbsp;<br><br></p>\r\n<p>Our best-selling chocolatae collection is our <a href=\"https://us.midunuchocolates.com/collections/chocolates/products/chocolate-truffle-box?variant=41877946695843\">12 piece truffle set </a>($56), which includes the award winning Kukua truffle with moringa and white chocolate.&nbsp;<br><br>Our chocolates have been mentioned on The Washington Post, NPR, and Forbes.&nbsp;<br><br>Become an affiliate and be part of the Midunu family!</p>",
+  "payout_rate": "66.67%",
+  "payout_period": null,
+  "recommend_score": 0.9,
+  "average_earning_per_sale": "68",
+  "video_url": "https://www.youtube.com/watch?v=ciMNXSSV8y0&t=3s",
+  "mkp_listing_id": 19554,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/midunu-us/register",
+  "offer_status": 2,
+  "name": "midunu us",
+  "website": "https://us.midunuchocolates.com",
+  "hashtags": [],
+  "shop_id": 80599,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.87,
+  "program_id": 92368,
+  "myshopify_domain": "midunu-us.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 37,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "28.57%",
+  "mkp_program_id": 92368,
+  "product_list": []
+}

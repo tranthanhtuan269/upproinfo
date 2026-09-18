@@ -1,0 +1,205 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1768379315_2123967_1f53598b1a257dd32837d9f0adc5b7f3.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:<br><br></p>\r\n<div class=\"container-indent\">\r\n<div class=\"container container-fluid-custom-mobile-padding\">\r\n<div class=\"row\">\r\n<div class=\"col-xs-12 col-md-11 col-lg-9\">\r\n<div class=\"tt-about-box-02\">\r\n<h1 class=\"tt-title\">Linsoul was founded in 2016 by Crazy HiFi team with the intention of providing world class customer service to the audiophile and music loving communities.</h1>\r\n<p></p>\r\n<h5 class=\"tt-title\">OUR COMPANY STORES</h5>\r\n<div class=\"width-90\">\r\n<p>We maintain a strong connection with Chinese HiFi brands in order to offer a curated selection of the very best that Chi-Fi has to offer. We also go a step further in providing customization services so you can acquire a uniquely styled or custom molded IEM.</p>\r\n</div>\r\n<h5 class=\"tt-title\">OUR STORY</h5>\r\n<div class=\"width-90\">\r\n<p>The founder of Linsoul realized that Hifi music listening should be inspirational and modern stylish. It can be combined with sound quality and stylish to express your music style.</p>\r\n</div>\r\n<h5 class=\"tt-title\">MISSION</h5>\r\n<div class=\"width-90\">\r\n<p>To deliver Hi-Fi products that surpass the norm in terms of both Sound Quality and visual intrigue.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"container-indent\">\r\n<div class=\"container-fluid-custom\">\r\n<div class=\"tt-col-img\"></div>\r\n</div>\r\n</div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"></p>",
+  "payout_rate": "94.77%",
+  "payout_period": null,
+  "recommend_score": 6.57,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 27131,
+  "categories": "Gaming, Computers & Office, Sports & Entertainment",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 14,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Germany"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/linsoul/register",
+  "offer_status": 2,
+  "name": "Linsoul Audio",
+  "website": "https://www.linsoul.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 12657,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 4.32,
+  "program_id": 13686,
+  "myshopify_domain": "linsoul.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24d9d5d235d1f7000f4c3",
+      "name": "Auto-discount rule",
+      "program_id": 13686,
+      "shop_id": 12657,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:34:53",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Enterprise",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 92,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "99.25%",
+  "mkp_program_id": 13686,
+  "product_list": []
+}

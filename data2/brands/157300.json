@@ -1,0 +1,174 @@
+{
+  "logo": null,
+  "description": "<p>LOX 提供客製化產品分潤，我們會打造市場上非常好跑的產品來做分潤</p>\r\n<p>目前僅提供台灣做分潤，目前產品分潤為25%, 如需要更詳細合作可以聯絡我們。</p>\r\n<p>LOX provides customized product profit sharing. We will create the best-performing products on the market to share profits.</p>\r\n<p>Currently, we only provide Taiwan for profit sharing. The current product profit sharing is 25%. If you need more detailed cooperation, please contact us.</p>\r\n<p></p>\r\n<p>LOX provides customized product profit sharing. We will create the best-performing products on the market to share profits.</p>\r\n<p>Currently, we only provide Taiwan for profit sharing. The current product profit sharing is 25%. If you need more detailed cooperation, please contact us.</p>\r\n<p></p>\r\n<p>LOX provides customized product profit sharing. We will create the best-performing products on the market to share profits.</p>\r\n<p>Currently, we only provide Taiwan for profit sharing. The current product profit sharing is 25%. If you need more detailed cooperation, please contact us.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.07,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 31081,
+  "categories": "Others",
+  "currency": "TWD",
+  "symbol_currency": "&#78;&#84;&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Taiwan",
+    " Province of China",
+    "Taiwan",
+    " Province of China"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/307936/register",
+  "offer_status": 2,
+  "name": "Lox ｜ 個性化你的個性",
+  "website": "https://lox.tw",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 157300,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.02,
+  "program_id": 178959,
+  "myshopify_domain": "307936.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 1931.68,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "22.22%",
+  "mkp_program_id": 178959,
+  "product_list": []
+}

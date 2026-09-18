@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1766132818_3889333_031277f51441d6513e95e4ae52ebe2eb.png",
+  "description": "<div style=\"font-family:Poppins;\"><p><strong>MYTREX</strong> es una marca japonesa que desarrolla dispositivos tecnológicos para el bienestar accesible y la belleza personal pensada para el entorno doméstico.<strong>MYTREX</strong> se fundamenta en la evidencia científica y nace de la colaboración directa con ingenieros, médicos y especialistas en cuidado de la piel, lo que garantiza precisión técnica, seguridad clínica y su facilidad de uso diario.</p><p>Nuestros innovadores productos Mytrex destacan por:</p><p>Alta calidad con tecnología Japonesa avanzada (Electroestimulación de tejidos (EMS), terapias de calor, fototerapias LED, microcorrientes, nanoburbujas).</p><p>Simplicidad, eficacia y máximo rendimiento.</p><p>Diseño minimalista e innovador, facilidad de uso por su manejo intuitivo y una altísima calidad de presentación (materiales y packaging)</p></div>",
+  "payout_rate": "0%",
+  "payout_period": "El ingreso de comisiones es en 30 días",
+  "recommend_score": 3.06,
+  "average_earning_per_sale": null,
+  "video_url": "https://www.youtube.com/shorts/4onq14lwFkE",
+  "mkp_listing_id": 38562,
+  "categories": "Electronics, Health & Beauty, Sporting Goods",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Belgium",
+    "Denmark",
+    "Estonia",
+    "France",
+    "Italy",
+    "Latvia",
+    "Monaco",
+    "Netherlands",
+    "Poland",
+    "Portugal"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/mytrex/register",
+  "offer_status": 2,
+  "name": "MYTREX",
+  "website": "https://mytrex.es",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 244310,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.2,
+  "program_id": 285435,
+  "myshopify_domain": "0kc6hh-a1.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 182.52,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "31.58%",
+  "mkp_program_id": 285435,
+  "product_list": []
+}

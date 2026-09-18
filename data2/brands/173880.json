@@ -1,0 +1,360 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1730850171_2789972_909eedfb32c50dc9cd97611c3138feff.png",
+  "description": "<div>\r\n<div></div>\r\n</div>\r\n<div>\r\n<div>\r\n<p><strong>Welcome to the Future of Skincare!</strong></p>\r\n<p>Discover our exclusive luxury formulas that blend cutting-edge science with nature to reverse signs of aging and rejuvenate your skin&rsquo;s youthful radiance. Embrace your beauty and vitality like never before.</p>\r\n<p>Vivaly&rsquo;s exclusive formulas feature a distinctive ingredient not found in any other skincare products: the extract of the Sacred Lotus Flower. With 45 years of leadership and innovation, we have led groundbreaking research, developed cutting-edge products, and remain committed to providing you with the finest in skincare.</p>\r\n</div>\r\n</div>",
+  "payout_rate": "50%",
+  "payout_period": null,
+  "recommend_score": 2.34,
+  "average_earning_per_sale": "50",
+  "video_url": null,
+  "mkp_listing_id": 33739,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "12%-25% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "United Arab Emirates",
+    "Turkey",
+    "Philippines",
+    "Malaysia",
+    "Indonesia",
+    "France",
+    "Italy",
+    "China"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "venmo": 1,
+    "store_credit": 1,
+    "other": "Crypto-currency"
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://shop.miraclehealth.global/VIVALY/register",
+  "offer_status": 2,
+  "name": "Miracle Health & Beauty",
+  "website": "https://www.miraclehealth.shop",
+  "hashtags": [
+    "#skincare",
+    "",
+    "#health",
+    "",
+    "#beauty",
+    "",
+    "#cosmetics",
+    "",
+    "#biohacking",
+    "",
+    "#frequency"
+  ],
+  "shop_id": 173880,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "12",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "1000",
+      "commission_val": "15",
+      "disabled": false
+    },
+    {
+      "key": 3,
+      "order_val": "3000",
+      "commission_val": "18",
+      "disabled": false
+    },
+    {
+      "key": 4,
+      "order_val": "5000",
+      "commission_val": "21",
+      "disabled": false
+    },
+    {
+      "key": 5,
+      "order_val": "10000",
+      "commission_val": "25",
+      "disabled": false
+    }
+  ],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.67,
+  "program_id": 197909,
+  "myshopify_domain": "be1vvm-i6.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24daa5d235d1f70011063",
+      "name": "Auto-discount rule",
+      "program_id": 197909,
+      "shop_id": 173880,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:35:06",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Enterprise",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Azerbaijan",
+    "Bahamas",
+    "Bahrain",
+    "Barbados",
+    "Belgium",
+    "Belize",
+    "Bermuda",
+    "Bosnia and Herzegovina",
+    "Brazil",
+    "British Virgin Islands",
+    "Bulgaria",
+    "Canada",
+    "Cayman Islands",
+    "Chile",
+    "China",
+    "Colombia",
+    "Costa Rica",
+    "Croatia",
+    "Cyprus",
+    "Czech Republic",
+    "Denmark",
+    "Dominican Republic",
+    "Estonia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Hong Kong SAR China",
+    "Hungary",
+    "Iceland",
+    "India",
+    "Indonesia",
+    "Ireland",
+    "Isle of Man",
+    "Israel",
+    "Italy",
+    "Japan",
+    "Jersey",
+    "Kazakhstan",
+    "Kuwait",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Macau SAR China",
+    "Macedonia",
+    "Malaysia",
+    "Malta",
+    "Mexico",
+    "Moldova",
+    "Monaco",
+    "Mongolia",
+    "Montenegro",
+    "Netherlands",
+    "New Zealand",
+    "Norway",
+    "Panama",
+    "Peru",
+    "Philippines",
+    "Poland",
+    "Portugal",
+    "Puerto Rico",
+    "Qatar",
+    "Romania",
+    "Russia",
+    "San Marino",
+    "Saudi Arabia",
+    "Serbia",
+    "Serbia and Montenegro",
+    "Seychelles",
+    "Singapore",
+    "Slovakia",
+    "Slovenia",
+    "South Africa",
+    "South Korea",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Taiwan",
+    "Thailand",
+    "Turkey",
+    "Turks and Caicos Islands",
+    "U.S. Virgin Islands",
+    "Ukraine",
+    "United Arab Emirates",
+    "United Kingdom",
+    "United States",
+    "Uzbekistan",
+    "Vatican City",
+    "Vietnam"
+  ],
+  "avg_order_value": 30.5,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 197909,
+  "product_list": []
+}

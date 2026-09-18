@@ -1,0 +1,142 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1663902673_7561478_9b077a37721b00fc90ea5660d23b627020220923-111044.jpg",
+  "description": "<p>Do you want to earn some cash?  Join our Affiliates Program to get it.</p><p>Mocsicka party is one of party decor suppliers, and we have all kinds of party backdrops, balloons, arch stands and so on.</p><p><b>What you can get?</b></p><p>1,  Earn 10% Commission on all sales. Exclusive higher commission for top performers.</p><p>2, 10% OFF coupon for your customers</p><p></p><p>3, Sign up process is free, easy and fast!</p><p><br></p><p><b>How does work?</b></p><p style=\"text-align: left;\">      1. Affiliate promotes our Backdrop on social platforms</p><p style=\"text-align: left;\">     2. Potential customer clicks on the posts</p><p style=\"text-align: left;\"><span style=\"font-size: var(--size-body);\">3.Customer order from us.</span><br></p><p style=\"text-align: left;\"><span style=\"font-size: var(--size-body);\">4. Affiliate receives commissions</span><br></p><p style=\"box-sizing: inherit; font-size: 12px; color: rgb(45, 45, 45); font-family: \"Gill Sans\"; list-style: inherit; margin-bottom: 0px;\"><span style=\"font-size: 14px;\"><br></span></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.56,
+  "average_earning_per_sale": "0",
+  "video_url": "https://www.youtube.com/watch?v=TaX7AVntGoU&t=16s",
+  "mkp_listing_id": 17336,
+  "categories": "Sports & Entertainment, Mom & Kids, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1663817639_789934_707426228d8601dd1867914022b93a69.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ibearphotography/register",
+  "offer_status": 2,
+  "name": "Mocsicka Party",
+  "website": "https://www.mocsicka.com",
+  "hashtags": [],
+  "shop_id": 72332,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.56,
+  "program_id": 82619,
+  "myshopify_domain": "ibearphotography.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 98.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "45%",
+  "mkp_program_id": 82619,
+  "product_list": []
+}

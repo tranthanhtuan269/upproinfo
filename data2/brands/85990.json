@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/48058e7c28934311e08c0f0d652f52e0.png",
+  "description": "<div>\r\n<p>Welcome to our Affiliate Program! We're excited to offer you the opportunity to earn commission by promoting our high-quality toys and playthings. Whether you're a blogger, influencer, or simply someone with a passion for toys, our program is the perfect way to monetize your platform and help others discover the joy of play.</p>\r\n<p>How it Works:</p>\r\n</div>\r\n<div>\r\n<ol start=\"1\" type=\"1\">\r\n<li>Sign up: Simply fill out our quick and easy online application form to join our program.</li>\r\n<li>Promote: Choose from a wide selection of toys and promotional materials to share with your audience.</li>\r\n<li>Earn: For every sale that originates from your unique affiliate link, you'll earn a commission.</li>\r\n<li>Get paid: Receive your commission payments on a monthly basis, with no minimum payout threshold.</li>\r\n</ol>\r\n</div>\r\n<div>\r\n<p>Why Join Our Affiliate Program?</p>\r\n</div>\r\n<div>\r\n<ol start=\"1\" type=\"1\">\r\n<li>High Commission: Our program offers some of the best commission rates in the industry, so you can earn more from your promotions.</li>\r\n<li>Wide Selection: Choose from a wide range of toys and playthings, from classic board games to cutting-edge tech toys.</li>\r\n<li>Easy Tracking: With our advanced tracking system, you'll have real-time access to your commission earnings and sales stats.</li>\r\n<li>Expert Support: Our dedicated affiliate support team is here to help you every step of the way, ensuring your success as an affiliate.</li>\r\n</ol>\r\n</div>\r\n<div>\r\n<p>So what are you waiting for? Sign up today and start earning commission on every sale! With our Affiliate Program, promoting play and earning money has never been easier</p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.72,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 20788,
+  "categories": "Toys & Hobbies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/onlytoysforu/register",
+  "offer_status": 2,
+  "name": "Little Toy Treasure",
+  "website": "https://www.onlytoysforu.com",
+  "hashtags": [],
+  "shop_id": 85990,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 98399,
+  "myshopify_domain": "onlytoysforu.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "14.29%",
+  "mkp_program_id": 98399,
+  "product_list": []
+}

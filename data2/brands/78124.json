@@ -1,0 +1,151 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1717886719_340651_f19456ddc1134f52fe496c9372e9d515.png",
+  "description": "<p style=\"background: white; margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;\"><span class=\"contentpasted0\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman', serif; color: black;\">Hi, Everyone, as a nutritional researcher and product formulator, I&rsquo;ve spent most of my career formulating nutritional health products for some of the largest companies in the supplement industry. Some of those products you&rsquo;ve probably taken yourself, and some you may still be taking. Now, I've put all those years of research, experience and knowledge into the brand LeafSource&reg;. My team and I work hard to produce the most effective products that we and our families use in our daily lives. Products that actually make a difference in your health! &nbsp;</span></span><span style=\"font-size: 12.0pt; font-family: 'Times New Roman', serif; color: black;\">&nbsp;<br><br></span></p>\r\n<p style=\"background: white; margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman', serif; color: black;\">Feel good about being a part of something that helps others improve thier health, and at the same time earn commision from us and admiration from your follwers who will feel incredible... We Guaranteed it.</span></p>\r\n<p style=\"background: white; margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;\">&nbsp;</p>\r\n<p style=\"background: white; margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif;\">&nbsp;</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.46,
+  "average_earning_per_sale": "0",
+  "video_url": "https://www.youtube.com/watch?v=g4tO3DseWo8",
+  "mkp_listing_id": 18912,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/leafsource/register",
+  "offer_status": 2,
+  "name": "LeafSource®",
+  "website": "https://leafsource.com",
+  "hashtags": [],
+  "shop_id": 78124,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.2,
+  "program_id": 89560,
+  "myshopify_domain": "leafsource.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Canada",
+    "United States"
+  ],
+  "avg_order_value": 47.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "63.64%",
+  "mkp_program_id": 89560,
+  "product_list": []
+}

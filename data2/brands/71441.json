@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/cd19ed749cfe3ec7d787183d83ef6388.png",
+  "description": "<span style=\"color: rgba(13, 12, 12, 0.75); font-family: Assistant, sans-serif; font-size: 16px; letter-spacing: 0.6px;\">It all started when passion met the desire to explore different styles. As a woman that always struggled to find the perfect modest website that matched my budget and taste, I decided to start my own. It is a pleasure to have you here in our safe space and we hope you will enjoy our collection that had been meticulously curated.</span><p style=\"box-sizing: inherit; color: rgba(13, 12, 12, 0.75); font-family: Assistant, sans-serif; font-size: 16px; letter-spacing: 0.6px;\">Here at Modesta, we hope you will find your style without compromising your modesty.</p><p style=\"box-sizing: inherit; margin-bottom: 0px; color: rgba(13, 12, 12, 0.75); font-family: Assistant, sans-serif; font-size: 16px; letter-spacing: 0.6px;\">Please contact us below if you have any further questions!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 17100,
+  "categories": "Fashion, Jewelry & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/modestafashion/register?p=81472&key=eyJpdiI6ImQrOHkvSzJLeCt6cjQ2NWlnMVBaYWc9PSIsInZhbHVlIjoiaXgxR1l4VmNUcTkxZDV6d2czTi8xUGtHTzRuM2FjVStYT3kvdGJ2Zmw5Q2ZTd3puYjhKbFZta1BHdHY5eWFKMW9CMmFvNmdRYTNXNkNyTFgvMHhZdS9DMk4yRmFMUDNCRnZDL210ekVDb1M4cVU3ZXNrZWUrVnJuallNTEFoaW94bmNiSkxhWTVlV3BscHJ5YTZUWHZsTUIzRjVkOEVzd0w2bVk3Z3BMN3hWL1QwbmU2MzgzUDFpT2dveXJaeFZqRUxKV0FKMHBvNGZhMXJkTHh1THc0a0tsV0RjaFRnRFFFN2lZTHViN1dLYz0iLCJtYWMiOiIyMjAyMTMzOTQzYTIxMjYxOTllOTg3NzU1YTdhOWRkMzgwM2Q0MjZlYWE1MWEzODdhMDg1YTI4NzY5YTE5YTFkIiwidGFnIjoiIn0=",
+  "offer_status": 2,
+  "name": "Modesta",
+  "website": "https://www.modestafashion.com",
+  "hashtags": [],
+  "shop_id": 71441,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.67,
+  "program_id": 81472,
+  "myshopify_domain": "modestafashion123.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "6.67%",
+  "mkp_program_id": 81472,
+  "product_list": []
+}

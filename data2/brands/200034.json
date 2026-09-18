@@ -1,0 +1,168 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742002255_2775825_68f99d7b5a80ee7ead28adb54f612ae6.png",
+  "description": "<h3 data-pm-slice=\"1 1 []\">Join the Art &amp; Parcel Affiliate Program</h3>\r\n<p>Art &amp; Parcel is all about making creativity effortless and accessible. We deliver high-quality craft kits straight to your door, packed with everything you need to explore new artistic mediums and build real creative skills &mdash; without the hassle of sourcing materials or planning projects. From polymer clay creations to bookbinding and beyond, our kits are designed to spark creativity and confidence, no matter your skill level.</p>\r\n<h3>Why Partner with Us?</h3>\r\n<p>As an Art &amp; Parcel affiliate, you'll earn <strong>10% commission on every sale</strong> made through your unique referral link. Plus, when you work with us regularly, we'll send you <strong>free craft kits to create content</strong> and share your creative journey with your audience.</p>\r\n<h3>What&rsquo;s in It for You?</h3>\r\n<ul data-spread=\"false\">\r\n<li>\r\n<p>10% commission on all sales</p>\r\n</li>\r\n<li>\r\n<p>Free craft kits for content creation</p>\r\n</li>\r\n<li>\r\n<p>Unique, high-quality projects to share with your audience</p>\r\n</li>\r\n<li>\r\n<p>A growing community of creative dabblers to connect with</p>\r\n</li>\r\n</ul>\r\n<p>Our kits are perfect for creative adults looking to unwind, learn new skills, and explore their artistic side without the stress. With clear instructions, video tutorials, and quality tools included, your audience will love the simplicity and satisfaction of creating something beautiful.</p>\r\n<p>Ready to create and earn? Join our affiliate program today and let&rsquo;s get crafting!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.9,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34936,
+  "categories": "Art, Books",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1742002310_825492_46e8241e209abdc6ef72ad8f71740ef6.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/c649e1-de/register",
+  "offer_status": 2,
+  "name": "Art & Parcel ",
+  "website": "https://artandparcel.com.au",
+  "hashtags": [
+    "#craftcommunity",
+    "#diycrafts",
+    "#creativejourney",
+    "#handmadewithlove",
+    "#craft",
+    "#art",
+    "#booktok",
+    "#artistsoninstagram",
+    "#instaart",
+    "#handmade",
+    "#diy"
+  ],
+  "shop_id": 200034,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 229038,
+  "myshopify_domain": "c649e1-de.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 176.11,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "15.38%",
+  "mkp_program_id": 229038,
+  "product_list": []
+}

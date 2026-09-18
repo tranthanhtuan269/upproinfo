@@ -1,0 +1,164 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/07663609c88200cea965f9e35a271c48.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">As a Canadian-based company, Bosc Design is on a mission to empower local small businesses by sourcing exceptional home products globally and delivering them locally. We take pride in offering a diverse range of kitchenware, officeware, and more, with the same top-notch quality as big brand names but at a more affordable cost. Our commitment is to support the growth and success of small businesses in Canada by providing them with access to high-quality products that meet their customers' needs while maintaining competitive pricing. Through our global sourcing network, we strive to redefine affordability in the home product industry and contribute to the development of thriving local economies. Together, we believe in the power of Canadian entrepreneurship and the impact it can have on communities nationwide.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Product description:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our website offers an extensive collection of products. With our vast range of offerings, you have the power to choose the product that aligns seamlessly with your audience's preferences.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Other Information:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We only offer our products within the GTA (Greater Toronto Area) Ontario, Canada.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Payment terms:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We can accomodate a veriety of payment types. Would happily discuss before proceeding with the partnership.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 0.92,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 24018,
+  "categories": "Home & Tools, Toys & Hobbies, Computers & Office",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bosc-design/register",
+  "offer_status": 2,
+  "name": "Bosc Design",
+  "website": "https://boscdesign.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 101663,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.82,
+  "program_id": 115547,
+  "myshopify_domain": "bosc-design.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "58.14%",
+  "mkp_program_id": 115547,
+  "product_list": []
+}

@@ -1,0 +1,179 @@
+{
+  "logo": null,
+  "description": "<h6>POSH GLAM BEAUTY is a vibrant and luxurious cosmetics brand that caters to individuals who appreciate high-quality beauty products. Our brand is dedicated to helping people unleash their inner glam and express their unique style through our extensive range of cosmetics.</h6>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span><br></span><span>At POSH GLAM BEAUTY, we prioritize the use of premium ingredients in our formulations to ensure that our products not only enhance your beauty but also nourish and protect your skin. We believe that everyone deserves to feel confident and beautiful in their own skin, which is why our products are designed to be inclusive and suitable for a wide range of skin tones and types.</span><span><br></span><span>Our product lineup encompasses a comprehensive range of cosmetics, including foundations, concealers, blushes, eyeshadows, lipsticks, and more. Each product is carefully crafted to deliver excellent pigmentation, long-lasting wear, and effortless application. Whether you prefer a natural, everyday look or want to experiment with bold and dramatic styles, POSH GLAM BEAUTY has the perfect products to help you achieve your desired look.</span><span><br></span><span><br></span><span>At POSH GLAM BEAUTY, we strive for excellence in everything we do. From the quality of our products to our customer service, we are committed to providing an exceptional experience for our customers. We believe that beauty is not just about appearance but also about self-expression and self-care. Our brand aims to empower individuals to embrace their unique beauty and feel confident in their own skin.</span><span><br></span><span>Discover the world of POSH GLAM BEAUTY and let us help you unlock your inner glam. Explore our collection, indulge in our luxurious formulations, and elevate your beauty routine to new heights. Experience the magic of POSH GLAM BEAUTY and let your beauty shine.</span><br><br>Our #1 payment method(AFTERPAY)</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29033,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "other": "please Choose"
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/posh-glam-beauty-cosmetics/register",
+  "offer_status": 2,
+  "name": "VITALS BLUEPRINT ",
+  "website": "https://poshglambeautycosmetics.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 137961,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1400000000000001,
+  "program_id": 156151,
+  "myshopify_domain": "posh-glam-beauty-cosmetics.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 156151,
+  "product_list": []
+}

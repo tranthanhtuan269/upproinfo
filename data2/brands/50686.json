@@ -1,0 +1,183 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1636821688_6034933_f7fe885371aefecb77b0890b7201d54c.jpg",
+  "description": "<p>We Sell top name brands and high end items from $1 to $20,000.&nbsp; We specialize in big ticket items such as massage chairs and saunas.&nbsp; These items are becoming a popular product to buy due to covid.&nbsp; All items come with warranty. Any item over $100 comes with FREE SHIPPING. We are one of the top wellness resellers in North America providing High ticket items in volume sales across both Canada and the USA.&nbsp; Our Average Sale is $4000 and have the biggest Diversity of product in these categories.&nbsp; &nbsp;We will only open this section to the next 25 affiliates and provide them with the resources for success. This is an emerging market and the sky is the limit on what you can generate for commissions!!!!!! Grow with us for bonuses. High end ticket items and items that everyone desires. Ice barrels, Red light therapy, massage chairs, saunas, swims spas, neck massagers, foot massagers and so much more. Be apart of one of the biggest trends in North America! Wellness products is one of the biggest growing industries. We now offer one of the biggest trends of 2023.... ICE BARRELS and cold plunges! Make easy and fast money by signing up with us today</p>\r\n<p>&nbsp;</p>\r\n<p>For those top performers we are looking at creating exclusive discounts and special promotions that these companies would have special deals to just them.&nbsp;</p>",
+  "payout_rate": "65.67%",
+  "payout_period": null,
+  "recommend_score": 3.78,
+  "average_earning_per_sale": "2500",
+  "video_url": "https://www.youtube.com/watch?v=HOygMuRvi1c",
+  "mkp_listing_id": 11999,
+  "categories": "Beauty & Health, Home & Tools, Computers & Office",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1683483156_2816909_d21b6a2de40fe2a7497e2b928b03d829.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "2% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "other": "e transger"
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/relaxacare/register",
+  "offer_status": 2,
+  "name": "Relaxacare INC",
+  "website": "https://www.relaxacare.ca",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 50686,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.66,
+  "program_id": 56622,
+  "myshopify_domain": "relaxacare.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 1035.47,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "87.18%",
+  "mkp_program_id": 56622,
+  "product_list": []
+}

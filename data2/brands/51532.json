@@ -1,0 +1,150 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/e47b74393418cc8780a7ffa13bcf7cc8.png",
+  "description": "<p style=\"box-sizing: inherit; overflow-wrap: break-word; color: rgba(18, 18, 18, 0.75); font-family: Assistant, sans-serif; font-size: 16px; letter-spacing: 0.6px; text-align: center;\">YAGA Family! Journey with me to healthier living.</p><p style=\"box-sizing: inherit; overflow-wrap: break-word; color: rgba(18, 18, 18, 0.75); font-family: Assistant, sans-serif; font-size: 16px; letter-spacing: 0.6px; text-align: center;\">At Yaga Lifestyle, we supply products wild-crafted from the hills of Jamaica. When you hear \"wild-crafted\" it means we harvest our products&nbsp;<strong style=\"box-sizing: inherit; overflow-wrap: break-word;\">only</strong>&nbsp;from it's natural habitat and season.</p><p style=\"box-sizing: inherit; overflow-wrap: break-word; color: rgba(18, 18, 18, 0.75); font-family: Assistant, sans-serif; font-size: 16px; letter-spacing: 0.6px; text-align: center;\">All products are packaged with love to nurture your bodies the best way. Enjoy!</p><p style=\"box-sizing: inherit; overflow-wrap: break-word; margin-bottom: 0px; color: rgba(18, 18, 18, 0.75); font-family: Assistant, sans-serif; font-size: 16px; letter-spacing: 0.6px; text-align: center;\">YAGA ✨</p>",
+  "payout_rate": "85.17%",
+  "payout_period": null,
+  "recommend_score": 3.95,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 10686,
+  "categories": "Beauty & Health, Grocery & Food, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1,
+    "other": "Zelle"
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/yaga-originals/register",
+  "offer_status": 2,
+  "name": "Yaga Lifestyle",
+  "website": "https://yagalifestyle.com",
+  "hashtags": [],
+  "shop_id": 51532,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.9699999999999998,
+  "program_id": 57611,
+  "myshopify_domain": "yaga-originals.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 57.5,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "99.92%",
+  "mkp_program_id": 57611,
+  "product_list": []
+}

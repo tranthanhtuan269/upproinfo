@@ -1,0 +1,196 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1680949121_7397943_e2888dcca7a3b302fad23c7ec7112644logo.png",
+  "description": "<div style=\"font-family:Poppins;\"><p>Launched in 2001, Soulflower is India’s 1st preservative-free brand offering natural cruelty-free skin and hair care solutions. Soulflower believes in all things natural, healthy breathing, clean, safe products, and their importance in ensuring holistic well-being. Firm believers of the Farm to Face philosophy, we draw on the science of Ayurveda to provide sustainable, potent formulations using fresh and pure ingredients. Soulflower is India’s 1st DIY brand that celebrates the uniqueness of each customer by offering customized solutions through its impressive portfolio of over 500 home DIY’s. A 100 percent vegan and PETA-certified company, Soulflower products are completely hand-made by craftsmen using only natural ingredients. Our wide range of all-natural skin and hair care solutions includes hair oils, serums, masks, soaps, bath salts, roll-ons, and aroma diffusers, among others.</p></div>",
+  "payout_rate": "50.02%",
+  "payout_period": "Monthly Payment Cycle",
+  "recommend_score": 5.63,
+  "average_earning_per_sale": "100",
+  "video_url": null,
+  "mkp_listing_id": 5771,
+  "categories": "Fashion, Beauty & Health",
+  "currency": "INR",
+  "symbol_currency": "&#8377;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "10%-20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 7,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "India"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/soulflower/register",
+  "offer_status": 2,
+  "name": "Soulflower.in",
+  "website": "https://www.soulflower.biz",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 31517,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "50000",
+      "commission_val": "15",
+      "disabled": false
+    },
+    {
+      "key": 3,
+      "order_val": "50001",
+      "commission_val": "20",
+      "disabled": false
+    }
+  ],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.33,
+  "program_id": 34337,
+  "myshopify_domain": "soulflower-bc21.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 821.54,
+  "new_customer_commission": "15% per order",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "99.02%",
+  "mkp_program_id": 34337,
+  "product_list": []
+}

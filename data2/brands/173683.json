@@ -1,0 +1,163 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1730477066_3958288_90ca2852186fa687f5f45146e03fd4b8.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>Brand introduction</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Dusted is an online marketplace based in Brooklyn, NY, reimagining home popcorn for modern tastes. Founded on the philosophy of finding joy in life&rsquo;s small moments, Dusted caters to those seeking novelty and adventure through food. The marketplace offers thoughtfully curated seasonings, kernels, and popcorn essentials, with a focus on unique, off-the-beaten-path flavors for topping popcorn.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br><strong>Product description</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our gift sets are our key products that pair unusual flavor combinations that are more than the sum of their parts. Designed to be used individually or together, these sets embody Dusted&rsquo;s ethos of individual expression through food. They are upscale flavors of truffles+citrus and ramen+furikake. They are tasty and tasteful. We also offer gift wrapping for a very easy gift option.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;<br><strong>USP (Unique Selling Point)</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">While other popcorn brands and gift sets often stick to traditional flavors commonly found in grocery stores, or pre-flavored, single-serve packs that limit personal creativity, Dusted stands apart. It&rsquo;s the only brand offering a modern, curated approach to popcorn. All of our products meet high standards for aestetics, principles, quality, and originality.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.04,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32993,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1730477007_8406348_410df7fb433bc155ad290ceb8971357c.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Content or Niche website",
+    "Podcast platforms",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "45-54",
+    "35-44",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/shopdusted/register",
+  "offer_status": 2,
+  "name": "Dusted",
+  "website": "https://dusted.shop",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 173683,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.95,
+  "program_id": 197709,
+  "myshopify_domain": "shopdusted.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "8%",
+  "mkp_program_id": 197709,
+  "product_list": []
+}

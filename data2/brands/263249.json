@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1777639329_5530958_7239ef7d3bdb02cea5982815446dcab8.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>GT World of Beauty is Europe's leading provider of Afro-American and African hair and beauty products. We are especially proud of our premium brand DREAM HAIR, which represents the highest quality in the industry. Our extensive range includes everything from 100% Human Hair to high-quality synthetic fibers. Whether you are looking for professional hair extensions, bundles, or the most beautiful wigs (Perücken), we offer all hair textures and structures to meet every customer's dream.</p><p>What makes us different:</p><p>We are a trusted household name with over 35 years of expertise. What sets us apart is our massive variety: we have everything from luxury Human Hair to affordable synthetic options. We provide the widest selection of textures, ensuring that every customer finds the perfect match for their individual style. At GT World, we don't just sell products; we provide the \"world of beauty\" with the finest hair quality available.</p><p>How affiliates can earn:</p><p>As a GT World affiliate, you can earn attractive commissions on every sale generated through your unique referral links. Since products like DREAM HAIR and our professional wigs are high-demand items, you benefit from strong conversion rates and a loyal customer base.</p><p>How to promote us:</p><p>You can promote our products through social media reviews, hair tutorials on YouTube, or by showcasing our stunning wigs and extensions on Instagram and TikTok. Visual content works best to show off the quality of our Human Hair collections!</p><p>Other information:</p><p>Join a community that celebrates diversity and beauty. We look forward to a successful partnership and are here to support you with the best products in the market.</p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "Monatlich",
+  "recommend_score": 3.5,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39024,
+  "categories": "Health & Beauty",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "social_media_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "brand_bidding"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Male"
+  ],
+  "target_audience_locations": [
+    "Germany",
+    "France",
+    "Belgium",
+    "Denmark",
+    "Switzerland"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/gtworldde/register",
+  "offer_status": 2,
+  "name": "gtworld.de",
+  "website": "https://gtworld.de",
+  "hashtags": [
+    "#gtworld#dreamhair#profix"
+  ],
+  "shop_id": 263249,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.52,
+  "program_id": 309317,
+  "myshopify_domain": "gtworldde.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 49.76,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "4.63%",
+  "mkp_program_id": 309317,
+  "product_list": []
+}

@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1687366816_6848848_09fa35bf66daa2689b0172335e85d63024_Flash.ai.png",
+  "description": "<p><span style=\"color: rgb(9, 44, 76); font-family: Poppins, sans-serif; font-size: 15px; text-align: left; white-space: normal; background-color: rgb(255, 255, 255); float: none; display: inline;\">At Twenty Four Attire, we combine the excitement of entreprenuership, commitment to your craft, motocross, and the gym to our designs. We are a new company and are looking to invite passionate affiliates to join us in expanding our brand's reach and impact. By paterning with us, you'll earn 10.24% commission on every sale you generate. We expect this number to increase as you help us grow. If you love action sports and want to work with a new company from the ground up, this is perfect for you!&nbsp;</span></p>\r\n<p>In 90 Days, we will be launching a tiered ambassador/sponsored program where you can earn commission on lifetime sales of a customer you bring along with sponsorships opporunities.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>We are actively looking to partner with powerlifters and motorcross riders along with other action sports.&nbsp;</p>",
+  "payout_rate": "87.5%",
+  "payout_period": null,
+  "recommend_score": 1.63,
+  "average_earning_per_sale": "3",
+  "video_url": null,
+  "mkp_listing_id": 24706,
+  "categories": "Fashion, Sports & Entertainment, Automobiles & Motorcycles",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1687373151_9735716_a96fa46d3ed84701b53a7560392e99b8.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10.24% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/twentyfour-attire/register",
+  "offer_status": 2,
+  "name": "Twenty-Four Attire",
+  "website": "https://24attire.com",
+  "hashtags": [
+    "#24attire",
+    " #whatdoyoudowithyour24?",
+    " #growth",
+    "#hustle",
+    "#motocross",
+    "#outdoors",
+    "#gym"
+  ],
+  "shop_id": 104789,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.15,
+  "program_id": 119006,
+  "myshopify_domain": "twentyfour-attire.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 50.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "50%",
+  "mkp_program_id": 119006,
+  "product_list": []
+}

@@ -1,0 +1,195 @@
+{
+  "logo": null,
+  "description": "<p>The Decor Central is a leading home decor brand dedicated to bringing affordable luxury and sustainable living to our customers. Our mission is to create beautifully crafted products that not only elevate living spaces but also promote a lifestyle of conscious consumerism. With a growing community of over 10,000 customers across India, we aim to make high-quality decor accessible to everyone.</p>\r\n<p>Product Description:<br>Our product range includes a variety of bedding essentials such as quilts, bedspreads, and cotton sheets, all designed with an eye for aesthetics and functionality. Each piece is crafted with care, focusing on sustainable materials and traditional techniques that resonate with our customers' desire for unique and eco-friendly home decor.</p>\r\n<p>USP :&nbsp;<br>At The Decor Central, we stand out by combining high-quality craftsmanship with a commitment to sustainability. Our products are not just beautiful; they are made with organic cotton and are produced using slow decor practices, ensuring minimal environmental impact. We also offer a personalized shopping experience that caters to our customers' specific needs and preferences.</p>\r\n<p>Payment Terms:<br>As part of our affiliate program, influencers and partners will earn a commission on every sale generated through their unique coupon codes. Payment will be processed on a monthly basis, with detailed reports provided to track performance and earnings.</p>\r\n<p>Other Information: &nbsp;<br>Join us in spreading the joy of home decor! We are looking for passionate individuals who resonate with our brand values and are eager to share our products with their audience. Whether you're a seasoned influencer or just starting, we welcome you to be a part of our journey towards creating beautiful and sustainable homes.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32263,
+  "categories": "Fashion, Home & Tools",
+  "currency": "INR",
+  "symbol_currency": "&#8377;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 0,
+  "commission": "₹200.00-₹300.00 per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "India",
+    "Australia",
+    "Canada",
+    "United States",
+    "United Kingdom",
+    "United Arab Emirates"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1,
+    "paytm": 1,
+    "upi": 1,
+    "other": "COD"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/653175/register",
+  "offer_status": 2,
+  "name": "The Decor Central",
+  "website": "https://www.thedecorcentral.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 152797,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "200",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "3499",
+      "commission_val": "300",
+      "disabled": false
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 173634,
+  "myshopify_domain": "653175.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "28.57%",
+  "mkp_program_id": 173634,
+  "product_list": []
+}

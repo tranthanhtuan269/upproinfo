@@ -1,0 +1,156 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1729028541_4233451_90fdf54b9f8bb88a2c0aaad41a3b5316.png",
+  "description": "<p style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"59\" data-start=\"0\"><strong data-end=\"57\" data-start=\"0\">ENERGROOM &ndash; Premium Men&rsquo;s Grooming for the Modern Man</strong></p>\r\n<p style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"402\" data-start=\"61\">ENERGROOM is a premium men&rsquo;s grooming brand designed for active men who demand quality, efficiency, and natural ingredients in their skincare and beard care routines. Our products are crafted with high-performance, plant-based ingredients sourced from North America, ensuring they are cruelty-free, sulfate-free, and paraben-free.</p>\r\n<p style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"738\" data-start=\"404\">From revitalizing face cleansers and hydrating moisturizers to nutrient-rich beard oils and styling essentials, ENERGROOM delivers effective solutions that keep men looking and feeling their best. Our mission is to simplify grooming without compromising on quality&mdash;because every man deserves a routine that works as hard as he does.</p>\r\n<p style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-is-last-node=\"\" data-end=\"813\" data-start=\"740\">Elevate your grooming game with ENERGROOM. Natural. Effective. Essential.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34416,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1739290838_1710879_bf7ea7e4cdcb15a338176f63c778beac.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Facebook"
+  ],
+  "target_audience_ages": [
+    "45-54",
+    "35-44",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/16d1ae-24/register",
+  "offer_status": 2,
+  "name": "INDURGO",
+  "website": "https://energroom.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 171347,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 194929,
+  "myshopify_domain": "16d1ae-24.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "6.67%",
+  "mkp_program_id": 194929,
+  "product_list": []
+}

@@ -1,0 +1,169 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742937573_2124538_3e91dbd46c1e7f67fdc8629921b5e0c0.png",
+  "description": "<h4 style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"139\" data-start=\"109\"><strong data-end=\"137\" data-start=\"114\">Brand Introduction:</strong></h4>\r\n<p style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"440\" data-start=\"140\">Pores is a New Zealand-based skincare brand focused on simplicity, sustainability, and suitability for the local environment. Our mission is to provide high-quality, effective skincare solutions designed specifically for New Zealand&rsquo;s climate, using clean ingredients and eco-friendly packaging.</p>\r\n<h4 style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"473\" data-start=\"442\"><strong data-end=\"471\" data-start=\"447\">Product Description:</strong></h4>\r\n<p style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"746\" data-start=\"474\">Our skincare range includes serums that target key skin concerns while maintaining a minimalist and effective approach. Currently, our Vitamin C and Niacinamide serums retail for $45, formulated to brighten, hydrate, and protect the skin.</p>\r\n<h4 style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"786\" data-start=\"748\"><strong data-end=\"784\" data-start=\"753\">USP (Unique Selling Point):</strong></h4>\r\n<ul style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"1024\" data-start=\"787\">\r\n<li data-end=\"852\" data-start=\"787\">\r\n<p data-end=\"852\" data-start=\"789\"><strong data-end=\"799\" data-start=\"789\">Simple</strong>: No unnecessary additives&mdash;just effective skincare.</p>\r\n</li>\r\n<li data-end=\"933\" data-start=\"853\">\r\n<p data-end=\"933\" data-start=\"855\"><strong data-end=\"870\" data-start=\"855\">Sustainable</strong>: Eco-friendly packaging and responsibly sourced ingredients.</p>\r\n</li>\r\n<li data-end=\"1024\" data-start=\"934\">\r\n<p data-end=\"1024\" data-start=\"936\"><strong data-end=\"948\" data-start=\"936\">Suitable</strong>: Formulated for the New Zealand climate, addressing local skincare needs.</p>\r\n</li>\r\n</ul>\r\n<h4 style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"1051\" data-start=\"1026\"><strong data-end=\"1049\" data-start=\"1031\">Payment Terms:</strong></h4>\r\n<ul style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"1286\" data-start=\"1052\">\r\n<li data-end=\"1100\" data-start=\"1052\">\r\n<p data-end=\"1100\" data-start=\"1054\">Affiliates earn <strong data-end=\"1088\" data-start=\"1070\">10% commission</strong> per sale.</p>\r\n</li>\r\n<li data-end=\"1178\" data-start=\"1101\">\r\n<p data-end=\"1178\" data-start=\"1103\">Customers receive <strong data-end=\"1132\" data-start=\"1121\">15% off</strong> using the affiliate&rsquo;s unique discount code.</p>\r\n</li>\r\n<li data-end=\"1286\" data-start=\"1179\">\r\n<p data-end=\"1286\" data-start=\"1181\">Payments are processed <strong data-end=\"1215\" data-start=\"1204\">monthly</strong> via [PayPal/Bank Transfer].</p>\r\n</li>\r\n</ul>\r\n<h4 style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"1317\" data-start=\"1288\"><strong data-end=\"1315\" data-start=\"1293\">Other Information:</strong></h4>\r\n<ul style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"1656\" data-start=\"1318\">\r\n<li data-end=\"1416\" data-start=\"1318\">\r\n<p data-end=\"1416\" data-start=\"1320\">Open to influencers, skincare enthusiasts, and content creators passionate about clean beauty.</p>\r\n</li>\r\n<li data-end=\"1512\" data-start=\"1417\">\r\n<p data-end=\"1512\" data-start=\"1419\">Marketing materials (banners, product images, and social media templates) will be provided.</p>\r\n</li>\r\n</ul>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "5",
+  "video_url": null,
+  "mkp_listing_id": 35119,
+  "categories": "Beauty & Health",
+  "currency": "NZD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "New Zealand"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/aa5hcw-7y/register",
+  "offer_status": 2,
+  "name": "Pores",
+  "website": "https://poresskincare.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 201827,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.97,
+  "program_id": 231303,
+  "myshopify_domain": "aa5hcw-7y.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "25%",
+  "mkp_program_id": 231303,
+  "product_list": []
+}

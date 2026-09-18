@@ -1,0 +1,193 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1742738278_1241625_57aba60c350c827fcd41c516b9ab50d9.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">RockVine Artisan Surfaces sell a range of bespoke designer tables and surfaces typically for clients willing to spend over &pound;2,000 on a dining table We also work closely with interior designers and on commercial projects.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our main orders are for large Dining Tables and our average order value is &pound;2,400.00 across all our products. Our lowest value product is &pound;850.00&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Prices can go up to &pound;4,000.00 depending on the size and finish our clients order.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We specialise in:</p>\r\n<ol>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Polished Concrete Tables</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Textured and Metal Alloy Concrete Tables</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Resin River Tables</li>\r\n</ol>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We primarily sell large dining tables - but we also make coffee tables and other surfaces. All of our products are bespoke and unique to the customer.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our clients order online by paying 50% up front and the balance on delivery - we pay our affiliates immediately upon receipt of an order which has 50% or more paid in advance.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We do not clawback any commissions even if the client cancels the order at some future point. (This never happens!)</p>\r\n</div>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "240",
+  "video_url": null,
+  "mkp_listing_id": 35082,
+  "categories": "Home & Tools",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1742736948_7668355_ef02c23398bd11b36bbaff7aa895fe33.png",
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "10%-12.50% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/rockvine/register",
+  "offer_status": 2,
+  "name": "RockVine",
+  "website": "https://www.rockvine.co.uk",
+  "hashtags": [
+    "#homedecor",
+    "#decor",
+    "#interiors",
+    "#table",
+    "#resintable",
+    "#rockvine",
+    "#polishedconcrete",
+    "#concretetable",
+    "#concretediningtable"
+  ],
+  "shop_id": 201438,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "2500",
+      "commission_val": "12.5",
+      "disabled": false
+    }
+  ],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.42,
+  "program_id": 230825,
+  "myshopify_domain": "rockvine.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "50%",
+  "mkp_program_id": 230825,
+  "product_list": []
+}

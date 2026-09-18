@@ -1,0 +1,181 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1744714560_6489444_c9f53b09a3b0296c29e3a62deee5942b.png",
+  "description": "<h3 data-end=\"84\" data-start=\"55\">&bull; Introduzione al Brand</h3>\r\n<p data-end=\"434\" data-start=\"85\">Siamo una destinazione online per gli amanti dell&rsquo;uncinetto che vedono il crafting non solo come un hobby, ma come una vera forma di espressione personale.<br data-end=\"243\" data-start=\"240\">La nostra missione &egrave; ispirare i maker di ogni livello offrendo forniture di alta qualit&agrave; e strumenti creativi che accendano l&rsquo;immaginazione e supportino ogni punto del loro percorso creativo.</p>\r\n<h3 data-end=\"468\" data-start=\"436\">&bull; Descrizione dei Prodotti</h3>\r\n<p data-end=\"566\" data-start=\"469\">La nostra selezione curata include tutto il necessario per dare vita ai progetti all&rsquo;uncinetto:</p>\r\n<ul data-end=\"783\" data-start=\"567\">\r\n<li data-end=\"629\" data-start=\"567\">\r\n<p data-end=\"629\" data-start=\"569\">Set e attrezzature per migliorare il modo di lavorare</p>\r\n</li>\r\n<li data-end=\"670\" data-start=\"630\">\r\n<p data-end=\"670\" data-start=\"632\">Uncinetti ergonomici e professionali</p>\r\n</li>\r\n<li data-end=\"711\" data-start=\"671\">\r\n<p data-end=\"711\" data-start=\"673\">Kit fai-da-te e tutorial passo-passo</p>\r\n</li>\r\n<li data-end=\"783\" data-start=\"712\">\r\n<p data-end=\"783\" data-start=\"714\">Componenti per gioielli, elementi decorativi e strumenti essenziali</p>\r\n</li>\r\n</ul>\r\n<p data-end=\"954\" data-start=\"785\">Che si tratti di creare accessori fatti a mano, decorazioni per la casa o arte da indossare, la nostra collezione &egrave; pensata per offrire ai creatori funzionalit&agrave; e stile.</p>\r\n<h3 data-end=\"990\" data-start=\"956\">&bull; Punto di Forza Unico (USP)</h3>\r\n<p data-end=\"1357\" data-start=\"991\">Unendo variet&agrave;, ispirazione e qualit&agrave;, offriamo un&rsquo;esperienza di acquisto intuitiva e stimolante. Con un assortimento aggiornato regolarmente e un occhio sempre attento alle tendenze creative, offriamo pi&ugrave; di semplici prodotti: offriamo idee.<br data-end=\"1236\" data-start=\"1233\">I nostri contenuti educativi e il supporto clienti ci rendono una risorsa di riferimento per la community dell&rsquo;uncinetto.</p>\r\n<h3 data-end=\"1387\" data-start=\"1359\">&bull; Termini di Pagamento</h3>\r\n<p data-end=\"1470\" data-start=\"1388\">Il nostro programma di affiliazione si basa su trasparenza e crescita reciproca:</p>\r\n<ul data-end=\"1660\" data-start=\"1471\">\r\n<li data-end=\"1523\" data-start=\"1471\">\r\n<p data-end=\"1523\" data-start=\"1473\">Commissioni competitive su ogni vendita generata</p>\r\n</li>\r\n<li data-end=\"1589\" data-start=\"1524\">\r\n<p data-end=\"1589\" data-start=\"1526\">Tracciamento affidabile tramite link affiliato personalizzato</p>\r\n</li>\r\n<li data-end=\"1611\" data-start=\"1590\">\r\n<p data-end=\"1611\" data-start=\"1592\">Pagamenti mensili</p>\r\n</li>\r\n<li data-end=\"1660\" data-start=\"1612\">\r\n<p data-end=\"1660\" data-start=\"1614\">Nessun costo di iscrizione n&eacute; spese nascoste</p>\r\n</li>\r\n</ul>\r\n<h3 data-end=\"1688\" data-start=\"1662\">&bull; Altre Informazioni</h3>\r\n<ul data-end=\"1933\" data-start=\"1689\">\r\n<li data-end=\"1775\" data-start=\"1689\">\r\n<p data-end=\"1775\" data-start=\"1691\">Ideale per blogger, content creator, influencer handmade e insegnanti di uncinetto</p>\r\n</li>\r\n<li data-end=\"1851\" data-start=\"1776\">\r\n<p data-end=\"1851\" data-start=\"1778\">Forniamo materiali promozionali pronti all&rsquo;uso (banner, immagini, ecc.)</p>\r\n</li>\r\n<li data-end=\"1933\" data-start=\"1852\">\r\n<p data-end=\"1933\" data-start=\"1854\">Siamo aperti a collaborazioni speciali, progetti creativi e campagne stagionali</p>\r\n</li>\r\n</ul>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35352,
+  "categories": "Jewelry & Accessories, Toys & Hobbies",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Italy",
+    "Spain",
+    "Germany",
+    "United Kingdom",
+    "United States",
+    "France"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/urgcqb-ht/register",
+  "offer_status": 2,
+  "name": "CrochetEvenRing",
+  "website": "https://www.jewelrysalba.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 204778,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.27,
+  "program_id": 235191,
+  "myshopify_domain": "urgcqb-ht.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "46.67%",
+  "mkp_program_id": 235191,
+  "product_list": []
+}

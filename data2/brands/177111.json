@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1736892238_2095034_42dd3f8381ccac0e7cccc2161a8e0f33.png",
+  "description": "<p><strong>Join the Ella Zaneta Affiliate Program: Empower Elegance and Earn Rewards</strong></p>\r\n<p>At Ella Zaneta, we&rsquo;re passionate about delivering timeless elegance to customers worldwide&mdash;and now you can be part of our journey. By joining our affiliate program, you&rsquo;ll earn generous commissions while promoting luxurious, enduring jewelry that your audience will love.</p>\r\n<p><strong>Why Partner with Ella Zaneta?</strong><br>✨ <strong>Exclusive Designs</strong>: Showcase exquisite jewelry crafted for elegance and durability.<br>✨ <strong>High Conversion Rates</strong>: Our captivating brand and premium products make sales effortless.<br>✨ <strong>Attractive Commissions</strong>: Earn competitive payouts for every sale you drive.<br>✨ <strong>Marketing Support</strong>: Gain access to beautiful creatives, banners, and assets to maximize your success.<br>✨ <strong>Global Appeal</strong>: With worldwide shipping, you can reach audiences anywhere.</p>\r\n<p><strong>How It Works</strong><br>1️⃣ <strong>Sign Up</strong>: Quick and easy registration to become an affiliate.<br>2️⃣ <strong>Promote</strong>: Share your unique affiliate link through your blog, social media, or website.<br>3️⃣ <strong>Earn</strong>: Receive commissions for every purchase made through your link.</p>\r\n<p><strong>Who Can Join?</strong><br>We welcome content creators, influencers, and publishers who share a passion for promoting beauty and elegance. Whether you have a blog, YouTube channel, or social media presence, you can start earning by partnering with Ella Zaneta.</p>\r\n<p><strong>Ready to Start?</strong><br>Sign up now and join our community of affiliates celebrating the beauty of lasting elegance. Let&rsquo;s grow together!</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.25,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33351,
+  "categories": "Jewelry & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Coupons or Deals website",
+    "Etsy",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Podcast platforms",
+    "Quora",
+    "Reddit",
+    "Tiktok",
+    "Twitch",
+    "Twitter",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Australia",
+    "Canada",
+    "Israel",
+    "United Arab Emirates",
+    "Singapore",
+    "Germany",
+    "New Zealand",
+    "Switzerland"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ellazaneta/register",
+  "offer_status": 2,
+  "name": "Ella Zaneta",
+  "website": "https://ellazaneta.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 177111,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1,
+  "program_id": 201811,
+  "myshopify_domain": "1a8068.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 53.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "51.06%",
+  "mkp_program_id": 201811,
+  "product_list": []
+}

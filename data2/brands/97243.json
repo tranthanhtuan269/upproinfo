@@ -1,0 +1,189 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1682798517_5579391_ce7324d4e7c3d90a2af2f015cd8ac247logo.jpeg",
+  "description": "<p>&nbsp;</p>\r\n<p>&bull; Brand introduction: Indiashopping is an online platform that specializes in delivering high-quality Indian snacks and sweets to customers around the world. We are passionate about sharing the flavors of India with people who are living abroad, and our mission is to make it easy for them to get the products they love.&nbsp;</p>\r\n<p>&bull; Product description: Our platform offers a wide variety of Indian snacks and sweets, including namkeen, ladoo, barfi, and more. All of our products are sourced from trusted suppliers in India and are priced affordably.&nbsp;</p>\r\n<p>&bull; USP (Unique Selling Point): Our unique selling point is the quality and authenticity of our products. We are committed to offering the best Indian snacks and sweets to our customers, and we take pride in our prompt and reliable delivery. We offer free shipping on orders over $50, and most orders are fulfilled within the same day and delivered within 4-5 business days. our prices are still lowest in the market</p>\r\n<p>&bull; Payment terms: We accept all major credit cards, including Visa, Mastercard, American Express, and Discover. We also accept payments through PayPal and Amazon Pay, making it easy for customers to complete their transactions securely and conveniently.</p>\r\n<p>&bull; Other information: Our referral partner program offers a generous commission structure and provides marketing materials and support to help our partners succeed. To learn more about becoming a referral partner, interested individuals can visit our website or contact us directly for more information.</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 2.47,
+  "average_earning_per_sale": "7",
+  "video_url": null,
+  "mkp_listing_id": 23123,
+  "categories": "Grocery & Food, Beauty & Health, Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 0,
+  "commission": "$10.00 per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 3,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Armenia",
+    "Netherlands Antilles",
+    "Australia",
+    "Bulgaria",
+    "Canada",
+    "Switzerland",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "cheque": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/indiashopping/register",
+  "offer_status": 2,
+  "name": "India shopping",
+  "website": "https://indiashopping.io",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 97243,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.74,
+  "program_id": 110806,
+  "myshopify_domain": "glocal-1699.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 145.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "76.42%",
+  "mkp_program_id": 110806,
+  "product_list": []
+}

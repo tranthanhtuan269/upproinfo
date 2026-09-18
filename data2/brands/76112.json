@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1667444784_8819395_79394c22d277bfccc2ff4dec26c44697customcolor_logo_customcolor_background.png",
+  "description": "<p>Welcome to The Zenco USA Affiliate Program.&nbsp; Zenco USA is a proud partner of TheZenco (HQ in Canada) and proudly serves the kind people of the USA (and sometimes beyond).&nbsp; &nbsp;We are easy to work with, ship super fast, and take a lot of pride in delivering exceptional customer service....especially to our affiliate partners.&nbsp; If we can go the extra mile for you - we'll run at a sub 7-minute pace!&nbsp;<br><br></p>\r\n<p>Currently, Zenco units come in the Onyx and Wood colors in both the Duo and the Flow models.&nbsp; Note the Zenco base unit is the same on the Duo and the Flow.&nbsp; The difference in the glass setup is as follows:&nbsp; &nbsp;<br><br>The Duo offers 2 drinkable vapor glasses, where you knock em back like a cold brew (or wine for you more sophisticated vapor mavens).&nbsp;&nbsp;</p>\r\n<p>The Flow offers 1 double-stack bubbler glass, which is great for softening up the vapor delivery (i.e. less harsh when filtered through H20).&nbsp;&nbsp;</p>\r\n<p>The easy way to remember it:&nbsp; You <em><strong>sip the Duo</strong></em> and you <em><strong>rip the Flow</strong></em>.</p>\r\n<p>One of the more popular packages we offer is where you buy a Zenco Duo or Flow and add-on the extra glass (i.e. Zenco Duo + Flow glass).&nbsp;</p>\r\n<p>If you a dabbster, make sure you recommend adding on some extra ceramic coils - well worth the extra few dollars.&nbsp;&nbsp;</p>",
+  "payout_rate": "98.83%",
+  "payout_period": null,
+  "recommend_score": 3.56,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 18389,
+  "categories": "Sports & Entertainment, Garden & Outdoors, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/zenco-usa/register",
+  "offer_status": 2,
+  "name": "Zenco USA",
+  "website": "https://www.thezencousa.com",
+  "hashtags": [],
+  "shop_id": 76112,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.27,
+  "program_id": 87242,
+  "myshopify_domain": "zenco-usa.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 106.5,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "88.14%",
+  "mkp_program_id": 87242,
+  "product_list": []
+}

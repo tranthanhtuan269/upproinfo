@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1781569209_1792784_c08d5e3905ddbe5b4452489316a3a148.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>ART ARK&reg; is a social enterprise dedicated to sharing and selling Australian Aboriginal Art to promote social and economic opportunities in remote communities while combating unethical dealers.</span><br><br><span>We partner exclusively with not-for-profit, community-run, and publicly audited Aboriginal Art centres that prioritise the interests of their artists. When you choose to buy Aboriginal Art through ART ARK&reg;, you commit to fairness, authenticity, and respect. Our mission transcends selling art and involves advocating for authenticity and fighting against exploitation in the Aboriginal Art market.</span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.88,
+  "average_earning_per_sale": "125",
+  "video_url": null,
+  "mkp_listing_id": 30965,
+  "categories": "Art",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Pinterest",
+    "Blog",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Germany",
+    "France",
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<p><strong><span style=\"font-family:Arial;\">ART ARK® Affiliate Program Terms and Conditions</span></strong></p><p><span style=\"font-family:Arial;\">Welcome to ART ARK®. Thank you for your interest in our Affiliate Program.</span></p><p><span style=\"font-family:Arial;\">These Terms and Conditions apply to individuals or organisations participating in the program as affiliates (“you”) who refer customers to ART ARK® (“we” or “us”). By joining the program, you agree to abide by these terms. If you do not agree, please do not participate.</span></p><hr><h3><span style=\"font-family:Arial;\">1. Acceptance into the Program</span></h3><p><span style=\"font-family:Arial;\">We reserve the right to approve or decline any affiliate application at our sole discretion. There is no legal recourse for a rejected application.</span></p><hr><h3><span style=\"font-family:Arial;\">2. Affiliate Links and Coupons</span></h3><p><span style=\"font-family:Arial;\">Your affiliate link is automatically generated and can be customised to direct to specific products or collections.</span></p><p><span style=\"font-family:Arial;\">If a customer clicks multiple affiliate links, the last link clicked will receive credit.<br>If you have been assigned a coupon code, it will be visible in your dashboard.<br>You may not promote any coupon that hasn’t been assigned to you.</span></p><p><span style=\"font-family:Arial;\">Affiliates are welcome to share their links on digital channels such as social media or email, and traditional channels such as print and community networks.</span></p><hr><h3><span style=\"font-family:Arial;\">3. Commissions and Payment</span></h3><p><span style=\"font-family:Arial;\">You will earn a commission on successful sales referred through your link, based on the commission structure set out in your dashboard. Commissions are calculated on the order total, excluding GST, shipping, or additional fees.</span></p><p><span style=\"font-family:Arial;\">Payments are made based on completed orders only. Cancelled, refunded, or chargeback transactions are not eligible.<br>You must provide valid payment details in your settings to receive payouts.</span></p><p><span style=\"font-family:Arial;\">Referral commissions are paid monthly, at the end of each month.<br></span></p><p><span style=\"font-family:Arial;\">Commission and payment status is visible in your dashboard.</span></p><hr><h3><span style=\"font-family:Arial;\">4. Marketing Tools</span></h3><p><span style=\"font-family:Arial;\">We may provide you with promotional assets (e.g. banners, logos, and campaign images) via the “Marketing” section of your dashboard. You may use these to promote ART ARK® across your channels.</span></p><hr><h3><span style=\"font-family:Arial;\">5. Referral Network (if enabled)</span></h3><p><span style=\"font-family:Arial;\">If the network feature is activated, you may invite others to join the program under your referral. You’ll earn a network commission when your referred affiliates generate sales. The rate will be set out in your dashboard.</span></p><hr><h3><span style=\"font-family:Arial;\">6. Cookies and Tracking</span></h3><p><span style=\"font-family:Arial;\">We use cookies to track referral activity. If users disable or clear cookies, tracking may not work and commissions may not be recorded.</span></p><p><span style=\"font-family:Arial;\">The cookie duration is stated at sign-up. If a customer makes a purchase within that period, even on a later visit, you’ll receive credit — no additional clicks are required.</span></p><hr><h3><span style=\"font-family:Arial;\">7. Leaving the Program</span></h3><p><span style=\"font-family:Arial;\">You can leave the program at any time by emailing us at <strong><a class=\"cursor-pointer\">guy@artark.com.au</a></strong>.</span></p><hr><h3><span style=\"font-family:Arial;\">Final Note</span></h3><p><span style=\"font-family:Arial;\">Thanks for reviewing these terms. We’re excited to have you onboard and look forward to working together to share ethical, community-sourced Aboriginal art.</span></p><p><span style=\"font-family:Arial;\">If you have any questions, please reach out at <strong><a class=\"cursor-pointer\">guy@artark.com.au</a></strong>.</span></p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/artark/register",
+  "offer_status": 2,
+  "name": "ART ARK® ",
+  "website": "https://artark.com.au/",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 135024,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "7.5",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "1000",
+      "commission_val": "12.5"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.34,
+  "program_id": 152750,
+  "myshopify_domain": "artark.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 1001.67,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "8.33%",
+  "mkp_program_id": 152750,
+  "product_list": []
+}

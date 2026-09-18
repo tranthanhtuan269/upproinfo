@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1723154106_5289811_127dd07b860f2e72158cadaa34e37546.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Welcome to HBG, your trusted partner in creating the perfect home. Founded with a passion for quality and a commitment to excellence, HBG has become a leading authorized distributor of premium home products. Our journey began with a simple belief: <em>Your Home. Your Story. Where every home deserves the best.</em></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">At HBG, we understand that your home is more than just a place; it's a reflection of who you are. That's why we meticulously select only the finest products, ensuring they meet our stringent standards of quality, durability, and style. From the latest in home technology to timeless furnishings and essential everyday items, we offer a comprehensive range that caters to all your needs.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Payment terms:&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Payments are processed securely through PayPal at checkout.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span></span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Other information:</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span>Shipping: <a href=\"https://homebygratitea.com/pages/shipping-policy\">Shipping Policy</a></span><br class=\"o-new-line\"><span>Returns: <a href=\"https://homebygratitea.com/pages/returns\">Return Policy</a></span><br class=\"o-new-line\"><span>Support: <a href=\"https://homebygratitea.com/pages/contact-us\">Contact Us</a></span></p>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "100",
+  "video_url": null,
+  "mkp_listing_id": 31620,
+  "categories": "Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/hbg/register",
+  "offer_status": 2,
+  "name": "HBG",
+  "website": "https://homebygratitea.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 161554,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 183794,
+  "myshopify_domain": "792dcb-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "12.5%",
+  "mkp_program_id": 183794,
+  "product_list": []
+}

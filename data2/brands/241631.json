@@ -1,0 +1,184 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1775131796_6565834_51dd7e029b6f83e0bf9c9b471452232b.jpg",
+  "description": "<div style=\"font-family:Poppins;\"><div><p style=\"text-align:left;font-size:14px;font-weight:normal;\">• About our brand and products:</p><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><span style=\"color:rgba(14,27,77,0.75);font-family:Questrial, sans-serif;font-size:16.8px;font-style:normal;font-weight:400;letter-spacing:0.63px;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;float:none;\">Walls of the Wild thrives on seeing kids and adults get super excited about decorating their walls with realistic mural stickers from our collections. Each sticker we make has been carefully hand-painted by our founder, Dede Lifgren. Her passion, creativity and incredible painting skills blend together to capture something truly special in every single image. That's why our stickers truly bring a room to life!</span></p><p style=\"text-align:left;font-size:14px;font-weight:normal;\">• What makes us different:</p><p style=\"text-align:left;font-size:14px;font-weight:normal;\"><span style=\"color:rgba(14,27,77,0.75);font-family:Questrial, sans-serif;font-size:16.8px;font-style:normal;font-weight:400;letter-spacing:0.63px;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;float:none;\">When Dede's three sons were small, she painted some wild animals on their walls. A resting chimpanzee over the dresser looked like he was sleeping on it. A giraffe gave the boys something to measure themselves against. Soon she began to wonder if she could figure out how to make those paintings into wall stickers. Life-sized and beautiful for anyone who wanted them.  </span><br style=\"color:rgba(14,27,77,0.75);font-family:Questrial, sans-serif;font-size:16.8px;font-style:normal;font-weight:400;letter-spacing:0.63px;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;\"><br style=\"color:rgba(14,27,77,0.75);font-family:Questrial, sans-serif;font-size:16.8px;font-style:normal;font-weight:400;letter-spacing:0.63px;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;\"><span style=\"color:rgba(14,27,77,0.75);font-family:Questrial, sans-serif;font-size:16.8px;font-style:normal;font-weight:400;letter-spacing:0.63px;text-indent:0px;text-transform:none;word-spacing:0px;white-space:normal;background-color:rgb(255,255,255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;float:none;\">It took a few years, but during the 90's, she and her husband, Jeff Bode, figured out the technical side of scanning, printing and cutting out the images. Dede went to work painting animals, and soon realized that her creations needed habitat to live in, so she started to paint plant stickers as well. It grew organically - dinosaurs were a natural progression, because don't all kids love them? (And adults too, right?) Barnyard animals, fish and coral reefs, birds of all varieties, and then magical creatures and scenes.</span></p><p style=\"text-align:left;font-size:14px;font-weight:normal;\">• How affiliates can earn:</p><p style=\"text-align:left;font-size:14px;font-weight:normal;\">We offer a 15% comission on your referals. We can offer you a coupon code to help you get sales.</p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "1st and 15th of each month",
+  "recommend_score": 2.14,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38940,
+  "categories": "Mom & Kids, Retail & Consumer goods, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Spain",
+    "South Africa",
+    "Singapore",
+    "Puerto Rico",
+    "France",
+    "Ireland",
+    "Canada",
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/wild-walls-decals/register",
+  "offer_status": 2,
+  "name": "Wall of the Wild",
+  "website": "https://www.wallsofthewild.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 241631,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.7,
+  "program_id": 308118,
+  "myshopify_domain": "wild-walls-decals.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 95.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 308118,
+  "product_list": []
+}

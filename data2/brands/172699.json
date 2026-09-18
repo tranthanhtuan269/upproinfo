@@ -1,0 +1,175 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1729927298_3834248_c95e95bc42d42eadd51868fc478ac331.png",
+  "description": "<p><strong>Brand Introduction:</strong><br>Amerlife is a trusted name in stylish, affordable home and outdoor furniture, offering customers high-quality pieces like sofas, bed frames, fireplaces, and greenhouses that transform spaces with both style and comfort.</p>\r\n<p><strong>Product Description:</strong><br>Our products include cozy sofas, sturdy bed frames, elegant fireplaces, and premium greenhouses&mdash;all crafted with durable materials and designed for modern homes. As an ambassador, you&rsquo;ll promote quality pieces that add value to any living or outdoor space.</p>\r\n<p><strong>USP (Unique Selling Point):</strong><br>Earn a generous 4% cash back on every sale made through your referral link! With average orders of $500 (and some over $1,000), you&rsquo;re looking at high earnings potential. Our products are priced direct from the factory, so customers get unbeatable value without needing extra discounts.</p>\r\n<p><strong>Payment Terms:</strong><br>Affiliates earn a 4%-10% commission on each successful order, with quick and flexible payout options, including direct transfer or store credit.</p>\r\n<p><strong>Other Information:</strong><br>Join a team of ambassadors who believe in quality and affordability. By sharing Amerlife&rsquo;s unique furniture offerings, you can earn cash rewards while promoting stylish, accessible home products. Register today and start sharing to earn big with each referral!</p>",
+  "payout_rate": "71.21%",
+  "payout_period": null,
+  "recommend_score": 4.18,
+  "average_earning_per_sale": "50",
+  "video_url": null,
+  "mkp_listing_id": 32870,
+  "categories": "Home & Tools, Garden & Outdoors",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1729931542_1281293_56882364fc0d8c42af203a6352ca4310.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "4% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest",
+    "Reddit",
+    "Quora",
+    "Blog",
+    "Content or Niche website"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/amerlife/register",
+  "offer_status": 2,
+  "name": "Amerlife",
+  "website": "https://amerlifehome.com",
+  "hashtags": [
+    "#sofa",
+    "#home",
+    "#bed",
+    "#fireplace",
+    "#tvstand"
+  ],
+  "shop_id": 172699,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.14,
+  "program_id": 196498,
+  "myshopify_domain": "amerlife.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 427.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "98.36%",
+  "mkp_program_id": 196498,
+  "product_list": []
+}

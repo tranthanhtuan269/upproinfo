@@ -1,0 +1,164 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1723053275_6404958_625ea126ef403c8221ae6bbeea90fdca.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; <span style=\"text-decoration: underline;\">Brand introduction:</span> <span>Parallel Health is a pioneer in&nbsp;</span><b data-stringify-type=\"bold\">Microbiome Dermatology&trade;</b><span>&nbsp;and&nbsp;</span><b data-stringify-type=\"bold\">personalized skin health</b><span>.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; <span style=\"text-decoration: underline;\">Product description:</span> <span>Parallel's hero offering is the&nbsp;</span><b data-stringify-type=\"bold\">MD-03&trade; Protocol</b><span>, which provides skin microbiome testing, accompanied by a custom microbiome-supportive regimen built around a person's unique skin microbiome, skincare goals, and clinical needs. </span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; <span style=\"text-decoration: underline;\">USP (Unique Selling Point):</span> <span>The company specializes in the 6 P's for skin longevity, anti-aging, and skin resilience:&nbsp;</span><b data-stringify-type=\"bold\">phages, peptides, prebiotics, probiotics, postbiotics, and prescriptions.</b></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Payment terms: Commissions are paid out on the 30th of each month for the preceding month. (Ex: all June commissions will be paid out on July 30.)</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 2.45,
+  "average_earning_per_sale": "15",
+  "video_url": null,
+  "mkp_listing_id": 31646,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1723824303_8611426_696885e2f2de4023a744e3d8c28812a7.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ParallelHealth/register",
+  "offer_status": 2,
+  "name": "Parallel Health",
+  "website": "https://www.parallelhealth.io",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 154389,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.74,
+  "program_id": 175550,
+  "myshopify_domain": "parallel-health.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 232.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "84.91%",
+  "mkp_program_id": 175550,
+  "product_list": []
+}

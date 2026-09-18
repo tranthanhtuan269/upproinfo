@@ -1,0 +1,179 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1762230754_3516618_daebb2c78fa82369839fe7860296f669.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p data-start=\"1016\" data-end=\"1234\" id=\"isPasted\"><strong data-start=\"1016\" data-end=\"1049\">About our brand and products:</strong><br data-start=\"1049\" data-end=\"1052\">Lilynel Tech is a European tech brand offering innovative and smart electronic gadgets — from smartwatches and earbuds to drones and accessories designed to simplify modern life.</p><p data-start=\"1239\" data-end=\"1381\"><strong data-start=\"1239\" data-end=\"1267\">What makes us different:</strong><br data-start=\"1267\" data-end=\"1270\">High-quality trending products, fast shipping across Europe, and 24/7 support for customers and affiliates.</p><p data-start=\"1386\" data-end=\"1577\"><strong data-start=\"1386\" data-end=\"1414\">How affiliates can earn:</strong><br data-start=\"1414\" data-end=\"1417\">Earn <strong data-start=\"1424\" data-end=\"1442\">15% commission</strong> on every sale you generate through your affiliate link or coupon. Get real-time tracking and transparent reports via your dashboard.</p><p data-start=\"1582\" data-end=\"1744\"><strong data-start=\"1582\" data-end=\"1604\">How to promote us:</strong><br data-start=\"1604\" data-end=\"1607\">Affiliates can promote via TikTok, Instagram, YouTube, or blogs by reviewing products, creating short videos, or sharing promo codes.</p><p data-start=\"1749\" data-end=\"1882\"><strong data-start=\"1749\" data-end=\"1771\" id=\"isPasted\">Other information:</strong><br data-start=\"1771\" data-end=\"1774\">Free registration, no minimum payout, and marketing materials are available to help you start immediately.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Payments are processed bi-weekly (every two weeks)",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36845,
+  "categories": "Apparel & Accessories, Electronics",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "social_media_ads",
+    "search_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "France",
+    "Germany",
+    "Spain",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Austria",
+    "Hungary",
+    "Belgium"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/t39sw3-kn/register",
+  "offer_status": 2,
+  "name": "LILYNEL TECH",
+  "website": "https://lilyneltech.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 236286,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.12,
+  "program_id": 275439,
+  "myshopify_domain": "t39sw3-kn.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "18.18%",
+  "mkp_program_id": 275439,
+  "product_list": []
+}

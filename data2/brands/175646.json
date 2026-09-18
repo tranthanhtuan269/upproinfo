@@ -1,0 +1,173 @@
+{
+  "logo": null,
+  "description": "<p><strong>Become a PetNPrep Affiliate Partner &ndash; Make a Difference for Pets Everywhere!</strong></p>\r\n<p><strong>Brand Introduction:</strong><br>At PetNPrep, we&rsquo;re passionate about helping pet owners secure their furry companions' futures. Our mission is simple: provide tools that ensure every pet is cared for, no matter what life brings.</p>\r\n<p><strong>Product Description:</strong><br>The <strong>Pet Protection Plan</strong> is a comprehensive solution that empowers pet owners to plan for their pets&rsquo; long-term care. It includes essential documents like the Pet Profile Report, Cost of Pet Ownership Table, and more, all designed to simplify and safeguard pet care planning.</p>\r\n<p><strong>Unique Selling Point (USP):</strong><br>The Pet Protection Plan is a one-of-a-kind product&mdash;quick, affordable, and life-changing. In just 20 minutes, pet owners can secure peace of mind and protect their pets' futures for only $69.</p>\r\n<p><strong>Payment Terms:</strong><br>As an affiliate, you&rsquo;ll earn <strong>10% commission</strong> on every sale. Plus, unlock a <strong>15% commission rate</strong> after just 10 monthly sales. Payments are processed monthly, ensuring you&rsquo;re rewarded for your efforts.</p>\r\n<p><strong>Other Information:</strong><br>We provide affiliates with exclusive discount codes, marketing resources, and personal support to help you succeed. Join us today and be part of a mission that truly matters&mdash;giving pets the gift of life and security.</p>\r\n<p>👉 <strong><a target=\"_blank\" href=\"https://www.petnprep.com/affiliate\" rel=\"noopener\">Sign up now to become a PetNPrep Affiliate Partner!</a></strong></p>\r\n<p><br></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.01,
+  "average_earning_per_sale": "0",
+  "video_url": "https://vimeo.com/1028483454",
+  "mkp_listing_id": 33607,
+  "categories": "Pet supplies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1734133053_6547873_53a459b4ecc9cea7d97f27063b4207ca.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United States Minor Outlying Islands"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/9aec9b-44/register",
+  "offer_status": 2,
+  "name": "PetNPrep.com",
+  "website": "https://petnprep.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 175646,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.92,
+  "program_id": 200052,
+  "myshopify_domain": "9aec9b-44.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "89.19%",
+  "mkp_program_id": 200052,
+  "product_list": []
+}

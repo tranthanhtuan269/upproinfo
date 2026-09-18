@@ -1,0 +1,181 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/9c5c2321e2153584d3c0a324dbf57696.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><em><strong><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\">&bull; Brand introduction:&nbsp;</span></strong></em></p>\r\n<h2><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\">We believe everyone deserves clean and healthy skin.</span></h2>\r\n<div>\r\n<p><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\">Founded by three college roommates, Penthouse soap started its journey in Cleveland, Ohio. We founded Penthouse soap because we believed the world needed to ditch commercially produced soaps filled with synthetic chemicals, and harsh preservatives. Our soap has proven itself to not only smell amazing but be better for your skin. We believe that premium all-natural products shouldn&rsquo;t come at a premium price. That is why we have dedicated ourselves to selling the best product for you and for your skin, at a competitive and convenient price.</span></p>\r\n<p><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\">We stand by our products and recognize the importance of a high-quality soap that is not only effective but that people enjoy using. We have recently been flooded with positive feedback from our valued customers and we look forward to continuing to grow our community. Thank you to every customer, both new and old, for making this dream of ours become a reality.</span></p>\r\n<p>&nbsp;</p>\r\n<p><em><strong><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\">&bull; Brand Mission:&nbsp;</span></strong></em></p>\r\n<h2><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\">Fact: Nearly 2 in 5 men suffer from Mental Illness each year, while less than half of them receive help</span></h2>\r\n<div>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Penthouse Soap was founded on the philosophy of helping connect those in need with support opportunities and resources, and generating awareness to a problem that has directly affected our lives. Since we started in December of 2021, it has been our goal to make a difference in our community and the lives of many others. Working closely with our Partners at The face It Foundation, we actively donate a portion of every purchase to helping men in need. As we continue to grow, our giving and community efforts will continue to grow right alongside us. We hope you will join us in this journey and help us make a difference in the lives of millions of men.</span></p>\r\n</div>\r\n</div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br><em><strong><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\">&bull; Product Description: </span></strong></em></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\">We are dedicated to providing our customers with only the best handmade, all-natural soap for their skin. All of our soaps are plant-based and cold processed meaning they are better for the environment, healthier for your skin, and are designed to moisturize and cleanse. &nbsp;Our soaps contain naturally derived ingredients such as Coconut Oil, Organic Shea Butter, Canola Oil, and more. Some of our exfoliating bars even have specialty ingredients tailored to your needs such as Activated Charcoal, Sea Salt, Rose Petals, and Ground Oatmeal.&nbsp;</span></p>\r\n<p><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\">Our products never contain: </span><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\">Parabens, Sulfates, Mineral Oils, Petrolatum, Phthalates, Synthetic Fragrances, BHTs</span></p>\r\n<p><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\">We test all products ourselves, never on animals. All of our products are vegan and organic. None of our soaps or scrubs are made from tallow or any other animal fats. All the oils used in our products are natural plant-based oils such as coconut and canola oil.</span></p>",
+  "payout_rate": "75%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 22075,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1679261320_2544567_7813b5b5a793b28e69affa4eed264510.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/penthousesoap/register",
+  "offer_status": 2,
+  "name": "Penthouse Soap Co",
+  "website": "https://penthousesoap.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 92139,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 105150,
+  "myshopify_domain": "penthousesoap.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "56.67%",
+  "mkp_program_id": 105150,
+  "product_list": []
+}

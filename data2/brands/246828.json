@@ -1,0 +1,218 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1769699716_9141193_252b66fb0d0a18e11e9e8b4d350a84c1.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>Welcome to The Cottage Meadow. A cozy collection of nature inspired apparel designed for plant lovers, gardeners, and anyone who loves a soft cottagecore aesthetic. Our designs blend comfort, quality, and timeless nature themes that resonate with slow living and outdoor loving audiences. We are looking for creators who speak to plant lovers, homebodies, and lifestyle focused shoppers who love cozy, wearable designs.</p><p>• <strong>Brand introduction:</strong> Cottagecore and nature inspired apparel for plant lovers, gardeners and cozy lifestyle audiences<br>• <strong>Product description:</strong> Premium sweatshirts, tshirts, and accessories featuring plant, garden, and nature themes<br>• <strong>USP (Unique Selling Point):</strong> Cozy cottagecore aesthetic, high quality apparel, and designs made for everyday wear and gifting</p><p><br></p><p>Each affiliate will get a $5 per order coupon to share with their audience to help drive sales, and will be awarded $10USD per order they drive</p></div></div>",
+  "payout_rate": "80.19%",
+  "payout_period": "Payout at the end of the month",
+  "recommend_score": 3.73,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38053,
+  "categories": "Apparel & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 0,
+  "commission": "$10.00 per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/thecottagemeadow/register",
+  "offer_status": 2,
+  "name": "thecottagemeadow",
+  "website": "https://thecottagemeadow.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 246828,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.74,
+  "program_id": 288440,
+  "myshopify_domain": "thecottagemeadow.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "69715ee0a9266b5888069fc2",
+      "name": "AFFILIATE5",
+      "program_id": 288440,
+      "shop_id": 246828,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "fixed_amount",
+          "amount": 5,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-01-29 15:26:04",
+      "created_at": "2026-01-21T23:18:56.469000Z",
+      "updated_at": "2026-01-29T15:26:04.607000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 52.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "97.98%",
+  "mkp_program_id": 288440,
+  "product_list": []
+}

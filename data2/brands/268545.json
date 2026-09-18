@@ -1,0 +1,178 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><div><p>• <strong>About our brand and products:</strong><br>L'ami eMarket is an Asian grocery and pantry marketplace focused on Vietnamese favorites and popular Asian essentials. We offer trendy snacks, authentic sauces, spices, instant foods, drinks, and everyday pantry staples that are hard to find in traditional grocery stores. Our goal is to make it easy for customers across the U.S. to discover and enjoy authentic Asian flavors at home.</p><hr><p>• <strong>What makes us different:</strong><br>We combine authentic Vietnamese products with a broader Asian grocery selection curated for modern shoppers, food lovers, and families. Alongside pantry essentials, we focus on viral and trending snacks, unique finds, and social-media favorites that creators and communities genuinely enjoy sharing. We prioritize quality products, reliable shipping, and a constantly evolving catalog of exciting items.</p><hr><p>• <strong>How affiliates can earn:</strong><br>Affiliates earn commission on every qualifying order placed through their referral link or discount code. We provide personalized affiliate links, custom discount codes for your audience, and opportunities for bonus commissions based on performance. The more sales you generate, the more you can earn through ongoing partnerships and special promotions.</p><hr><p>• <strong>How to promote us:</strong><br>Affiliates can promote L'ami eMarket through livestreams, TikTok videos, YouTube content, Instagram reels, Discord communities, recipe content, snack reviews, cooking tutorials, grocery hauls, and social posts. Sharing authentic experiences, favorite products, taste tests, and meal ideas performs especially well with our audience. We encourage creators to highlight both trendy products and everyday pantry staples.</p><hr><p>• <strong>Other information:</strong><br>We’re looking for creators, streamers, foodies, and community leaders who genuinely enjoy Asian food culture and want to introduce their audience to unique grocery finds and authentic pantry essentials. Whether your content focuses on gaming, lifestyle, food, anime, travel, or culture, we welcome creative collaborations and long-term partnerships.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Every 30 days (1st of the month)",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39459,
+  "categories": "Food, Beverages & Tobacco",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/j26wcr-rq/register",
+  "offer_status": 2,
+  "name": "L'ami eMarket: Authentic Vietnamese & Asian Groceries, Delivered",
+  "website": "https://lamiemarket.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 268545,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 317422,
+  "myshopify_domain": "j26wcr-rq.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 50.2,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "16.67%",
+  "mkp_program_id": 317422,
+  "product_list": []
+}

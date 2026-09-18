@@ -1,0 +1,246 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1650490296_6276982_a1d410c595ecc8bab5d249ea5d02f955Logo 250 x 200px.png",
+  "description": "<p><span style=\"font-family: Poppins; font-size: 18px; text-align: center;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\" class=\"\">G-Talent es la Academia de Aprendizaje en l&iacute;nea l&iacute;der en Latinoam&eacute;rica con m&aacute;s de 450 Mil Estudiantes, 250 Mil minutos de clases en l&iacute;nea, 1 mill&oacute;n de certificaciones otorgadas en 21 pa&iacute;ses del mundo, creada para transformar positivamente a las personas&nbsp; </span></span></span><span style=\"border: 0px; margin: 0px; padding: 0px; font-family: Poppins; font-size: 18px; text-align: center; font-weight: bold;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\" class=\"\">en las principales habilidades que requiere el profesional de hoy y &uacute;nicos en incorporar IA para acompa&ntilde;ar a nuestros estudiantes 24/7</span></span></span></p>",
+  "payout_rate": "65.5%",
+  "payout_period": null,
+  "recommend_score": 3.96,
+  "average_earning_per_sale": "800",
+  "video_url": null,
+  "mkp_listing_id": 13609,
+  "categories": "Books, Computers & Office, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "40% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 180,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Content or Niche website",
+    "Coupons or Deals website",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Podcast platforms",
+    "Quora",
+    "Tiktok",
+    "Twitch",
+    "Twitter",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Argentina",
+    "Colombia",
+    "Costa Rica",
+    "Ecuador",
+    "El Salvador",
+    "Guatemala",
+    "Honduras",
+    "Mexico",
+    "Panama",
+    "Puerto Rico",
+    "Venezuela"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1,
+    "other": "Zelle"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://afiliados.g-talent.net/g-talent-net/register",
+  "offer_status": 2,
+  "name": "G-Talent.Net",
+  "website": "https://www.g-talent.net",
+  "hashtags": [
+    "#cursosonline",
+    "#cursos",
+    "#excel",
+    "#powerbi",
+    "#marketing"
+  ],
+  "shop_id": 60189,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.63,
+  "program_id": 67852,
+  "myshopify_domain": "g-talent-net.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24d9f5d235d1f7000fbf6",
+      "name": "Auto-discount rule",
+      "program_id": 67852,
+      "shop_id": 60189,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:34:55",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Argentina",
+    "Bolivia",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Dominican Republic",
+    "Ecuador",
+    "El Salvador",
+    "Guatemala",
+    "Honduras",
+    "Mexico",
+    "Nicaragua",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Spain",
+    "United States",
+    "Venezuela"
+  ],
+  "avg_order_value": 34.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "98.51%",
+  "mkp_program_id": 67852,
+  "product_list": []
+}

@@ -1,0 +1,184 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1695190d4dd23148556f259352311bf3.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>DiscreetSmoker.com is a trusted online retailer dedicated to providing high-quality smoking accessories designed for both discretion and style. We cater to customers who value privacy and a premium experience, offering a curated selection of innovative products that blend functionality with a sleek aesthetic.</p><p>Our product range includes top-tier grinders, vaporizers, rolling trays, storage solutions, and other smoking accessories, all chosen for their exceptional quality and subtle design. Each product is meticulously selected to meet the needs of our discerning customers who prioritize discretion without compromising on performance.</p><p>What sets DiscreetSmoker.com apart is our commitment to combining privacy with luxury. Our products are not only designed to be inconspicuous but also to deliver an elevated smoking experience. We emphasize customer satisfaction through discreet shipping, excellent customer service, and a focus on high-quality, durable products.</p><p>As a partner in our affiliate program, you’ll earn competitive commissions on every sale referred through your unique links. Our payment terms are transparent and straightforward, with commissions paid out monthly via PayPal, direct deposit, or another preferred method. Detailed tracking and reporting tools ensure you have full visibility into your earnings.</p><p>Joining our affiliate program means aligning with a brand that values discretion, quality, and customer satisfaction. We provide our affiliates with exclusive promotional materials, regular updates on new products, and support to help you succeed. Our program is easy to join, with no upfront costs and simple terms, making it an ideal opportunity for influencers, bloggers, and anyone passionate about premium smoking accessories.</p></div></div>",
+  "payout_rate": "90.38%",
+  "payout_period": "1st of each month",
+  "recommend_score": 5.6,
+  "average_earning_per_sale": "15",
+  "video_url": null,
+  "mkp_listing_id": 31736,
+  "categories": "Toys & Hobbies, Others, Garden & Outdoors",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "12.75% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Australia",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1,
+    "other": "Zelle"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/discreetsmoker/register",
+  "offer_status": 2,
+  "name": "Discreet Smoker",
+  "website": "https://discreetsmoker.com",
+  "hashtags": [
+    "#bong",
+    "#pipes",
+    "#grinders",
+    "#weed",
+    "#smoking",
+    "#vape",
+    "#headshop",
+    "#510"
+  ],
+  "shop_id": 114443,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 4.18,
+  "program_id": 129669,
+  "myshopify_domain": "discreetsmokertemp.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 48.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "98.43%",
+  "mkp_program_id": 129669,
+  "product_list": []
+}

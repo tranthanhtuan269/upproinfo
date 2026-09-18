@@ -1,0 +1,178 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1768514709_127890_30484277846ca6273ce33e29015c616b.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p><span style=\"font-size:14px;\">Rags by Jak is an independent UK fashion brand creating alternative, avant-garde streetwear with real construction and purpose.</span></p><p><span style=\"font-size:14px;\">Most of our garments are <strong>made to order or produced in small batches</strong> in our studio in Bury St Edmunds. We work with heavyweight fabrics, technical detailing, and experimental silhouettes designed to be worn properly and last.</span></p><p><span style=\"font-size:14px;\">Our community comes to us for clothing that feels different because it’s built differently.<br></span></p><p><span style=\"font-size:14px;\"><strong>Affiliate Programme</strong><br></span></p><p><span style=\"font-size:14px;\">Our affiliate programme is built for people who genuinely connect with the brand. This isn’t about hard selling or scripted content. It’s about <strong>wearing the pieces, styling them your way, and sharing them naturally</strong> with your audience.</span></p><p><span style=\"font-size:14px;\">As an affiliate, you’ll receive:</span></p><ul><li style=\"font-size:14px;\"><p>A unique referral link </p></li><li style=\"font-size:14px;\"><p>10% commission on every sale you generate</p></li><li style=\"font-size:14px;\"><p>Early access to drops and updates</p></li><li style=\"font-size:14px;\"><p>A closer connection to how the brand evolves</p></li></ul><p><span style=\"font-size:14px;\">We see affiliates as an extension of the brand, not just a marketing channel.</span></p><p><span style=\"font-size:14px;\"><strong>Who This Is For</strong></span></p><p><span style=\"font-size:14px;\">This programme is ideal for:</span></p><ul><li style=\"font-size:14px;\"><p>Fashion creators and stylists</p></li><li style=\"font-size:14px;\"><p>Alternative / avant-garde wearers</p></li><li style=\"font-size:14px;\"><p>People who care about quality, fit, and construction</p></li><li style=\"font-size:14px;\"><p>Related blogs, magazines, Youtube channels</p></li></ul><p><span style=\"font-size:14px;\">If the brand resonates with you, your audience will feel it too.</span></p></div></div>",
+  "payout_rate": "66.67%",
+  "payout_period": "Payments are processed on the 1st of each month via Paypal or Store Credit.",
+  "recommend_score": 2.27,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37732,
+  "categories": "Fashion",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "social_media_ads",
+    "search_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Kingdom",
+    "United States",
+    "Germany",
+    "Canada",
+    "Belgium",
+    "Sweden",
+    "Switzerland"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/0e0c33/register",
+  "offer_status": 2,
+  "name": "Rags by Jak",
+  "website": "https://ragsbyjak.com",
+  "hashtags": [
+    "#fashion",
+    "#alternative",
+    "#avantgarde",
+    "#clothing",
+    "#streetwear",
+    "#designer"
+  ],
+  "shop_id": 197812,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.8900000000000001,
+  "program_id": 226081,
+  "myshopify_domain": "0e0c33.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 204.29,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "16.67%",
+  "mkp_program_id": 226081,
+  "product_list": []
+}

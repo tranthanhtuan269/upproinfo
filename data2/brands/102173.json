@@ -1,0 +1,167 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/668aa77b421a2ecdea1da9609bf8b465.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>&bull; Brand introduction: </strong>Labeloom: Custom Clothing Labels &amp; Tags<br><strong>&bull; Product description: </strong>We make custom clothing labels and tags. Woven labels, Iron-on labels, Logo labels, Printed labels, patches and hangtags.<br><strong>&bull; USP (Unique Selling Point): </strong>High quality labels, quick turnaround and competitive prices. We are a direct manufacturer with our own clothing labels factory.<br><strong>&bull; Payment terms: </strong>Payment in advance on the website by credit card or Paypal. Bank transfer available for large orders</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>&bull; Website: </strong><strong><a title=\"Custom Clothing Tags\" href=\"https://www.labeloom.com\" target=\"_blank\" rel=\"noopener\">www.labeloom.com</a></strong></p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.41,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 24140,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Canada",
+    "France",
+    "United Kingdom",
+    "Italy",
+    "Netherlands",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Labeloom/register",
+  "offer_status": 2,
+  "name": "Labeloom",
+  "website": "https://labeloom.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 102173,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 116088,
+  "myshopify_domain": "labeloom.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 186.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "49.06%",
+  "mkp_program_id": 116088,
+  "product_list": []
+}

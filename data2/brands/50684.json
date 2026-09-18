@@ -1,0 +1,206 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1726099256_9305746_d27f4492c596e1844209e911046533ad.jpeg",
+  "description": "<div>\n<p style=\"text-align:left;font-size:14px;font-weight:normal;\">• Brand introduction: We're in the Bizz of aiding the presently ailing Veteran community. That's our mission. Ending the Vet homelessness; suicide; addiction; &amp; divorce epidemics are our objectives. \"You have your orders; now do your duty.\"<br>• Product description: Almost entirely unique products that are either already branded; or in the process of becoming so.<br>• USP (Unique Selling Point): A percentage of all revenues go to nonprofits that are intently fighting for U.S. military personnel's wellbeing.<br>• Payment terms: 10% as of 5MAY2023. Subject to increase dramatically.<br>• Other information: We couldn't do this w/o y'all. 42T (trillion) thanks; &amp; 33T apologies for not getting the ball rolling eons ago. A privilege; &amp; an honor to be your \"Commander\". Let's attack our objectives like Troops on the move. Peace; blessings; &amp; Love.</p>\n</div>",
+  "payout_rate": "100%",
+  "payout_period": "One calendar day.",
+  "recommend_score": 1.49,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 23371,
+  "categories": "Fashion, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "21% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "American Samoa",
+    "Bahamas",
+    "Canada",
+    "Costa Rica",
+    "Mexico",
+    "Netherlands",
+    "Puerto Rico",
+    "United States Minor Outlying Islands",
+    "United States",
+    "Virgin Islands",
+    " U.s."
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "venmo": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/WarNTees/register",
+  "offer_status": 2,
+  "name": "War 'N' Tees",
+  "website": "https://warntees.com",
+  "hashtags": [
+    "#Apparel",
+    "#Vets",
+    "#Veterans",
+    "#Clothing",
+    " #USA"
+  ],
+  "shop_id": 50684,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.2,
+  "program_id": 56620,
+  "myshopify_domain": "peaceful-tidings.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "U.S. Minor Outlying Islands",
+    "U.S. Miscellaneous Pacific Islands",
+    "U.S. Virgin Islands",
+    "United States"
+  ],
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "88.89%",
+  "mkp_program_id": 56620,
+  "product_list": []
+}

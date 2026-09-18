@@ -1,0 +1,219 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1773810684_4149206_020cc492147350b16f96e44453605f82.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>BEWM Coffee started in Austin’s street art scene to honor a lost artist. Join our affiliate program and help fund art, community, and meaningful impact. Earn 10% and Give 10% Discount.</p><p><strong>Thank You for Supporting BEWM</strong></p><p>I want to personally thank you for supporting BEWM Coffee. Seeing people subscribe and be part of what we’re building truly means a lot as we continue growing this from the ground up.</p><p><strong>How BEWM Began</strong><br>BEWM came out of Austin’s street art community after we lost a young artist who meant so much to many of us. In that moment, a simple idea took shape—to create something that brings people together through coffee, art, and community, while supporting artists and creative spaces along the way.</p><p><strong>The Coffee</strong><br>We take the coffee seriously. Our beans are sourced from small farms around the world, where farmers are paid well above commodity prices. Each batch is roasted in small quantities and shipped fresh, so every cup reflects the care and craftsmanship behind it.</p><p><strong>Supporting Artists &amp; Community</strong><br>Through our partnership with Something Good Initiative, BEWM helps fund artist residencies, creative gatherings, and community events like BEWM FOR THE PEOPLE. We also ensure the artists featured in each release are paid for their work.</p><p>Rather than relying on large platforms or traditional advertising, we grow through the artists themselves and a close network of supporters, collectors, and affiliates who believe in what we’re building.</p><p><strong>Giving Back</strong><br>Each month, we deliver hundreds of pounds of coffee to nonprofits in Austin serving people facing homelessness, food insecurity, and crisis. For us, coffee has always been about more than what’s in the cup—it’s about bringing people together, creating connection, and showing up for one another.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Bi-weekly Payout.",
+  "recommend_score": 1.97,
+  "average_earning_per_sale": null,
+  "video_url": "https://www.youtube.com/watch?v=jxUyQWcdrw4",
+  "mkp_listing_id": 38693,
+  "categories": "Food, Beverages & Tobacco",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "0% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bewmcoffeeco/register",
+  "offer_status": 2,
+  "name": "BEWM COFFEE CO",
+  "website": "https://bewmcoffee.com",
+  "hashtags": [
+    "#coffee",
+    "#art",
+    "#trendy"
+  ],
+  "shop_id": 259372,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.67,
+  "program_id": 304862,
+  "myshopify_domain": "bewmcoffeeco.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "69ba31adb4d7fb51af0a47e3",
+      "name": "Influencer",
+      "program_id": 304862,
+      "shop_id": 259372,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": "{discount_amount} Off the first month"
+        },
+        "free_shipping": {
+          "status": true,
+          "country_type": "specific",
+          "country_codes": [
+            "US"
+          ],
+          "message": "FREE for Subsribers"
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-03-30 21:51:58",
+      "created_at": "2026-03-18T05:01:33.231000Z",
+      "updated_at": "2026-03-30T21:51:58.141000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 27.2,
+  "new_customer_commission": "50% per order",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "6.25%",
+  "mkp_program_id": 304862,
+  "product_list": []
+}

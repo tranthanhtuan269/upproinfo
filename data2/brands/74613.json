@@ -1,0 +1,148 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1666211175_464900_661d7b1cbb32193bdcf7fd3dece194b5Untitled design - 2022-09-25T002757.041.png",
+  "description": "<div class=\"jc-head-banner\">\r\n<h1 style=\"text-align: center;\">The natural choice for those who seek answers</h1>\r\n</div>\r\n<div class=\"jc-text-content\">\r\n<p>From where we stand, we feel that there&rsquo;s beauty in asking the right questions and sharing answers.</p>\r\n<p>Behind everything we do there's a hand that cares. Every formulation, ingredient, source and product&rsquo;s efficacy is chosen with a clear pure heart and mind.</p>\r\n<p><strong>It all started based on personal needs. From a single question</strong>: How can I take care of myself without compromising my health? How can I make skincare a selfcare and an energy checkpoint of the day. The answer is clear. Back to nature and looking at cosmetics and beauty the right way.&nbsp;&nbsp;</p>\r\n</div>",
+  "payout_rate": "33.33%",
+  "payout_period": null,
+  "recommend_score": 1.55,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 17980,
+  "categories": "Beauty & Health",
+  "currency": "AED",
+  "symbol_currency": "&#1583;.&#1573;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/jenascosmetics/register",
+  "offer_status": 2,
+  "name": "JENA'S Cosmetics",
+  "website": "https://jenascosmetics.com",
+  "hashtags": [],
+  "shop_id": 74613,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.22,
+  "program_id": 85484,
+  "myshopify_domain": "jenascosmetics.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 332.77,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "90.91%",
+  "mkp_program_id": 85484,
+  "product_list": []
+}

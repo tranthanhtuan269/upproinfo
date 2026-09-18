@@ -1,0 +1,169 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1733028215_4364358_0fbbcd0d35759e253a813b8b8e71c063.jpg",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: Snackit is on a mission to revolutionize snacking. With a focus on small business brands, Snackit offers a personalized snack box subscription service that enables customers to discover unique snacks tailored to their tastes and nutritional preferences.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Product description: Snack box with up to 8 snacks delivered monthly. Customers may opt for 1 of 3 pricing options</p>\r\n<ul>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">$39.99 per mo. (no end date)</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">$37.99 per mo. for a 3 mo. subscription</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">$35.99 per mo. for a 6 mo. subscription</li>\r\n</ul>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; USP (Unique Selling Point):</p>\r\n<ul>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Deeply personalized snack box so customers will have a higher chance of enjoying the majority of the snacks</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Curated snacks from small business brands so customers discover lesser known brands. Customers will not find mass-produced snacks, e.g. Lays potato chips</li>\r\n</ul>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33432,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1733028578_5417725_693c9474432363ac2e861f167f9e77fb.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitch",
+    "Reddit",
+    "Blog",
+    "Content or Niche website",
+    "Facebook",
+    "Coupons or Deals website",
+    "Quora",
+    "Podcast platforms",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/snackit/register",
+  "offer_status": 2,
+  "name": "Snackit",
+  "website": "https://mysnackit.myshopify.com",
+  "hashtags": [
+    "#snack",
+    "#snackbox",
+    "#subscriptionbox"
+  ],
+  "shop_id": 177851,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 202683,
+  "myshopify_domain": "mysnackit.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 50,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "8.33%",
+  "mkp_program_id": 202683,
+  "product_list": []
+}

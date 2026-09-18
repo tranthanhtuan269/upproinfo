@@ -1,0 +1,248 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1759332759_2539347_e1fa41fd53d91c9a51dc944ec9338204.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><h3><strong>• About our brand and products:</strong></h3><p>Villenel Fragrances brings high-quality Thai niche perfumes to the EU market — exclusive scents not available elsewhere in Europe. Our selection is carefully curated to offer premium, modern, and unique fragrance experiences.</p><hr><h3><strong>• What makes us different:</strong></h3><p>We offer exclusive fragrances, distinctive Thai perfume artistry, and EU-wide delivery. Our focus is on premium quality, unique compositions, and a smooth, customer-focused shopping experience.</p><hr><h3><strong>• How affiliates can earn:</strong></h3><p>Affiliates earn commissions on all purchases made through their personal link. Any orders placed within the cookie period are automatically tracked and rewarded.</p><hr><h3><strong>• How to promote us:</strong></h3><p>We recommend authentic content such as unboxings, first impressions, reviews, and scent recommendations. Share your link and code on Instagram, TikTok, YouTube, or your blog for the best results.</p><hr><h3><strong>• Other information:</strong></h3><p>We provide ready-to-use marketing materials, campaign updates, and continuous support. Joining our affiliate program is simple and built for long-term, mutually beneficial collaboration.</p></div></div>",
+  "payout_rate": "92.13%",
+  "payout_period": "1st of each month",
+  "recommend_score": 4.45,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37030,
+  "categories": "Beauty & Health, Fashion",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 15,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "social_media_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Sweden",
+    "Romania",
+    "Poland",
+    "France",
+    "Finland",
+    "Germany",
+    "Greece",
+    "Netherlands",
+    "Italy",
+    "Spain"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/frjcc0-2k/register",
+  "offer_status": 2,
+  "name": "Villenel Fragrances",
+  "website": "https://villenelfragrances.com",
+  "hashtags": [
+    "#mithbangkok",
+    "#villenelfragrances",
+    "#nicheperfumes",
+    "#thaiperfumes",
+    "#proadperfume",
+    "#prannperfume"
+  ],
+  "shop_id": 230488,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    }
+  ],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.95,
+  "program_id": 268137,
+  "myshopify_domain": "frjcc0-2k.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "6919adc1162ef6998b0b3616",
+      "name": "Auto-discount",
+      "program_id": 268137,
+      "shop_id": 230488,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "amount",
+      "minimum": 84,
+      "defined_coupon": null,
+      "active_at": "2025-11-16 10:56:01",
+      "created_at": "2025-11-16T10:56:01.362000Z",
+      "updated_at": "2025-11-16T10:56:01.362000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Czech Republic",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden"
+  ],
+  "avg_order_value": 98.24,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "48.39%",
+  "mkp_program_id": 268137,
+  "product_list": []
+}

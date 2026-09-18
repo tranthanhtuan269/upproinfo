@@ -1,0 +1,171 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1773158360_1002248_9850e74baa4673158cf6273c0d1ee780.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p class=\"isSelectedEnd\"><strong>About Our Brand and Products</strong><br>Sargasm is a sarcastic lifestyle brand built around humor, personality, and bold expression. We create funny, relatable products that people love to wear, gift, and share — especially couples and friends who enjoy a little sarcasm. Our product line includes customizable apparel and gifts designed to stand out, spark conversations, and get laughs.</p><p class=\"isSelectedEnd\"><strong>What Makes Us Different</strong><br>Sargasm products combine sarcasm, humor, and personalization in a way that feels authentic and highly shareable on social media. Our designs are made to be eye-catching, relatable, and perfect for content creators who enjoy humor-based content. Instead of generic products, we focus on unique ideas that people genuinely want to show off.</p><p class=\"isSelectedEnd\"><strong>How Affiliates Can Earn</strong><br>Affiliates earn <strong>25% commission on every qualifying sale</strong> made through their unique affiliate link or discount code. Commissions accumulate until the <strong>$25 minimum payout</strong> is reached. Payments are issued <strong>Net 30 after the order is delivered</strong> and can be paid via <strong>PayPal, Debit Card, Venmo, or Store Credit</strong>.</p><p class=\"isSelectedEnd\"><strong>How to Promote Us</strong><br>Affiliates can promote Sargasm products in a variety of ways including social media posts, videos, product reviews, and creative content featuring our products. Many affiliates find success creating humor-based content, couple content, or lifestyle posts that naturally showcase the product while sharing their unique affiliate link or code.</p><p><strong>Other Information</strong><br>Our goal is to build long-term partnerships with creators who enjoy sarcastic humor and personality-driven brands. Affiliates receive access to unique links or codes to track sales and commissions. We encourage creativity when promoting Sargasm, as authentic content tends to perform best and connect with audiences.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Affiliate commissions are paid on a Net 30 basis, meaning payments are issued 30 days after the order has been delivered. This allows time for order verification, cancellations, or returns.",
+  "recommend_score": 1.18,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38559,
+  "categories": "Apparel & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "social_media_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1,
+    "venmo": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/5kxttm-mz/register",
+  "offer_status": 2,
+  "name": "SarGasm",
+  "website": "https://sargasm.co",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 258389,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.07,
+  "program_id": 303014,
+  "myshopify_domain": "5kxttm-mz.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "11.11%",
+  "mkp_program_id": 303014,
+  "product_list": []
+}

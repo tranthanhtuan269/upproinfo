@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1747676102_7088929_d64113ae506f5d5b53d0b5d12e9e6f67.png",
+  "description": "<div style=\"font-family: Poppins;\"><p data-start=\"83\" data-end=\"124\" id=\"isPasted\"><strong data-start=\"83\" data-end=\"124\">Partner with Just Ink and Toner Store</strong></p><p data-start=\"126\" data-end=\"396\">At <strong data-start=\"129\" data-end=\"157\">Just Ink and Toner Store</strong>, we are committed to delivering <strong data-start=\"190\" data-end=\"275\">premium-quality U.S. remanufactured and original printer ink and toner cartridges</strong> at competitive prices. Our products are carefully sourced to ensure reliability, performance, and customer satisfaction.</p><p data-start=\"398\" data-end=\"613\">We are pleased to offer an <strong data-start=\"425\" data-end=\"456\">affiliate commission of 15%</strong> on all sales generated through your referrals. This is an excellent opportunity to earn while promoting high-demand office supplies from a trusted supplier.</p><p data-start=\"615\" data-end=\"646\"><strong data-start=\"615\" data-end=\"646\">Commission &amp; Payment Terms:</strong></p><ul data-start=\"647\" data-end=\"878\"><li data-start=\"647\" data-end=\"739\"><p data-start=\"649\" data-end=\"739\">You will earn <strong data-start=\"663\" data-end=\"681\">15% commission</strong> on the total value of each successful order you bring in.</p></li><li data-start=\"740\" data-end=\"878\"><p data-start=\"742\" data-end=\"878\"><strong data-start=\"742\" data-end=\"779\">Payments are processed via PayPal</strong> and will be issued <strong data-start=\"799\" data-end=\"831\">30 days after the order date</strong> to allow for processing and potential returns.</p></li></ul><p data-start=\"880\" data-end=\"1076\">We value our partners and strive to build long-term, mutually beneficial relationships. If you have any questions or would like marketing materials to support your efforts, feel free to reach out.</p><p data-start=\"1078\" data-end=\"1114\">We look forward to working with you!</p></div>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 2.45,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35643,
+  "categories": "Electronics, Computers & Office",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/azpwzu-pu/register",
+  "offer_status": 2,
+  "name": "Just Ink and Toner",
+  "website": "https://www.justinkandtoner.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 209963,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.9300000000000002,
+  "program_id": 241763,
+  "myshopify_domain": "azpwzu-pu.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 72.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "92.86%",
+  "mkp_program_id": 241763,
+  "product_list": []
+}

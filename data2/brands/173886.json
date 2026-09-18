@@ -1,0 +1,162 @@
+{
+  "logo": null,
+  "description": "<p data-end=\"342\" data-start=\"102\"><strong data-end=\"121\" data-start=\"102\">Sirvan Perfumes</strong> is an Australian luxury fragrance brand inspired by the rich heritage of the Middle East. Our collection blends timeless Arabian elegance with modern craftsmanship, delivering a captivating experience with every spray.</p>\r\n<p data-end=\"668\" data-start=\"344\">Our signature fragrances are crafted with high-quality ingredients, carefully sourced and blended to create unforgettable scent journeys. From bold and intense oud-based aromas to soft and tranquil floral notes, each perfume tells a story of identity and elegance. Discover the perfect scent that resonates with your soul.</p>\r\n<p data-end=\"910\" data-start=\"670\"><strong data-end=\"701\" data-start=\"670\">Why Choose Sirvan Perfumes?</strong><br data-end=\"704\" data-start=\"701\">Our fragrances bridge the gap between Middle Eastern opulence and Australian modernity. Known for their long-lasting, luxurious quality, they are crafted for those who value sophistication and refinement.</p>\r\n<p data-end=\"1080\" data-start=\"912\"><strong data-end=\"937\" data-start=\"912\">Payment and Shipping:</strong><br data-end=\"940\" data-start=\"937\">We offer secure payment options including credit card, PayPal, and Afterpay. Enjoy free shipping on all orders over $200 within Australia.</p>\r\n<p data-end=\"1290\" data-start=\"1082\"><strong data-end=\"1101\" data-start=\"1082\">Stay Connected:</strong><br data-end=\"1104\" data-start=\"1101\">Join our community of fragrance lovers and immerse yourself in the world of Sirvan Perfumes. Follow us on Instagram and Facebook to stay updated on new releases and special promotions.</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 0.88,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35111,
+  "categories": "Beauty & Health",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Tiktok",
+    "Instagram",
+    "Facebook"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/e609cf-65/register",
+  "offer_status": 2,
+  "name": "Sirvan Perfumes",
+  "website": "https://sirvanperfumes.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 173886,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 197915,
+  "myshopify_domain": "e609cf-65.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 99.03,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "7.69%",
+  "mkp_program_id": 197915,
+  "product_list": []
+}

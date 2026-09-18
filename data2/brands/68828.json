@@ -1,0 +1,149 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1660652136_4298487_3b6ca5ea9162b17474595a878a8a8bf5Crila_Meno_Uterine copy.jpg",
+  "description": "<h3 class=\"a-size-large a-spacing-none\" style=\"font-family: Nunito, sans-serif; font-size: 27px; line-height: 1.5; color: rgb(20, 43, 59); letter-spacing: 1px; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; margin: 0px auto 15px 0px;\"><span class=\"a-size-large product-title-word-break\" id=\"productTitle\">Estrogen Free Menopause Relief</span></h3><h4 class=\"a-size-large a-spacing-none\" style=\"font-family: Nunito, sans-serif; font-size: 23px; line-height: 1.5; color: rgb(20, 43, 59); letter-spacing: 1px; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; margin: 0px 0px 0.5em; padding: 7px 0px;\"><span class=\"a-size-large product-title-word-break\" id=\"productTitle\" style=\"transition: transform 0.3s linear 0s; perspective: 1000px;\">Helps Relieve Hot Flashes and Night Sweats, Support for Uterine and Ovarian Health.</span></h4><p style=\"font-size: 16px; margin-bottom: 15px; line-height: 1.6em; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: Nunito, sans-serif;\"><span class=\"a-size-large product-title-word-break\">THE ROYAL WOMEN'S HERB: Clinical Science shows that Crila eases hot flashes and night sweats* Known in Vietnamese herbal traditions as “The Royal Women’s Herb”, Crinum latifolium has a long history of use in reducing the uncomfortable effects of menopause and peri-menopause. Taken regularly, Crinum latifolium reduces the frequency and intensity of hot flashes and sleep-disrupting night sweats, naturally.&nbsp; If you want to know how to stop hot flashes fast, you need to try Crila for Menopause.</span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.2,
+  "average_earning_per_sale": "10.00",
+  "video_url": null,
+  "mkp_listing_id": 16728,
+  "categories": "Beauty & Health, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1661581597_6506891_b9c7feeb0a240a2456ee874c23103337.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "12% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 365,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/crilahealth/register",
+  "offer_status": 2,
+  "name": "CrilaHealth",
+  "website": "https://crilahealth.com",
+  "hashtags": [],
+  "shop_id": 68828,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 78343,
+  "myshopify_domain": "crilahealth.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 80.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "19.35%",
+  "mkp_program_id": 78343,
+  "product_list": []
+}

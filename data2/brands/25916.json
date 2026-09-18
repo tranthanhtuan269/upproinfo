@@ -1,0 +1,147 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1606768730_1080367_2e51d42f97a154def52bc32f38e07f63.png",
+  "description": "Did you know that, with the exception of color additives, cosmetic ingredients aren’t regulated in the US? It is highly likely that cosmetic products you use daily, are packed with hormonal disruptors, carcinogens and toxic chemicals many of which may cause DNA damage, neurotoxicity and other serious issues. Modern clean beauty retailers took it upon themselves to create strict guidelines restricting brands they carry from using a number of ingredients. However, the issue that remained was that many of these ingredients deemed natural and safe, can still be used in concentrations that can cause skin sensitivity and other skin reactions. \r\n\r\nThe Beauty Doctrine is the first online beauty retailer focused on not only skin health, but your overall well-being. We’ve done the heavy lifting, curated a selection of the best, most effective and high quality products, from cosmetics to supplements and even candles. Each products has been carefully reviewed and tested by our team.",
+  "payout_rate": "82.22%",
+  "payout_period": null,
+  "recommend_score": 2.33,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 3332,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 15,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/beauty-doctrine/register",
+  "offer_status": 2,
+  "name": "The Beauty Doctrine",
+  "website": "https://beauty-doctrine.myshopify.com",
+  "hashtags": [],
+  "shop_id": 25916,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.88,
+  "program_id": 27974,
+  "myshopify_domain": "beauty-doctrine.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 146.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "63.33%",
+  "mkp_program_id": 27974,
+  "product_list": []
+}

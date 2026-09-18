@@ -1,0 +1,183 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/56c3f5d5c939529ea42e2a87b8014dcc.png",
+  "description": "<section id=\"shopify-section-template--17841483383050__image_banner\">\r\n<div id=\"Banner-template--17841483383050__image_banner\">\r\n<h2 class=\"banner__heading inline-richtext h0\">Fight ageing with Vivetus&reg;</h2>\r\n<div>\r\n<p><span>Science shows that the ageing process can be slowed down and even reversed!</span></p>\r\n</div>\r\n<div>\r\n<h2 class=\"rich-text__heading rte inline-richtext h2 scroll-trigger animate--slide-in\" data-cascade=\"\"><span style=\"font-size: 12pt;\"><strong>We believe that a balanced diet, combined with a healthy lifestyle and supported by selected supplements leads to a vital, longer life by counteracting ageing issues.</strong></span></h2>\r\n</div>\r\n</div>\r\n</section>\r\n<section id=\"shopify-section-template--17841483383050__rich_text\">\r\n<h2 class=\"rich-text__heading rte inline-richtext h0 scroll-trigger animate--slide-in\" data-cascade=\"\">The future of healthy living</h2>\r\n<div>\r\n<p>In recent years, several<span>&nbsp;</span><strong>scientific</strong><span>&nbsp;</span>studies have shown that it is possible to slow down and even reverse the ageing process. This is<span>&nbsp;</span><strong>revolutionary<span>&nbsp;</span></strong>because ageing is often the basis for the development of diseases. Studies show that these can now very likely be prevented.</p>\r\n<p>Vivetus&reg; offers innovative nutritional supplements of the highest<span>&nbsp;</span><strong>quality and safety</strong>. Products in our range are extensively tested and comply with GMP and ISO standards. Moreover, we are committed to sustainability, because longer life is the future only in a healthy world.</p>\r\n</div>\r\n</section>",
+  "payout_rate": "33.33%",
+  "payout_period": null,
+  "recommend_score": 1.52,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 25569,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Coupons or Deals website",
+    "Etsy",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Podcast platforms",
+    "Quora",
+    "Reddit",
+    "Tiktok",
+    "Twitch",
+    "Twitter",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Austria",
+    "Belgium",
+    "Finland",
+    "France",
+    "Germany",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Portugal",
+    "Spain",
+    "Sweden",
+    "Switzerland"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/vivetus/register",
+  "offer_status": 2,
+  "name": "Vivetus®",
+  "website": "https://vivetus.nl",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 108608,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.15,
+  "program_id": 123328,
+  "myshopify_domain": "vivetus.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 81.53,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "56%",
+  "mkp_program_id": 123328,
+  "product_list": []
+}

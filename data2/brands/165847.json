@@ -1,0 +1,169 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1725964597_828742_dd2b338bb4cece795390dccb5028d18c.png",
+  "description": "<div class=\"flex max-w-full flex-col flex-grow\">\r\n<div class=\"min-h-[20px] text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5\" dir=\"auto\" data-message-id=\"4397adf9-d34f-465b-9e32-293a0470e467\" data-message-author-role=\"assistant\">\r\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n<h3><strong>1. Brand Information</strong></h3>\r\n<ul>\r\n<li><strong>Brand Name</strong>: WoodCraft4You<strong></strong></li>\r\n<li><strong>Mission</strong>: To craft high-quality, eco-friendly wooden watches with a personal touch, offering free custom engraving to make each piece unique and memorable.</li>\r\n<li><strong>Vision</strong>: To combine craftsmanship, sustainability, and personalization, allowing customers to own eco-conscious timepieces that tell both time and a story.</li>\r\n<li><strong>Values</strong>: Sustainability, Craftsmanship, Personalization, Quality.</li>\r\n</ul>\r\n<h3><strong>2. Product Information</strong></h3>\r\n<ul>\r\n<li><strong>Product Line</strong>: High-quality wooden watches crafted from premium materials like bamboo, sandalwood, and maple, offering precision movement and stylish designs.</li>\r\n<li><strong>Materials</strong>: Sustainably sourced woods like bamboo, maple, walnut, and sandalwood. Eco-friendly, hypoallergenic, and lightweight.</li>\r\n<li><strong>Features</strong>:\r\n<ul>\r\n<li><strong>Free Custom Engraving</strong>: Available on both the watches and the handmade bamboo boxes. Laser precision ensures detailed engravings.</li>\r\n<li><strong>Gift Packaging</strong>: Watches come in complimentary, stylish gift boxes.</li>\r\n<li><strong>Water Resistance</strong>: Basic water resistance for daily use (optional higher resistance models).</li>\r\n<li><strong>Eco-Friendly Packaging</strong>: We emphasize sustainable practices in all aspects of our product, from materials to packaging.</li>\r\n</ul>\r\n</li>\r\n</ul>\r\n<h3><strong>3. Unique Selling Point (USP)</strong></h3>\r\n<ul>\r\n<li><strong>Custom Engraving at No Extra Cost</strong>: Customers can personalize their watch with laser engraving, making it a perfect gift or a sentimental piece for themselves.</li>\r\n<li><strong>Free Gift Packing</strong>: Each watch comes beautifully packed in eco-friendly, handmade bamboo boxes, ideal for gifting.</li>\r\n<li><strong>Sustainability</strong>: All watches are crafted from sustainably sourced wood, helping customers make an eco-conscious choice.</li>\r\n<li><strong>Precision Craftsmanship</strong>: Every watch is crafted with high attention to detail, offering not only style but also quality and durability.</li>\r\n</ul>\r\n<h3><strong>4. Payment Terms</strong></h3>\r\n<ul>\r\n<li><strong>Accepted Payment Methods</strong>: Credit/Debit Cards (Visa, MasterCard, American Express), PayPal, and other major online payment gateways.</li>\r\n<li><strong>Payment Terms</strong>:\r\n<ul>\r\n<li><strong>Full Payment</strong>: Payment in full before shipment.</li>\r\n<li><strong>Refund and Exchange Policy</strong>: Full refunds are available for non-customized items returned within 45 days. Customized engraved watches are non-refundable unless there is a defect or error in the product.</li>\r\n<li><strong>Installment Payments</strong>: Option to split payments into multiple installments (if applicable).</li>\r\n</ul>\r\n</li>\r\n</ul>\r\n<h3><strong>5. Additional Information</strong></h3>\r\n<ul>\r\n<li><strong>Shipping</strong>:\r\n<ul>\r\n<li>Free worldwide shipping on all orders, with tracking information provided.</li>\r\n<li>Delivery timeframes vary depending on the location, typically 7-14 business days.</li>\r\n</ul>\r\n</li>\r\n<li><strong>Customer Service</strong>: Dedicated customer service for inquiries, order updates, and personalization requests. Available via email, phone, and chat.</li>\r\n<li><strong>Warranty</strong>: 24-month warranty covering movement and manufacturing defects.</li>\r\n</ul>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.48,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32087,
+  "categories": "Beauty & Health, Jewelry & Accessories, Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Twitter",
+    "Reddit",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Australia",
+    "United Kingdom",
+    "Canada",
+    "United Arab Emirates"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/woodcraft4you/register",
+  "offer_status": 2,
+  "name": "WoodCraft4You",
+  "website": "https://www.woodcraft4you.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 165847,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 189057,
+  "myshopify_domain": "82a38b-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 189057,
+  "product_list": []
+}

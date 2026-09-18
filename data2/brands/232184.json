@@ -1,0 +1,170 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1762847484_4532186_3632718ded12dc693813e07e20b52cb0.png",
+  "description": "<div style=\"font-family: Poppins;\"><p style=\"text-align:left;font-size: 14px;font-weight: normal;\"><strong><span style=\"font-size: 14px;\">About our brand and products:</span></strong><span style=\"font-size: 14px;\">&nbsp;We're Sunhouse, top 1 kitchenware brand in Vietnam and a leading kitchenware brand in Asia now expanding aggressively in North America. We make high-performance cookware at a much more accessible price point for your followers.<br><strong>What makes us different:&nbsp;</strong></span></p><p style=\"text-align:left;font-size: 14px;font-weight: normal;\"><span style=\"font-size: 14px;\">- Factory-Direct Quality: Our company owns R&amp;D and manufacturing, which allows for direct control over product quality and cost.</span></p><p id=\"isPasted\"><span style=\"font-size: 14px;\">- Genuinely Professional Gear: Expect heavy-duty construction, health-safe material, superior performance, and durable designs. Our cookware will make you proud to have in your kitchen and confident in recommending.</span></p><p><span style=\"font-size: 14px;\"><strong>How You Earn:</strong></span></p><p><span style=\"font-size: 14px;\">- Get Full-Sized Products: Top affiliates receive full-sized, best-selling products (like the stainless steel pan, steamer pot) to test, use, and keep. The goal is your real, honest review.</span></p><p><span style=\"font-size: 14px;\">- Earn High Commissions: Receive a highly competitive 10% commission on all sales.&nbsp;</span></p><p><span style=\"font-size: 14px;\">- 30-Day Cookie: Get credit for any sale made within 30 days of a user clicking your link.</span></p><p><span style=\"font-size: 14px;\">- Fast Payouts: Commissions from the previous month are paid out within the first two weeks of the current month.</span></p></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Commissions earned in the previous month will be paid out within the first two weeks of the following month. (e.g., October commissions are paid between Nov. 1st - 14th)",
+  "recommend_score": 1.28,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36980,
+  "categories": "Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "email_marketing",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "18-24",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/g5uzbf-ps/register",
+  "offer_status": 2,
+  "name": "Sunhouse Global",
+  "website": "https://sunhouseglobal.com/",
+  "hashtags": [
+    "#sunhouse",
+    "#kitchenessenstial",
+    "#healthycookware",
+    "#anyonecancook",
+    "#madeinvietnam"
+  ],
+  "shop_id": 232184,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1400000000000001,
+  "program_id": 270299,
+  "myshopify_domain": "g5uzbf-ps.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": 31,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "11.11%",
+  "mkp_program_id": 270299,
+  "product_list": []
+}

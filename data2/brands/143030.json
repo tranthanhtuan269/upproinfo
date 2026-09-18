@@ -1,0 +1,188 @@
+{
+  "logo": null,
+  "description": "<p>At Eclipse Store, we're thrilled to have you here. Whether you're a seasoned shopper or a first-time visitor, we promise an exceptional online shopping experience.</p>\r\n<p>🛒 Explore Our Collections:</p>\r\n<p>Discover a curated selection of **trendy fashion**, **unique accessories**, and **must-have lifestyle products.. From chic apparel to statement jewelry, we've got something for everyone.</p>\r\n<p>&nbsp;</p>\r\n<p></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29629,
+  "categories": "Beauty & Health, Electronics",
+  "currency": "NGN",
+  "symbol_currency": "&#8358;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Austria",
+    "British Indian Ocean Territory",
+    "Canada",
+    "India",
+    "Indonesia",
+    "New Zealand",
+    "Singapore",
+    "United Arab Emirates",
+    "United Kingdom",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/8d0ad7-2e/register?p=162945&key=eyJpdiI6ImkrdGJCSmt6ZUFZQSt3cXBiTWxETVE9PSIsInZhbHVlIjoiS2RPN3VFamMzanpEay9sc0s5SDRIekZTNzBEL3ZrbXFGV1FiT1puVGpkK1d1THdValhSUFUyRTRWaldoaElPSS9oVkFWdkpjTDJrQWhDdjRRSkh0Y1R4UGZCbkdpTmRXNmc5N1FzTWR3d3MrZFFtbXhuM1dDWDI5N25GTTcyQWN4Z3RrZEJ0YzMvSXdDY2RZZkRDNUxFMUlYVSt2MG9HQkVsSWlUMEpSL25aNnJURU1FekU5SW1vYldSYXMwd1VOQTFEVVd3YURuTDFzMHJ6ZUdBeWgxQT09IiwibWFjIjoiOWVjYzAwYmFiZTIzMDZmZTJlMWIxMmZkMjRmNzk4NTBlMDhmNjIwNGJkYjVjNTI5YjE0Mjc2NTVlMmFiNThkNSIsInRhZyI6IiJ9",
+  "offer_status": 2,
+  "name": "Eclipse Store",
+  "website": "https://stanbicincome.store",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 143030,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.97,
+  "program_id": 162945,
+  "myshopify_domain": "8d0ad7-2e.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "5.26%",
+  "mkp_program_id": 162945,
+  "product_list": []
+}

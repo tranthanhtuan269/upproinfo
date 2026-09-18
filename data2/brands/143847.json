@@ -1,0 +1,176 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1717458029_8661667_f9bbc1507373bb24b1cec8cb5c6ae85c.png",
+  "description": "<p><strong>Applied Fizzics, Inc.</strong><span>&nbsp;</span>(originally Perlage Systems, Inc.) is a leading manufacturer of innovative beverage-related equipment, including the<span>&nbsp;</span><a href=\"https://appliedfizzics.com/collections/the-perlage-system\" title=\"The Perlage System Collection\"><strong>Perlage Champagne Preservation System</strong></a>, the<span>&nbsp;</span><a href=\"https://appliedfizzics.com/collections/the-perlini-system\" title=\"The Perlini System Collection\"><strong>Perlini Carbonating Cocktail System</strong></a>, and the<span>&nbsp;</span><a href=\"https://appliedfizzics.com/collections/the-fizziq-system\" title=\"The FIZZIQ System Collection\"><strong>FIZZIQ Cocktail Bottling System</strong></a>.</p>\r\n<p>All of our products are available for sale through the affiliate program, and we will assist in identifying which products are the best fit for you.</p>\r\n<p>We are offering our key affiliates a 25% commission on all sales. When a customer accesses&nbsp;our website via your affiliate link, or uses your affiliate coupon at checkout, you will receive a 25% commission on total sales, which will be deposited to your specified account (e.g., Paypal or Venmo) on a weekly basis.</p>\r\n<p>We will provide you with sample products, all the collateral and marketing support you need to build sales, and free training on all products via video chat.&nbsp;We are at your disposal for all your business development needs.</p>\r\n<p>We have contemplated launching an affiliate program for many years, so we are very excited that it is finally up and running.&nbsp;We think this is an extraordinary business opportunity,&nbsp;and we are eager to begin working with you.&nbsp;</p>\r\n<p>Please contact us directly if you have any questions.</p>",
+  "payout_rate": "88.89%",
+  "payout_period": null,
+  "recommend_score": 1.99,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30507,
+  "categories": "Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1717824267_4353907_b71ece8740de7e6f87748d4584f8f773.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Japan",
+    "France"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://affiliates.perlagesystems.com/appliedfizzics/register",
+  "offer_status": 2,
+  "name": "Perlage Systems",
+  "website": "https://perlagesystems.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 143847,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.5699999999999998,
+  "program_id": 172708,
+  "myshopify_domain": "perlage-systems-inc.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 265.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "12.96%",
+  "mkp_program_id": 172708,
+  "product_list": []
+}

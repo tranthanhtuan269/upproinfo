@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/4ce0c177fc949889ede76e0612113123.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Grizzee Coffee was built on the foundation of fueling adventures between people and their pets with quality coffee. With a love for all things outdoors, dogs, and coffee it was a match made in heaven to build a company that encompasses all of the above. We have a strong product line of specialty-grade coffee, coffee mugs featuring outdoor-themed imagery, and our Adventure Workbook offered as a digital download. All of our products aim to accomplish our mission of getting more people outdoors with their pets, and to build on that mission Grizzee is committed to donating 10% of profits to homeless pets!&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>Our Coffee</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Grizzee ethically sources top-quality beans around the world so you can brew the perfect cup each time. Our beans are roasted in small batches the day we ship to ensure fresh, quality flavor right to your doorstep. We offer a range of medium to dark roasts with some organic options. Our flavored roasts are lightly infused post-roast to provide a subtle and natural flavor while not removing the flavor profile of the coffee beans themselves.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>All Products</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We take pride in providing quality across the board. We have designed outdoor-themed coffee mugs to accompany the tasty coffee our customers enjoy. You can also take advantage of promoting our Adventure Workbook built to encourage outdoor adventures and offered as a digital download for immediate release after purchase.&nbsp;</p>\r\n<p>&nbsp;</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 0.93,
+  "average_earning_per_sale": null,
+  "video_url": "https://youtu.be/9wmcN0GKzB0",
+  "mkp_listing_id": 25160,
+  "categories": "Home & Tools, Garden & Outdoors, Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "8% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Grizzeecoffee/register",
+  "offer_status": 2,
+  "name": "Grizzee",
+  "website": "https://www.grizzee.com",
+  "hashtags": [
+    "#coffee",
+    "#coffeebeans",
+    "#coffeemugs",
+    "#digitalproduct",
+    "#digitaldownload"
+  ],
+  "shop_id": 106686,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.8,
+  "program_id": 121196,
+  "myshopify_domain": "dog-lovers-pet-products.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "66.67%",
+  "mkp_program_id": 121196,
+  "product_list": []
+}

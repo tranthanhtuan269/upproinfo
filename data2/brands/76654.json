@@ -1,0 +1,158 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1723646241_8113922_52ef28441e707950983ec87fbc09efdc.jpg",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Affiliate f&uuml;r schnellwachsende Marke, bekannt aus dem Fachhandel</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Supplements f&uuml;r Hunde in Snackform, lecker und akzeptiert</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; bestes Preis-Leistungs-Verh&auml;ltnis auf dem Markt</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; als harte Cracker, Dentalstangen oder weiche Snacks, vollwertige Alternative zur Tablette mit deutlich h&ouml;herer Akzeptanz, made in Germany</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; verschiedene Darreichungsformen mit Markenzutaten&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; pr&auml;ventiv oder reaktive F&uuml;tterung</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; verschiedene Anwendungsbereiche, mit Studien belegt</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; hochdosiert und kombinierbar</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; passt in jeden Futterplan</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; 10 Tage nach Zahlungseingang &bull; h&ouml;here Komissionen machbar</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.02,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 31622,
+  "categories": "Pet supplies",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Facebook"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Germany"
+  ],
+  "payment_support": {
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/doggybearz/register",
+  "offer_status": 2,
+  "name": "DOGGYBEARZ",
+  "website": "https://doggybearz.com",
+  "hashtags": [
+    "#pet",
+    "#dog"
+  ],
+  "shop_id": 76654,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.97,
+  "program_id": 87863,
+  "myshopify_domain": "doggybearz.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 35.73,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "41.67%",
+  "mkp_program_id": 87863,
+  "product_list": []
+}

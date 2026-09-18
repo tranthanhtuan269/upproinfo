@@ -1,0 +1,154 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/00504d937fa3cd53667b9b6aad78f90c.jpeg",
+  "description": "<p>Welcome to Macy's Dollhouse, the premier boutique for custom-made flower girl dresses! Our expert team of designers is dedicated to creating beautiful, one-of-a-kind dresses that perfectly match your vision. Whether you're planning a wedding or a special event, our dresses will make your flower girls look and feel their best.</p>\r\n<p>At Macy's Dollhouse, we believe that every flower girl deserves a dress as unique as she is. That's why we offer a wide variety of fabrics, styles, and customization options to choose from. From delicate lace to beautiful tulle, we have the perfect dress to match your theme and color scheme.</p>\r\n<p>Our commitment to quality and customer satisfaction is unmatched. We work closely with each of our clients to ensure that every dress is made to their exact specifications. And with our fast turnaround times, you won't have to wait long to see your vision come to life.</p>\r\n<p>But don't just take our word for it. Check out our gallery to see some of the stunning flower girl dresses we've created for our satisfied clients. And when you're ready to place an order, our easy-to-use online ordering system makes it simple and convenient.</p>\r\n<p>Thank you for considering Macy's Dollhouse for your flower girl dress needs. We can't wait to help make your special day even more magical!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.76,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 24960,
+  "categories": "Fashion",
+  "currency": "PHP",
+  "symbol_currency": "&#8369;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Philippines"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "other": "Gcash"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/macysdollhouseph/register",
+  "offer_status": 2,
+  "name": "Macy's Dollhouse",
+  "website": "https://macysdollhouseph.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 105958,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.72,
+  "program_id": 120333,
+  "myshopify_domain": "macysdollhouseph.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "16%",
+  "mkp_program_id": 120333,
+  "product_list": []
+}

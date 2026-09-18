@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/a60ff8d1f6d514c41137c5a3f1b8dfed.jpg",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction:&nbsp;</p>\r\n<p>Men&rsquo;s grooming has reached a pinnacle age. No longer is it just a time for casual styles, anything-goes trends. They say that you never get a second chance at a first impression, so now, mane man is here to make sure you always look your best.</p>\r\n<p>The Mane man philosophy is to provide men with the elite choice in contemporary men&rsquo;s grooming products. Together with our team of industry leaders, we possess a high-quality arsenal of products, catering to everything from your hair care to your body care and everything in between.</p>\r\n<p>We guarantee satisfaction with our products. Our products allow any man to meet the complex grooming needs of our time.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Product description: Specializing in Mattes, we, here at Mane Man, have devoted countless time and energy towards understanding the features of every product stocked on our shelves. You will not just be buying Matte Paste, Matte Cream, Gloss Paste, or whatever product fits your grooming needs. You will be buying a product that you know works for you and your personal style. That is the Mane Man guarantee.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; USP (Unique Selling Point): Our Mane Man products deliver a powerful hold not found anywhere else in the world of men&rsquo;s grooming, securing anything from pompadour to slicked-back styles that will grip for the entirety of your illustrious nights out. With our grooming products, you will be able to draw attention and shine, yet subtly. Focused on providing for the NEW AGE man, we understand the necessity of modern grooming.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br>&bull; Payment terms: 14 days<br><br></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.04,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 22035,
+  "categories": "Beauty & Health",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Reddit"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Belgium",
+    "Canada",
+    "Germany",
+    "Spain",
+    "France",
+    "United Kingdom",
+    "Italy",
+    "New Zealand",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/mane-man/register",
+  "offer_status": 2,
+  "name": "mane man",
+  "website": "https://www.mane-man.com.au",
+  "hashtags": [
+    "#bestmensproduct",
+    " #styling",
+    " #mensstyling",
+    " #hairwax",
+    "#mensgrooming"
+  ],
+  "shop_id": 91877,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.8,
+  "program_id": 104869,
+  "myshopify_domain": "mane-man.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 57.64,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "24.14%",
+  "mkp_program_id": 104869,
+  "product_list": []
+}

@@ -1,0 +1,201 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1775763168_7500268_57722bd7cbee13acbab464b0b21e7768.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p><u>About our brand and products:</u></p><p>Fungtio creates high-potency functional mushroom tablets designed for daily use. Our blends support focus, energy, gut health, recovery, and overall wellness using concentrated extracts.</p><p><u>What makes us different:</u></p><p>No fillers, capsules, or coatings. Just compressed, high-quality extracts for more precise dosing and consistency.</p><p><u>How affiliates can earn:</u></p><p>Earn 25% commission on first-time customers and 7.5% on repeat purchases.</p><p><u>How to promote us:</u></p><p>Share your link or code and show how you use Fungtio in your daily routine. What you take and when you take it tends to resonate most!</p><p><u>Other information:</u></p><p>Fungtio is designed for daily use. Consistency helps your audience get the most out of it.</p><p><strong>Pronounced \"fung-shee-oh\"</strong></p><p><br></p></div></div>",
+  "payout_rate": "50%",
+  "payout_period": "Affiliate commissions are approved after a 30-day verification period.\nPayouts are issued on the 1st of each month for all approved earnings.",
+  "recommend_score": 2.41,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39054,
+  "categories": "Health & Beauty",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 1,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/fungtio/register",
+  "offer_status": 2,
+  "name": "Fungtio",
+  "website": "https://fungtio.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 263641,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.72,
+  "program_id": 311156,
+  "myshopify_domain": "f0c3a9-e3.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "69d7f8dc9c8f12a89e0b2d22",
+      "name": "10",
+      "program_id": 311156,
+      "shop_id": 263641,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-04-09 19:07:08",
+      "created_at": "2026-04-09T19:07:08.130000Z",
+      "updated_at": "2026-04-09T19:07:08.130000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 142.5,
+  "new_customer_commission": "20% per order",
+  "lifetime_commission_display": "Applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "91.18%",
+  "mkp_program_id": 311156,
+  "product_list": []
+}

@@ -1,0 +1,185 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/e65a5956e1986aa078a2b536f895d6d3.png",
+  "description": "<p>Introducing the Sturdy Brothers Affiliate Program: Earn 15% Commission on Handcrafted Goods!</p>\r\n<p>Join the Sturdy Brothers family and become an ambassador for exceptional craftsmanship by participating in our exclusive Affiliate Program. We invite you to share our passion for handcrafted goods while earning a generous 15% commission on every sale you generate.</p>\r\n<p>At Sturdy Brothers, we take pride in creating durable and timeless products that are meticulously handcrafted. From our ruggedly stylish aprons and bags to our meticulously crafted leather accessories, every item in our collection is a testament to our commitment to quality and authenticity.</p>\r\n<p>As an affiliate, you'll have the opportunity to showcase our thoughtfully designed goods to your audience and share in our success. By promoting Sturdy Brothers' handcrafted products, you'll not only earn a commission on each sale but also contribute to the growth of our brand and the appreciation of artisanal craftsmanship.</p>\r\n<p>We provide our affiliates with a range of professional tools and resources to support your marketing efforts. From eye-catching banners and product imagery to engaging content and exclusive promotions, we've got you covered. Our dedicated affiliate management team is available to offer guidance and assistance, ensuring that your experience with our program is seamless and rewarding.</p>\r\n<p>With our robust tracking system, you can trust that your sales will be accurately recorded and attributed to your account. We value transparency and are committed to providing timely and hassle-free commission payouts.</p>\r\n<p>Join the Sturdy Brothers Affiliate Program today and be part of our mission to celebrate the art of handcrafted excellence. Whether you're a blogger, influencer, or content creator who appreciates authentic craftsmanship, this is your chance to align with a brand that shares your values.</p>\r\n<p>Sturdy Brothers - Where Durability Meets Craftsmanship.</p>",
+  "payout_rate": "50%",
+  "payout_period": null,
+  "recommend_score": 2.15,
+  "average_earning_per_sale": "15",
+  "video_url": "https://vimeo.com/125505391",
+  "mkp_listing_id": 25422,
+  "categories": "Fashion, Garden & Outdoors, Pet supplies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1689623311_2785037_00939ed80f1cb40d67294d726ec353e2.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/sturdy-brothers/register",
+  "offer_status": 2,
+  "name": "Sturdy Brothers",
+  "website": "https://www.sturdybrothers.com",
+  "hashtags": [
+    "#madeinusa",
+    "#apron",
+    "#tote",
+    "#totebag",
+    "#leather",
+    "#wallet",
+    "#maker",
+    "#totebags",
+    "#canvas",
+    "#leathergoods"
+  ],
+  "shop_id": 99456,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.72,
+  "program_id": 113206,
+  "myshopify_domain": "sturdy-brothers.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 169.2,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "92.86%",
+  "mkp_program_id": 113206,
+  "product_list": []
+}

@@ -1,0 +1,169 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/f533246a26322eba452dba7cab919d14.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Are you a passionate coffee lover with an audience?&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We want to support you in making a living with affiliate commissions!</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Ordained Coffee was created with the humble coffee drinker in mind. \"Flavorful, not complicated\" is our motto.</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Our range caters to people who:&nbsp;</p>\r\n<ul>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Want fresh, well-roasted coffee that you can't find in the grocery store</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">DON'T want the constant battle of ordering a new coffee online... only to be disappointed.&nbsp;</li>\r\n<li style=\"text-align: left; font-size: 14px; font-weight: normal;\">Just want a go-to coffee that they can buy over and over again</li>\r\n</ul>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">When you sign on with us, you'll get a generous 20% commission on each order.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">You'll also get promotional support, because we're looking for a long-term relationship with our affiliates.<br><br>If you're on Instagram or tik tok, we'll also help you out by engaging with your posts.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">We'll pay you once a month for all sales (net of refunds).<br><br>If you're interested in working together, fill out the form and let's get started!&nbsp;</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.92,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 22200,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Reddit",
+    "Quora",
+    "Blog",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ordainedcoffee/register",
+  "offer_status": 2,
+  "name": "ordainedcoffee",
+  "website": "https://ordainedcoffee.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 90960,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.82,
+  "program_id": 105763,
+  "myshopify_domain": "ordainedcoffee.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 21,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "62.07%",
+  "mkp_program_id": 105763,
+  "product_list": []
+}

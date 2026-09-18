@@ -1,0 +1,146 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1625691489_6363763_da4480ae179b8d1722484fab2093a78b.JPG",
+  "description": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 7.5pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: &quot;Times New Roman&quot;, serif; color: rgb(85, 85, 85);\">Little Moxy is a family run business that create and curate sustainable and stylish dinnerware for baby and kids. All our products are designed with functionality and minimalism in mind.</span><span style=\"font-family: &quot;Times New Roman&quot;, serif;\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"margin: 0cm 0cm 7.5pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: &quot;Times New Roman&quot;, serif; color: rgb(85, 85, 85);\"><br></span><span style=\"font-family: &quot;Times New Roman&quot;, serif; letter-spacing: 0.3pt;\">Made from high quality food grade silicone, our weaning products are non-toxic, free of BPA, phthalates and other nasties. They are oven, microwave and dishwasher safe. Bacteria and mould resistant, shatter-proof and practical for busy parents. Our bowls and plates actually stay put giving your child the freedom to eat independently.. and the best bit? they are sustainable and eco-friendly!</span><span style=\"font-family: &quot;Times New Roman&quot;, serif;\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: &quot;Times New Roman&quot;, serif;\"><o:p>&nbsp;</o:p></span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 15230,
+  "categories": "Mom & Kids",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/little-moxy/register",
+  "offer_status": 2,
+  "name": "Little Moxy",
+  "website": "https://littlemoxy.com",
+  "hashtags": [],
+  "shop_id": 41696,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 46091,
+  "myshopify_domain": "little-moxy.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "5.26%",
+  "mkp_program_id": 46091,
+  "product_list": []
+}

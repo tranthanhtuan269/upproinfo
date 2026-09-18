@@ -1,0 +1,194 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/b7da26f9839f7b7eefe8ceb8a49361cc.jpeg",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Hello, thank you for your interest in my small business. My business JumpyJellybean Bath Bombs has been around since 2015, creating hand crafted, vegan friendly shower and bath products. Our business is located in Las Vegas, NV.&nbsp;<br><br>I am looking for motivated individuals that are looking to make some extra cash as well as treat themselves. I have tons of incentives and marketing material that is uploaded to help with marketing. I also am more than happy to assist with any questions you may have whenever.&nbsp;<br><br>My affiliates are paid 20% of the entire order, once code is used at check out. Must input code EVERY TIME at check out, no lifetime connections to customers.&nbsp;<br><br>Please reach out if you have any questions or would like to join my team!&nbsp;</p>",
+  "payout_rate": "84.92%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "6",
+  "video_url": null,
+  "mkp_listing_id": 29912,
+  "categories": "Beauty & Health, Mom & Kids",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/jumpyjellybean-bath-bomb/register",
+  "offer_status": 2,
+  "name": "JumpyJellybean Bath Bomb",
+  "website": "https://jumpyjellybeanbathbombs.com",
+  "hashtags": [
+    "#bath",
+    "#bathbombs",
+    "#smallbusiness",
+    "#soapbusiness",
+    "#bathfizzies",
+    "#bathfizzy",
+    "#soap",
+    "#bathbombbbusiness",
+    "#womanownedbusiness",
+    "#handcrafted",
+    "#veganfriendly",
+    "#kidfriendly",
+    "#familyfriendly",
+    "#birthdaygift",
+    "#mothersdaygift",
+    "#gift",
+    "#giftideas"
+  ],
+  "shop_id": 108444,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.42,
+  "program_id": 123133,
+  "myshopify_domain": "jumpyjellybean-bath-bomb.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "63.46%",
+  "mkp_program_id": 123133,
+  "product_list": []
+}

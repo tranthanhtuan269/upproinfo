@@ -1,0 +1,180 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1681803609_5096514_3299caebc549f23e43dcfb6138bc985eblue_balance_Logo.jpg",
+  "description": "<p style=\"box-sizing: border-box; padding: 0px; margin: 0px 0px 14px; color: rgb(15, 17, 17); font-family: 'Amazon Ember', Arial, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);\">Unsere Mission: Menschen sollen Ihre Gesundheit und Ihr Wohlbefinden in die eigene Hand nehmen k&ouml;nnen. Sie sollen die M&ouml;glichkeit haben, gesund zu leben und vorzubeugen - und nicht erst handeln k&ouml;nnen, wenn Sie wegen Krankheiten einen Arzt aufsuchen m&uuml;ssen.</p>\r\n<p style=\"box-sizing: border-box; padding: 0px; margin: -4px 0px 0px; color: rgb(15, 17, 17); font-family: 'Amazon Ember', Arial, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);\">Finden Sie mit uns heraus, was Ihr K&ouml;rper braucht und was ihm schadet, was er am besten vertr&auml;gt und was &uuml;berhaupt nicht.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.5,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 22843,
+  "categories": "Beauty & Health, Grocery & Food, Others",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Germany"
+  ],
+  "payment_support": [],
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/eth-meditec/register",
+  "offer_status": 2,
+  "name": "ETH Meditec",
+  "website": "https://eth-meditec.shop",
+  "hashtags": [
+    "#bluebalance",
+    " #selbsttestfuerzuhause",
+    "#gesundheitstest",
+    "#gesundleben",
+    " #vitamindtesten",
+    "#",
+    "#vitaminetesten",
+    " #Mineralstoffetesten",
+    " #zuhausetest",
+    " #gesundheitfuerzuhause",
+    " #vitamindtest",
+    " #ferritintest",
+    " #mineralstofftest",
+    " #vitaminb12test",
+    " #bluttest",
+    "#schilddrüsentest",
+    " #tshtest"
+  ],
+  "shop_id": 96040,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1400000000000001,
+  "program_id": 109523,
+  "myshopify_domain": "is-testshop.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 87.13,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "48.39%",
+  "mkp_program_id": 109523,
+  "product_list": []
+}

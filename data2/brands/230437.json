@@ -1,0 +1,165 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family: Poppins;\"><div><div class=\"relative flex-col gap-1 md:gap-3\" id=\"isPasted\"><div class=\"flex max-w-full flex-col grow\"><div data-message-author-role=\"assistant\" data-message-id=\"cc2c3aeb-c76e-4eb7-a59d-ecb3e25a26ab\" dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-5\" data-message-model-slug=\"gpt-4o\"><div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\"><div class=\"markdown prose dark:prose-invert w-full break-words dark\"><h3 data-start=\"106\" data-end=\"137\">Our brand:</h3><p data-start=\"138\" data-end=\"323\"><span style=\"color: rgb(0, 0, 0);\"><a href=\"https://alpine-footwear.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Alpine Footwear</strong></a></span><span style=\"color: rgb(0, 0, 0);\">&nbsp;</span>is a comfort-first D2C footwear brand built for everyday life. We design slippers that feel like walking on clouds — simple, stylish, and made to be worn all day, anywhere.</p><hr data-start=\"325\" data-end=\"328\"><h3 data-start=\"330\" data-end=\"362\"><strong data-start=\"336\" data-end=\"360\">&nbsp;Our Product:</strong></h3><p data-start=\"363\" data-end=\"582\"><strong data-start=\"80\" data-end=\"99\" id=\"isPasted\">Alpine Footwear</strong> is built for everyday explorers. Our shoes combine durable materials, lightweight comfort, and modern design — making them perfect for both outdoor adventures and daily wear. Whether it’s city streets or nature trails, Alpine Footwear keeps you moving with style and confidence.</p><hr data-start=\"584\" data-end=\"587\"><h3 data-start=\"589\" data-end=\"628\">• <strong data-start=\"595\" data-end=\"626\">USP:</strong></h3><ul data-start=\"629\" data-end=\"843\"><li data-start=\"629\" data-end=\"657\"><p data-start=\"631\" data-end=\"657\"><strong>$55+</strong> average order value</p></li><li><p data-start=\"375\" data-end=\"452\" id=\"isPasted\"><strong data-start=\"375\" data-end=\"393\">15-25% commission</strong> and high-converting product loved by audiences worldwide</p></li><li data-start=\"126\" data-end=\"187\" id=\"isPasted\"><p data-start=\"128\" data-end=\"187\"><strong data-start=\"128\" data-end=\"157\">Globally&nbsp;</strong>recognized brand with strong market presence</p></li><li data-start=\"188\" data-end=\"240\"><p data-start=\"190\" data-end=\"240\">Over<strong data-start=\"190\" data-end=\"226\">&nbsp;<u>500,000</u>&nbsp;</strong>satisfied customers and growing</p></li><li data-start=\"241\" data-end=\"299\"><p data-start=\"243\" data-end=\"299\"><strong data-start=\"243\" data-end=\"277\">5+ years&nbsp;</strong>of proven performance in comfort footwear</p></li><li data-start=\"300\" data-end=\"372\"><p data-start=\"302\" data-end=\"372\">Exceptionally <strong data-start=\"316\" data-end=\"339\">loyal customer base</strong> with high repeat purchase rate</p></li><li data-start=\"490\" data-end=\"569\" id=\"isPasted\"><p data-start=\"492\" data-end=\"569\"><strong data-start=\"492\" data-end=\"518\">Exclusive coupon codes</strong> provided to affiliates to help boost conversions</p></li><li data-start=\"570\" data-end=\"646\"><p data-start=\"572\" data-end=\"646\"><strong data-start=\"572\" data-end=\"617\">Ongoing promotions and seasonal discounts</strong> to support affiliate sales</p></li></ul><hr data-start=\"845\" data-end=\"848\"><h3 data-start=\"850\" data-end=\"876\">• <strong data-start=\"856\" data-end=\"874\">Payment terms:</strong></h3><ul data-start=\"877\" data-end=\"1010\"><li data-start=\"877\" data-end=\"904\"><p data-start=\"879\" data-end=\"904\"><strong>15% commission</strong> per sale</p></li><li data-start=\"905\" data-end=\"931\"><p data-start=\"907\" data-end=\"931\"><strong>30-day cookie</strong> duration</p></li><li data-start=\"932\" data-end=\"979\"><p data-start=\"934\" data-end=\"979\"><strong>Monthly payouts</strong> via PayPal or other methods</p></li><li data-start=\"980\" data-end=\"1010\"><p data-start=\"982\" data-end=\"1010\">$20 minimum payout threshold</p></li></ul><hr data-start=\"1012\" data-end=\"1015\"><h3 data-start=\"1017\" data-end=\"1047\">• <strong data-start=\"1023\" data-end=\"1045\">Other information:</strong></h3><p data-start=\"1048\" data-end=\"1268\">We support our affiliates with fast communication, branded assets, and product samples for selected partners. If you're looking to promote a high-converting product with mass appeal, Alpine Footwear is a solid step forward.</p><p data-start=\"1275\" data-end=\"1387\" data-is-last-node=\"\" data-is-only-node=\"\" style=\"text-align: center;\"><a href=\"https://af.uppromote.com/cloud-bare-foot/register\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>JOIN ALPINE FOOTWEAR</strong></a></p></div></div></div></div><div class=\"mt-3 w-full empty:hidden\"><br></div></div></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "30 days",
+  "recommend_score": 2.04,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36536,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "adult_pornographic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada",
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/cloud-bare-foot/register",
+  "offer_status": 2,
+  "name": "Alpine Footwear",
+  "website": "https://alpine-footwear.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 230437,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.67,
+  "program_id": 268077,
+  "myshopify_domain": "cloud-bare-foot.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 66.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "36.67%",
+  "mkp_program_id": 268077,
+  "product_list": []
+}

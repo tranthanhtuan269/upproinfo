@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1723750645_2964766_47a92f5f491e7e8565d4592cce43809b.png",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: Spazazz \"The Original Aromatherapy Spa Experience<br>&bull; Product description: <span>SPAZAZZ all natural aromatherapy crystals and elixirs bring the healing properties of dead sea salts and minerals to your home spa or bath, helping you to feel healthier inside and out.</span><br>&bull; USP (Unique Selling Point): <span>SPAZAZZ utilizes a proprietary blend of all natural minerals, vitamins, and extracts to provide the most nourishing spa and bath experience. We select the highest grade of salts containing 10x more minerals than any other minerals providing necessary assistance in cleansing, detoxing, and restoring your skin and muscles. SPAZAZZ uses a pure mineral compound of magnesium sulfate to our exclusive premium blend ensuring ease of absorption for common ailments. We are also formulated for the spa/hot tub.&nbsp;</span><br>&bull; Payment terms: pay pal, venmo<br>&bull; Other information:</p>\r\n</div>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 3.06,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 31704,
+  "categories": "Garden & Outdoors, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Etsy"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States Minor Outlying Islands",
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/spazazz/register",
+  "offer_status": 2,
+  "name": "Spazazz",
+  "website": "https://www.spazazz.com",
+  "hashtags": [
+    "#saltscrub",
+    "#bathsalt",
+    "#recovery",
+    "#magnesium",
+    "#spasafe",
+    "#oilfree",
+    "#detox",
+    "#postworkout",
+    "#workout",
+    "#spazazz",
+    "#relaxation",
+    "#skinmoisturizing",
+    "#hemp"
+  ],
+  "shop_id": 162509,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.11,
+  "program_id": 184876,
+  "myshopify_domain": "spazazz.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 90,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "28.95%",
+  "mkp_program_id": 184876,
+  "product_list": []
+}

@@ -1,0 +1,204 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1776215674_965943_df701c75873fb44bbf492b8148b992ad.png",
+  "description": "<div style=\"font-family:Poppins;\"><p><strong>Headline: High-Ticket Opportunity: Earn $110 - $300+ Per Sale with LITA Artificial Grass!</strong></p><p><strong>LITA Artificial Grass</strong> is a market leader in premium, ultra-realistic, and eco-friendly turf solutions. As outdoor living spaces become the #1 home improvement trend in 2026, we offer you a chance to monetize this high-demand niche with a trusted brand. Our turf is 100% pet-friendly, child-safe, and designed for easy DIY installation.</p><p><strong>💰 Why Top Affiliates Choose LITA:</strong></p><ul><li><p><strong>Massive Payouts:</strong> With an <strong>Average Order Value (AOV) of $1,000+</strong>, you earn a generous <strong>11% commission</strong> on every sale. That’s a minimum of <strong>$110 per referral</strong>, with many orders exceeding $3,000!</p></li><li><p><strong>Long 30-Day Cookie Window:</strong> We give your audience time to decide. If they click your link today and buy within a month, you get the credit.</p></li><li><p><strong>High-Converting Marketing Kit:</strong> Access our library of professional \"Before &amp; After\" photos, 4K installation videos, and lifestyle banners that look stunning on Instagram, TikTok, and blogs.</p></li><li><p><strong>Dedicated Partner Support:</strong> You’re not just a number. We provide a dedicated affiliate manager to help you optimize your campaigns for maximum ROI.</p></li></ul><p><strong>🌿 Perfect For:</strong>Home Renovation Experts, DIY Enthusiasts, Pet Influencers, Gardening Bloggers, and Landscape Designers.</p><p><strong>Ready to grow your passive income?</strong> Join the LITA partner family today and start turning your content into high-ticket commissions!</p></div>",
+  "payout_rate": "0%",
+  "payout_period": "Net 30. Commissions are approved after the 30-day return window and paid out on the 1st or 15th of each month.",
+  "recommend_score": 2.07,
+  "average_earning_per_sale": null,
+  "video_url": "https://www.youtube.com/@litaartificialgrass",
+  "mkp_listing_id": 39118,
+  "categories": "Home & Garden",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "11% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 7,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "content_creators_influencers",
+    "social_messenger_app"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/litagrass/register",
+  "offer_status": 2,
+  "name": "LITA",
+  "website": "https://litagrass.com",
+  "hashtags": [
+    "#backyardmakeover",
+    "#artificialgrass",
+    "#homedecor",
+    "#petfriendly",
+    "#diyhome",
+    "#landscaping"
+  ],
+  "shop_id": 264303,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.7,
+  "program_id": 312011,
+  "myshopify_domain": "bb21af.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 2,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "69de1e5d1103b2247604e432",
+      "name": "LITA-10-OFF-Auto",
+      "program_id": 312011,
+      "shop_id": 264303,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": false,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": null,
+      "created_at": "2026-04-14T11:00:45.887000Z",
+      "updated_at": "2026-07-16T02:04:55.034000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 622.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "96.55%",
+  "mkp_program_id": 312011,
+  "product_list": []
+}

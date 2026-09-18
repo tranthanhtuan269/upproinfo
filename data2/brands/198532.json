@@ -1,0 +1,216 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1741207843_7273327_37019c17d833e789fa59f2023d8e9054.png",
+  "description": "<p>Brand Introduction:</p>\r\n<p>Icon is your go-to source for exclusive deals, offering an extensive range of products across multiple categories. Through its innovative affiliate and reward system, it aims to bring amazing offers to customers while allowing affiliates and influencers to earn through their referrals.</p>\r\n<p><br></p>\r\n<p>Product Description:</p>\r\n<p>Icon provides a platform that allows users to shop across various retailers, offering curated discounts, exclusive deals, and an affiliate program that rewards influencers and customers alike.</p>\r\n<p><br></p>\r\n<p>Unique Selling Point (USP):</p>\r\n<p>Icon Ambassador's align with Icon seamless integration of affiliate marketing and discounts, empowering affiliates to earn while providing shoppers with an easy, rewarding shopping experience.</p>\r\n<p><br></p>\r\n<p>Payment Terms:</p>\r\n<p>Affiliates earn commissions based on sales generated through their referral links. Commission rates vary based on the product and promotional offers, with payment processed monthly once a payment method is provided.</p>\r\n<p><br></p>\r\n<p>Other Information:</p>\r\n<p>&bull; Full tracking and analytics for affiliates.</p>\r\n<p>&bull; Multi-level marketing structure (MLM) available for deeper commissions.</p>\r\n<p>&bull; Influencer-friendly, with tools for easy content creation and tracking.</p>\r\n<p>&bull; Regular updates and new product launches to keep engagement high.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "100",
+  "video_url": "https://icon.me/?utm=velyriaventures%40gmail.com",
+  "mkp_listing_id": 34783,
+  "categories": "Fashion, Books",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Italy",
+    "Germany",
+    "France",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/vvbkzm-xm/register",
+  "offer_status": 2,
+  "name": "Upper Level Aesthetics",
+  "website": "https://vvbkzm-xm.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 198532,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.37,
+  "program_id": 227018,
+  "myshopify_domain": "vvbkzm-xm.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24dad5d235d1f70011544",
+      "name": "Auto-discount rule",
+      "program_id": 227018,
+      "shop_id": 198532,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:35:09",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 227018,
+  "product_list": []
+}

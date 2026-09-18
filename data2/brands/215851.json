@@ -1,0 +1,164 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1753145654_637414_4d9be8285e317b2289e7ef68ae415ad5.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p data-start=\"315\" data-end=\"545\" id=\"isPasted\">Mrs. Toddy’s Tonic is an Australian brand making sparkling tonics that bring the flavour, the fizz, and the feel-good. Inspired by island energy and made to stand out, we’re here to make wellness more fun.</p><hr data-start=\"547\" data-end=\"550\"><p data-start=\"552\" data-end=\"757\"><strong data-start=\"552\" data-end=\"575\">Product description</strong><br data-start=\"575\" data-end=\"578\">We make sparkling, non-alcoholic tonics crafted with real fruit extracts and natural botanicals. Refreshing, flavour-forward, and made to look great in your hand and on your feed.</p><hr data-start=\"759\" data-end=\"762\"><p data-start=\"764\" data-end=\"948\"><strong data-start=\"764\" data-end=\"794\">USP (Unique Selling Point)</strong><br data-start=\"794\" data-end=\"797\">Stylish branding, bold flavours, and a strong visual presence. A premium, non-alcoholic option that doesn’t compromise on taste, vibe, or shelf appeal.</p><hr data-start=\"950\" data-end=\"953\"><p data-start=\"955\" data-end=\"1079\"><strong data-start=\"955\" data-end=\"972\">Payment terms</strong><br data-start=\"972\" data-end=\"975\">15% commission on all referred sales. 30-day cookie window. No minimum payout. Fast, automatic payments.</p><hr data-start=\"1081\" data-end=\"1084\"><p data-start=\"1086\" data-end=\"1288\"><strong data-start=\"1086\" data-end=\"1107\">Other information</strong><br data-start=\"1107\" data-end=\"1110\">Great fit for lifestyle creators, wellness influencers, and anyone with good taste. We provide branded assets, promo codes, and easy setup so you can start earning straight away.</p><hr data-start=\"1290\" data-end=\"1293\"><p data-start=\"1295\" data-end=\"1419\" data-is-last-node=\"\" data-is-only-node=\"\">Let me know if you want a punchy <strong data-start=\"1328\" data-end=\"1345\">program title</strong> to go with it (e.g. “Sip &amp; Earn with Mrs. Toddy’s”) — I can add that too.</p></div></div>",
+  "payout_rate": "66.67%",
+  "payout_period": null,
+  "recommend_score": 1.32,
+  "average_earning_per_sale": "9.00",
+  "video_url": "https://www.instagram.com/p/DHSe6nUOsX8/",
+  "mkp_listing_id": 35941,
+  "categories": "Grocery & Food",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1751177346_1090509_60443c53073a95e57957e039887fe64c.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Facebook",
+    "Twitch"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "New Zealand"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/mrstoddys/register",
+  "offer_status": 2,
+  "name": "Mrs Toddy's Tonic",
+  "website": "https://mrstoddystonic.com",
+  "hashtags": [
+    "#functionalsodas",
+    "#healthydrinks",
+    "#nonalcoholic",
+    "#lifestyledrinks"
+  ],
+  "shop_id": 215851,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.12,
+  "program_id": 249440,
+  "myshopify_domain": "mrstoddys.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 68.89,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "97.44%",
+  "mkp_program_id": 249440,
+  "product_list": []
+}

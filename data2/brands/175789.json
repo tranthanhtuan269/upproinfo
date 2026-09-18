@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1731710931_5580_24e8f235e6e6db53b7535c0a4016197b.png",
+  "description": "<p><strong>Brand Introduction:</strong></p>\r\n<p>ViaPhyto is a Colorado-based company specializing in premium cannabinoid solutions, with a focus on high-quality CBG (cannabigerol) products. Our mission is to harness the natural benefits of cannabinoids to promote overall well-being. We are committed to quality, transparency, and customer satisfaction.</p>\r\n<p><strong>Product Description:</strong></p>\r\n<p>Our product line includes:</p>\r\n<ul>\r\n<li>\r\n<p><strong>Full Spectrum CBG Oil:</strong> A blend of cannabinoids, including CBG, CBD, CBGa, CBN, &Delta;9THC, CBC, and CBDa, designed to support the endocannabinoid system and promote balance.</p>\r\n</li>\r\n<li>\r\n<p><strong>CBG for Pets:</strong> Specially formulated to provide the benefits of cannabinoids to pets, supporting their health and vitality.</p>\r\n</li>\r\n</ul>\r\n<p><strong>Unique Selling Point (USP):</strong></p>\r\n<p>ViaPhyto's products are crafted using full-spectrum formulations that leverage the entourage effect, enhancing the efficacy of cannabinoids. We prioritize transparency by providing lab results for all products, ensuring purity and potency. Our commitment to quality is reflected in our use of organically grown hemp and adherence to rigorous manufacturing standards.</p>\r\n<p><strong>Affiliate Program Details:</strong></p>\r\n<p>We offer a competitive affiliate program with a 20% commission on sales. Affiliates gain access to marketing materials, dedicated support, and the opportunity to promote products that prioritize natural wellness.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.1,
+  "average_earning_per_sale": "15",
+  "video_url": null,
+  "mkp_listing_id": 33207,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/viaphyto/register",
+  "offer_status": 2,
+  "name": "ViaPhyto",
+  "website": "https://viaphyto.com",
+  "hashtags": [
+    "#CBD"
+  ],
+  "shop_id": 175789,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.85,
+  "program_id": 200210,
+  "myshopify_domain": "c6298f-b9.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "16.67%",
+  "mkp_program_id": 200210,
+  "product_list": []
+}

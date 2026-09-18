@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1754935018_7674121_d563720d2eb6018d7fb30f0d7b2f75e3.png",
+  "description": "<div style=\"font-family:Poppins;\"><p dir=\"ltr\"><strong>Ebbrox Ambassador Programme</strong></p><p dir=\"ltr\">Ebbrox makes saltwater fishing gear — lures, rods, bags and apparel — built and tested on the South Devon coast. We're building a crew of anglers who fish hard, post honestly, and get rewarded for bringing others into the brand.</p><p dir=\"ltr\"><strong>Tier 1 — Start earning from day one</strong></p><p dir=\"ltr\">Sign up and you're in — no waiting, no application queue. Grab your unique link, share your fishing, and start earning:</p><ul dir=\"ltr\"><li><strong>5%</strong> commission on every referred sale, from your first sign-up</li><li>Automatically rises to <strong>8%</strong> as your referred sales grow</li><li>Automatically rises to <strong>10%</strong> once you're consistently driving sales our way</li></ul><p dir=\"ltr\">No re-applying, no asking — the system tracks your sales and moves you up the ladder itself.</p><p dir=\"ltr\"><strong>Rise through the ranks:</strong></p><p dir=\"ltr\">Keep performing and you're automatically promoted into our next tier, which unlocks a 20%-off code to share with your own community, ongoing commission on every repeat customer you bring back, and a welcome parcel of free gear on us. You're not applying for it — you earn your way in.</p><p dir=\"ltr\"><strong>Got a large YouTube following in fishing or adventure?</strong></p><p dir=\"ltr\">If you're running an established channel in this space, don't go through the standard sign-up — get in touch with us directly via ebbrox.com or our social channels. We run a separate content partnership for creators at that level, including a paid retainer on top of commission.</p></div>",
+  "payout_rate": "50.24%",
+  "payout_period": "30 DaysUni",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 40737,
+  "categories": "Sports & Entertainment",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "social_media_ads",
+    "search_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ebbrox/register",
+  "offer_status": 2,
+  "name": "Ebbrox",
+  "website": "https://ebbrox.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 96735,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 343590,
+  "myshopify_domain": "lazylures.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 44.39,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 343590,
+  "product_list": []
+}

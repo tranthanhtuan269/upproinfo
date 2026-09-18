@@ -1,0 +1,183 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/4d57bb65b69424671d522d15312f9b7b.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Kratomherbs.com is one of the very first Kratom Vendors on the internet and have been providing only the very best quality products and service since 2006.&nbsp;</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Kratom is an amazing natural herb that aids in all kinds of ailments from pain to mental focus. Kratom has become very popular and has created a multi million dollar industry as a result.&nbsp;&nbsp;</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Our affiliate program is the number one highest paying program in the industry in two ways. Some vendors offer high commisions for only 30 days while others extend to 90 days. We Offer Very high 40% on the first order but then continue to pay 10% for a full year.&nbsp;&nbsp;</span><br><br></p>\r\n<p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">Welcome to the highest paying kratom affiliate program with the longest cookie duration in the industry 365 days.&nbsp;</span></p>\r\n<p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">You will earn 40% commission on new customer orders and 10% on subsequent orders for a full year when a customer makes a purchase through your affiliate link or uses your coupon code.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><br><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">We payout every 30 days as long as the accrud amount is greater than $100</span><br><br></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 3.98,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 22731,
+  "categories": "Beauty & Health, Sports & Entertainment, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/kratomherbs/register",
+  "offer_status": 2,
+  "name": "Kratom Herbs",
+  "website": "https://kratomherbs.com",
+  "hashtags": [
+    "#kratom",
+    "#herbalpain",
+    "#natural",
+    " #naturalpainrelief",
+    "#buykratom"
+  ],
+  "shop_id": 95413,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.67,
+  "program_id": 108876,
+  "myshopify_domain": "kratomherbs.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 689.3,
+  "new_customer_commission": "40% per order",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "95.38%",
+  "mkp_program_id": 108876,
+  "product_list": []
+}

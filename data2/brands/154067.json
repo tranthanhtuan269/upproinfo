@@ -1,0 +1,183 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1718591046_5578738_a50bb5a63c12e015e0f9ec469febb7a3.jpeg",
+  "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-tgyrx-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-tgyrx-1n7m0yu\">\r\n<div class=\"flex flex-col text-sm\">\r\n<div class=\"w-full text-token-text-primary\" dir=\"auto\" data-testid=\"conversation-turn-3\" data-scroll-anchor=\"true\">\r\n<div class=\"py-2 juice:py-[18px] px-3 text-base md:px-4 m-auto md:px-5 lg:px-1 xl:px-5\">\r\n<div class=\"mx-auto flex flex-1 gap-3 text-base juice:gap-4 juice:md:gap-5 juice:lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem]\">\r\n<div class=\"group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div data-message-author-role=\"assistant\" data-message-id=\"a9283ab7-280d-4ca2-a14f-4112213cfc3f\" dir=\"auto\" class=\"min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-3\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n<p>Help build our online store offering a diverse array of home improvement essentials, electronic accessories, and stylish clothing. Explore quality products tailored to elevate your lifestyle, from cutting-edge gadgets to chic apparel and everything in between. Shop conveniently and transform your space with our curated selection, designed to meet your every need.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"mt-1 flex gap-3 empty:hidden juice:-ml-3\">\r\n<div class=\"-ml-1 mt-0 flex h-7 items-center justify-center gap-[2px] self-end text-gray-400 lg:justify-start lg:self-center visible\"><span class=\"\" data-state=\"closed\"><button class=\"rounded-md p-1 text-token-text-tertiary hover:text-token-text-primary\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"icon-md-heavy\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M7 5a3 3 0 0 1 3-3h9a3 3 0 0 1 3 3v9a3 3 0 0 1-3 3h-2v2a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3v-9a3 3 0 0 1 3-3h2zm2 2h5a3 3 0 0 1 3 3v5h2a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1h-9a1 1 0 0 0-1 1zM5 9a1 1 0 0 0-1 1v9a1 1 0 0 0 1 1h9a1 1 0 0 0 1-1v-9a1 1 0 0 0-1-1z\" clip-rule=\"evenodd\"></path></svg></button></span></div>\r\n</div>\r\n<div class=\"pr-2 lg:pr-0\"></div>\r\n<div class=\"mt-3 w-full empty:hidden\">\r\n<div class=\"text-center\"></div>\r\n</div>\r\n</div>\r\n<div class=\"absolute\">\r\n<div class=\"flex items-center justify-center\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"icon-md\"><path fill=\"currentColor\" d=\"M7.5 13.25c.487 0 .95-.1 1.372-.28-.41 1.078-1.247 2.61-2.514 2.79a1 1 0 0 0 .283 1.98c2.553-.365 4.085-3.269 4.528-5.55.243-1.248.217-2.609-.32-3.743-.607-1.282-1.926-2.203-3.364-2.197a3.5 3.5 0 0 0 .015 7M16.18 13.25c.487 0 .95-.1 1.372-.28-.41 1.078-1.247 2.61-2.513 2.79a1 1 0 0 0 .282 1.98c2.553-.365 4.085-3.269 4.528-5.55.243-1.248.217-2.609-.32-3.743-.607-1.282-1.926-2.203-3.364-2.197a3.5 3.5 0 0 0 .015 7\"></path></svg></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"w-full md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)] juice:w-full\">\r\n<div class=\"px-3 text-base md:px-4 m-auto md:px-5 lg:px-1 xl:px-5\">\r\n<div class=\"mx-auto flex flex-1 gap-3 text-base juice:gap-4 juice:md:gap-5 juice:lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem]\"><form class=\"w-full\">\r\n<div class=\"relative flex h-full max-w-full flex-1 flex-col\">\r\n<div class=\"absolute bottom-full left-0 right-0 z-20\">\r\n<div class=\"relative h-full w-full\">\r\n<div class=\"flex flex-col gap-3.5 pb-3.5 pt-2\">\r\n<div class=\"text-sm rounded-xl p-4 text-token-text-secondary flex items-center gap-3 fruit:rounded-2xl border border-token-border-light bg-token-main-surface-primary\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</form></div>\r\n</div>\r\n</div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30661,
+  "categories": "Home & Tools, Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1718592991_681141_a585ba887c25ef541fef9e8058695ab5.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "50% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Podcast platforms",
+    "Content or Niche website"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/f4b9d6-19/register",
+  "offer_status": 2,
+  "name": "BeerisStøck",
+  "website": "https://f4b9d6-19.myshopify.com",
+  "hashtags": [
+    "#smart",
+    "#automatic",
+    "#electronic",
+    "#home",
+    "#hobby",
+    "#screen",
+    "#portable",
+    "#mini",
+    "#accessories",
+    "#mobile",
+    "#compact"
+  ],
+  "shop_id": 154067,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.97,
+  "program_id": 175186,
+  "myshopify_domain": "f4b9d6-19.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "18.18%",
+  "mkp_program_id": 175186,
+  "product_list": []
+}

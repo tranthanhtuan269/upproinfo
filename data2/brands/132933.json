@@ -1,0 +1,193 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1738008839_4542031_b90b76e6944b4f9db9e0dae207bb1bf3.jpg",
+  "description": "<p>&bull; <strong>Brand Introduction:</strong> Team Grow is dedicated to empowering at-home growers with the tools, knowledge, and products needed for successful and sustainable food production. Our brand combines a passion for gardening with innovative solutions, catering to both amateur and professional gardeners.</p>\r\n<p>&bull; <strong>Product Description:</strong> As an affiliate, you will promote a wide array of gardening products, including high-quality seeds, durable gardening tools, eco-friendly plant care products, and educational materials. Our products are designed to cater to the needs of a diverse gardening community, ensuring something for everyone.</p>\r\n<p>&bull; <strong>USP (Unique Selling Point):</strong> The standout feature of our affiliate program is the combination of a 6% commission rate with exclusive access to our latest gardening products and a supportive community. This unique blend offers affiliates not just an earning opportunity but also a chance to be at the forefront of gardening innovation and community engagement.</p>\r\n<p>&bull; <strong>Payment Terms:</strong> Affiliates earn a 6% commission on every sale generated through their unique referral link. Payments are made regularly, ensuring a steady income stream for our affiliates. Detailed terms and conditions are provided to ensure transparency and trust in our partnership.</p>\r\n<p>&bull; <strong>Other Information:</strong> Joining our affiliate program also means becoming part of an exclusive community where you can share insights, learn from fellow gardening enthusiasts, and have early access to new products and initiatives. We provide our affiliates with all necessary promotional materials and support to help them succeed in their affiliate journey. With Team Grow, you're not just promoting products; you're growing with a brand that values sustainability, education, and the joy of gardening.</p>",
+  "payout_rate": "80.8%",
+  "payout_period": null,
+  "recommend_score": 4.81,
+  "average_earning_per_sale": "15",
+  "video_url": "https://www.youtube.com/@jamesprigioni",
+  "mkp_listing_id": 29306,
+  "categories": "Garden & Outdoors",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "1%-4.50% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 10,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Content or Niche website",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "undefined",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/TeamGrow/register",
+  "offer_status": 2,
+  "name": "Team Grow",
+  "website": "https://teamgrow.us",
+  "hashtags": [
+    "#gardening",
+    "#outdoors",
+    "#food",
+    "#grow",
+    "#landscape"
+  ],
+  "shop_id": 132933,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "1",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "200",
+      "commission_val": "1.5",
+      "disabled": false
+    },
+    {
+      "key": 3,
+      "order_val": "500",
+      "commission_val": "3",
+      "disabled": false
+    },
+    {
+      "key": 4,
+      "order_val": "1000",
+      "commission_val": "4.5",
+      "disabled": false
+    }
+  ],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.7,
+  "program_id": 150412,
+  "myshopify_domain": "jamesprigioni.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 111,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "99.99%",
+  "mkp_program_id": 150412,
+  "product_list": []
+}

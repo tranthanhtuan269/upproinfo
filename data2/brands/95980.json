@@ -1,0 +1,212 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/22fce853efd6a7eeb086789f3d3fd37a.png",
+  "description": "<p>Discover the transformative power of nature with Trella, a visionary skin care brand committed to delivering pure, natural, and effective solutions for your skin. Embracing the essence of nature's bountiful offerings, Trella is a trailblazer in the realm of holistic beauty, offering a range of 100% natural skincare products that harmonize with your skin's innate needs.</p>\r\n<p>At Trella, we believe that the key to radiant and healthy skin lies in harnessing the potent treasures nature has bestowed upon us. With meticulous care and unwavering dedication, we have curated a collection of exceptional products that harness the power of botanicals, minerals, and other precious elements, delivering unparalleled results without compromising your skin's well-being.</p>\r\n<p>Our commitment to purity and sustainability sets us apart. Every Trella product is crafted with meticulously sourced natural ingredients, selected for their proven efficacy and nourishing properties. We carefully avoid synthetic additives, harmful chemicals, and artificial fragrances, allowing your skin to experience the true essence of nature's rejuvenating touch.</p>\r\n<p>Trella's devotion to sustainability extends beyond the ingredients themselves. We prioritize environmentally conscious practices throughout our production process, striving to minimize our ecological footprint. From responsibly sourcing ingredients to using eco-friendly packaging, we are dedicated to preserving the beauty of our planet while enhancing your own.</p>\r\n<p>With Trella, your skin care ritual becomes a sensory journey of indulgence. Each product is meticulously formulated to provide a luxurious and sensorial experience, pampering your skin while uplifting your senses. Our creations are crafted to address a wide range of skin concerns, whether you seek to restore radiance, rejuvenate tired skin, or simply maintain a healthy glow.</p>\r\n<p>Inspired by nature's ability to nurture and heal, Trella invites you to embark on a transformative skincare journey. Our commitment to authenticity, quality, and sustainability ensures that you can trust Trella as a brand that cares for both your skin and the world we inhabit. Rediscover your skin's innate radiance with Trella &ndash; where the power of nature meets the art of skincare.</p>\r\n<p>40% Off Your First Order</p>\r\n<p>25% Commission</p>\r\n<p>10% discount for followers<br><br></p>",
+  "payout_rate": "25%",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": "https://youtu.be/QNZBK3ugIZg",
+  "mkp_listing_id": 24883,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/trella-skin-care/register",
+  "offer_status": 2,
+  "name": "Trella Skin Care",
+  "website": "https://trytrella.com/products/seal-purify-bundle",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 95980,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 109445,
+  "myshopify_domain": "trella-skin-care.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24da25d235d1f7001024d",
+      "name": "Auto-discount rule",
+      "program_id": 109445,
+      "shop_id": 95980,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:34:58",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "United States"
+  ],
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 109445,
+  "product_list": []
+}

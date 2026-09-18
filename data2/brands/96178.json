@@ -1,0 +1,179 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/7a5b1909f79e1da0bb135766b1b67eee.png",
+  "description": "<p>Are you looking for a natural way to improve your health and add flavor to your meals? Look no further than Magik Spice Organic Ground Ginger! <span style=\"caret-color: rgb(35, 39, 54); color: rgb(35, 39, 54); font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 15px;\">NO CARCINOGENS &amp;&nbsp;</span><span style=\"caret-color: rgb(35, 39, 54); color: rgb(35, 39, 54); font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 15px;\">NO ADULTERANTS</span></p>\r\n<p><br>At Magik Spice, we're all about one thing - ginger, ginger, and more ginger! Our organic ginger ground is the highest quality you'll find, sourced from small-scale family owned farmer who are just as passionate about this versatile root as we are.</p>\r\n<p>&nbsp;</p>\r\n<p>We believe in the power of organic, sustainably grown ginger to add a little \"wow!\" to your meals. Whether you're using it to add zing to your stir-fries, kick to your smoothies, or warmth to your teas, our ginger is sure to satisfy.</p>\r\n<p>&nbsp;</p>\r\n<p>But our mission goes beyond just selling ginger - we're also committed to supporting our planet and local farmers. That's why we source our ginger from organic farmers who use sustainable growing practices, and support fair trade and ethical labor practices.</p>\r\n<p>&nbsp;</p>\r\n<p>So if you're ready to spice up your life with a little MAGIKal ginger, look no further than MAGIK Spice. We're passionate about our product and can't wait to share it with you!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 22909,
+  "categories": "Beauty & Health, Garden & Outdoors, Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "16.66% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Spain",
+    "Finland",
+    "United Kingdom",
+    "Israel",
+    "Mexico",
+    "Netherlands",
+    "Norway",
+    "Swaziland",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Magikspice/register",
+  "offer_status": 2,
+  "name": "MAGIK SPICE",
+  "website": "https://magikspice.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 96178,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 109668,
+  "myshopify_domain": "magic-spice-8770.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "66.67%",
+  "mkp_program_id": 109668,
+  "product_list": []
+}

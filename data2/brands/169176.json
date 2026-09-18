@@ -1,0 +1,158 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1727742612_9369578_af8526a269b8226d785004b2738cf801.png",
+  "description": "<p style=\"box-sizing: inherit; margin-top: 0px; color: rgba(46, 42, 57, 0.75); font-family: 'Harmonia Sans', sans-serif; font-size: 16px; white-space: normal;\">Hello,</p>\r\n<p style=\"box-sizing: inherit; color: rgba(46, 42, 57, 0.75); font-family: 'Harmonia Sans', sans-serif; font-size: 16px; white-space: normal;\">So glad you're here! A little bit about us, I live in a small town in the corner of AZ and I met my husband in 2002 when we were still in high school and we have been married for 19 years. We have 4 beautiful children who are all very active. This means we are all very active and constantly \"running\" all over the place. This requires us to be comfortable in our clothing. Well, I wanted to be able to do this and still look fashionable and not like I was constantly in pajamas. I refused to spend BIG money on the well known brands so in 2022 on the way home from a trip to CA, my 15 year old daughter and I talked about how great it would be if our little town could offer cost effective athleisure wear for every size woman. We had just been shopping at some of the VERY expensive stores. We only window shopped and didn't purchase any of the $120 leggings. We talked about it the entire trip home to AZ and usually if I get an idea in my head, I'm one to go for it! SO I did! I went all out and had a storefront opened within 3 months. The store did very well for some time and stayed open for nearly 2 years but due to the economy we have had to take the store entirely online. I am completely okay with this! I continue to be able to stay in touch with my regular customers and now friends through social media, drop offs, and pick ups. Being exclusively online has also given me the opportunity to branch out further and make new connections! I hope to be able to continue to offer affordable quality athleisurewear to everyone and to all sizes!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32431,
+  "categories": "Fashion, Jewelry & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/lounge/register",
+  "offer_status": 2,
+  "name": "Lounge",
+  "website": "https://loungeyuma.org",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 169176,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 192456,
+  "myshopify_domain": "ff7de9-4.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 192456,
+  "product_list": []
+}

@@ -1,0 +1,141 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1635443937_3567440_0dbe5f085055b84e81a69e9ec8846160.jpg",
+  "description": "<p><span style=\"caret-color: rgb(70, 70, 84); color: rgb(70, 70, 84); font-family: Montserrat, sans-serif; font-size: 25px; text-align: center; background-color: rgb(248, 248, 248);\">Bailout is serving up delicious daily nutritional fixes for people who want to do better, but can’t seem to strike any kind of balance. It’s a real-life solution that’s chock full of&nbsp;</span><span class=\"pantone375c\" style=\"color: rgb(151, 215, 0); font-family: Montserrat, sans-serif; font-size: 25px; text-align: center;\">100% organic,</span><span style=\"caret-color: rgb(70, 70, 84); color: rgb(70, 70, 84); font-family: Montserrat, sans-serif; font-size: 25px; text-align: center; background-color: rgb(248, 248, 248);\">&nbsp;totally proven ingredients that will whip your insides into shape.&nbsp;</span><span class=\"pantone178c\" style=\"color: rgb(255, 88, 93); font-family: Montserrat, sans-serif; font-size: 25px; text-align: center;\">nothing trendy,</span><span style=\"caret-color: rgb(70, 70, 84); color: rgb(70, 70, 84); font-family: Montserrat, sans-serif; font-size: 25px; text-align: center; background-color: rgb(248, 248, 248);\">&nbsp;pseudo-sciency, or fancy without function. Just clean, simple nourishment that lets bad behavior know who’s boss.</span><br></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 10080,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bailout-wellness/register",
+  "offer_status": 2,
+  "name": "Bailout Wellness",
+  "website": "https://bailoutwellness.com",
+  "hashtags": [],
+  "shop_id": 49570,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 55330,
+  "myshopify_domain": "bailout-wellness.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "78.57%",
+  "mkp_program_id": 55330,
+  "product_list": []
+}

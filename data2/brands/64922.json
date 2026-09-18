@@ -1,0 +1,149 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/e857890cbb2d883cfe248485279aec97.jpg",
+  "description": "<p><span style=\"color: rgb(17, 17, 17); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 16px; white-space: pre-line;\">Kitchen Fusions is a family owned &amp; operated seasoning &amp; dip producer. With us, you can share the freshest &amp; most delicious seasonings &amp; dips, straight from our production facility to their door. We have 3 unique brands targeted at distinct customer types to ensure everyone can get exactly what they want. From classic rubs to gourmet dipping spices, we have it all!\r\n\r\nInstant Gourmet - The everyday, every way seasonings! Made in America, for America, perfect for turning your next meal Instantly Gourmet. WOW’ing home cooks &amp; backyard BBQ’s for almost 40 years.\r\n\r\nFusion Flavors - Founded on the idea that exotic &amp; delicious flavors don’t need to be complicated, a collection of rubs &amp; dipping/spice packets designed to impress.\r\n\r\nJodie’s Kitchen - Healthy before healthy was cool, these herb blends bring life to a variety of dishes! Each bottle contains no more than 1 tbsp salt or sugar, &amp; many have no salt or sugar at all.\r\n\r\nSince we make our own products, we are flexible on most everything. Let us know what you need &amp; we will be happy to work with you.\r\n\r\nAll of our products are made in our 100% solar powered facility in Greater Tampa Bay.</span><br></p><p>                                                </p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.47,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 15219,
+  "categories": "Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1656349456_6629566_b6a56813bfbc513069c6346a68590a73.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "cheque": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/kitchenfusions/register",
+  "offer_status": 2,
+  "name": "Kitchen Fusions",
+  "website": "https://kitchenfusions.com",
+  "hashtags": [],
+  "shop_id": 64922,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.3900000000000001,
+  "program_id": 73679,
+  "myshopify_domain": "kitchenfusions.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 32.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "10.42%",
+  "mkp_program_id": 73679,
+  "product_list": []
+}

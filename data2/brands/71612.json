@@ -1,0 +1,150 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1663061183_5811651_c04de01e68e754af18c7a252d9055b5aMy project-1.jpg",
+  "description": "<p>Hello,&nbsp;</p><p>Earn 20% commission on every sale you make using your personalised link. We are looking for 3 stories and 1 reel a month featuring our products. All current products, and products from upcoming launches (est November &amp; December) will be gifted to you for free.</p><p><span style=\"font-size: var(--size-body);\">We are currently entering our peak season for sales where both our Planners and Journals are perfect for returning to school, post summer resets, people wanting to start their self - development &amp; self - love journeys, and christmas &amp; new year presents! Our books have extremely good feedback with 100s of 5* reviews, influencers using them &amp; our performance is 156% higher than last year.&nbsp;</span></p><p>Check out the website for information on what each book includes and the story behind why each book.&nbsp;</p><p>The aim of the brand is to show people that both mindset growth and self - development is possible, with consistency and knowledge of how to do so. Each book has information and examples so the buyer knows exactly how to use it. Self - development is huge at the moment as is the way forward, just as much as fitness, with people are beginning to realise that they can change their mindsets and become the best versions of themselves.&nbsp;</p><p>Please check out the background behind these books and I'm sure you will be able to relate in some way and realise that this brand is more than just a business; it is a journey. &lt;3&nbsp;</p><p><br></p><p>I look forward to welcoming you onto the team!&nbsp;</p>",
+  "payout_rate": "18.18%",
+  "payout_period": null,
+  "recommend_score": 0.85,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 17144,
+  "categories": "Books",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1663063103_1122421_e894f3a602c2df33c04651f056357a67.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/internal-glow-up/register",
+  "offer_status": 2,
+  "name": "internal.glow.up",
+  "website": "https://internalglowup.com",
+  "hashtags": [],
+  "shop_id": 71612,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.85,
+  "program_id": 81684,
+  "myshopify_domain": "internal-glow-up.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 19.53,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "43.86%",
+  "mkp_program_id": 81684,
+  "product_list": []
+}

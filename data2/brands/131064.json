@@ -1,0 +1,214 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1744481878_659265_7eba51581b979b9e16a0009ceba334c3.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: We are Super Suits, a leading brand in the activewear industry, specializing in high-performance compression wear. Our products are designed to support athletes, fitness enthusiasts, and anyone looking to enhance their workout experience. With a commitment to quality and innovation, we&rsquo;ve built a strong reputation for delivering activewear that combines style, comfort, and functionality.<br>&bull; Product description: Our product range includes compression shirts, tank tops, and shorts, all crafted with cutting-edge fabric technology. Our compression wear is designed to provide optimal muscle support, improve circulation, and reduce muscle fatigue, allowing you to push harder and recover faster. Each piece is engineered for a snug fit that enhances performance while offering maximum comfort and flexibility.<br>&bull; USP (Unique Selling Point): What sets us apart is our relentless focus on quality and innovation in compression wear. We blend performance-enhancing features with sleek, modern designs, ensuring that our products not only perform at the highest level but also look great. Our activewear is tested by athletes and loved by our growing community, making us a trusted choice in the market.<br>&bull; Payment terms: We offer competitive commission rates to our affiliates, ensuring that your efforts are well-rewarded. Payments are processed monthly, with no minimum payout threshold, and are made via PayPal or direct bank transfer, depending on your preference.<br>&bull; Other information: Join a community of over 2,000+ affiliates who are passionate about fitness and activewear and benefit from our growing Instagram presence, with over 100,000 followers, providing you with a platform to reach a broad and engaged audience. Finally, as a member of our affiliate program, you will receive exclusive access to new product launches, promotional materials, and special discounts.</p>",
+  "payout_rate": "9.73%",
+  "payout_period": null,
+  "recommend_score": 4.86,
+  "average_earning_per_sale": "10",
+  "video_url": null,
+  "mkp_listing_id": 31764,
+  "categories": "Sports & Entertainment, Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1744481816_3867115_c197ecd1625126d55ff00cc9fa5fd11f.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Italy",
+    "Spain",
+    "France",
+    "Germany",
+    "Canada",
+    "Australia",
+    "Mexico",
+    "Netherlands",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/supersuits/register",
+  "offer_status": 2,
+  "name": "SUPERSUITS",
+  "website": "https://supersuits.co",
+  "hashtags": [
+    "#gym",
+    "#gymwear",
+    "#gymbrand",
+    "#compressionshirt",
+    "#compressionshorts",
+    "#clothingbrand"
+  ],
+  "shop_id": 131064,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.57,
+  "program_id": 148328,
+  "myshopify_domain": "abea90.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24da45d235d1f70010718",
+      "name": "Auto-discount rule",
+      "program_id": 148328,
+      "shop_id": 131064,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:35:00",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 58.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "98.77%",
+  "mkp_program_id": 148328,
+  "product_list": []
+}

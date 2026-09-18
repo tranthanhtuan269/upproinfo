@@ -1,0 +1,142 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1624664813_4501375_9f7003dbce2d817ead4c247c13a7c5e5.PNG",
+  "description": "Dermo H2O hidratan las células de tu piel y restablece el pH normal del manto ácido que nos protege del medio externo. Dermo H2O es un producto innovador que previene las arrugas que normalmente se forman en una piel seca. Únete a nuestra red de afiliados y genera ingreso pasivo de manera digital.",
+  "payout_rate": "50%",
+  "payout_period": null,
+  "recommend_score": 1.43,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 7391,
+  "categories": "Beauty & Health",
+  "currency": "MXN",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 3650,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "<table class=\"MsoNormalTable\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"742\" style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); width: 10.3in; background-color: white; border: none;\"><tbody><tr><td style=\"border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-style: solid none solid solid; border-top-color: white; border-bottom-color: white; border-left-color: white; padding: 0in;\"></td><td style=\"border-top-width: 1pt; border-style: solid none; border-top-color: white; border-bottom-width: 1pt; border-bottom-color: white; padding: 0in;\"><p class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: Cambria;\"><b><span style=\"font-size: 11.5pt; font-family: Arial; color: rgb(240, 80, 0);\">Política de Privacidad<o:p></o:p></span></b></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: Cambria;\"><span style=\"font-size: 9pt; font-family: Arial;\">Respetamos tu privacidad. Cualquier información proporcionada y collecionada en este sitio permanecer</span><span lang=\"ES-TRAD\" style=\"font-size: 9pt; font-family: Arial;\">á estrictamente confidencial y no será vendida, a terceras personas o reusado sin tu permiso. Cualquier información que nos proporciones no será utilizada de ninguna manera que no nos lo autorice. <o:p></o:p></span></p></td><td style=\"border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; border-style: solid solid solid none; border-top-color: white; border-right-color: white; border-bottom-color: white; padding: 0in;\"></td></tr></tbody></table>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/dermo-h2o/register",
+  "offer_status": 2,
+  "name": "Dermo H2O",
+  "website": "https://www.dermoh2o.com",
+  "hashtags": [],
+  "shop_id": 13950,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.17,
+  "program_id": 15090,
+  "myshopify_domain": "dermo-h2o.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "89.29%",
+  "mkp_program_id": 15090,
+  "product_list": []
+}

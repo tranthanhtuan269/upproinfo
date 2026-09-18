@@ -1,0 +1,176 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/ee1e9756056de28860b58ca11c8b13d0.png",
+  "description": "<h3>Brand Introduction:</h3>\r\n<p>Welcome to JUGLANA, the ultimate destination for unique and detailed design elements. Discover our new collection of high-quality lamps for every occasion which are carefully crafted and picked to stand up with our standards!</p>\r\n<h3>Product Description:</h3>\r\n<p>Juglana&rsquo;s collection features an exquisite array of lamps and interior decor items, each crafted with precision and passion. Our products include handcrafted lamps made from sustainably sourced materials such as bamboo, reclaimed wood, and natural fibers. These pieces are not just lighting solutions; they are works of art that bring warmth, character, and a touch of nature into any room. From rustic chandeliers to minimalist table lamps, every Juglana creation is designed to be a focal point that enhances the aesthetic of your home while promoting a greener lifestyle.</p>\r\n<h3>Unique Selling Point (USP):</h3>\r\n<p>Juglana stands out in the market with its unwavering commitment to sustainability and unique design. Our USP lies in our dedication to using eco-friendly materials and traditional crafting techniques, ensuring that each piece is not only beautiful but also kind to the environment. Our products are more than just decor; they are statements of conscious living, making Juglana the go-to brand for those who seek to blend style with sustainability.</p>\r\n<h3>Payment Terms:</h3>\r\n<p>Our affiliate program offers competitive and flexible payment terms to ensure a smooth and rewarding partnership. Affiliates earn a generous commission on every sale referred, with payments processed monthly. We offer multiple payment options, including bank transfers and digital payment platforms, to accommodate your preferences. Additionally, our transparent tracking system ensures you can monitor your performance and earnings in real-time, making it easy to track your success.</p>\r\n<h3>Other Information:</h3>\r\n<p>As a Juglana affiliate, you will receive exclusive access to our marketing materials, product updates, and promotional campaigns to help you maximize your earnings. Our dedicated affiliate support team is always available to assist you with any questions or needs, ensuring a seamless experience. By partnering with Juglana, you not only earn commissions but also contribute to promoting sustainable living and supporting artisans who share our vision of a greener future. Join our affiliate program today and be a part of the Juglana family, where style meets sustainability.</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.28,
+  "average_earning_per_sale": "10",
+  "video_url": null,
+  "mkp_listing_id": 30380,
+  "categories": "Home & Tools",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1717056720_2955295_bfc58e2dcf20d151f86f073457864277.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Etsy",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website"
+  ],
+  "target_audience_ages": [
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Belgium",
+    "Denmark",
+    "France",
+    "Germany",
+    "Italy",
+    "Latvia",
+    "Netherlands",
+    "Portugal",
+    "Spain",
+    "Sweden",
+    "Switzerland"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/juglana/register",
+  "offer_status": 2,
+  "name": "JUGLANA",
+  "website": "https://juglana.de",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 94193,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.1400000000000001,
+  "program_id": 116425,
+  "myshopify_domain": "juglana.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [],
+  "avg_order_value": 131.64,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 116425,
+  "product_list": []
+}

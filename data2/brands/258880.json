@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1773446185_6883100_383fe31623913ea7f1fd81d8201f8793.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><div><p class=\"isSelectedEnd\">• <strong>About our brand and products:</strong><br>We’re an alternative fashion brand dedicated to the darker side of style. Our store features a curated collection of emo, goth, punk, and alternative clothing, accessories, and lifestyle items. From statement pieces and everyday streetwear to unique accessories that complete the look, our goal is to help people express themselves authentically through alternative fashion.</p><p class=\"isSelectedEnd\">• <strong>What makes us different:</strong><br>Unlike generic fashion retailers, we focus entirely on the alternative community. Our collections are curated with emo, goth, and alt aesthetics in mind, combining quality, individuality, and underground style. We prioritize unique designs, community-driven trends, and products that stand out from mainstream fashion.</p><p class=\"isSelectedEnd\">• <strong>How affiliates can earn:</strong><br>Affiliates earn commissions by sharing our products through their content, websites, or social platforms. Every time someone makes a purchase through your unique affiliate link, you receive a commission from that sale. The more traffic and conversions you generate, the more you can earn.</p><p class=\"isSelectedEnd\">• <strong>How to promote us:</strong><br>Affiliates can promote our brand through social media posts, TikTok videos, Instagram reels, YouTube content, blogs, fashion lookbooks, or niche communities focused on emo, goth, punk, or alternative culture. Sharing styling tips, outfit inspiration, reviews, or unboxings are great ways to introduce our products to your audience.</p><p>• <strong>Other information:</strong><br>We welcome creators, influencers, bloggers, and community members who love alternative fashion and want to share it with their audience. Our affiliate program is simple to join, easy to use, and designed to reward people who genuinely connect with the alt scene.</p></div></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "bi weekly 1st and 15th",
+  "recommend_score": 1.39,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38770,
+  "categories": "",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/Zondova/register",
+  "offer_status": 2,
+  "name": "Zondova",
+  "website": "https://www.zondova.store",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 258880,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.24,
+  "program_id": 303665,
+  "myshopify_domain": "fe0yfz-5z.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Enterprise",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "25%",
+  "mkp_program_id": 303665,
+  "product_list": []
+}

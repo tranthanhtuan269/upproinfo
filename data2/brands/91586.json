@@ -1,0 +1,190 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1730211275_128933_eaff9250e9f574733504a6783922a10a.png",
+  "description": "<p><strong>MaveMall</strong> is a trendy and fashionable phone case and accessories online store. MaveMall was created with the intention of finding a daily use product that fits all types of personalities and aesthetics.</p>\r\n<div>\r\n<div>\r\n<p>Not only are our products are stylish and innovative, but they are also made with high-quality materials to ensure durability and protection for everyday use. As a MaveMall affiliate, you'll have the opportunity to earn commission on every sale that you refer to our website. Plus, with our easy-to-use affiliate dashboard and top-notch marketing resources, it's never been easier to promote our products and earn a steady stream of income.</p>\r\n<p>Join the MaveMall affiliates team today and start earning commission on the coolest phone cases on the market. Don't miss out on this amazing opportunity to partner with a forward-thinking company and make a real impact in the industry.</p>\r\n</div>\r\n</div>\r\n<p>Reach out to info@themavemall.com for more info.</p>",
+  "payout_rate": "66.18%",
+  "payout_period": null,
+  "recommend_score": 2.78,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 21976,
+  "categories": "Computers & Office, Phone & Telecommunication, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 15,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United Arab Emirates",
+    "Australia",
+    "Canada",
+    "Switzerland",
+    "United Kingdom",
+    "Netherlands",
+    "New Zealand",
+    "Qatar",
+    "Saudi Arabia",
+    "United States"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/mavemall/register",
+  "offer_status": 2,
+  "name": "Mave",
+  "website": "https://themavemall.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 91586,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.36,
+  "program_id": 104525,
+  "myshopify_domain": "mavemall.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 138.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "40.28%",
+  "mkp_program_id": 104525,
+  "product_list": []
+}

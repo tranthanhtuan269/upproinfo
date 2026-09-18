@@ -1,0 +1,193 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1615260613_7293348_161d488cb6927e4bf399490cf2d23821.jpg",
+  "description": "<div style=\"font-family: Poppins;\"><div><p style=\"text-align:left;font-size: 14px;font-weight: normal;\">• About our brand and products: At Cotton and Crate we are a mother daughter team that just wants to make your home cozy for every season we offer pillow inserts, covers, garden flags, and even some laundry/ toy bins&nbsp;<br>• What makes us different: At Cotton and Crate we believe in decluttering your home with the interchangeable pillow covers we offer for all different seasons and occasions. One pillow many different vibes and looks. &nbsp;<br>• How affiliates can earn: Affiliates earn commissions on every sale made through their unique referral link.&nbsp;<br>• How to promote us: Share Cotton &amp; Crate through authentic storytelling — styled photos, home tours, social media posts, or blog features that highlight comfort, craftsmanship, and cozy living. Our main goal is educating customers on why pillow covers less clutter more style!<br>• Other information: We’re more than a brand — we’re a community that values connection, creativity, and the joy of home. Join us and grow with a brand built on warmth and intention.</p></div></div>",
+  "payout_rate": "0%",
+  "payout_period": "Payment will be the 1st of every month.",
+  "recommend_score": 1.96,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36792,
+  "categories": "Garden & Outdoors, Home & Tools, Furniture",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "venmo": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/cotton-and-crate/register",
+  "offer_status": 2,
+  "name": "Cotton and Crate",
+  "website": "https://www.cottonandcrate.com",
+  "hashtags": [
+    "#homedecor",
+    "#home",
+    "#decor",
+    "#pillows",
+    "#pillowcovers",
+    "#pillowcover",
+    "#garden",
+    "#flags",
+    "#gardenflags",
+    "#seasonal",
+    "#seasonaldecor",
+    "#farmhousestyle",
+    "#laudrybin",
+    "#bins",
+    "#layeringpillow",
+    "#pillowinserts",
+    "#inserts"
+  ],
+  "shop_id": 34358,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.6600000000000001,
+  "program_id": 37533,
+  "myshopify_domain": "cotton-and-crate.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 32.4,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 37533,
+  "product_list": []
+}

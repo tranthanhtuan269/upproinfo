@@ -1,0 +1,176 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1743696720_5376668_922348b697182fa6eed09d3957e90f8e.png",
+  "description": "<p><a href=\"https://af.uppromote.com/SHEGLOWMORE-AFFILIATE/register\" title=\"Sign up page \" target=\"_blank\" rel=\"noopener\">https://af.uppromote.com/SHEGLOWMORE-AFFILIATE/register</a></p>\r\n<p><br></p>\r\n<p><strong>Join Our Affiliate Program and Win Big!</strong> We&rsquo;re excited to welcome you to the She Glow More family! Sign up now and stand a chance to win a<strong> &euro;40 gift card</strong>&mdash;we&rsquo;re picking <strong>3 lucky winners!</strong> 🎉 Plus, everyone who joins will receive <strong>exclusive discount codes</strong> to enjoy while promoting our amazing collections. <strong>Let&rsquo;s grow and glow together!</strong> ✨</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "10",
+  "video_url": "https://www.instagram.com/she_glow_more/?__pwa=1",
+  "mkp_listing_id": 33779,
+  "categories": "Fashion, Others",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Facebook",
+    "Tiktok",
+    "Pinterest",
+    "Blog",
+    "Coupons or Deals website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Albania",
+    "France",
+    "United Kingdom",
+    "United States",
+    "Spain",
+    "Germany",
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Finland"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/SHEGLOWMORE-AFFILIATE/register",
+  "offer_status": 2,
+  "name": "SHEGLOWMORE Brand",
+  "website": "https://www.sheglowmore.store",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 172884,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.77,
+  "program_id": 196704,
+  "myshopify_domain": "rvady5-xa.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "81.25%",
+  "mkp_program_id": 196704,
+  "product_list": []
+}

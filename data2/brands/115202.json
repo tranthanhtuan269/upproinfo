@@ -1,0 +1,167 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1694506409_9799084_7ede51d173ad99571c15d83269a12ff2Able Carry Logo Sunrise Gradient 1080x.jpg",
+  "description": "<h2>Bags for Work and Play</h2>\r\n<div>\r\n<p>私たちの使命は1日をもっと豊かにしてくれる最高のバッグを作ること。<br>毎日の荷物の持ち運びが簡単になるように<br>フィット感、整理のしやすさ、丈夫さを重視しています。</p>\r\n<p>&nbsp;</p>\r\n<h2>中身の整理を簡単に</h2>\r\n<div>\r\n<p>荷物がきちんと整理されていれば外出先での活動や仕事の効率がアップ。<br>直感的に使いやすく、大事な荷物の保護にもこだわった収納機能を備えています。</p>\r\n<h2>快適な背負い心地</h2>\r\n<div>\r\n<p>毎日使うことを考え、フィット感にもこだわっています。</p>\r\n<p>日々の通勤から長時間の移動まで、重い荷物も軽く快適に持ち運べる工夫を詰め込みました。</p>\r\n<h2>優れた耐久性</h2>\r\n<div>\r\n<p>丈夫な素材と縫製で長く使える製品に仕上げています。</p>\r\n<p>万が一問題があった場合もすべてのバックパック商品には永久保証がついているので安心です。</p>\r\n<p>※詳しくは<a title=\"永久保証\" href=\"https://ablecarry.jp/pages/warranty\" target=\"_blank\" rel=\"noopener\">永久保証</a>をお読みください。</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "payout_rate": "96.43%",
+  "payout_period": null,
+  "recommend_score": 3.65,
+  "average_earning_per_sale": "30000",
+  "video_url": null,
+  "mkp_listing_id": 28278,
+  "categories": "Fashion, Sports & Entertainment, Computers & Office",
+  "currency": "JPY",
+  "symbol_currency": "&#165;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Japan"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/ablecarry-jp/register",
+  "offer_status": 2,
+  "name": "Able Carry (JP)",
+  "website": "https://ablecarry.jp",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 115202,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.15,
+  "program_id": 130532,
+  "myshopify_domain": "ablecarry-jp.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Japan"
+  ],
+  "avg_order_value": 32018.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "66.67%",
+  "mkp_program_id": 130532,
+  "product_list": []
+}

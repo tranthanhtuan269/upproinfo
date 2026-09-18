@@ -1,0 +1,168 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1741331281_2995166_4862d8a440bbf794ee95ffbda0ebb132.png",
+  "description": "<div style=\"font-family: Poppins;\"><p>For nearly 50 years, Bee Sim 美心 has been at the heart of Singapore’s traditional Pau and Dim Sum scene. We are a trusted supplier to many major F&amp;B establishments and institutions across Singapore.&nbsp;</p><div class=\"product-block\" style=\"box-sizing: border-box; margin: 0px 0px 1.5rem; color: rgb(65, 65, 65); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" id=\"isPasted\"><div id=\"nav-tab-info\" class=\"nav-tab-info\" style=\"box-sizing: border-box;\"><div class=\"tab-content\" style=\"box-sizing: border-box; padding: 24px 0px;\"><div class=\"tab-pane fade show active\" id=\"gtab1\" role=\"tabpanel\" style=\"box-sizing: border-box; transition: opacity 0.15s linear; display: block;\"><p style=\"box-sizing: border-box; margin: 0px; font-size: 15px; font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(65, 65, 65); line-height: 1.6; font-weight: 400;\">At Bee Sim, we passionately craft our meat and paste fillings in-house from scratch, delivering the rich, authentic flavours that set our products apart and keep our customers coming back for more.</p></div></div></div></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1.05,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35551,
+  "categories": "Grocery & Food",
+  "currency": "SGD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Podcast platforms",
+    "Blog"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Singapore"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/bee-sim-sg/register",
+  "offer_status": 2,
+  "name": "Bee Sim SG",
+  "website": "https://bee-sim-sg.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 166467,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 189318,
+  "myshopify_domain": "bee-sim-sg.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 79.93,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "23.08%",
+  "mkp_program_id": 189318,
+  "product_list": []
+}

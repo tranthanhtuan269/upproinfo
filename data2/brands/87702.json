@@ -1,0 +1,211 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/9e07e2a1bc44ef0967f74d5303dbae9f.jpg",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>Queen Bee of Beverly Hills is a leading U.S. retailer of <strong>100% authentic luxury handbags and designer accessories</strong>, sourced <strong>directly from top fashion houses</strong> such as Gucci, Prada, Fendi, Chanel, Hermès, Louis Vuitton, Saint Laurent, Balenciaga, Ferragamo, and Jimmy Choo.</p><p>Established in 2001, we offer one of the widest selections of genuine luxury handbags online—each item fully inspected for quality and verified for authenticity, including <strong>Entrupy authentication</strong> on all pre-owned products.</p><p>Customers enjoy <strong>same-day processing</strong>, <strong>free U.S. shipping</strong>, and our <strong>full authenticity guarantee</strong>, making Queen Bee of Beverly Hills one of the most trusted destinations for designer handbags. </p></div><div><br></div></div>",
+  "payout_rate": "18.52%",
+  "payout_period": "Commissions are paid on a Net-30 basis on the 1st of each month.",
+  "recommend_score": 2.84,
+  "average_earning_per_sale": "100",
+  "video_url": null,
+  "mkp_listing_id": 21134,
+  "categories": "Fashion, Jewelry & Accessories, Retail & Consumer goods",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "65 and over",
+    "55-64",
+    "45-54",
+    "35-44",
+    "25-34",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/queen-bee-5/register",
+  "offer_status": 2,
+  "name": "Queen Bee of Beverly Hills",
+  "website": "https://www.queenbeeofbeverlyhills.com",
+  "hashtags": [
+    "#luxuryhandbags",
+    "#designerhandbags",
+    "#luxuryaddict",
+    "#luxurystyle",
+    "#luxuryshopping",
+    "#luxurylovers",
+    "#designeraccessories",
+    "#handbagcollection",
+    "#handbagaddict",
+    "#luxuryfinds",
+    "#ootdluxury",
+    "#guccibag",
+    "#pradabag",
+    "#fendibag",
+    "#chanelbag",
+    "#hermesbag",
+    "#louisvuittonbag",
+    "#yslbag",
+    "#balenciagabag",
+    "#ferragamobag",
+    "#saintlaurentbag",
+    "#verifiedauthentic",
+    "#entrupy",
+    "#shopauthentic",
+    "#sustainableluxury",
+    "#luxuryresale",
+    "#designerresale",
+    "#prelovedluxury",
+    "#buyselltradeluxury"
+  ],
+  "shop_id": 87702,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.37,
+  "program_id": 100171,
+  "myshopify_domain": "queen-bee-5.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 660.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "97.78%",
+  "mkp_program_id": 100171,
+  "product_list": []
+}

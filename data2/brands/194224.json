@@ -1,0 +1,180 @@
+{
+  "logo": null,
+  "description": "<p><strong>Join the SmartAccessory Affiliate Program &ndash; Earn Up to 15% Commission! 🚀</strong></p>\r\n<p>Are you a content creator, tech enthusiast, or entrepreneur looking to monetize your audience? <strong>SmartAccessory</strong> offers an exciting affiliate program where you can earn <strong>13-15% commission on every sale</strong> while providing <strong>exclusive 10% discounts</strong> to your followers!</p>\r\n<h3><strong>Why Partner With Us?</strong></h3>\r\n<p>✅ <strong>High Commission Rates</strong> &ndash; Earn <strong>up to 15% per sale</strong>, one of the best rates in the industry!<br>✅ <strong>Exclusive Discounts</strong> &ndash; Your audience gets <strong>10% off</strong> with your unique promo code.<br>✅ <strong>Premium Products</strong> &ndash; Handpicked smartphone accessories designed for <strong>productivity and convenience</strong>.<br>✅ <strong>Easy Tracking &amp; Payouts</strong> &ndash; Transparent dashboard and <strong>on-time payments</strong>.</p>\r\n<p>💰 <strong>Turn your influence into income!</strong> Sign up today and start earning with every referral.</p>\r\n<p>📩 <strong>Apply now and get your unique affiliate link!</strong></p>\r\n<p>Let me know if you want any adjustments to fit a specific tone or audience! 🔥</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": "https://smartaccessory-store.com/products/30w-3-in-1-magnetic-wireless-charger-stand-for-ipone-14-13-12-pro-max-airpods-samsung-watch-6-5-iwatch-8-7-fast-charging-station",
+  "mkp_listing_id": 34350,
+  "categories": "Phone & Telecommunication, Home & Tools",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "France",
+    "Germany",
+    "Canada",
+    "China",
+    "Japan",
+    "Russian Federation",
+    "Italy",
+    "Spain"
+  ],
+  "payment_support": {
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/cj4ysx-8j/register",
+  "offer_status": 2,
+  "name": "SmartAccessory",
+  "website": "https://smartaccessory-store.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 194224,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 221351,
+  "myshopify_domain": "cj4ysx-8j.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 221351,
+  "product_list": []
+}

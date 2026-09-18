@@ -1,0 +1,216 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1765509560_9161151_029bf63ca0c66d4b01a45111cf0065d4.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>Parfait—meaning <em>“Perfect”</em> in French—creates stylish, on-trend lingerie designed to celebrate every curve. With inclusive bra sizing and a commitment to fit, comfort, and support, Parfait empowers women of all body shapes to feel confident from the inside out. Rooted in body positivity, the brand champions self-expression and confidence, beautifully reflected through its diverse and inspiring models.</p><p><strong>Parfait Affiliate Program</strong></p><p>Partners can earn <strong>15% commission on every conversion</strong> by promoting Parfait’s inclusive lingerie collections. It’s a strong fit for creators and publishers focused on fashion, body positivity, fit education, and women’s lifestyle content.<br><br>Contact us if you have any questions.</p></div></div>",
+  "payout_rate": "99.46%",
+  "payout_period": "30 Days",
+  "recommend_score": 25.58,
+  "average_earning_per_sale": null,
+  "video_url": "https://youtu.be/uBdnHhkSh8E?si=1NslLfNySO6diKnX",
+  "mkp_listing_id": 37322,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://affiliates.parfaitlingerie.com/parfait-lingerie/register",
+  "offer_status": 2,
+  "name": "Parfait Lingerie",
+  "website": "https://parfaitlingerie.com",
+  "hashtags": [
+    "#parfaitlingerie",
+    "#fullfigurefashion",
+    "#curvyconfidence",
+    "#elegantlingerie",
+    "#parfaitfit",
+    "#fullbustsupport",
+    "#lingeerieaddict"
+  ],
+  "shop_id": 242933,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.74,
+  "program_id": 285287,
+  "myshopify_domain": "parfait-lingerie.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "6943382a576915b3bc04d412",
+      "name": "Affilate order discount",
+      "program_id": 285287,
+      "shop_id": 242933,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-12-17 23:09:30",
+      "created_at": "2025-12-17T23:09:30.056000Z",
+      "updated_at": "2025-12-17T23:09:30.056000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 64.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "18.52%",
+  "mkp_program_id": 285287,
+  "product_list": []
+}

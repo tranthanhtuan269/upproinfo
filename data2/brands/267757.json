@@ -1,0 +1,213 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1777882944_9373471_220c20860edb0f86ba132674953ee34d.png",
+  "description": "<div style=\"font-family:Poppins;\"><h2>About Us – Beauty Buddy</h2><p>Beauty Buddy is an online destination for <strong>Thai beauty and skincare</strong>, curated and shipped directly from Thailand to customers worldwide 🌏</p><p>We specialize in bringing the best of Thai beauty to international markets, with a strong customer base across the <strong>United States, Australia, and Europe</strong>. Our platform connects global consumers with high-quality, trend-driven products that are loved in Thailand.</p><hr><h2>🌟 What We Do</h2><p>We carefully select products from trusted Thai brands—ranging from skincare and cosmetics to self-care essentials—focusing on items that are:</p><ul><li>Proven to perform, not just trending</li><li>Popular among Thai consumers</li><li>Suitable for everyday use</li></ul><p>Our goal is simple: make Thai beauty accessible to the world.</p><hr><h2>🌍 Our Global Customers</h2><p>Beauty Buddy proudly serves a growing international audience, with the majority of our customers coming from:</p><ul><li>🇺🇸 United States</li><li>🇦🇺 Australia</li><li>🇪🇺 Europe</li></ul><p>This global demand creates strong opportunities for partners to tap into high-converting markets.</p><hr><h2>🤝 Partner With Us (Affiliate Program)</h2><p>We’re not just a store—we’re a platform for growth.</p><p>Whether you're a:</p><ul><li>Content creator (TikTok, YouTube, Instagram)</li><li>Influencer or community builder</li><li>Or someone exploring online income</li></ul><p>You can start earning by promoting our products to a global audience.</p><hr><h2>💰 Why Join Our Affiliate Program?</h2><ul><li><strong>High-demand niche</strong>: Thai beauty is trending globally</li><li><strong>Worldwide shipping</strong>: No geographic limitations</li><li><strong>Diverse product range</strong>: Easy to match with different audiences</li><li><strong>Conversion-ready offers</strong>: Promotions and deals to support your sales</li></ul></div>",
+  "payout_rate": "0%",
+  "payout_period": "1st of each month",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 39391,
+  "categories": "Health & Beauty",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://aff.beautybuddy.co/beautybuddy/register",
+  "offer_status": 2,
+  "name": "Beauty Buddy",
+  "website": "https://beautybuddy.co",
+  "hashtags": [
+    "#beautybuddy",
+    "#skincare",
+    "#cosmetic"
+  ],
+  "shop_id": 267757,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 316334,
+  "myshopify_domain": "ey0txn-v0.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "69f85256a7c3d7a5d20a88a2",
+      "name": "MYBUDDY10",
+      "program_id": 316334,
+      "shop_id": 267757,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": "MYBUDDY10"
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-05-04 08:01:53",
+      "created_at": "2026-05-04T08:01:26.260000Z",
+      "updated_at": "2026-05-04T08:01:53.903000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 75.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "97.78%",
+  "mkp_program_id": 316334,
+  "product_list": []
+}

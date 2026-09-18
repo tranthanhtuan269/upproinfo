@@ -1,0 +1,164 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1696592011_2295578_a6641b40b35eeb9c851bc1559c113ae9.png",
+  "description": "<p style=\"text-align: center;\"><strong>AVANTAGES POUR LES IZYSMILE ATHLETE</strong>&nbsp;</p>\r\n<ul>\r\n<li><strong>Une structure de commissions</strong></li>\r\n</ul>\r\n<p>Gagner des commissions en g&eacute;n&eacute;rant de ventes avec votre code promo et lien personnalis&eacute; de 15%. Ajoutez facilement le lien &agrave; votre page et commencez &agrave; g&eacute;n&eacute;rer du trafic.</p>\r\n<ul>\r\n<li><strong>Mettez de la valeur</strong></li>\r\n</ul>\r\n<p>Partager de produits Izysmile sur vos r&eacute;seaux sociaux en assurant la promotion de produits Izysmile</p>\r\n<ul>\r\n<li><strong>Projets sportifs&nbsp;</strong></li>\r\n</ul>\r\n<p>Vous faites parties de notre vision et de nos campagnes de marque, vous b&eacute;n&eacute;ficiez ainsi des campagnes exclusives et des offres exclusives.</p>\r\n<p>&nbsp;</p>\r\n<ul>\r\n<li><strong>Une plateforme de confiance</strong></li>\r\n</ul>\r\n<p>Vous avez acc&egrave;s &agrave; la plateforme pour un suivi de toutes les op&eacute;rations (outil de compte-rendu) facile &agrave; utiliser.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>A QUI EST DESTIN&Eacute; CE PARTENARIAT&nbsp;?</strong></p>\r\n<p>Les athl&egrave;tes et les passionn&eacute;es de sport en g&eacute;n&eacute;ral, les influenceurs, et toute autre personne cr&eacute;ant de contenus sportifs souhaitant promouvoir la vision de la marque.</p>",
+  "payout_rate": "72.41%",
+  "payout_period": null,
+  "recommend_score": 1.84,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 29571,
+  "categories": "Sports & Entertainment",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Youtube",
+    "Pinterest"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "France"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/izysmile/register",
+  "offer_status": 2,
+  "name": "Izysmile ",
+  "website": "https://izysmile.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 63645,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.72,
+  "program_id": 72099,
+  "myshopify_domain": "izysmile.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 47.78,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 72099,
+  "product_list": []
+}

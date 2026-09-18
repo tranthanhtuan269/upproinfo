@@ -1,0 +1,162 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1735999958_9363892_7332552d4b243cbbafde7bbffbbe95d3.jpg",
+  "description": "<h3><strong>Affiliate Program Description</strong></h3>\r\n<p><strong>USP (Unique Selling Point):</strong><br>Join the Melans Gadgetra Affiliate Program and earn commissions by promoting innovative and trendsetting electronics and tech gadgets. Partner with a premium and professional store that offers high-converting products, detailed marketing support, and a lucrative earning potential.</p>\r\n<p><strong>Payment Terms:</strong><br>Earn competitive commissions on every sale you drive, with payouts processed monthly via your preferred payment method.</p>\r\n<p><strong>Other Information:</strong></p>\r\n<ul>\r\n<li>Free access to marketing materials, including banners, product descriptions, and creatives.</li>\r\n<li>Real-time tracking and insights into your performance.</li>\r\n<li>Dedicated support to help you succeed.</li>\r\n</ul>\r\n<hr>\r\n<h3><strong>Retro Camera Phone Case</strong></h3>\r\n<p><strong>USP (Unique Selling Point):</strong><br>Stand out with the Retro Camera Phone Case, a unique blend of vintage charm and modern functionality. Designed to mimic the look of a classic camera, this case offers not just style but also protection and convenience.</p>\r\n<p><strong>Product Highlights:</strong></p>\r\n<ul>\r\n<li>Eye-catching retro camera design.</li>\r\n<li>Durable material ensures your phone stays safe from scratches and drops.</li>\r\n<li>Functional features like precise cutouts for easy access to buttons and ports.</li>\r\n</ul>\r\n<p><strong>Payment Terms:</strong><br>Priced at $34.95 USD, this stylish case offers a great value for customers looking to combine aesthetics with practicality.</p>\r\n<p><strong>Other Information:</strong></p>\r\n<ul>\r\n<li>Ideal gift for photography enthusiasts or those with a love for retro design.</li>\r\n<li>Lightweight and easy to install.</li>\r\n<li>Available for multiple phone models to ensure compatibility.</li>\r\n</ul>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33855,
+  "categories": "Electronics",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Facebook"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Anguilla",
+    "United States",
+    "United Kingdom"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/melansgadgetra/register",
+  "offer_status": 2,
+  "name": "Melans Gadgetra",
+  "website": "https://melansgadgetra.store",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 182284,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 207827,
+  "myshopify_domain": "6mhsn0-es.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "95.24%",
+  "mkp_program_id": 207827,
+  "product_list": []
+}

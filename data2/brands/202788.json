@@ -1,0 +1,181 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1747960164_1172606_9216acf0d2cce8caab8799cae5c0e92d.png",
+  "description": "<div style=\"font-family: Poppins;\"><p data-start=\"270\" data-end=\"541\" id=\"isPasted\"><strong data-start=\"270\" data-end=\"419\">Partner with us to promote empowering digital wellness products — including online courses, spoken word audio, audiobooks, and mindfulness tools.</strong><br data-start=\"419\" data-end=\"422\">We’re on a mission to help people grow mentally, emotionally, and spiritually through the power of intentional content.</p><p data-start=\"543\" data-end=\"715\">Whether you’re a creator, coach, wellness advocate, or content publisher, we welcome you to join our affiliate program and earn generous commissions while inspiring change.</p><p data-start=\"717\" data-end=\"835\">💬 <strong data-start=\"720\" data-end=\"741\">Products include:</strong><br data-start=\"741\" data-end=\"744\">🧘‍♂️ Mindfulness courses | 🎧 Spoken word &amp; audiobook collections | 📚 Self-growth content | 📖 Journals</p><p data-start=\"837\" data-end=\"1048\">💰 <strong data-start=\"840\" data-end=\"885\">Earn up to 30 Commission % per sale</strong><br data-start=\"885\" data-end=\"888\">🌍 <strong data-start=\"891\" data-end=\"950\">Promote globally — ideal for English-speaking audiences</strong><br data-start=\"950\" data-end=\"953\">📈 <strong data-start=\"956\" data-end=\"1001\">High-quality content people love to share</strong><br data-start=\"1001\" data-end=\"1004\">🤝 <strong data-start=\"1007\" data-end=\"1048\">Full support and promo tools</strong></p></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "45 days after sale",
+  "recommend_score": 2.98,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35680,
+  "categories": "Beauty & Health, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "Germany",
+    "United States",
+    "United Kingdom",
+    "Australia",
+    "New Zealand",
+    "Ireland",
+    "South Africa",
+    "Singapore",
+    "United Arab Emirates"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/betterlisten/register",
+  "offer_status": 2,
+  "name": "BetterListen!",
+  "website": "https://www.betterlisten.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 202788,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.16,
+  "program_id": 232557,
+  "myshopify_domain": "betterlisten.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 10.8,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "99.53%",
+  "mkp_program_id": 232557,
+  "product_list": []
+}

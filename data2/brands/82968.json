@@ -1,0 +1,206 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1690368880_4872910_d58eec2ab9b7d836548764a01b234b5alogo.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Looking for stylish influencers to promote our brand new line of high quality press-on nails.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Candidates should have an established social media presence, enjoy sharing their lifestyle with others and be passionate about the latest beauty and fashion trends.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">In exchange, ambassadors will receive compensation.</p>",
+  "payout_rate": "96%",
+  "payout_period": null,
+  "recommend_score": 7.39,
+  "average_earning_per_sale": null,
+  "video_url": "https://lovful.com/pages/sca-affiliate-empty-page",
+  "mkp_listing_id": 25685,
+  "categories": "Fashion, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1690873385_1331356_51ebc97e0fe08b0afea1989e888af69e.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<div class=\"lovful-terms\"><h3>Lovful Affiliate Program — Terms &amp; Conditions</h3><p><strong>Welcome to the Lovful Affiliate Program!</strong><br>By joining, you agree to the following terms to help keep our program fair for every creator.</p><h4>1. Commission Eligibility</h4><p>You will earn commission on every qualifying order placed through your unique affiliate link.</p><ul><li>Orders must be purchased directly through your affiliate link</li><li>Orders must not be cancelled, refunded or marked as fraudulent</li><li>Final attribution follows Shopify’s tracking and rules</li></ul><h4>2. No Commission for Google Ads Conversions</h4><p class=\"lovful-important-term\">To ensure fair attribution, any order attributed to your affiliate link but converted through <strong>Google Ads (paid traffic)</strong> is <strong>not eligible for commission payouts</strong>.</p><p>This rule protects the program from paid-traffic manipulation and keeps rewards for genuine content-driven referrals.</p><h4>3. Prohibited Promotion Methods</h4><p>Affiliates agree <strong>not</strong> to use:</p><ul><li>Google Ads or other PPC bidding on Lovful brand or product keywords</li><li>Paid traffic that hijacks Lovful’s search terms</li><li>Coupon-site spamming or scraping unpublished discount codes</li><li>Misleading claims or false advertising</li></ul><p>Violations may result in removal from the program and commission cancellation.</p><h4>4. Commission Review &amp; Adjustments</h4><p>Lovful reserves the right to adjust, hold, or deny commission if:</p><ul><li>An order is refunded, cancelled, or flagged as fraud</li><li>The traffic source violates program rules</li><li>Link attribution is unclear or appears manipulated</li></ul><h4>5. Payout Schedule</h4><p>Commissions are paid according to the standard payout cycle displayed in your affiliate dashboard.</p><h4>6. Program Changes</h4><p>Lovful may update these terms at any time. Affiliates will be notified when significant changes occur.</p><p><strong>Thank you for being part of the Lovful creator community!</strong></p></div>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/lovful/register",
+  "offer_status": 2,
+  "name": "Lovful",
+  "website": "https://lovful.com/",
+  "hashtags": [
+    "#wearelovful",
+    "#lovful",
+    "#pressonnails",
+    " #pressons",
+    " #nailinspo"
+  ],
+  "shop_id": 82968,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.85,
+  "program_id": 95016,
+  "myshopify_domain": "magictoollab.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "695c7a0a1b02fd061c07269a",
+      "name": "全体联盟自动折扣",
+      "program_id": 95016,
+      "shop_id": 82968,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null,
+          "product_applies_type": "specific_product",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": "Special savings unlocked"
+        },
+        "free_shipping": {
+          "status": false,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-01-06 02:57:14",
+      "created_at": "2026-01-06T02:57:14.061000Z",
+      "updated_at": "2026-01-06T02:57:14.061000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 78.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "84.3%",
+  "mkp_program_id": 95016,
+  "product_list": []
+}

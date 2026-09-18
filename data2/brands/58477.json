@@ -1,0 +1,149 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/16efd86edf7da93c75a773bd857c808f.jpg",
+  "description": "<div id=\"shopify-section-1634593961e838cc8a\" class=\"shopify-section\" style=\"font-family: Amiri, serif; font-size: 16px; letter-spacing: 0.8px;\"><div class=\"index-section\" style=\"margin: 75px 0px;\"><div class=\"custom-content\" style=\"display: flex; align-items: stretch; flex-wrap: wrap; width: auto; margin-bottom: -22px; margin-left: -22px;\"><div class=\"custom__item one-whole align--center\" style=\"width: 1462px; flex: 0 0 auto; margin-bottom: 22px; padding-left: 22px; max-width: 100%; align-self: center; text-align: center;\"><div class=\"custom__item-inner custom__item-inner--html \" style=\"position: relative; text-align: left; max-width: 100%; width: 1440px;\"><div class=\"rte\" data-section-id=\"1634593961e838cc8a\" data-section-type=\"featured-content-section\" style=\"margin-bottom: 0px;\"><div class=\"view\" style=\"padding-bottom: 90px; padding-top: 80px; margin-bottom: 15px;\"><p class=\"port\" style=\"margin-bottom: 0px; font-size: 20px; width: 1440px; text-align: center;\"><span style=\"font-size: 12px;\">Our mission is to educate the importance nature plays in everyday health and vitality. </span></p><p class=\"port\" style=\"margin-bottom: 0px; font-size: 20px; width: 1440px; text-align: center;\"><span style=\"font-size: 12px;\">We do this by handcrafting organic, medicinally-blended herbal products and educating our customers from farm to bottle. </span></p><p class=\"port\" style=\"margin-bottom: 0px; font-size: 20px; width: 1440px; text-align: center;\"><span style=\"font-size: 12px;\">Our aim is to create a healthier and more vibrant livelihood for all of mankind.</span></p></div></div></div></div></div></div></div><div id=\"shopify-section-1499789718857\" class=\"shopify-section index-section\" style=\"margin: 75px 0px; font-family: Amiri, serif; font-size: 16px; letter-spacing: 0.8px; background-color: rgb(238, 227, 217);\"><div class=\"page-width\" style=\"max-width: 1500px; margin: 0px auto; padding: 0px 40px;\"><div class=\"section-header\" style=\"margin-bottom: 50px; text-align: center;\"></div></div></div>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 1.07,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 13190,
+  "categories": "Beauty & Health, Home & Tools, Grocery & Food",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/dava-by-nature/register",
+  "offer_status": 2,
+  "name": "DAVA BY NATURE",
+  "website": "https://davabynature.com",
+  "hashtags": [],
+  "shop_id": 58477,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.85,
+  "program_id": 65828,
+  "myshopify_domain": "dava-by-nature.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "42.86%",
+  "mkp_program_id": 65828,
+  "product_list": []
+}

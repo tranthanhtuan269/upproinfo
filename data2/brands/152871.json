@@ -1,0 +1,205 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1717913829_8113227_102388bf4b1fcb6131489209cc902789.png",
+  "description": "<p><strong>Brand Introduction:</strong> ErdeGora is a dynamic print-on-demand shop based in the Netherlands, specializing in uniquely tailored merchandise for gamers and creators. Partnering with Printful and hosted on Shopify, we merge the world of gaming with everyday lifestyle, encouraging a balanced approach to gaming.</p>\r\n<p><strong>Product Description:</strong> We offer a diverse range of products including apparel, accessories, and home decor, all customizable to reflect individual styles and gaming passions. Our products are crafted with quality and care, ensuring that each item is not just a purchase, but a personal statement.</p>\r\n<p><strong>USP (Unique Selling Point):</strong> ErdeGora stands out with its commitment to blending the gaming world with practical, stylish lifestyle solutions. Our unique angle helps gamers \"step out\" of the virtual world without leaving behind what they love, making our products perfect for both everyday use and gaming sessions.</p>\r\n<p><strong>Payment Terms:</strong> We offer competitive affiliate rates with a 30-day cookie duration to ensure that our partners are rewarded for all the traffic they drive to our store. Payments are processed monthly via PayPal or bank transfer, providing flexibility and ease for our affiliates.</p>\r\n<p><strong>Other Information:</strong> Joining the ErdeGora affiliate program gives you access to personalized promotions, real-time sales tracking, and dedicated support to help you maximize your earnings. Our community is growing, and we&rsquo;re looking for partners who are passionate about gaming and innovation. Let&rsquo;s make gaming a lifestyle together!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.77,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30522,
+  "categories": "Fashion",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1717915849_4516559_c77e0d1164d97782214268c57133b43e.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Blog",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Belgium",
+    "Denmark",
+    "France",
+    "Germany",
+    "Netherlands",
+    "Norway",
+    "Romania",
+    "United Kingdom",
+    "Latvia",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/2df129-2/register",
+  "offer_status": 2,
+  "name": "ErdeGora",
+  "website": "https://erdegora.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 152871,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.7,
+  "program_id": 173779,
+  "myshopify_domain": "2df129-2.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Australia",
+    "Austria",
+    "Belgium",
+    "Croatia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Japan",
+    "Latvia",
+    "Luxembourg",
+    "Netherlands",
+    "New Zealand",
+    "Norway",
+    "Romania",
+    "Serbia",
+    "Serbia and Montenegro",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "avg_order_value": 25.74,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 173779,
+  "product_list": []
+}

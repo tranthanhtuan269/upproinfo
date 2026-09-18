@@ -1,0 +1,175 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1711380481_8724107_b18fa3dfdb8a915bda23c0e740211589.png",
+  "description": "<p>Founded in Chicago in 1986, BluBlocker Sunglasses made history with a revolutionary lens that reduced brightness while increasing contrast and visibility, using the same groundbreaking technology originally developed for NASA to block harmful UV rays and blue light during space travel. &nbsp;With its unmistakable styling and brand ambassadors like pro athletes Jim McMahon and Keith Hernandez, BluBlocker became a household name in just a few short years. In the decades since, BluBlocker has also been featured as part of film costuming, in Hollywood hits like The Hangover (2009) and cult classics like Kingdom (2014). Part of the cultural zeitgeist since its inception, BluBlocker has captured the imagination of many and developed a cult following across the world.</p>\r\n<p>BluBlocker Sunglasses block out 100% of blue light, helping maintain healthy sleep schedules and keeping eyes fresh and unstrained.</p>\r\n<p>We have recently released clear lens tech glasses for gaming and computer work, perfect for the Twitch streamer or Youtubers.&nbsp; We also have Sunmask sport glasses for skiiers and snowboarders.</p>\r\n<p></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 2.28,
+  "average_earning_per_sale": "10.5",
+  "video_url": null,
+  "mkp_listing_id": 28171,
+  "categories": "Fashion",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 45,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Twitter",
+    "Tiktok",
+    "Twitch",
+    "Blog",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Korea",
+    " Republic of",
+    "United Kingdom",
+    "United States",
+    "Taiwan",
+    " Province of China",
+    "Canada"
+  ],
+  "payment_support": {
+    "cheque": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/blublocker/register",
+  "offer_status": 2,
+  "name": "BluBlocker",
+  "website": "https://www.blublocker.com",
+  "hashtags": [
+    "#fashion",
+    "#bluelightglasses",
+    "#sunglasses",
+    "#glasses"
+  ],
+  "shop_id": 129638,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2,
+  "program_id": 146782,
+  "myshopify_domain": "blublocker.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 101.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "21.12%",
+  "mkp_program_id": 146782,
+  "product_list": []
+}

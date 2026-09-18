@@ -1,0 +1,176 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1726249241_4582752_89820d7cbf5e62441c6cf29106a0bb52.png",
+  "description": "<p>Join the She RUNS This Town Affiliate Program and become a part of a passionate community that empowers women to run the world&mdash;literally! By becoming an affiliate, you will not only inspire your followers to lead active and healthy lifestyles, but you'll also have the opportunity to earn while you promote products you love.</p>\r\n<p>As a She RUNS This Town affiliate, you&rsquo;ll receive a unique discount code to share with your followers, giving them an exclusive discount on their purchases. In addition, you&rsquo;ll earn a 5% commission on all products sold through your referral links. Whether you&rsquo;re an avid runner, a fitness enthusiast, or someone who believes in empowering women, this is the perfect way to turn your passion into a rewarding partnership.</p>\r\n<p><strong>Why Join?</strong></p>\r\n<ul>\r\n<li><strong>Earn Commission</strong>: Get a 5% commission on every sale made through your unique affiliate link.</li>\r\n<li><strong>Exclusive Discounts</strong>: Your followers get a special discount on high-quality products designed to support their running journey.</li>\r\n<li><strong>Support Women's Empowerment</strong>: Align with a brand that&rsquo;s all about inspiring and uplifting women to achieve their best.</li>\r\n<li><strong>Easy to Join</strong>: Sign up is quick and simple. Once approved, you&rsquo;ll gain access to your unique affiliate link and promotional materials.</li>\r\n</ul>\r\n<p><strong>Get Started Today!</strong><br>Join us in spreading the love for running and empowering women everywhere. Apply now to become a She RUNS This Town affiliate and start earning today!</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 0.98,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 32140,
+  "categories": "Beauty & Health, Others",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "Under 18",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/srtt/register",
+  "offer_status": 2,
+  "name": "She RUNS This Town",
+  "website": "https://www.sherunsthistown.com",
+  "hashtags": [
+    "#womensrunning",
+    "#running",
+    "#fitness",
+    "#workout",
+    "#peloton"
+  ],
+  "shop_id": 166802,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.75,
+  "program_id": 189719,
+  "myshopify_domain": "1a4364-3.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 40.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "31.58%",
+  "mkp_program_id": 189719,
+  "product_list": []
+}

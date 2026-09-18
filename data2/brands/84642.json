@@ -1,0 +1,153 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/c5d74312cb93fdd95f0a15dde4baaaf1.jpg",
+  "description": "<p style=\"text-decoration: none; margin: 0px 0px 1em; line-height: 1.4; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;\">Central Bru provides world-class, barista-quality specialty coffees that can be prepared at home or at work. When it comes to coffee blends, not all are created equal. Central Bru takes a unique approach, focusing entirely on serving consumers high-quality specialty coffee. The company&rsquo;s specialty java is a new take on coffee, fueled by social-minded values, a respect for variety and quality, and a thriving global community of coffee lovers.</p>\r\n<p style=\"text-decoration: none; margin: 0px 0px 1em; line-height: 1.4; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; text-align: center;\"><strong>The roots of the specialty coffee movement run deep. Specialty coffee is a cross-channel, multi-cultural, gastronomical experience. By the time specialty coffee is consumed, it has passed through at least seven key steps evaluated by seven independent parties in two to four distinct parts of the world. Because specialty coffee is exclusive and unique, only a small amount of coffee fulfills the stringent criteria of the Specialty Coffee Association (SCA)</strong></p>\r\n<p style=\"text-decoration: none; margin: 0px 0px 1em; line-height: 1.4; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; text-align: center;\"><strong>Leading us to believe, we create \"Perhaps, the worlds best coffee\"</strong></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 1,
+  "average_earning_per_sale": "40",
+  "video_url": "https://youtu.be/CkQh9q32i6s",
+  "mkp_listing_id": 20445,
+  "categories": "Home & Tools, Grocery & Food, Others",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "25% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "cheque": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/centralbru/register",
+  "offer_status": 2,
+  "name": "Central Bru",
+  "website": "https://www.centralbru.com",
+  "hashtags": [],
+  "shop_id": 84642,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1,
+  "program_id": 96896,
+  "myshopify_domain": "centralbru.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Canada",
+    "United States"
+  ],
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "63.16%",
+  "mkp_program_id": 96896,
+  "product_list": []
+}

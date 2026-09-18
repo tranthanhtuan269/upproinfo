@@ -1,0 +1,176 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1755087619_1276820_c74846f01657c9c2c292f00b29541ecd.png",
+  "description": "<div style=\"font-family: Poppins;\"><div><p data-start=\"84\" data-end=\"364\" id=\"isPasted\"><strong data-start=\"84\" data-end=\"133\">À propos de notre marque et de nos produits :</strong><br data-start=\"133\" data-end=\"136\">Almae Intime propose des gummies innovants à base de probiotiques et d’extraits naturels, spécialement conçus pour prendre soin de la flore intime féminine. Notre objectif : offrir confort, fraîcheur et confiance au quotidien.</p><p data-start=\"366\" data-end=\"535\"><strong data-start=\"366\" data-end=\"396\">Ce qui nous rend uniques :</strong><br data-start=\"396\" data-end=\"399\">Formule naturelle et efficace, goût délicieux, résultats rapides, et surtout… un produit qui change réellement la vie de nos clientes.</p><p data-start=\"537\" data-end=\"685\"><strong data-start=\"537\" data-end=\"578\">Comment les affiliés peuvent gagner :</strong><br data-start=\"578\" data-end=\"581\">Gagnez 10% sur chaque vente réalisée via votre lien d’affiliation ou votre code promo.</p><p data-start=\"687\" data-end=\"849\"><strong data-start=\"687\" data-end=\"716\">Comment nous promouvoir :</strong><br data-start=\"716\" data-end=\"719\">Partagez votre lien ou code promo sur vos réseaux sociaux, blogs, newsletters ou vidéos. Plus vous en parlez, plus vous gagnez !</p><p data-start=\"851\" data-end=\"992\"><strong data-start=\"851\" data-end=\"876\">Autres informations :</strong><br data-start=\"876\" data-end=\"879\">Produit très demandé, souvent en rupture de stock, idéal pour des ventes rapides et un fort taux de conversion.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Chaque semaine le Lundi",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36243,
+  "categories": "Beauty & Health",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "France",
+    "Belgium",
+    "Switzerland",
+    "Luxembourg"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/cqtwvy-m5/register",
+  "offer_status": 2,
+  "name": "Almae Intime",
+  "website": "https://almaeintime.com",
+  "hashtags": [
+    "#santé",
+    "#probiotique",
+    "#gummies"
+  ],
+  "shop_id": 223289,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.12,
+  "program_id": 258839,
+  "myshopify_domain": "cqtwvy-m5.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 40.55,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "7.69%",
+  "mkp_program_id": 258839,
+  "product_list": []
+}

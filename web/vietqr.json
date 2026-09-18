@@ -1,0 +1,12 @@
+{
+  "_comment": "Tai khoan nhan + API VietQR. Secret de trong web/vietqr.secret.json (khong commit). Callback: https://upproinfo.com/vqr/api/token_generate va https://upproinfo.com/vqr/bank/api/transaction-sync",
+  "base_url": "https://dev.vietqr.org",
+  "username": "",
+  "password": "",
+  "bank_code": "",
+  "bank_account": "",
+  "user_bank_name": "",
+  "acq_id": "",
+  "callback_username": "",
+  "callback_password": ""
+}

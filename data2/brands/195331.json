@@ -1,0 +1,166 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1740633736_5814500_cce7c0de56de7904165ebf8573e64bf6.jpg",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong><span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Our vision is to become South Africa's leading online shopping destination. </span></strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 12pt;\">We are dedicated to offering a seamless experience with top-quality products at great prices. With a focus on innovation and outstanding customer service, we aim to support local communities and transform e-commerce in South Africa.</span></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Our store offers a wide selection of high-quality products, with quick delivery and exceptional customer service. </span></p>\r\n<p><span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Our journey started in South Africa, driven by a passionate team dedicated to making online shopping simple and enjoyable.</span></p>\r\n<p><span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 12pt;\">What began with a small collection of handpicked products has evolved into a diverse e-commerce platform offering top-quality items at great prices.</span></p>\r\n<p><span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 12pt;\">We are committed to excellence and supporting local communities, ensuring a seamless shopping experience from browsing to delivery. </span></p>\r\n<p><span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Thank you for being part of our story &mdash; we look forward to serving you!</span></p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "1",
+  "video_url": null,
+  "mkp_listing_id": 34461,
+  "categories": "Home & Tools, Computers & Office",
+  "currency": "ZAR",
+  "symbol_currency": "&#82;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Blog",
+    "Coupons or Deals website"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female"
+  ],
+  "target_audience_locations": [
+    "South Africa"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/tauh4k-xv/register",
+  "offer_status": 2,
+  "name": "SA Innovative Technologies",
+  "website": "https://sainnovativetechnologies.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 195331,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.32,
+  "program_id": 222880,
+  "myshopify_domain": "tauh4k-xv.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": null,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "70.59%",
+  "mkp_program_id": 222880,
+  "product_list": []
+}

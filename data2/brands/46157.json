@@ -1,0 +1,149 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1631732848_4181361_7c1d208d4919d5419fe2f95d71c91428.png",
+  "description": "<p><span style=\"color: rgba(255, 255, 255, 0.8); font-family: Muli, sans-serif; font-size: 15px; background-color: rgb(34, 34, 34);\">Tour Pro Golf provides game changing technical training aids designed to improve the performance of everyone that plays golf! Our products are extremely popular and sales are growing rapidly. Earn a 10% commission for yourself by referring your contacts and become a Tour Pro Golfer Today!</span></p>\r\n<p>&nbsp;</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.12,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 10957,
+  "categories": "Sports & Entertainment",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "<p><span style=\"background-color: rgb(255, 255, 255); font-size: var(--size-body);\">Welcome to Tour Pro Golf! Thanks for joining our Affiliate Program.</span></p>\r\n<p>The following terms and conditions apply to individuals who are accessing or using the Program both as a merchant (&ldquo;we&rdquo; or &ldquo;merchant&rdquo;) and an affiliate (&ldquo;you&rdquo; or &ldquo;affiliate&rdquo;) who refers customers to purchase products from the merchant.</p>\r\n<p>By participating in the Program the Affiliate agrees to use the Program in the manner specified in, and are bound by, these Terms and Conditions. If you do not agree to these Terms and Conditions in their entirety you are not authorized to register as an Affiliate or participate in the Program in any manner.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>1. Approve or Reject the Registration</strong></p>\r\n<p>We reserve the right to approve or reject ANY Affiliate Program Registration in our sole and absolute discretion. You will have no legal recourse against us for the rejection of your Affiliate Program Registration.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>2. Affiliate Links and Coupon</strong></p>\r\n<p>An Affiliate link and coupon code is automatically generated for your use. If a person clicks on a different affiliates link and then later they click on yours, yours is the one that counts.&nbsp;<span style=\"background-color: rgb(255, 255, 255); font-size: var(--size-body);\">If the customer clicks on both the affiliate link and uses a coupon code, you will not receive a double commission.</span></p>\r\n<p>Affiliate may also advertise the merchants website on online channels such as Facebook, Instagram etc or offline classified channel ads, magazines, and newspapers.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>3. Commissions and payment</strong></p>\r\n<p>Refer any customer to make a purchase on our website, you will receive a commission amount which is calculated based on the Commission structure. The Commission amount is dependent on the order value of the product and does not include any fees or taxes such as VAT, shipping costs etc.</p>\r\n<p>To receive commission payments the Affiliate must specify their payment details in their Settings. The Payment schedule will be notified on the Affiliate Guide page.</p>\r\n<p>Payments will only be sent for transactions that have been successfully completed. Use of the Affiliate Program is subject to a fair use policy which gives the merchant the right to review each and every referral order. The status of commissions is displayed in the Commission tab, any paid commission will be listed on the Payment tab. Transactions that result in charge backs or refunds will not be paid out.</p>\r\n<p>Payments are made in the last week of the month for all commission earned in the previous month. The minimum commission payment we make is &pound;50 GBP or the equivalent. Commission earned does not expire, it will accumulate until the minimum payment is reached. Any amount of Commission earned below the minimum payment can be used as in-store credit against any goods purchased from the merchant by the Affiliate .</p>\r\n<p>&nbsp;</p>\r\n<p><strong>4. Marketing tools</strong></p>\r\n<p>We may share promotion media such as banners, logos or specific collection promotions to you through Marketing tools tab. You can download the media or get the HTML embed code in order to share on affiliate channels.</p>\r\n<p>&nbsp;</p>\r\n<p><strong style=\"background-color: rgb(255, 255, 255); font-size: var(--size-body);\">5. Cookies</strong></p>\r\n<p>We use a cookie to track customers who have clicked on your link, so they need to be using cookies for us to track them.</p>\r\n<p>If a person does not allow cookies or clears their cookies then we can't track them so can't pay earnings on that person's activity.</p>\r\n<p>Cookies last for 30 days starting from the time a customer clicks on the affiliate&rsquo;s link or uses the coupon. Within the cookie time, every order made by this customer at the merchants website will automatically result in commissions to the affiliate.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>6. Removal from Referral Program</strong></p>\r\n<p>If an affiliate wishes to be removed from the affiliate program, they can do so by contacting:&nbsp;<a style=\"background-color: rgb(252, 252, 252);\" href=\"mailto:info@TourProGolf.com\" target=\"_blank\" rel=\"noopener\">info@TourProGolf.com</a>.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Go forward and refer!</strong></p>\r\n<p>We're very glad you've made it to the end of this important document.</p>\r\n<p>We wish you all the very best as you establish yourself as a Tour Pro Golfer. If you have any questions you can email us at&nbsp;<a style=\"background-color: rgb(252, 252, 252);\" href=\"mailto:info@TourProGolf.com\" target=\"_blank\" rel=\"noopener\">info@TourProGolf.com</a>&nbsp;for support.</p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/tpgolf/register",
+  "offer_status": 2,
+  "name": "Tour Pro Golf",
+  "website": "https://www.tourprogolf.com",
+  "hashtags": [],
+  "shop_id": 46157,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.12,
+  "program_id": 51342,
+  "myshopify_domain": "tpgolf.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 8.95,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "96.49%",
+  "mkp_program_id": 51342,
+  "product_list": []
+}

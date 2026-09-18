@@ -1,0 +1,171 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1773011087_8356372_3e19d58282b2e8ff24ab12fc01090f1f.jpeg",
+  "description": "<div style=\"font-family:Poppins;\"><div class=\"flex max-w-full flex-col gap-4 grow\"><div class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden\"><div class=\"markdown prose dark:prose-invert w-full wrap-break-word dark markdown-new-styling\"><p>ALFIE'S EMPIRE is an online store offering a wide range of quality products including skincare, beauty, cosmetics, personal care items, electronics, and electrical products. Our goal is to provide customers with reliable, trending, and affordable products that improve everyday life. We focus on products that are practical, high-demand, and suitable for daily use.</p><p><strong>What makes us different:</strong></p><ul><li><p>Carefully selected trending products</p></li><li><p>Competitive pricing with good value</p></li><li><p>Fast and reliable order processing</p></li><li><p>A mix of beauty, personal care, and useful lifestyle products in one store</p></li><li><p>Customer-focused service and continuous product updates</p></li></ul><p><strong>How affiliates can earn:</strong><br>Affiliates earn commissions by promoting our products and sharing their unique referral links. When customers purchase through your affiliate link, you receive a commission for each successful order. The more sales you generate, the more you can earn.</p><p><strong>How to promote us:</strong><br>You can promote ALFIE'S EMPIRE through multiple channels, including:</p><ul><li><p>Social media platforms (TikTok, Instagram, Facebook, etc.)</p></li><li><p>Product reviews or recommendations</p></li><li><p>Blogs or websites</p></li><li><p>YouTube or short-form video content</p></li><li><p>Sharing your referral link with your audience or community</p></li></ul><p><strong>Other information:</strong><br>We welcome affiliates who are passionate about sharing great products. Our affiliate program is simple to join, easy to promote, and designed to reward partners who help grow our brand. Support and promotional materials may be provided to help affiliates succeed.</p></div></div></div></div><div class=\"z-0 flex min-h-[46px] justify-start\"><br></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "AS PER SALE INSTANT.",
+  "recommend_score": 0.94,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38521,
+  "categories": "Health & Beauty",
+  "currency": "MYR",
+  "symbol_currency": "&#82;&#77;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "incentivised_traffic_loyalty",
+    "social_media_ads",
+    "search_ads",
+    "social_messenger_app",
+    "direct_linking_direct_traffic",
+    "adult_pornographic",
+    "brand_bidding"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Malaysia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/fpvhku-sq/register",
+  "offer_status": 2,
+  "name": "ALFIE'S EMPIRE",
+  "website": "https://alfiesempireplt.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 258039,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.75,
+  "program_id": 302568,
+  "myshopify_domain": "fpvhku-sq.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": [
+    "Malaysia"
+  ],
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "No data yet",
+  "mkp_program_id": 302568,
+  "product_list": []
+}

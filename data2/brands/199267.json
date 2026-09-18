@@ -1,0 +1,182 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1741638453_6283881_1a3f89f1aa00612a1e17080bf8420b96.jpeg",
+  "description": "<p><strong style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" data-end=\"107\" data-start=\"79\">Parket Onderhoud Centrum</strong><span style=\"white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; float: none; display: inline;\"> is jouw online specialist voor het reinigen, onderhouden en beschermen van houten vloeren. In onze webshop vind je een zorgvuldig geselecteerd assortiment aan hoogwaardige onderhoudsproducten, geschikt voor elk type parketvloer. Of je nu een vloer wilt opfrissen, beschermen of grondig reinigen &ndash; wij bieden de juiste oplossing, snel en eenvoudig online te bestellen. Deskundig advies, snelle levering en topkwaliteit &ndash; d&aacute;t is Parket Onderhoud Centrum.</span></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.13,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 35343,
+  "categories": "Home & Tools, Others",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Netherlands",
+    "Belgium"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "<p>undefined</p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/poc/register",
+  "offer_status": 2,
+  "name": "Parket Onderhoud Centrum ",
+  "website": "https://www.parketonderhoudcentrum.nl",
+  "hashtags": [
+    "#ParketOnderhoud",
+    "#HoutenVloerVerzorging",
+    "#VloerReinigen",
+    "#ParketWebshop",
+    "#VloerOnderhoud",
+    "#Onderhoudsproducten",
+    "#ParketSpecialist",
+    "#SchoonmaakTips",
+    "#DuurzaamWonen",
+    "#Vloerbescherming",
+    "#WebshopVloeronderhoud",
+    "#VloerReiniger"
+  ],
+  "shop_id": 199267,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "5"
+    },
+    {
+      "key": 2,
+      "order_val": "150",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.02,
+  "program_id": 227989,
+  "myshopify_domain": "wzmrdi-vs.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 67.76,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 227989,
+  "product_list": []
+}

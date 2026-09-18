@@ -1,0 +1,201 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1782118493_4756559_e210f9f2dcda7234c54b79cd5b357bbf.jpeg",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>ARBA Global is a growing online store offering a wide selection of products across apparel and accessories, home and garden, pet supplies, jewelry, beauty, gadgets, fitness, and everyday essentials.</p><p><br></p><p>We partner with creators, bloggers, influencers, reviewers, and advertising partners who share products honestly with their audiences. Approved affiliates earn 30% commission on eligible, non-refunded sales through their referral links or discount codes.</p><p><br></p><p>Affiliates receive tracking tools and promotional resources. Paid advertising requires approval. Brand-keyword bidding, misleading claims, spam, coupon poaching, and self-orders are not allowed. Payouts are made monthly after the validation period.</p><p><br></p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Earn 30% on approved, non-refunded sales. Monthly payouts are made after a 14-day validation period. Paid ads are welcome with approval. No brand-keyword bidding, misleading claims, spam, coupon poaching, or self-orders. Affiliates cover their own ad cost",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 40717,
+  "categories": "Animals & Pet Supplies, Apparel & Accessories, Home & Garden",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "30% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "social_media_ads",
+    "display_banner"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Australia",
+    "Germany",
+    "France",
+    "United Arab Emirates",
+    "Saudi Arabia",
+    "Spain",
+    "Italy"
+  ],
+  "payment_support": {
+    "debit": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/arbaglobal/register",
+  "offer_status": 2,
+  "name": "ARBA Global",
+  "website": "https://arbaglobal.store",
+  "hashtags": [
+    "#arbaglobal",
+    "#affiliateprogram",
+    "#creatorprogram",
+    "#fashion",
+    "#jewelry",
+    "#beauty",
+    "#homeandliving",
+    "#gadgets",
+    "#fitness",
+    "#pets",
+    "#onlineshopping"
+  ],
+  "shop_id": 263411,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": 0,
+      "commission_val": "25"
+    },
+    {
+      "key": 2,
+      "order_val": 10,
+      "commission_val": 30
+    }
+  ],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 310855,
+  "myshopify_domain": "afczew-i1.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 76.1,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "100%",
+  "mkp_program_id": 310855,
+  "product_list": []
+}

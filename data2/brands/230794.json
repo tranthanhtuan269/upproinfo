@@ -1,0 +1,174 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1762508163_1515437_2784abbe25aea78403fba0dae21379b8.jpg",
+  "description": "<div style=\"font-family: Poppins;\"><div><p id=\"isPasted\">📢 Important: Affiliate Program Guidelines &amp; Policies</p><p>We’re excited to have you as part of our affiliate program! To ensure smooth collaboration and fair play for everyone involved, please take a moment to review our official Affiliate Policies &amp; Guidelines below.</p><p><br></p><p>🔹 General Policies</p><p><br></p><p>Affiliates must comply with all local laws and advertising guidelines.</p><p>Misleading claims or false advertising are strictly prohibited.</p><p><br></p><p>🚫 No Brand Bidding</p><p><br></p><p>Bidding on our brand name, domain name, or variations/misspellings in paid ads (e.g., Google Ads, Meta Ads, Bing, etc.) is strictly prohibited.</p><p>Violations may result in immediate account termination and forfeiture of pending commissions.</p><p><br></p><p>💳 Payment Method</p><p><br></p><p>Payments are issued via [PayPal/Venmo].</p><p>Minimum payout threshold: $15.</p><p>Payments are processed on a monthly basis (10th of every month).</p><p><br></p><p>✅ Affiliate Verification</p><p><br></p><p>Each affiliate account must be verified before receiving payments.</p><p>Verification requires submission of valid ID and traffic source details.</p><p><br></p><p>💡 Accepted Traffic Sources</p><p><br></p><p>Allowed: Social media, blogs, websites, email lists (opt-in only), influencer traffic, and organic methods.</p><p>Prohibited: Incentivized clicks, bots, spam, adult, or misleading traffic.</p><p><br></p><p>Always ensure traffic is real, relevant, and compliant with our policies.</p><p><br></p><p>💰 Refund &amp; Chargeback Policy</p><p><br></p><p>Commissions are paid only for completed and non-refunded sales.</p><p>In case of chargebacks or customer refunds, the corresponding commission will be deducted from your next payout.</p><p><br></p><p>🧾 Reporting &amp; Tracking</p><p><br></p><p>Real-time tracking and performance reports are available in your affiliate dashboard.</p><p>If you notice any discrepancies, contact us within 7 days of the transaction.</p><p><br></p><p>📩 Need Help?</p><p><br></p><p>If you have any questions about the policies or need assistance, feel free to reach out to our affiliate support team at support@neosabers.com</p><p><br></p><p>Thank you for being part of our growing affiliate network. Let’s work together to achieve amazing results!</p></div></div>",
+  "payout_rate": "39.28%",
+  "payout_period": "30 Days",
+  "recommend_score": 4.25,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36895,
+  "categories": "Toys & Hobbies",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/myneosabers/register",
+  "offer_status": 2,
+  "name": "NEO Sabers",
+  "website": "https://neosabers.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 230794,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.99,
+  "program_id": 268551,
+  "myshopify_domain": "myneosabers.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 414.6,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "63.47%",
+  "mkp_program_id": 268551,
+  "product_list": []
+}

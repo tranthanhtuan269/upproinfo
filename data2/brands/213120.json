@@ -1,0 +1,222 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1779389607_8526027_d4762deb207f979d378b4d09921b0fbf.PNG",
+  "description": "<div style=\"font-family:Poppins;\"><div><p>Blue Bird is a modern laundry care brand helping families replace bulky plastic detergent jugs with powerful, lightweight laundry detergent sheets. Our plant-based formula delivers a deep clean while reducing plastic waste and simplifying laundry day. Affiliates earn 15% commission on every sale, receive exclusive discounts for their audience, and partner with a brand committed to sustainability, convenience, and cleaner living. Blue Bird is ideal for creators focused on home care, eco-friendly living, family content, organization, travel, and healthy lifestyles.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Commissions are reviewed and approved monthly. Payments are sent via PayPal, Venmo, or bank transfer during the first week of each month.",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": "https://www.facebook.com/reel/1574213213927960",
+  "mkp_listing_id": 39634,
+  "categories": "Wellness & Lifestyle, Mom & Kids, Home & Tools",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "social_media_ads",
+    "email_marketing",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada",
+    "United Kingdom",
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<div style=\"font-family: Jost;\"><p>By joining the Blue Bird Ambassador Program, you agree to promote the brand authentically and respectfully.</p></div>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://ambassadors.bluebirddetergent.com/phc3z1-km/register",
+  "offer_status": 2,
+  "name": "Blue Bird",
+  "website": "https://bluebirddetergent.com",
+  "hashtags": [
+    "#laundrysheets",
+    "#ecofriendly",
+    "#sustainableliving",
+    "#cleanliving",
+    "#plasticfree",
+    "#greenhome",
+    "#laundryday",
+    "#momlife",
+    "#homeessentials",
+    "#bluebirddetergent"
+  ],
+  "shop_id": 213120,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "fashion",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": null,
+  "program_id": 320012,
+  "myshopify_domain": "phc3z1-km.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [
+    {
+      "id": "6a0e0eb3be4bc59bbf0fd9f2",
+      "name": "Blue Bird Ambassador Discount",
+      "program_id": 320012,
+      "shop_id": 213120,
+      "affiliates": [],
+      "discount_type": 3,
+      "settings": {
+        "product_discount": {
+          "status": true,
+          "discount_type": "percentage",
+          "amount": 10,
+          "message": "Blue Bird Member Deal",
+          "product_applies_type": "specific_product",
+          "select_data": [
+            "9929925034305",
+            "9885079011649"
+          ]
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": null
+        },
+        "free_shipping": {
+          "status": true,
+          "country_type": "all_country",
+          "country_codes": [],
+          "message": null
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2026-05-20 19:42:43",
+      "created_at": "2026-05-20T19:42:43.898000Z",
+      "updated_at": "2026-05-20T19:42:43.898000Z"
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 35,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "73.33%",
+  "mkp_program_id": 320012,
+  "product_list": []
+}

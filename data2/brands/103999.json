@@ -1,0 +1,172 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/24dd3b9b1e0b24f4aa0e86ef493985d3.png",
+  "description": "<p>Meet Hit Hero, your trusted partner in the batter's box. We're more than just a brand - we're a game-changing innovator in the world of baseball, delivering premium, handcrafted batting aids designed to enhance your performance at the plate.</p>\r\n<p>Hit Hero is a revolutionary batting thumb grip, crafted from 100% platinum silicone for unmatched durability and comfort. We've meticulously engineered Hit Hero to protect your hands, boost your swing performance, and maintain the raw, natural connection between your bat's barrel and the ball.</p>\r\n<p>Unlike traditional batting aids, Hit Hero is designed with a blend of comfort, control, and natural feel in mind. Our patented design has been extensively tested and refined with player feedback, ensuring a batting aid that doesn't feel awkward or clunky in the hands. Plus, every Hit Hero is handcrafted and hand-mixed with colors, offering a personal touch to each unit.</p>\r\n<p>As part of our affiliate program, we're offering a 10% commission on every sale made through your unique referral link. We provide monthly payouts through PayPal, ensuring a smooth and reliable payment process.</p>\r\n<p>But that's not all! Your followers also benefit from this partnership. They get a 10% discount on their Hit Hero orders when they use your unique referral code at checkout. This is a great opportunity to provide value to your community while earning commission yourself. Join us in revolutionizing the game and elevating performances on baseball fields worldwide.</p>",
+  "payout_rate": "99.37%",
+  "payout_period": null,
+  "recommend_score": 3.46,
+  "average_earning_per_sale": "2",
+  "video_url": "https://www.youtube.com/watch?v=IEX6fsErUAA&ab_channel=HitHero",
+  "mkp_listing_id": 24519,
+  "categories": "Sports & Entertainment",
+  "currency": "CAD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1686844030_8152006_90dbcccc55519406c922838ce9c6f08b.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Canada",
+    "Dominican Republic",
+    "Mexico",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/get-hit-hero/register",
+  "offer_status": 2,
+  "name": "Hit Hero",
+  "website": "https://gethithero.com",
+  "hashtags": [
+    "#gethithero",
+    "#borntowinbaseballclub"
+  ],
+  "shop_id": 103999,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.75,
+  "program_id": 118150,
+  "myshopify_domain": "get-hit-hero.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 45.12,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "63.89%",
+  "mkp_program_id": 118150,
+  "product_list": []
+}

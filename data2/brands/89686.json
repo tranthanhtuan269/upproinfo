@@ -1,0 +1,247 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1678921761_7051053_00220771d8bf177958dc9938f97faa1aTPFS Logo Black copy 2.png",
+  "description": "<p>Welcome to The Pelvic Floor Store, your one-stop-shop for all your pelvic health needs! Our mission is to empower busy women to take charge of their pelvic health by providing a wide range of high-quality products and supplements that promote pelvic peace, hormone harmony, and yes, even sexy sizzle!</p>\r\n<p>We understand that maintaining optimal pelvic health can be challenging, especially for women who lead busy lives. That's why we've curated a collection of products designed to make pelvic health easy and accessible, from pads and kegel exercisers to supplements that support overall wellness.</p>\r\n<p>At The Pelvic Floor Store, we believe that every woman deserves to feel confident and comfortable in her own skin. Our products are designed to help you do just that, so you can focus on living your best life without worrying about embarrassing leaks or discomfort.</p>\r\n<p>So whether you're a busy mom, a fitness enthusiast, or just someone who wants to feel more in control of her body, we've got you covered. Shop our selection today and experience the pelvic peace and sexy sizzle you deserve!</p>",
+  "payout_rate": "74%",
+  "payout_period": null,
+  "recommend_score": 2.74,
+  "average_earning_per_sale": "10",
+  "video_url": null,
+  "mkp_listing_id": 21840,
+  "categories": "Beauty & Health, Grocery & Food",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1678917538_3959394_e3c3d3b1f5f70ddbe710e56bd8f843e2.png",
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": true,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia",
+    "Canada",
+    "Spain",
+    "Finland",
+    "United Kingdom",
+    "Ireland",
+    "Mexico",
+    "Puerto Rico",
+    "United States Minor Outlying Islands",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/the-pelvic-floor-store/register",
+  "offer_status": 2,
+  "name": "The Pelvic Floor Store",
+  "website": "https://pelvicfloorstore.com",
+  "hashtags": [
+    "#pelvic",
+    " #pelvichealth",
+    " #boric",
+    " #boricacid",
+    "#dilator",
+    "#vaginitis",
+    " #lubricant",
+    "#womenshealth",
+    " #women",
+    "#obgyn",
+    "#kegel",
+    "#vaginal",
+    " #rejuvenation",
+    "#vitamins",
+    " #vitamin",
+    "#supplements",
+    "#health",
+    "#wellness",
+    "#holistic"
+  ],
+  "shop_id": 89686,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.96,
+  "program_id": 102385,
+  "myshopify_domain": "the-pelvic-floor-store.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [
+    {
+      "id": "68d24da15d235d1f70010167",
+      "name": "Auto-discount rule",
+      "program_id": 102385,
+      "shop_id": 89686,
+      "affiliates": [],
+      "discount_type": 1,
+      "settings": {
+        "product_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": "",
+          "product_applies_type": "percentage",
+          "select_data": []
+        },
+        "order_discount": {
+          "status": false,
+          "discount_type": "percentage",
+          "amount": null,
+          "message": ""
+        },
+        "free_shipping": {
+          "status": false,
+          "message": "",
+          "country_type": "all_country",
+          "country_codes": []
+        }
+      },
+      "target_type": 1,
+      "status": true,
+      "minimum_type": "no_minimum",
+      "minimum": null,
+      "defined_coupon": null,
+      "active_at": "2025-09-23 07:34:57",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 107.3,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Applied",
+  "approval_rate": "89.33%",
+  "mkp_program_id": 102385,
+  "product_list": []
+}

@@ -1,0 +1,180 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1717642207_9809727_4869d4434686b9c9b351612dafd2b7ec.png",
+  "description": "<p style=\"text-align: left; font-size: 14px; font-weight: normal;\"><strong>At &ldquo;JaipurCraftonline&rdquo; Also known as &ldquo;JaipurCrafts &ldquo;, we are devoted to support &amp; empower artisans through systematic development efforts. By means of the web, we have made an attempt to sustain the livelihood of artisans and to promote &amp; preserve the integrity of Indian craft &amp; culture. Every handcrafted product is special as it holds beauty and elegance in itself that is rare. We are making our best efforts to bring craft close to the people who admire them. &ldquo;JaipurCrafts&rdquo; provides a platform to the artisans where they can easily reach their admirers and showcase their talent through us.</strong><br><br><strong>JaipurCrafts is a premium online handicraft product store, an art repository that facilitates the art connoisseurs&rsquo; access to the finest handcrafted products of India. The start-up was born with a vision to nurture the artisans and protect the art forms for future generations while making the products available at reasonable prices. Through this online megastore, they&rsquo;ll get the recognition which they deserve, which in turn will boost up their enthusiasm and creativity. Through JaipurCrafts, we are showcasing the most fascinating &amp; amazing traditional Indian handicrafts to the world at large which include sculptures, statues, paintings, home decor items, accessories, jewelry, gifts, and a lot more from the ethnic handicraft industry.</strong><br><br><strong>For any business-related query please write an email to care@jaipurcraftonline.com.</strong></p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.97,
+  "average_earning_per_sale": "10",
+  "video_url": null,
+  "mkp_listing_id": 29317,
+  "categories": "Home & Tools, Others",
+  "currency": "INR",
+  "symbol_currency": "&#8377;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "India"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1,
+    "paytm": 1,
+    "upi": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/jaipurcraftsonline/register",
+  "offer_status": 2,
+  "name": "JaipurCrafts",
+  "website": "https://www.jaipurcraftonline.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 94011,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.88,
+  "program_id": 107306,
+  "myshopify_domain": "jaipurcraftsonline.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 613.79,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "90%",
+  "mkp_program_id": 107306,
+  "product_list": []
+}

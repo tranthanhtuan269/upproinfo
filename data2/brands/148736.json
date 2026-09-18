@@ -1,0 +1,193 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1715920300_8685075_9122d67269a8aa53067117b97f3fd5d7.png",
+  "description": "<p style=\"font-size: 14px; font-weight: normal; text-align: center;\"><strong>OILS&amp;SPRAYS</strong></p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">The NO.1 First Fragrance company to distrubute the finest perfume oils in a spray bottle. It's making scents!</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Join the O&amp;S family and get rewarded for your refferals and make the world smell a better place.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">If you have any queries then you can contact us at contact@oilsansprays.co.uk</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">or 02035765801.&nbsp;</p>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">Thank you and we look forward to working with you!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 2,
+  "average_earning_per_sale": "5",
+  "video_url": null,
+  "mkp_listing_id": 33943,
+  "categories": "Beauty & Health",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "10%-15% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Coupons or Deals website",
+    "Etsy",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Podcast platforms",
+    "Quora",
+    "Tiktok",
+    "Twitch",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Albania",
+    "Algeria",
+    "Belgium",
+    "China",
+    "France",
+    "Netherlands",
+    "Romania",
+    "United Kingdom",
+    "United Arab Emirates",
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<p><strong>1. Agreement</strong></p>\r\n<p>By signing up to be an Affiliate in the OILS AND SPRAYS LTD Affiliate Program, you are agreeing to be bound by the following terms and conditions (&ldquo;Terms of Service&rdquo;). OILS AND SPRAYS LTD reserves the right to update and change the Terms of Service from time to time without notice. Any new features that augment or enhance the current Program, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Program after any such changes shall constitute your consent to such changes.</p>\r\n<p><strong>2. Affiliate Responsibilities</strong></p>\r\n<p>You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process. You are responsible for maintaining the security of your account and password. OILS AND SPRAYS LTD cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.</p>\r\n<p><strong>3. Commissions and Payment</strong></p>\r\n<p>Affiliates will receive a commission for referring clients to OILS AND SPRAYS LTD as long as the client remains a paying customer. The commission rate is 10-15% and is subject to change at our discretion. Commissions will be paid out monthly.</p>\r\n<p><strong>4. Affiliate Links and Promotions</strong></p>\r\n<p>Affiliate links may be placed on your website, emails, or other communications. You may use the graphics and text provided by OILS AND SPRAYS LTD or create your own as long as they are deemed appropriate according to the terms of this Agreement.</p>\r\n<p><strong>5. Term of the Agreement</strong></p>\r\n<p>The term of this Agreement will begin upon our acceptance of your application and will end when terminated by either party. Either you or OILS AND SPRAYS LTD may terminate this Agreement at any time, with or without cause, by giving the other party written notice of termination.</p>\r\n<p><strong>6. Termination</strong></p>\r\n<p>OILS AND SPRAYS LTD, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Program, or any other OILS AND SPRAYS LTD service, for any reason at any time. Such termination will result in the deactivation or deletion of your account or your access to your account.</p>\r\n<p><strong>7. Limitation of Liability</strong></p>\r\n<p>OILS AND SPRAYS LTD will not be liable for indirect, special, or consequential damages (or any loss of revenue, profits, or data) arising in connection with this Agreement or the Program, even if OILS AND SPRAYS LTD has been advised of the possibility of such damages.</p>\r\n<p><strong>8. Relationship of Parties</strong></p>\r\n<p>You and OILS AND SPRAYS LTD are independent contractors, and nothing in this Agreement will create any partnership, joint venture, agency, franchise, sales representative, or employment relationship between the parties.</p>\r\n<p><strong>9. Disclaimer</strong></p>\r\n<p>OILS AND SPRAYS LTD makes no express or implied warranties or representations with respect to the Program or any products sold through the Program.</p>\r\n<p><strong>10. Governing Law</strong></p>\r\n<p>This Agreement shall be governed by the laws of United Kingdom, without regard to its conflict of law provisions.</p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/oilsandspraystm/register",
+  "offer_status": 2,
+  "name": "OILS & SPRAYS",
+  "website": "https://oilsandsprays.co.uk",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 148736,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "165",
+      "commission_val": "15"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.37,
+  "program_id": 168895,
+  "myshopify_domain": "oilsandspraystm.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 68.66,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "32.2%",
+  "mkp_program_id": 168895,
+  "product_list": []
+}

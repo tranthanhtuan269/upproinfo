@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1754527196_7637319_ad794c3e5f95639305fce2d17b7eb621.jpg",
+  "description": "<div style=\"font-family: Poppins;\"><div><h3 data-start=\"249\" data-end=\"299\" id=\"isPasted\">💼 À propos de notre marque et de nos produits</h3><p data-start=\"301\" data-end=\"580\">Nous sommes une boutique spécialisée dans les accessoires et produits pour chiens et chats. Chaque article est soigneusement sélectionné pour offrir à vos compagnons confort, style et bien-être. Notre mission : améliorer le quotidien des animaux de compagnie et de leurs humains.</p><hr data-start=\"582\" data-end=\"585\"><h3 data-start=\"587\" data-end=\"621\">🌟 Ce qui nous rend différents</h3><ul data-start=\"623\" data-end=\"845\"><li data-start=\"623\" data-end=\"691\"><p data-start=\"625\" data-end=\"691\">Produits tendance, utiles et testés par des passionnés d’animaux</p></li><li data-start=\"692\" data-end=\"738\"><p data-start=\"694\" data-end=\"738\">Livraison rapide et service client réactif</p></li><li data-start=\"739\" data-end=\"782\"><p data-start=\"741\" data-end=\"782\">Marque engagée pour le bien-être animal</p></li><li data-start=\"783\" data-end=\"845\"><p data-start=\"785\" data-end=\"845\">Des nouveautés chaque mois pour rester à la pointe du marché</p></li></ul><hr data-start=\"847\" data-end=\"850\"><h3 data-start=\"852\" data-end=\"899\">💸 Comment les affiliés gagnent de l’argent</h3><p data-start=\"901\" data-end=\"1106\">Vous gagnez&nbsp;<strong data-start=\"913\" data-end=\"935\">10 % de commission</strong> sur chaque vente réalisée grâce à votre lien ou code promo.<br data-start=\"995\" data-end=\"998\">✅ Les commissions sont <strong data-start=\"1021\" data-end=\"1048\">suivies automatiquement</strong><br data-start=\"1048\" data-end=\"1051\">✅ Paiement mensuel dès que le seuil minimum est atteint</p><hr data-start=\"1108\" data-end=\"1111\"><h3 data-start=\"1113\" data-end=\"1143\">📣 Comment nous promouvoir</h3><ul data-start=\"1145\" data-end=\"1437\"><li data-start=\"1145\" data-end=\"1221\"><p data-start=\"1147\" data-end=\"1221\">Partagez votre <strong data-start=\"1162\" data-end=\"1178\">lien affilié</strong> sur les réseaux sociaux, blog ou YouTube</p></li><li data-start=\"1222\" data-end=\"1280\"><p data-start=\"1224\" data-end=\"1280\">Offrez votre <strong data-start=\"1237\" data-end=\"1261\">code promo personnel</strong> à votre audience</p></li><li data-start=\"1281\" data-end=\"1355\"><p data-start=\"1283\" data-end=\"1355\">Intégrez nos produits dans vos contenus : unboxing, avis, tutoriels...</p></li><li data-start=\"1356\" data-end=\"1437\"><p data-start=\"1358\" data-end=\"1437\">Utilisez nos visuels, bannières et textes disponibles dans votre espace affilié</p></li></ul><hr data-start=\"1439\" data-end=\"1442\"><h3 data-start=\"1444\" data-end=\"1482\">📌 Autres informations importantes</h3><ul data-start=\"1484\" data-end=\"1749\"><li data-start=\"1484\" data-end=\"1572\"><p data-start=\"1486\" data-end=\"1572\">Vous pouvez suivre vos performances en temps réel dans votre tableau de bord affilié</p></li><li data-start=\"1573\" data-end=\"1656\"><p data-start=\"1575\" data-end=\"1656\">N'oubliez pas de <strong data-start=\"1592\" data-end=\"1618\">compléter votre profil</strong> et vos <strong data-start=\"1626\" data-end=\"1654\">informations de paiement</strong></p></li><li data-start=\"1657\" data-end=\"1749\"><p data-start=\"1659\" data-end=\"1749\">En cas de besoin, notre équipe est disponible à l'adresse suivante :</p></li></ul></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Les commissions sont versées le 1er de chaque mois pour toutes les ventes validées du mois précédent.\n\n🔒 Note : Seules les commandes non remboursées ou annulées sont comptabilisées.\n💳 Assurez-vous que vos informations de paiement sont bien complétées da",
+  "recommend_score": null,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 36213,
+  "categories": "Pet supplies",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "brand_bidding"
+  ],
+  "target_audience_ages": [
+    "18-24"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "France"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/MyPetto/register",
+  "offer_status": 2,
+  "name": "MyPetto™",
+  "website": "https://worldamimals.myshopify.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 222241,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.07,
+  "program_id": 257529,
+  "myshopify_domain": "11gv9u-mw.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 10.85,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "9.09%",
+  "mkp_program_id": 257529,
+  "product_list": []
+}

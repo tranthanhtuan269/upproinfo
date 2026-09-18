@@ -1,0 +1,177 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1723467323_4427331_f7c3180776da828ad0602967b940f814.png",
+  "description": "<h4><strong>Product Description:</strong></h4>\r\n<p>Our producst include a wide array of pet essentials such as premium pet food, comfortable bedding, durable toys, grooming tools, training accessories, and health supplements. Each product is carefully selected to ensure the highest standards of safety, nutrition, and satisfaction for pets. Whether you're looking to keep your pet entertained, well-fed, or healthy, we offer everything you need to care for your furry, feathered, or finned friends.</p>\r\n<h4><strong>Unique Selling Point (USP):</strong></h4>\r\n<ul>\r\n<li><strong>Comprehensive Range:</strong> A one-stop shop for all pet needs, from nutrition to entertainment.</li>\r\n<li><strong>Eco-Friendly Options:</strong> A vast selection of sustainable and environmentally friendly products.</li>\r\n<li><strong>Veterinarian-Recommended Options:</strong> A wide selection of products endorsed by veterinarians and pet care experts.</li>\r\n<li><strong>Customer Support:</strong> Dedicated customer service with a focus on helping pet owners find the best products for their needs.</li>\r\n</ul>\r\n<h4><strong>Payment Terms:</strong></h4>\r\n<ul>\r\n<li><strong>Commission Rate:</strong> Earn 10% on each sale generated through your affiliate link (excluding Taxes and shipping).</li>\r\n<li><strong>Minimum Payout:</strong> A minimum threshold of 100 AUD must be reached before payouts are made.</li>\r\n<li><strong>Payment Frequency:</strong> Payments are issued within 10 business days of reaching the minimum payout threshold.</li>\r\n<li><strong>Payment Methods:</strong> Payments can be received via bank transfers.</li>\r\n</ul>\r\n<h4><strong>Other Information:</strong></h4>\r\n<ul>\r\n<li><strong>Special Promotions:</strong> Affiliates may receive exclusive access to special promotions or discounts to help drive sales.</li>\r\n</ul>\r\n<p>The <span>Tail Waggers Affiliate Program</span>&nbsp; is designed for pet lovers, bloggers, and influencers who want to share top-tier pet supplies with their audience while earning competitive commissions!</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": 0.7,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 31629,
+  "categories": "Pet supplies",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Tiktok",
+    "Youtube",
+    "Instagram",
+    "Blog",
+    "Facebook"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Australia"
+  ],
+  "payment_support": {
+    "bank": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/mega-pet-store/register",
+  "offer_status": 2,
+  "name": "Mega Pet Store",
+  "website": "https://megapetstore.net",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 161823,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "500",
+      "commission_val": "12.5",
+      "disabled": false
+    }
+  ],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.67,
+  "program_id": 184108,
+  "myshopify_domain": "mega-pet-store-mps.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "12.5%",
+  "mkp_program_id": 184108,
+  "product_list": []
+}

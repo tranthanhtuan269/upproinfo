@@ -1,0 +1,188 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1752161926_5053088_ce0d0a3e0c7f0549497ea5dafd9f90a9.png",
+  "description": "<p><strong>Brand Introduction:</strong> Joyrise&trade; is dedicated to enhancing life's celebratory moments by providing innovative health solutions. Our mission is to support individuals in feeling their best, even after indulgent occasions.</p>\r\n<p><strong>Product Description:</strong> Joyrise&trade; Post-Drinking Recovery Aid is a scientifically formulated powder designed to alleviate the aftereffects of alcohol consumption. By accelerating the metabolism of sugars and facilitating the elimination of toxins like acetaldehyde, it ensures you wake up refreshed and revitalized.&nbsp;<span data-state=\"closed\"></span></p>\r\n<p><strong>Unique Selling Point (USP):</strong> Unlike typical hydration solutions, Joyrise targets the root causes of post-drinking discomfort. Our proprietary blend, featuring vine tea extract, supports liver function and promotes rapid recovery, delivering noticeable results within 30 minutes or less.</p>\r\n<p><strong>Payment Terms:</strong> Affiliates earn a competitive commission (12% - 18% depending on volume) on each sale generated through their unique referral links. Payments are processed monthly, with a minimum payout threshold of $50.</p>\r\n<p><strong>Other Information:</strong> Joyrise&trade; &nbsp;is committed to quality and transparency. Our product is made with natural ingredients and is free from artificial additives. We offer a 30-day satisfaction guarantee, reflecting our confidence in the product's efficacy. <span data-state=\"closed\"></span></p>\r\n<p>As an affiliate, you'll have access to a range of marketing materials and dedicated support to help you succeed.</p>\r\n<p><br></p>",
+  "payout_rate": "79.41%",
+  "payout_period": null,
+  "recommend_score": 2.91,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 33308,
+  "categories": "Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": "https://cdn.uppromote.com/storage/uploads/banners/1732294229_9308990_a11701df190aa638300c5eeb9818b5d2.png",
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "12%-18% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Tiktok",
+    "Twitter",
+    "Youtube",
+    "Instagram",
+    "Facebook"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Female",
+    "Male",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States",
+    "Canada"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "store_credit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.joyrise.com/joyrise/register",
+  "offer_status": 2,
+  "name": "Joyrise Health",
+  "website": "https://joyrise.com",
+  "hashtags": [
+    "#hangover",
+    "#hangoveraid",
+    "#drinking",
+    "#wine",
+    "#redwine",
+    "#alcohol"
+  ],
+  "shop_id": 176485,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "12",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "10001",
+      "commission_val": "15",
+      "disabled": false
+    },
+    {
+      "key": 3,
+      "order_val": "25000",
+      "commission_val": "18",
+      "disabled": false
+    }
+  ],
+  "tem": "home",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.99,
+  "program_id": 201035,
+  "myshopify_domain": "joyriseshop.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 35.7,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "95.83%",
+  "mkp_program_id": 201035,
+  "product_list": []
+}

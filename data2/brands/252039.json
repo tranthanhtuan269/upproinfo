@@ -1,0 +1,191 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1770028495_8647628_013a8ad5791a85b62c6567c1ce403951.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><p><strong>• About our brand and products:</strong><br>EELHOE COSMETICS offers high-quality beauty products designed to deliver real results. From hair growth solutions to skincare essentials, our formulas combine natural ingredients with proven effectiveness to help customers look and feel their best.</p><p><strong>• How affiliates can earn:</strong><br>Our program is open to everyone. Earn competitive commissions on every sale generated through your unique referral link. The more you promote, the more you earn — no limits.</p><p><strong>• How to promote us:</strong><br>Promote EELHOE COSMETICS عبر social media platforms (TikTok, Instagram, Facebook), blogs, or any content channel. We provide viral-ready products that are easy to market with before/after content and strong demand.</p><p><strong>• Other information:</strong><br>✔️ High-converting products<br>✔️ Attractive offers (bundles, discounts, Buy 2 Get 1 Free)<br>✔️ Fast support &amp; reliable fulfillment<br>✔️ Perfect for content creators &amp; beginners</p><p>🚀 Join us and start earning with a fast-growing beauty brand.</p></div></div>",
+  "payout_rate": "82.05%",
+  "payout_period": "30 days",
+  "recommend_score": 7.19,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38400,
+  "categories": "Bundles, Electronics, Health & Beauty",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "coupon_discount_codes",
+    "incentivised_traffic_loyalty",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "cashback",
+    "display_banner",
+    "direct_linking_direct_traffic",
+    "gambling"
+  ],
+  "target_audience_ages": [
+    "Under 18",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Belgium",
+    "Denmark",
+    "France",
+    "Germany",
+    "Australia",
+    "United States",
+    "United Kingdom",
+    "Turkey",
+    "Switzerland",
+    "Spain"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/EELHOECOSMETICS/register",
+  "offer_status": 2,
+  "name": "EELHOE COSMETICS",
+  "website": "https://eelhoe-cosmetics.com",
+  "hashtags": [
+    "#skin",
+    "#cosmetics",
+    "#skincare",
+    "#hair",
+    "#beauty",
+    "#makeup"
+  ],
+  "shop_id": 252039,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 3.1,
+  "program_id": 294858,
+  "myshopify_domain": "33f608-3.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "growth_affiliate",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 31.86,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "98.42%",
+  "mkp_program_id": 294858,
+  "product_list": []
+}

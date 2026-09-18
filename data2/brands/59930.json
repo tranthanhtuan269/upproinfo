@@ -1,0 +1,149 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/635830bba0b248671659ddc4549bdef6.jpg",
+  "description": "<p>Online Vape Shop offering disposables vapes, liquids, starter kits and accessories delivered to the comfort of your home!</p>\r\n<p>We are a small new business bringing you a variety of flavours and brands! Looking to quit smoking? Have a look at our online store (www.2cloude.co.uk) to find out how we can help you stop!</p>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 1.4,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 13477,
+  "categories": "Beauty & Health, Electronics, Others",
+  "currency": "GBP",
+  "symbol_currency": "&#163;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 90,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1
+  },
+  "application_review": "auto",
+  "term_and_condition": "<p>You must provide your legal full name, a valid email address, and any\r\n other information requested in order to complete the sign up process \r\nfor an Affiliate account (“account”)</p>\r\n<p>You must be 18 years of age or older to join this Program.</p>\r\n<p>Each account is for use by either a single legal entity (e.g. a \r\ncompany or a partnership) or an individual user. We do not permit you to\r\n share your user name and password with any other person nor with \r\nmultiple users on a network. Responsibility for the security of any user\r\n names and passwords issued (including those of any Invitees) rests with\r\n you.</p>\r\n<p>You may not use the Program for any illegal or unauthorized purpose. \r\nYou must not, in the use of the Program, violate any laws in your \r\njurisdiction (including but not limited to copyright laws).</p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/2cloude/register",
+  "offer_status": 2,
+  "name": "2CloudE",
+  "website": "https://2cloude.co.uk",
+  "hashtags": [],
+  "shop_id": 59930,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "10"
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.17,
+  "program_id": 67559,
+  "myshopify_domain": "2cloude.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "91.14%",
+  "mkp_program_id": 67559,
+  "product_list": []
+}

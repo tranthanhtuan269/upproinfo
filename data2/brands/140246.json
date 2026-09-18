@@ -1,0 +1,203 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1710195060_5548880_1b9b7374cd068ca940389710ae04f8d0.jpeg",
+  "description": "<div>\r\n<p style=\"text-align: left; font-size: 14px; font-weight: normal;\">&bull; Brand introduction: Tax Free Montana Vehicle Registration Packages<br>&bull; Product description: Tax Free Montana Vehicle Registration Packages for car, aircraft and water vessel enthusiasts. We handle the complete registration process for vehicles through Montana LLC registration packages. These packages offer zero sales tax, permanent registration, no emissions, no inspections and have many other benefits.<br>&bull; USP (Unique Selling Point): zero sales tax, perm registration for most, no inspection, no emissions any in all vehicles.<br>&bull; Payment terms: debit card and other financial platforms.<br>&bull; Other information: we are looking for influencers in the hyper car and supercar worlds as well as off-road vehicles, such as Can-Am, Polaris, Kawasaki. We're also looking for aircraft brokers, auto brokers, and anyone associated with the sale of these vehicles. This is a huge selling point if you are a seller of vehicles. Gives you an advantage over other dealers.</p>\r\n</div>",
+  "payout_rate": "0%",
+  "payout_period": null,
+  "recommend_score": 3.39,
+  "average_earning_per_sale": "175.00",
+  "video_url": null,
+  "mkp_listing_id": 31562,
+  "categories": "Automobiles & Motorcycles",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 2,
+  "commission_type": 2,
+  "commission": "0%-10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "Facebook",
+    "Instagram",
+    "Youtube",
+    "Tiktok",
+    "Twitter",
+    "Pinterest",
+    "Twitch",
+    "Reddit",
+    "Etsy",
+    "Quora",
+    "Blog",
+    "Coupons or Deals website",
+    "Comparison shopping engine",
+    "Content or Niche website",
+    "Podcast platforms"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1,
+    "cheque": 1,
+    "venmo": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/montanatags/register",
+  "offer_status": 2,
+  "name": "MontanaTags.com",
+  "website": "https://montanatags.com",
+  "hashtags": [
+    "#supercar",
+    "#hypercar",
+    "#collectorcars",
+    "#montanatags",
+    "#taxfree",
+    "#llcformation",
+    "#registeredagent",
+    "#ferrari",
+    "#lamborghini",
+    "#mecumauction"
+  ],
+  "shop_id": 140246,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [
+    {
+      "key": 1,
+      "order_val": "0",
+      "commission_val": "0",
+      "disabled": false
+    },
+    {
+      "key": 2,
+      "order_val": "895.00",
+      "commission_val": "5"
+    },
+    {
+      "key": 3,
+      "order_val": "2490.00",
+      "commission_val": "10",
+      "disabled": false
+    }
+  ],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 2.49,
+  "program_id": 179658,
+  "myshopify_domain": "montanatags.myshopify.com",
+  "is_detect_referral_google_ads": 1,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 707.2,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "85%",
+  "mkp_program_id": 179658,
+  "product_list": []
+}

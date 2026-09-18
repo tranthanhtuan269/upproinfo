@@ -1,0 +1,146 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logos/1635524263_7893471_4432d2b6bd0a8326e3b19054ad9ea9a8.png",
+  "description": "Earn 10% commission on qualifying referral orders at theextensiongallery.com or at any Extension Gallery Boutique. Get paid easily and quickly through PayPal.&nbsp;Earn commission by sharing a coupon code with your friends, followers and clients or sharing a unique purchasing link.&nbsp;All Star Affiliate Members now receive a 20% discount on all full price items! To apply your discount, use the SAP20 discount code at checkout.",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "25.00",
+  "video_url": null,
+  "mkp_listing_id": 10098,
+  "categories": "Fashion, Beauty & Health",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [],
+  "target_audience_ages": [],
+  "target_audience_genders": [],
+  "target_audience_locations": [],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<p>Commissions are paid once a month via PayPal only. In order to receive commission for purchases made by your clients, your clients must either use or present your unique coupon code on a qualifying purchase, shop via your unique link on theextensiongallery.com, or make a purchase on theextensiongallery.com .  Commission is awarded for a maximum period of two years per client. During promotional periods, commission will only be applied when the promo discount on the referral order is 30% or less.</p><p><br></p><p>To be eligible for commission, you must fill out a W-9. After your application is approved, you will be contacted by The Extension Gallery to fill out a W-9.</p><p><br></p><p>The Extension Gallery Corp. reserves the right to cancel, change, or update these terms at any time. Please email extensiongalleryxpress@gmail.com with any questions.</p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/the-extension-gallery/register",
+  "offer_status": 2,
+  "name": "The Extension Gallery",
+  "website": "https://theextensiongallery.com",
+  "hashtags": [],
+  "shop_id": 49648,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    },
+    {
+      "aff_p_id": 224072,
+      "mkp_p_id": 224072
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.77,
+  "program_id": 55414,
+  "myshopify_domain": "the-extension-gallery.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "9.68%",
+  "mkp_program_id": 55414,
+  "product_list": []
+}

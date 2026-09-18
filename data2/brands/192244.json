@@ -1,0 +1,160 @@
+{
+  "logo": null,
+  "description": "<ul>\r\n<li><strong>Brand Introduction</strong>: Mall C مول is an e-commerce retailer specializing in fashion and home decor.</li>\r\n<li><strong>Product Description</strong>: Dressers, lights, crystals.</li>\r\n<li><strong>USP (Unique Selling Point)</strong>: Online sales with delivery within 5-20 days.</li>\r\n<li><strong>Payment Terms</strong>: 100% payment in advance.</li>\r\n<li><strong>Other Information</strong>: We affiliate with multiple vendors from the US, China, and Saudi Arabia to ship the products.</li>\r\n</ul>\r\n<ul>\r\n<li style=\"text-align: right;\"><strong>تعريف العلامة التجارية</strong>: مول Mall C هو متجر إلكتروني متخصص في بيع منتجات الأزياء والديكور المنزلي.</li>\r\n<li style=\"text-align: right;\"><strong>وصف المنتجات</strong>: خزائن، مصابيح، كريستالات.</li>\r\n<li style=\"text-align: right;\"><strong>نقطة البيع الفريدة (USP)</strong>: مبيعات عبر الإنترنت مع توصيل خلال 5-20 يومًا.</li>\r\n<li style=\"text-align: right;\"><strong>شروط الدفع</strong>: الدفع 100% مقدمًا.</li>\r\n<li style=\"text-align: right;\"><strong>معلومات أخرى</strong>: نحن نتعاون مع العديد من الموردين من الولايات المتحدة، الصين، والمملكة العربية السعودية لشحن المنتجات</li>\r\n</ul>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 34182,
+  "categories": "Fashion, Home & Tools",
+  "currency": "SAR",
+  "symbol_currency": "&#65020;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "5% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Tiktok",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "Saudi Arabia"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/a52d41-62/register",
+  "offer_status": 2,
+  "name": "Mall C مول .. by more organized llc",
+  "website": "https://www.mall-c.com",
+  "hashtags": [
+    "#saudifasion",
+    "#fasion",
+    "#ramadan"
+  ],
+  "shop_id": 192244,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.67,
+  "program_id": 218756,
+  "myshopify_domain": "a52d41-62.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "0%",
+  "mkp_program_id": 218756,
+  "product_list": []
+}

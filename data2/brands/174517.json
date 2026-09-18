@@ -1,0 +1,173 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1731314450_3069157_1fed900231183d2c54e93abb2797a475.png",
+  "description": "<p>&bull; <strong>Brand Introduction:</strong><br>Cofgo is a German brand specializing in innovative solutions for coffee lovers who are constantly on the move. Our goal is to create coffee experiences that blend freedom and flexibility without sacrificing quality.</p>\r\n<p>&bull; <strong>Product Description:</strong><br>Cofgo's portable espresso machine is perfect for travelers, campers, or professionals who want to enjoy a rich espresso anywhere, anytime. Lightweight, compact, and equipped with a powerful battery, it brews espresso with a smooth crema in just a few minutes.</p>\r\n<p>&bull; <strong>USP (Unique Selling Point):</strong><br>Our machine is not only lightweight and portable, but it also supports the use of both ground coffee and capsules, is compatible with multiple charging options, and plants 3 trees with every purchase to support the environment.</p>\r\n<p>&bull; <strong>Payment Terms:</strong><br>We offer PayPal</p>",
+  "payout_rate": "No data yet",
+  "payout_period": null,
+  "recommend_score": null,
+  "average_earning_per_sale": "10",
+  "video_url": null,
+  "mkp_listing_id": 33117,
+  "categories": "Others, Grocery & Food, Electronics",
+  "currency": "EUR",
+  "symbol_currency": "&#8364;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 0,
+  "commission": "€10.00 per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 365,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Blog",
+    "Content or Niche website",
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65 and over"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "Austria",
+    "Belgium",
+    "Czech Republic",
+    "Denmark",
+    "France",
+    "Germany",
+    "Italy",
+    "Spain",
+    "Portugal",
+    "Netherlands"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "<p><a target=\"_blank\" href=\"https://www.cofgo.com/pages/agb\" title=\"Terms &amp; Conditiona\" rel=\"noopener\">https://www.cofgo.com/pages/agb</a></p>",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/cofgo/register",
+  "offer_status": 2,
+  "name": "Cofgo",
+  "website": "https://www.cofgo.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 174517,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.77,
+  "program_id": 198674,
+  "myshopify_domain": "ap1vse-pv.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 0,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "25%",
+  "mkp_program_id": 198674,
+  "product_list": []
+}

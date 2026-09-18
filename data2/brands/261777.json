@@ -1,0 +1,164 @@
+{
+  "logo": null,
+  "description": "<div style=\"font-family:Poppins;\"><p style=\"margin:0px 0px 12px 0px;font:12px 'Times New Roman';\"><span style=\"font-family:'Times New Roman';font-weight:normal;font-style:normal;font-size:12px;\">About our brand and products:</span></p><p style=\"margin:0px 0px 12px 0px;font:12px 'Times New Roman';\"><span style=\"font-family:'Times New Roman';font-weight:normal;font-style:normal;font-size:12px;\">Vive Boutique is a trendy online fashion brand focused on western, cowgirl-inspired and stylish outfits. We offer exclusive, limited pieces that help women feel confident, unique, and fashionable.</span></p><p style=\"margin:0px 0px 12px 0px;font:12px 'Times New Roman';\"><span style=\"font-family:'Times New Roman';font-weight:normal;font-style:normal;font-size:12px;\">What makes us different:</span></p><p style=\"margin:0px 0px 12px 0px;font:12px 'Times New Roman';\"><span style=\"font-family:'Times New Roman';font-weight:normal;font-style:normal;font-size:12px;\">We focus on limited collections and pre-order drops, meaning each piece is exclusive and sells out fast. Our styles are carefully selected to stay on trend and stand out.</span></p><p style=\"margin:0px 0px 12px 0px;font:12px 'Times New Roman';\"><span style=\"font-family:'Times New Roman';font-weight:normal;font-style:normal;font-size:12px;\">How affiliates can earn:</span></p><p style=\"margin:0px 0px 12px 0px;font:12px 'Times New Roman';\"><span style=\"font-family:'Times New Roman';font-weight:normal;font-style:normal;font-size:12px;\">Affiliates earn commission on every sale generated through their personal link and discount code. The more you sell, the more you earn.</span></p><p style=\"margin:0px 0px 12px 0px;font:12px 'Times New Roman';\"><span style=\"font-family:'Times New Roman';font-weight:normal;font-style:normal;font-size:12px;\">How to promote us:</span></p><p style=\"margin:0px 0px 12px 0px;font:12px 'Times New Roman';\"><span style=\"font-family:'Times New Roman';font-weight:normal;font-style:normal;font-size:12px;\">You can promote through Instagram, TikTok, and social media by sharing outfit videos, styling ideas, and try-ons. Use your link and code to drive sales.</span></p><p style=\"margin:0px 0px 12px 0px;font:12px 'Times New Roman';\"><span style=\"font-family:'Times New Roman';font-weight:normal;font-style:normal;font-size:12px;\">Other information:</span></p><p style=\"margin:0px 0px 12px 0px;font:12px 'Times New Roman';\"><span style=\"font-family:'Times New Roman';font-weight:normal;font-style:normal;font-size:12px;\">We value long-term collaborations and support our affiliates to grow and succeed with us.</span></p></div>",
+  "payout_rate": "100%",
+  "payout_period": "Monthly- Payments are sent on the 1st of each month",
+  "recommend_score": 2.16,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 38886,
+  "categories": "Apparel & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "12% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "coupon_discount_codes",
+    "social_messenger_app",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64"
+  ],
+  "target_audience_genders": [
+    "Female"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "cheque": 1,
+    "store_credit": 1,
+    "other": "Zelle"
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/vive-boutique-store/register",
+  "offer_status": 2,
+  "name": "Vive Boutique Store",
+  "website": "https://viveboutiqueap.com",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 261777,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.6400000000000001,
+  "program_id": 307436,
+  "myshopify_domain": "vive-boutique-store.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 75.5,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "95.24%",
+  "mkp_program_id": 307436,
+  "product_list": []
+}

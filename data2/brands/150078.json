@@ -1,0 +1,156 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1721870364_3841390_4059031952dbc6aed42b08ca08b43f2e.png",
+  "description": "<p><strong>Brand Introduction:</strong></p>\r\n<p>Hey there! Welcome to Henry &amp; Co, a Melbourne-based brand founded by two mates with a shared passion for sophistication, style, and practicality. Our journey began with a simple idea: to redefine the way individuals carry their accessories. We set out to create high-quality, sleek, and minimalistic accessory that blends style and convenience.</p>\r\n<p><strong>Product Description:</strong></p>\r\n<p>Meet our pride and joy, the Evolve Smart Wallet. This wallet is all about blending sleek design with ultimate convenience. It&rsquo;s slim and stylish, making it the perfect accessory for modern life. It has a magnetic back allowing you to stick it right to your phone case, keeping everything you need in one place. Plus, it can hold up to 12 cards with the optional backing plate, and it has a locking mechanism to ensure your cards stay secure.</p>\r\n<p><strong>USP (Unique Selling Point):</strong></p>\r\n<p>What makes us special? The Evolve Smart Wallet stands out with its magnetic ability to attach to your phone case and its slim, stylish design. It&rsquo;s the perfect combination of form and function, with added features like a sleek pop-up lever that allows you easy access to your cards and a locking mechanism to keep your cards from falling out.</p>\r\n<p><strong>Payment Terms:</strong></p>\r\n<p>We are happy to pay through bank transfer, direct debit or Paypal.&nbsp;<strong></strong></p>",
+  "payout_rate": "100%",
+  "payout_period": null,
+  "recommend_score": 0.89,
+  "average_earning_per_sale": "0",
+  "video_url": null,
+  "mkp_listing_id": 30247,
+  "categories": "Fashion, Others",
+  "currency": "AUD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "10% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link",
+    "coupon"
+  ],
+  "target_audience_customer_channels": [
+    "Instagram",
+    "Youtube"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44"
+  ],
+  "target_audience_genders": [
+    "Male"
+  ],
+  "target_audience_locations": [
+    "Australia"
+  ],
+  "payment_support": {
+    "paypal": 1,
+    "bank": 1,
+    "debit": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": "",
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/1cafbc-4/register",
+  "offer_status": 2,
+  "name": "Henry & Co",
+  "website": "https://www.henryco.com.au",
+  "hashtags": [
+    ""
+  ],
+  "shop_id": 150078,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic_old",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 0.77,
+  "program_id": 170551,
+  "myshopify_domain": "1cafbc-4.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 0,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Free",
+  "my_offer_program_id": null,
+  "enable_coupon": 1,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 76.67,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "6.9%",
+  "mkp_program_id": 170551,
+  "product_list": []
+}

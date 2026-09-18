@@ -1,0 +1,169 @@
+{
+  "logo": "https://cdn.uppromote.com/storage/uploads/logo/1765727147_3615856_d55a6881ae8b76c427ef63a00b7d77cc.png",
+  "description": "<div style=\"font-family:Poppins;\"><div><h2>TJU Affiliate Program – Earn 20% While Giving Back</h2><p>Join the TJU (Just Knate) Affiliate Program and earn a <strong>20% commission on every product sold</strong> while supporting real people through our <strong>Buy One Give One</strong> mission.</p><p>TJU is a creator-led, mission-driven brand built around kindness, transparency, and real-world impact. Every product purchased through your affiliate link provides an identical item to someone experiencing homelessness.</p><p>This program is designed for <strong>content creators, influencers, bloggers, and community leaders</strong> who want to promote meaningful products with a purpose.</p><hr><h3>Program Highlights</h3><p>Earn a <strong>flat 20% commission</strong> on all products.<br>Receive a <strong>30-day tracking cookie</strong> on every referral.<br>Get a <strong>custom affiliate link</strong> and optional personal discount code.<br>Track clicks, sales, and earnings in a simple dashboard.<br>No caps or limits on earnings.</p><p>Affiliate commissions do not replace donations or reduce Buy One Give One product giveaways.</p><hr><h3>Why Promote TJU?</h3><p>TJU is not a faceless brand. All outreach and donations are documented through real on-the-ground content. Affiliates partner with a brand built on trust, authenticity, and measurable impact.</p><p>If your audience values kindness, community, and making a difference, TJU is a natural fit.</p><hr><h3>Who We’re Looking For</h3><p>We welcome applications from creators and supporters who align with our mission. Applications may be reviewed to ensure responsible and respectful promotion.</p><hr><p>Apply today and help grow <strong>#TeamJustUs</strong> while earning 20% on every sale.</p></div></div>",
+  "payout_rate": "No data yet",
+  "payout_period": "Payouts on the 15th of each month",
+  "recommend_score": 1.88,
+  "average_earning_per_sale": null,
+  "video_url": null,
+  "mkp_listing_id": 37305,
+  "categories": "Apparel & Accessories",
+  "currency": "USD",
+  "symbol_currency": "&#36;",
+  "store_banner": null,
+  "rule": 1,
+  "commission_type": 2,
+  "commission": "20% per order",
+  "lifetime_commission": 0,
+  "auto_apply_coupon": false,
+  "cookie": 30,
+  "promotion_details": [
+    "aff_link"
+  ],
+  "target_audience_customer_channels": [
+    "blogs_newspapers",
+    "comparison_shopping_sites",
+    "communities_forums",
+    "content_creators_influencers",
+    "social_group_user_generated_content",
+    "seo",
+    "extension_software",
+    "push_notification",
+    "social_media_ads",
+    "search_ads",
+    "pop_up_pop_under_tab_under",
+    "email_marketing",
+    "social_messenger_app",
+    "display_banner",
+    "direct_linking_direct_traffic"
+  ],
+  "target_audience_ages": [
+    "25-34",
+    "35-44",
+    "45-54"
+  ],
+  "target_audience_genders": [
+    "Male",
+    "Female",
+    "Other"
+  ],
+  "target_audience_locations": [
+    "United States"
+  ],
+  "payment_support": {
+    "paypal": 1
+  },
+  "application_review": "manual",
+  "term_and_condition": null,
+  "affiliate_guide": null,
+  "is_applied_offer": false,
+  "apply_url": "https://af.uppromote.com/f35954-6e/register",
+  "offer_status": 2,
+  "name": "Just Knate",
+  "website": "https://justknate.com",
+  "hashtags": [
+    "#teamjustus"
+  ],
+  "shop_id": 243624,
+  "is_on_marketplace_listing": true,
+  "commission_advance": [],
+  "tem": "basic",
+  "checked_change_program": [
+    {
+      "aff_p_id": 155630,
+      "mkp_p_id": 155630
+    },
+    {
+      "aff_p_id": 296965,
+      "mkp_p_id": 296965
+    },
+    {
+      "aff_p_id": 295770,
+      "mkp_p_id": 295770
+    },
+    {
+      "aff_p_id": 288220,
+      "mkp_p_id": 288220
+    },
+    {
+      "aff_p_id": 291753,
+      "mkp_p_id": 291753
+    },
+    {
+      "aff_p_id": 257392,
+      "mkp_p_id": 257392
+    },
+    {
+      "aff_p_id": 48714,
+      "mkp_p_id": 48714
+    },
+    {
+      "aff_p_id": 49109,
+      "mkp_p_id": 49109
+    },
+    {
+      "aff_p_id": 49111,
+      "mkp_p_id": 49111
+    },
+    {
+      "aff_p_id": 49110,
+      "mkp_p_id": 49110
+    },
+    {
+      "aff_p_id": 52627,
+      "mkp_p_id": 52627
+    },
+    {
+      "aff_p_id": 5210,
+      "mkp_p_id": 5210
+    },
+    {
+      "aff_p_id": 277999,
+      "mkp_p_id": 277999
+    },
+    {
+      "aff_p_id": 290410,
+      "mkp_p_id": 290410
+    },
+    {
+      "aff_p_id": 230121,
+      "mkp_p_id": 230121
+    },
+    {
+      "aff_p_id": 253874,
+      "mkp_p_id": 253874
+    },
+    {
+      "aff_p_id": 300286,
+      "mkp_p_id": 300286
+    },
+    {
+      "aff_p_id": 6573,
+      "mkp_p_id": 6573
+    }
+  ],
+  "can_apply_offer": false,
+  "offer_score": 1.54,
+  "program_id": 284578,
+  "myshopify_domain": "f35954-6e.myshopify.com",
+  "is_detect_referral_google_ads": 0,
+  "action_referral_google_ads": 1,
+  "exsitMkpListing": 1,
+  "isUpdateTraffic": 1,
+  "discount_rules": [],
+  "assigned_coupon": "",
+  "shop_plan": "Professional",
+  "my_offer_program_id": null,
+  "enable_coupon": 0,
+  "my_offer_affiliate_id": "",
+  "regional_availability": null,
+  "avg_order_value": 56.9,
+  "new_customer_commission": "Not applied",
+  "lifetime_commission_display": "Not applied",
+  "special_coupon_commission": "Not applied",
+  "special_product_commission": "Not applied",
+  "auto_discount_for_customers": "Not applied",
+  "approval_rate": "39.29%",
+  "mkp_program_id": 284578,
+  "product_list": []
+}
