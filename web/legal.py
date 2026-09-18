@@ -23,7 +23,7 @@ _POLICY = {
                 "bullets": [
                     "Tài khoản: tên đăng nhập và thông tin đăng nhập bạn tạo trên site.",
                     "Đăng nhập Google hoặc GitHub (nếu bạn chọn): mã định danh nhà cung cấp, email và tên mà Google/GitHub gửi về.",
-                    "Gói và thanh toán: mã đơn, gói tháng hoặc năm, số tiền USDT, trạng thái đơn, thời hạn gói trên tài khoản. Thanh toán do Binance Pay xử lý; chúng tôi không nhận số thẻ ngân hàng hay khóa ví của bạn.",
+                    "Gói và thanh toán: mã đơn, gói tháng hoặc năm, số tiền VND, nội dung chuyển khoản, trạng thái đơn, thời hạn gói trên tài khoản. Thanh toán qua VietQR / chuyển khoản ngân hàng.",
                     "Cookie phiên đăng nhập, cookie ngôn ngữ, và tùy chọn “ghi nhớ thiết bị” tối đa 30 ngày.",
                     "Nhật ký kỹ thuật cần để chạy site (địa chỉ IP, trình duyệt) qua máy chủ và Cloudflare.",
                 ],
@@ -37,7 +37,7 @@ _POLICY = {
             {
                 "title": "4. Mục đích sử dụng",
                 "paragraphs": [
-                    "Chúng tôi dùng dữ liệu để tạo và bảo vệ tài khoản, phân quyền gói miễn phí hoặc trả phí, xử lý thanh toán Binance Pay, hiển thị đúng ngôn ngữ, vận hành và bảo mật site, và liên hệ khi cần về tài khoản hoặc đơn hàng.",
+                    "Chúng tôi dùng dữ liệu để tạo và bảo vệ tài khoản, phân quyền gói miễn phí hoặc trả phí, xử lý thanh toán VietQR, hiển thị đúng ngôn ngữ, vận hành và bảo mật site, và liên hệ khi cần về tài khoản hoặc đơn hàng.",
                 ],
             },
             {
@@ -53,7 +53,7 @@ _POLICY = {
                 ],
                 "bullets": [
                     "Cloudflare: DNS, HTTPS và chống lạm dụng.",
-                    "Binance Pay: tạo và xác nhận đơn USDT.",
+                    "VietQR: tạo mã QR và đối soát biến động số dư.",
                     "Google hoặc GitHub: chỉ khi bạn bấm đăng nhập qua họ.",
                     "Nhà cung cấp máy chủ lưu code, cơ sở dữ liệu và nhật ký.",
                 ],
@@ -114,7 +114,7 @@ _POLICY = {
                 "bullets": [
                     "Account: the username and sign-in details you create on the site.",
                     "Google or GitHub sign-in (if you choose it): the provider id, email, and name those services send back.",
-                    "Plans and payments: order id, monthly or yearly plan, USDT amount, order status, and plan expiry on your account. Binance Pay processes the payment; we do not receive your card numbers or wallet keys.",
+                    "Plans and payments: order id, monthly or yearly plan, VND amount, transfer note, order status, and plan expiry on your account. Payment is made by VietQR / bank transfer.",
                     "Session cookies, a language cookie, and an optional “remember this device” setting for up to 30 days.",
                     "Technical logs needed to run the site (IP address, browser) via our server and Cloudflare.",
                 ],
@@ -128,7 +128,7 @@ _POLICY = {
             {
                 "title": "4. How we use data",
                 "paragraphs": [
-                    "We use it to create and protect accounts, apply free or paid access, process Binance Pay orders, show the right language, operate and secure the site, and contact you about your account or an order when needed.",
+                    "We use it to create and protect accounts, apply free or paid access, process VietQR payments, show the right language, operate and secure the site, and contact you about your account or an order when needed.",
                 ],
             },
             {
@@ -144,7 +144,7 @@ _POLICY = {
                 ],
                 "bullets": [
                     "Cloudflare: DNS, HTTPS, and abuse protection.",
-                    "Binance Pay: creating and confirming USDT orders.",
+                    "VietQR: creating QR codes and reconciling incoming transfers.",
                     "Google or GitHub: only if you sign in with them.",
                     "The hosting provider that stores code, databases, and logs.",
                 ],
@@ -217,13 +217,13 @@ _TERMS = {
                 "title": "4. Gói miễn phí và gói trả phí",
                 "paragraphs": [
                     "Tài khoản miễn phí xem trang danh sách đầu tiên (40 dòng, sắp xếp A–Z) và mở chi tiết thương hiệu. Không tìm kiếm, không lọc, không sang trang 2 trở đi, không xuất CSV.",
-                    "Gói tháng: 6 USDT / 30 ngày. Gói năm: 60 USDT / 365 ngày. Mua thêm khi gói còn hạn thì số ngày mới được cộng dồn, không mất ngày cũ. Admin không bị giới hạn gói.",
+                    "Gói tháng: 100.000 đ / 30 ngày. Gói năm: 1.000.000 đ / 365 ngày (khoảng 83.000 đ/tháng, tiết kiệm 200.000 đ so với mua tháng cả năm). Mua thêm khi gói còn hạn thì số ngày mới được cộng dồn, không mất ngày cũ. Admin không bị giới hạn gói.",
                 ],
             },
             {
                 "title": "5. Thanh toán",
                 "paragraphs": [
-                    "Hiện chỉ nhận USDT qua Binance Pay. Gói kích hoạt khi Binance xác nhận thanh toán thành công. Giá trên trang Gói là giá dịch vụ số; không có phí setup ẩn từ phía UpproInfo. Binance có thể áp dụng điều kiện riêng của họ.",
+                    "Hiện chỉ nhận VND qua VietQR (chuyển khoản ngân hàng). Gói kích hoạt sau khi admin xác nhận đã nhận tiền. Giá trên trang Gói là giá dịch vụ số; không có phí setup ẩn từ phía UpproInfo.",
                     "Sau khi gói đã kích hoạt, chúng tôi không hoàn tiền cho thời gian chưa dùng, trừ khi thanh toán bị lỗi kỹ thuật (trừ trùng) hoặc pháp luật bắt buộc. Hủy gói nghĩa là không gia hạn; quyền lợi còn hạn vẫn dùng đến hết ngày đã trả.",
                 ],
             },
@@ -310,13 +310,13 @@ _TERMS = {
                 "title": "4. Free and paid plans",
                 "paragraphs": [
                     "A free account can open the first list page (40 rows, A–Z) and brand details. It cannot search, filter, open page 2 or later, or export CSV.",
-                    "Monthly plan: 6 USDT / 30 days. Yearly plan: 60 USDT / 365 days. If you buy again while time remains, the new days are added on. Admin accounts are not limited by plan.",
+                    "Monthly plan: 100,000 VND / 30 days. Yearly plan: 1,000,000 VND / 365 days (about 83,000 VND/month, 200,000 VND less than 12 monthly payments). If you buy again while time remains, the new days are added on. Admin accounts are not limited by plan.",
                 ],
             },
             {
                 "title": "5. Payment",
                 "paragraphs": [
-                    "We currently accept USDT through Binance Pay only. The plan starts when Binance confirms a successful payment. Prices on the Plans page are for this digital service; UpproInfo does not add a hidden setup fee. Binance may apply its own rules.",
+                    "We currently accept VND through VietQR bank transfer only. The plan starts after an admin confirms the payment was received. Prices on the Plans page are for this digital service; UpproInfo does not add a hidden setup fee.",
                     "After a plan is activated we do not refund unused time, except for a technical payment error (such as a duplicate charge) or where the law requires it. Cancelling means you will not renew; remaining paid time still works until it expires.",
                 ],
             },

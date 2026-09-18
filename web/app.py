@@ -11,7 +11,7 @@ import secrets
 import sqlite3
 import sys
 import time
-from datetime import timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlencode, urlparse
 
@@ -29,8 +29,9 @@ from storage import strip_query
 from i18n import LANG_COOKIE, texts_for
 from oauth_login import PROVIDERS, authorize_url, fetch_identity, new_state, provider_config, safe_username
 import billing
-import binance_pay
+import vietqr
 import legal
+import security_guard
 
 DB_PATH = ROOT / "data" / "uppromote.db"
 BRANDS_DIR = ROOT / "data" / "brands"
@@ -51,9 +52,12 @@ OPEN_ENDPOINTS = {
     "public_img",
     "oauth_start",
     "oauth_callback",
-    "billing_webhook",
+    "vietqr_token",
+    "vietqr_sync",
     "policy",
     "term_of_service",
+    "honeypot_trap",
+    "favicon",
 }
 LOGO_FILES = ("logo.png", "logo.jpg", "logo.jpeg", "logo.webp", "logo.gif", "logo.svg")
 USERNAME_RE = re.compile(r"^[A-Za-z0-9._-]{3,32}$")
@@ -240,6 +244,11 @@ def logo_url() -> str:
     return url_for("public_img", filename=name, v=version)
 
 
+
+@app.route("/favicon.ico")
+def favicon():
+    return send_from_directory(WEB_DIR / "static", "favicon.ico", mimetype="image/vnd.microsoft.icon")
+
 @app.route("/img/<path:filename>")
 def public_img(filename: str):
     folders = (WEB_DIR / "static" / "img", WEB_DIR / "static", WEB_DIR / "img")
@@ -259,8 +268,12 @@ def inject_i18n() -> dict:
     lang = current_lang()
     user = session.get("user")
     access = billing.access_for(user)
+    # Current Vietnam time (UTC+7)
+    vn_now = datetime.now(timezone(timedelta(hours=7)))
+    today_formatted = vn_now.strftime("%d/%m/%Y")
     return {
         "t": texts_for(lang),
+        "today_date": today_formatted,
         "lang": lang,
         "current_user": user,
         "logo_url": logo_url(),
@@ -268,15 +281,21 @@ def inject_i18n() -> dict:
         "entitled": access["entitled"],
         "is_admin": access["is_admin"],
         "expires_date": access["expires_date"],
+        "pending_tx": billing.pending_count() if access["is_admin"] else 0,
         "sub_plan": access["plan"],
-        "pay_configured": binance_pay.is_configured(),
+        "pay_configured": vietqr.is_configured(),
         "oauth_google": bool(provider_config("google")),
         "oauth_github": bool(provider_config("github")),
+        "unread_notif_count": billing.get_unread_notification_count(user) if user else 0,
+        "user_notifications": billing.get_user_notifications(user, 10) if user else [],
     }
 
 
 @app.before_request
 def require_login():
+    ip = security_guard.get_real_ip()
+    if security_guard.is_ip_blacklisted(ip):
+        abort(403)
     if request.endpoint in OPEN_ENDPOINTS:
         return None
     if session.get("user"):
@@ -576,6 +595,8 @@ def free_list_filters() -> dict:
         "review": "",
         "sort": "name",
         "min_score": "",
+        "traffic": "",
+        "ads": "",
     }
 
 
@@ -587,6 +608,8 @@ def query_kwargs() -> dict:
         "review": request.args.get("review", "").strip(),
         "sort": request.args.get("sort", "name").strip() or "name",
         "min_score": request.args.get("min_score", "").strip(),
+        "traffic": request.args.get("traffic", "").strip(),
+        "ads": request.args.get("ads", "").strip(),
     }
 
 
@@ -620,6 +643,12 @@ def offer_where(filters: dict) -> tuple[list[str], list]:
                 args.append(score)
         except ValueError:
             pass
+    if filters.get("traffic") == "5k":
+        where.append("coalesce(bm.traffic_m3, 0) >= 5000")
+    if filters.get("ads") == "yes":
+        where.append("coalesce(bm.allows_search_ads, 0) = 1")
+    elif filters.get("ads") == "no":
+        where.append("coalesce(bm.allows_search_ads, 0) = 0")
     return where, args
 
 
@@ -707,6 +736,7 @@ def index():
         FROM offers o
         LEFT JOIN details d ON d.shop_id = o.shop_id
         LEFT JOIN skipped s ON s.shop_id = o.shop_id
+        LEFT JOIN brand_metrics bm ON bm.shop_id = o.shop_id
         WHERE {" AND ".join(where)}
     """
     conn = db()
@@ -720,7 +750,14 @@ def index():
             SELECT o.*,
                    d.application_review,
                    CASE WHEN d.shop_id IS NOT NULL THEN 1 ELSE 0 END AS has_detail,
-                   CASE WHEN s.shop_id IS NOT NULL THEN 1 ELSE 0 END AS is_skipped
+                   CASE WHEN s.shop_id IS NOT NULL THEN 1 ELSE 0 END AS is_skipped,
+                   bm.traffic_m1,
+                   bm.traffic_m2,
+                   bm.traffic_m3,
+                   bm.google_ads_running,
+                   bm.google_advertisers_count,
+                   bm.allows_search_ads,
+                   bm.top_keywords_json
             {sql}
             ORDER BY {sort_sql}, o.shop_id
             LIMIT ? OFFSET ?
@@ -750,7 +787,9 @@ def index():
 
 @app.route("/export.csv")
 def export_brands():
-    if not billing.is_entitled(session.get("user")):
+    user = session.get("user")
+    access = billing.access_for(user)
+    if not access["is_admin"] and access["plan"] not in ("year", "quarter"):
         return redirect(url_for("billing_page"))
     if not DB_PATH.exists():
         abort(404)
@@ -761,6 +800,7 @@ def export_brands():
         FROM offers o
         LEFT JOIN details d ON d.shop_id = o.shop_id
         LEFT JOIN skipped s ON s.shop_id = o.shop_id
+        LEFT JOIN brand_metrics bm ON bm.shop_id = o.shop_id
         WHERE {" AND ".join(where)}
     """
     conn = db()
@@ -768,7 +808,8 @@ def export_brands():
         rows = conn.execute(
             f"""
             SELECT o.name, o.website, o.categories, o.commission, o.cookie,
-                   o.payout_rate, o.approval_rate, o.offer_score, o.shop_id, o.apply_url
+                   o.payout_rate, o.approval_rate, o.offer_score, o.shop_id, o.apply_url,
+                   bm.traffic_m1, bm.traffic_m2, bm.traffic_m3, bm.allows_search_ads
             {sql}
             ORDER BY {sort_sql}, o.shop_id
             """,
@@ -779,16 +820,25 @@ def export_brands():
     output = io.StringIO()
     writer = csv.writer(output)
     writer.writerow(
-        ["name", "website", "category", "commission", "cookie", "payout", "approval", "score", "shop_id", "apply_url"]
+        ["name", "website", "category", "commission", "cookie", "payout", "approval", "score", "shop_id", "apply_url", "traffic_m1", "traffic_m2", "traffic_m3", "allows_search_ads"]
     )
     for row in rows:
         writer.writerow([row[key] if row[key] is not None else "" for key in row.keys()])
     payload = output.getvalue().encode("utf-8-sig")
-    return Response(
+    # private + no-store: avoid CF/browser 304 empty bodies breaking CSV downloads
+    resp = Response(
         payload,
         mimetype="text/csv; charset=utf-8",
-        headers={"Content-Disposition": "attachment; filename=uppro_brands.csv"},
+        headers={
+            "Content-Disposition": "attachment; filename=uppro_brands.csv",
+            "Cache-Control": "private, no-store, no-cache, must-revalidate, max-age=0",
+            "Pragma": "no-cache",
+            "Expires": "0",
+        },
     )
+    resp.headers.pop("ETag", None)
+    resp.headers.pop("Last-Modified", None)
+    return resp
 
 
 def load_brand(shop_id: int) -> tuple[dict, bool] | None:
@@ -800,12 +850,29 @@ def load_brand(shop_id: int) -> tuple[dict, bool] | None:
         detail = row_to_dict(
             conn.execute("SELECT * FROM details WHERE shop_id = ?", (shop_id,)).fetchone()
         )
+        metrics = row_to_dict(
+            conn.execute("SELECT * FROM brand_metrics WHERE shop_id = ?", (shop_id,)).fetchone()
+        )
     finally:
         conn.close()
     extra = load_brand_json(shop_id)
     if not offer and not detail and not extra:
         return None
-    data = {**(offer or {}), **(detail or {}), **(extra or {})}
+    data = {**(offer or {}), **(detail or {}), **(metrics or {}), **(extra or {})}
+    if data.get("top_keywords_json"):
+        try:
+            data["top_keywords"] = json.loads(data["top_keywords_json"])
+        except Exception:
+            data["top_keywords"] = []
+    else:
+        data["top_keywords"] = []
+    if data.get("monthly_visits_json"):
+        try:
+            data["monthly_visits"] = json.loads(data["monthly_visits_json"])
+        except Exception:
+            data["monthly_visits"] = {}
+    else:
+        data["monthly_visits"] = {}
     data["apply_url"] = strip_query(data.get("apply_url"))
     data["description_html"] = clean_html(data.get("description"))
     data["hashtags_list"] = parse_list(data.get("hashtags"))
@@ -847,19 +914,22 @@ def billing_page():
     return render_template(
         "billing.html",
         error=session.pop("billing_error", ""),
-        pay_configured=binance_pay.is_configured(),
+        pay_configured=vietqr.is_configured(),
         entitled=access["entitled"],
         is_admin=access["is_admin"],
         expires_date=access["expires_date"],
         stats=site_stats,
         page_size=PAGE_SIZE,
+        plan_month_num=billing.format_vnd(billing.PLANS["month"]["amount"]),
+        plan_quarter_num=billing.format_vnd(billing.PLANS["quarter"]["amount"]),
+        plan_year_num=billing.format_vnd(billing.PLANS["year"]["amount"]),
     )
 
 
 @app.route("/billing/checkout", methods=["POST"])
 def billing_checkout():
     texts = texts_for(current_lang())
-    if not binance_pay.is_configured():
+    if not vietqr.is_configured():
         session["billing_error"] = texts["billing_not_configured"]
         return redirect(url_for("billing_page"))
     plan = billing.plan_of(request.form.get("plan") or "")
@@ -867,32 +937,28 @@ def billing_checkout():
         session["billing_error"] = texts["billing_error"]
         return redirect(url_for("billing_page"))
     username = session.get("user") or ""
-    trade_no = f"u{int(time.time())}{secrets.token_hex(6)}"[:32]
-    billing.create_order(username, plan["id"], trade_no)
+    trade_no = vietqr.new_order_id()
+    order = billing.create_order(username, plan["id"], trade_no)
+    pay_content = billing.pay_code(order["id"])
     return_url = url_for("billing_return", trade=trade_no, _external=True)
-    cancel_url = url_for("billing_page", _external=True)
-    goods_name = texts["billing_month_name"] if plan["id"] == "month" else texts["billing_year_name"]
     try:
-        created = binance_pay.create_order(
-            merchant_trade_no=trade_no,
-            amount=plan["amount"],
-            goods_id=plan["goods_id"],
-            goods_name=goods_name,
-            description=f"UpproInfo {plan['id']}",
-            return_url=return_url,
-            cancel_url=cancel_url,
-        )
+        created = vietqr.create_payment(int(plan["amount"]), return_url, pay_content, pay_content)
     except RuntimeError:
         session["billing_error"] = texts["billing_error"]
         return redirect(url_for("billing_page"))
     billing.update_order_checkout(
         trade_no,
-        created["prepay_id"],
-        created["checkout_url"],
-        json.dumps(created.get("raw") or {}, ensure_ascii=False),
+        created.get("transaction_id") or created["order_id"],
+        created.get("qr_link") or "",
+        json.dumps(created, ensure_ascii=False),
+        created["content"],
     )
-    if created.get("checkout_url"):
-        return redirect(created["checkout_url"])
+    try:
+        import notifier
+        new_order_data = billing.get_order(trade_no) or order
+        notifier.notify_new_order(new_order_data)
+    except Exception as ex:
+        pass
     return redirect(url_for("billing_return", trade=trade_no))
 
 
@@ -905,11 +971,49 @@ def billing_return():
         return redirect(url_for("billing_page"))
     if order["status"] == "paid":
         return redirect(url_for("index"))
+    payload = {}
+    try:
+        payload = json.loads(order.get("raw_json") or "{}")
+    except json.JSONDecodeError:
+        payload = {}
+    if not isinstance(payload, dict):
+        payload = {}
+    pay_content = order.get("pay_content") or payload.get("content") or trade
+    try:
+        amount = int(order.get("amount") or 0)
+    except (TypeError, ValueError):
+        amount = 0
+    qr_image = vietqr.branded_qr_url(amount, str(pay_content))
     return render_template(
         "billing_return.html",
         trade_no=trade,
-        checkout_url=order.get("checkout_url") or "",
+        checkout_url=qr_image,
+        qr_image=qr_image,
+        qr_code="",
+        pay_content=pay_content,
+        pay_amount=billing.format_vnd(order.get("amount") or 0),
+        bank_account=vietqr.load_config().get("bank_account") or "",
+        bank_name=vietqr.account_display(),
+        bank_code="MB",
+        sandbox=False,
     )
+
+
+@app.route("/billing/test-callback/<trade_no>", methods=["POST"])
+def billing_test_callback(trade_no: str):
+    order = billing.get_order(trade_no)
+    user = session.get("user")
+    if not order or (order["username"] != user and not billing.is_admin(user)):
+        abort(404)
+    if not vietqr.is_sandbox():
+        abort(404)
+    if order["status"] == "paid":
+        return jsonify({"status": "paid", "redirect": url_for("index")})
+    try:
+        vietqr.simulate_payment(order.get("pay_content") or trade_no, int(order["amount"]))
+    except (RuntimeError, TypeError, ValueError) as err:
+        return jsonify({"status": "error", "message": str(err)}), 400
+    return jsonify({"status": "pending"})
 
 
 @app.route("/billing/status/<trade_no>")
@@ -918,51 +1022,182 @@ def billing_status(trade_no: str):
     user = session.get("user")
     if not order or (order["username"] != user and not billing.is_admin(user)):
         abort(404)
+    order = billing.get_order(trade_no) or order
     if order["status"] == "paid":
         return jsonify({"status": "paid", "redirect": url_for("index")})
     if order["status"] == "closed":
         return jsonify({"status": "closed"})
-    if not binance_pay.is_configured():
-        return jsonify({"status": "pending"})
-    try:
-        result = binance_pay.query_order(trade_no)
-    except RuntimeError:
-        return jsonify({"status": "pending"})
-    raw = json.dumps(result.get("raw") or {}, ensure_ascii=False)
-    if result["paid"]:
-        billing.fulfill_paid_order(trade_no, raw)
-        return jsonify({"status": "paid", "redirect": url_for("index")})
-    if result["closed"]:
-        billing.mark_order_closed(trade_no, raw)
-        return jsonify({"status": "closed"})
     return jsonify({"status": "pending"})
 
 
-@app.route("/billing/binance/webhook", methods=["POST"])
-def billing_webhook():
-    raw = request.get_data(as_text=True) or ""
-    try:
-        body = json.loads(raw) if raw else {}
-    except json.JSONDecodeError:
-        body = {}
-    if not isinstance(body, dict):
-        body = {}
-    trade = binance_pay.parse_webhook_trade_no(body)
-    if trade and binance_pay.is_configured():
-        try:
-            result = binance_pay.query_order(trade)
-            dumped = json.dumps(result.get("raw") or body, ensure_ascii=False)
-            if result["paid"]:
-                billing.fulfill_paid_order(trade, dumped)
-            elif result["closed"] or binance_pay.webhook_biz_status(body) == "PAY_CLOSED":
-                billing.mark_order_closed(trade, dumped)
-        except RuntimeError:
-            pass
-    return jsonify({"returnCode": "SUCCESS", "returnMessage": None})
+def require_admin() -> str:
+    user = session.get("user") or ""
+    if not billing.is_admin(user):
+        abort(404)
+    return user
 
+
+@app.route("/admin/users")
+def admin_users():
+    require_admin()
+    users_list = load_users()
+    subs = billing.list_subscriptions()
+    enriched = []
+    for u in users_list:
+        uname = u.get("username", "")
+        sub = subs.get(uname)
+        entitled = billing.is_entitled(uname)
+        is_adm = billing.is_admin(uname)
+        enriched.append({
+            "username": uname,
+            "email": u.get("email", ""),
+            "name": u.get("name", ""),
+            "provider": u.get("provider", "password"),
+            "is_admin": is_adm,
+            "entitled": entitled,
+            "sub": sub,
+        })
+    return render_template(
+        "admin_users.html",
+        users=enriched,
+        notice=session.pop("admin_user_notice", ""),
+    )
+
+
+@app.route("/admin/users/set-vip", methods=["POST"])
+def admin_set_vip():
+    require_admin()
+    username = (request.form.get("username") or "").strip()
+    try:
+        days = int(request.form.get("days") or 30)
+    except ValueError:
+        days = 30
+    if username:
+        res = billing.set_subscription_days(username, days)
+        session["admin_user_notice"] = f"Đã cấp VIP {days} ngày thành công cho tài khoản {username} (Hạn mới: {res[expires_at][:10]})."
+    return redirect(url_for("admin_users"))
+
+
+@app.route("/admin/users/change-password", methods=["POST"])
+def admin_change_password():
+    require_admin()
+    username = (request.form.get("username") or "").strip()
+    new_pass = (request.form.get("password") or "").strip()
+    if not username or len(new_pass) < 6:
+        session["admin_user_notice"] = "Mật khẩu mới phải từ 6 ký tự trở lên."
+        return redirect(url_for("admin_users"))
+    users = load_users()
+    found = False
+    for u in users:
+        if u.get("username") == username:
+            u["password"] = new_pass
+            found = True
+            break
+    if found:
+        save_users(users)
+        session["admin_user_notice"] = f"Đã đổi mật khẩu thành công cho tài khoản {username}."
+    else:
+        session["admin_user_notice"] = f"Không tìm thấy tài khoản {username}."
+    return redirect(url_for("admin_users"))
+
+
+@app.route("/admin/users/<username>/delete", methods=["POST"])
+def admin_delete_user(username: str):
+    require_admin()
+    username = (username or "").strip()
+    if billing.is_admin(username):
+        session["admin_user_notice"] = "Không thể xóa tài khoản Quản trị viên!"
+        return redirect(url_for("admin_users"))
+    users = load_users()
+    filtered = [u for u in users if u.get("username") != username]
+    if len(filtered) < len(users):
+        save_users(filtered)
+        billing.revoke_subscription(username)
+        session["admin_user_notice"] = f"Đã xóa tài khoản {username} và hủy gói đăng ký thành công."
+    else:
+        session["admin_user_notice"] = f"Không tìm thấy tài khoản {username}."
+    return redirect(url_for("admin_users"))
+
+
+@app.route("/admin/transactions")
+def admin_transactions():
+    require_admin()
+    return render_template(
+        "admin_transactions.html",
+        orders=billing.list_orders(),
+        notice=session.pop("tx_notice", ""),
+    )
+
+
+@app.route("/admin/transactions/<trade_no>/receive", methods=["POST"])
+def admin_receive(trade_no: str):
+    user = require_admin()
+    texts = texts_for(current_lang())
+    order = billing.mark_received(trade_no, user)
+    session["tx_notice"] = texts["tx_done"] if order else texts["billing_error"]
+    return redirect(url_for("admin_transactions"))
+
+
+@app.route("/vqr/api/token_generate", methods=["POST"], strict_slashes=False)
+@app.route("/api/token_generate", methods=["POST"], strict_slashes=False)
+def vietqr_token():
+    payload, status = vietqr.handle_token_request(request.headers.get("Authorization") or "")
+    return jsonify(payload), status
+
+
+@app.route("/vqr/bank/api/transaction-sync", methods=["POST"], strict_slashes=False)
+@app.route("/bank/api/transaction-sync", methods=["POST"], strict_slashes=False)
+def vietqr_sync():
+    body = request.get_json(silent=True)
+    if not isinstance(body, dict):
+        body = request.form.to_dict() if request.form else {}
+    payload, status = vietqr.handle_sync_request(request.headers.get("Authorization") or "", body)
+    return jsonify(payload), status
+
+
+
+
+@app.errorhandler(500)
+@app.errorhandler(Exception)
+def handle_internal_error(e):
+    return render_template("maintenance.html"), 500
+
+@app.route("/system/analytics/track-sync")
+@app.route("/api/v1/feed-export")
+def honeypot_trap():
+    ip = security_guard.get_real_ip()
+    ua = str(request.headers.get("User-Agent", ""))[:80]
+    security_guard.blacklist_ip(ip, f"Honeypot hit (UA: {ua})", ban_seconds=86400)
+    try:
+        import notifier
+        msg = "🚨 <b>[Security Alert]</b> Phát hiện bot cào trúng bẫy Honeypot!\n" + f"IP: <code>{ip}</code> đã bị chặn 24h.\nUA: <code>{ua}</code>"
+        notifier.send_telegram_message(msg)
+    except Exception:
+        pass
+    abort(403)
 
 @app.route("/brand/<int:shop_id>/panel")
+
 def brand_panel(shop_id: int):
+    user = session.get("user") or "anonymous"
+    ip = security_guard.get_real_ip()
+
+    # Per-minute burst protection (max 40 detail views/min per IP)
+    if not security_guard.check_rate_limit(f"brand_panel_burst:{ip}", max_requests=40, window_seconds=60):
+        return Response("<p class='acc-loading text-error'>Thao tác quá nhanh, vui lòng chờ 1 phút...</p>", status=429)
+
+    # Free tier daily quota protection (max 50 brands/day if not VIP/Admin)
+    if not billing.is_entitled(user):
+        if not security_guard.check_rate_limit(f"free_quota:{user}:{ip}", max_requests=50, window_seconds=86400):
+            return Response(
+                "<div class='p-4 bg-secondary-container/40 rounded-xl text-xs space-y-2'>"
+                "<p class='font-bold text-on-surface m-0'>⚠️ Bạn đã xem hết hạn mức 50 thương hiệu/ngày của tài khoản Miễn phí.</p>"
+                "<p class='text-on-surface-variant m-0'>Vui lòng nâng cấp gói VIP để xem không giới hạn toàn bộ dữ liệu đối tác và link hoa hồng.</p>"
+                "<a href='/billing' class='inline-block mt-2 px-3 py-1.5 rounded-lg bg-primary text-on-primary font-semibold no-underline'>Nâng cấp VIP ngay</a>"
+                "</div>",
+                status=403
+            )
+
     loaded = load_brand(shop_id)
     if not loaded:
         abort(404)

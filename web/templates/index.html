@@ -5,17 +5,21 @@
 <div class="w-full px-4 lg:px-6 py-6 space-y-8">
   <div class="flex flex-col md:flex-row md:items-end justify-between gap-4">
     <div>
-      <div class="flex items-center gap-2 mb-2">
+      <div class="flex flex-wrap items-center gap-2 mb-2">
         <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold uppercase tracking-wider bg-secondary-container text-on-secondary-container">{{ t.dash_badge }}</span>
+        <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-xs font-semibold bg-primary-fixed text-on-primary-fixed shadow-xs">
+          <span class="material-symbols-outlined text-[14px] text-primary">calendar_today</span>
+          <span>Cập nhật ngày {{ today_date }}</span>
+        </span>
         <span class="text-xs text-on-surface-variant font-medium">{{ t.dash_live }}</span>
       </div>
       <h1 class="text-3xl lg:text-4xl font-headline font-bold text-on-surface tracking-tight m-0">{{ t.dash_title }}</h1>
       <p class="text-sm text-on-surface-variant mt-1 max-w-2xl mb-0">{{ t.dash_lead }}</p>
     </div>
-    {% if entitled %}
+    {% if is_admin or sub_plan in ('year', 'quarter') %}
     <div class="flex items-center gap-3 self-start md:self-auto">
       <a class="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-surface-container-high hover:bg-surface-container-highest text-on-surface text-xs font-semibold transition-all shadow-sm no-underline hover:no-underline" href="{{ url_for('export_brands') }}{% if request.query_string %}?{{ request.query_string.decode() }}{% endif %}">
-        <span class="material-symbols-outlined text-[18px]">download</span>
+        <span class="material-symbols-outlined text-[18px] text-primary">download</span>
         <span>{{ t.export_csv }}</span>
       </a>
     </div>
@@ -23,9 +27,22 @@
   </div>
 
   {% if not entitled %}
-  <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 bg-secondary-container text-on-secondary-container rounded-2xl px-5 py-4">
+  <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 bg-secondary-container text-on-secondary-container rounded-2xl px-5 py-4 shadow-sm">
     <p class="m-0 text-sm font-medium">{{ t.billing_free_banner }}</p>
-    <a class="shrink-0 px-4 py-2 rounded-xl bg-primary text-on-primary text-xs font-semibold no-underline" href="{{ url_for('billing_page') }}">{{ t.billing_buy_cta }}</a>
+    <a class="shrink-0 px-4 py-2 rounded-xl bg-primary text-on-primary text-xs font-semibold no-underline hover:bg-on-primary-fixed-variant transition-colors" href="{{ url_for('billing_page') }}">{{ t.billing_buy_cta }}</a>
+  </div>
+  {% elif sub_plan == 'month' and not is_admin %}
+  <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 bg-gradient-to-r from-primary-fixed/70 via-secondary-container/80 to-primary-fixed/70 text-on-surface rounded-2xl px-5 py-4 shadow-sm border border-primary/20">
+    <div class="flex items-center gap-3">
+      <div class="w-9 h-9 rounded-xl bg-primary text-on-primary flex items-center justify-center shrink-0 shadow-xs">
+        <span class="material-symbols-outlined text-[20px]">rocket_launch</span>
+      </div>
+      <p class="m-0 text-xs sm:text-sm font-medium leading-relaxed">{{ t.billing_upgrade_year_banner }}</p>
+    </div>
+    <a class="shrink-0 px-4 py-2.5 rounded-xl bg-primary text-on-primary text-xs font-bold no-underline hover:bg-on-primary-fixed-variant transition-colors shadow-sm inline-flex items-center gap-1.5" href="{{ url_for('billing_page') }}#plan-year">
+      <span>{{ t.billing_upgrade_year_cta }}</span>
+      <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
+    </a>
   </div>
   {% endif %}
 
@@ -69,7 +86,7 @@
           <span class="material-symbols-outlined text-[22px]">gpp_maybe</span>
         </div>
       </div>
-      <div class="mt-4 text-xs text-on-surface-variant">{{ t.badge_404 }}</div>
+      <div class="mt-4 text-xs text-on-surface-variant">&nbsp;</div>
     </div>
     <div class="relative overflow-hidden bg-surface-container-lowest p-5 rounded-2xl shadow-sm flex flex-col justify-between">
       <div class="flex items-start justify-between">
@@ -110,7 +127,7 @@
         <button class="px-4 py-2.5 rounded-xl bg-primary text-on-primary text-xs font-semibold border-0 cursor-pointer" type="submit">{{ t.filter }}</button>
       </div>
     </div>
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-3 pt-2">
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 pt-2">
       <div class="flex flex-col gap-1">
         <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.col_category }}</label>
         <div class="relative">
@@ -159,6 +176,27 @@
           <span class="material-symbols-outlined pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-outline text-[16px]">expand_more</span>
         </div>
       </div>
+      <div class="flex flex-col gap-1">
+        <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.filter_traffic }}</label>
+        <div class="relative">
+          <select class="w-full appearance-none bg-surface-container-low text-xs font-medium text-on-surface rounded-xl px-3 py-2 pr-8 focus:outline-none focus:bg-surface-container cursor-pointer" name="traffic" onchange="this.form.submit()">
+            <option value="" {% if not filters.traffic %}selected{% endif %}>{{ t.all_traffics }}</option>
+            <option value="5k" {% if filters.traffic == '5k' %}selected{% endif %}>{{ t.traffic_over_5k }}</option>
+          </select>
+          <span class="material-symbols-outlined pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-outline text-[16px]">expand_more</span>
+        </div>
+      </div>
+      <div class="flex flex-col gap-1">
+        <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.filter_ads }}</label>
+        <div class="relative">
+          <select class="w-full appearance-none bg-surface-container-low text-xs font-medium text-on-surface rounded-xl px-3 py-2 pr-8 focus:outline-none focus:bg-surface-container cursor-pointer" name="ads" onchange="this.form.submit()">
+            <option value="" {% if not filters.ads %}selected{% endif %}>{{ t.all_ads }}</option>
+            <option value="yes" {% if filters.ads == 'yes' %}selected{% endif %}>{{ t.ads_active_only }}</option>
+            <option value="no" {% if filters.ads == 'no' %}selected{% endif %}>{{ t.ads_inactive_only }}</option>
+          </select>
+          <span class="material-symbols-outlined pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-outline text-[16px]">expand_more</span>
+        </div>
+      </div>
     </div>
   </form>
   {% endif %}
@@ -176,9 +214,10 @@
             <th class="py-3.5 px-3">{{ t.col_payout }}</th>
             <th class="py-3.5 px-3">{{ t.col_approval }}</th>
             <th class="py-3.5 px-3">{{ t.col_score }}</th>
+            {% if is_admin or sub_plan in ('year', 'quarter') or not entitled %}
             <th class="py-3.5 px-3">{{ t.col_traffic }}</th>
-            <th class="py-3.5 px-3">{{ t.col_social }}</th>
-            <th class="py-3.5 px-3">{{ t.col_search }}</th>
+            <th class="py-3.5 px-3">{{ t.col_ads }}</th>
+            {% endif %}
             <th class="py-3.5 pr-6 pl-3 text-right">{{ t.col_action }}</th>
           </tr>
         </thead>
@@ -237,9 +276,29 @@
                 </div>
               </div>
             </td>
-            <td class="py-4 px-3"><span class="text-[11px] text-outline">{{ t.no_signal }}</span></td>
-            <td class="py-4 px-3"><span class="text-[11px] text-outline">{{ t.no_signal }}</span></td>
-            <td class="py-4 px-3"><span class="text-[11px] text-outline">{{ t.no_signal }}</span></td>
+            {% if is_admin or sub_plan in ('year', 'quarter') or not entitled %}
+            <td class="py-4 px-3">
+              <div class="flex flex-col">
+                {% if b.traffic_m3 %}
+                <span class="font-bold text-on-surface">{{ '{:,}'.format(b.traffic_m3).replace(',', '.') }}</span>
+                <span class="text-[10px] text-outline">{% if b.traffic_m1 or b.traffic_m2 %}{{ '{:,}'.format(b.traffic_m1 or 0).replace(',', '.') }} &rarr; {{ '{:,}'.format(b.traffic_m2 or 0).replace(',', '.') }}{% else %}1 tháng{% endif %}</span>
+                {% else %}
+                <span class="text-outline font-medium">0</span>
+                {% endif %}
+              </div>
+            </td>
+            <td class="py-4 px-3">
+              {% if b.allows_search_ads %}
+              <span class="inline-flex items-center justify-center w-6 h-6 rounded-full bg-tertiary-fixed text-on-tertiary-fixed shadow-xs" title="Cho phép Search Ads">
+                <span class="material-symbols-outlined text-[16px] font-bold text-tertiary" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+              </span>
+              {% else %}
+              <span class="inline-flex items-center justify-center w-6 h-6 rounded-full bg-surface-container-high text-outline opacity-60" title="Không cho phép Search Ads">
+                <span class="material-symbols-outlined text-[16px]">cancel</span>
+              </span>
+              {% endif %}
+            </td>
+            {% endif %}
             <td class="py-4 pr-6 pl-3 text-right">
               <div class="flex items-center justify-end gap-1.5">
                 {% set copy_url = b.apply_url or b.website or '' %}
@@ -253,12 +312,12 @@
             </td>
           </tr>
           <tr class="acc-row" data-shop-id="{{ b.shop_id }}" hidden>
-            <td class="bg-surface-container-low px-6 pb-5 pt-0" colspan="12">
-              <div class="acc-panel py-3" data-shop-id="{{ b.shop_id }}"></div>
+            <td class="bg-surface-container-low p-4 sm:p-6" colspan="{% if is_admin or sub_plan in ('year', 'quarter') or not entitled %}11{% else %}9{% endif %}">
+              <div class="acc-panel w-full" data-shop-id="{{ b.shop_id }}"></div>
             </td>
           </tr>
           {% else %}
-          <tr><td class="px-6 py-8 text-on-surface-variant" colspan="12">{{ t.empty }}</td></tr>
+          <tr><td class="px-6 py-8 text-on-surface-variant" colspan="{% if is_admin or sub_plan in ('year', 'quarter') or not entitled %}11{% else %}9{% endif %}">{{ t.empty }}</td></tr>
           {% endfor %}
         </tbody>
       </table>

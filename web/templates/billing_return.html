@@ -1,32 +1,90 @@
 {% extends "base.html" %}
 {% block title %}{{ t.billing_title }}{% endblock %}
 {% block content %}
-<div class="w-full px-4 lg:px-6 py-16 max-w-xl mx-auto text-center space-y-4">
-  <span class="material-symbols-outlined text-[40px] text-primary">account_balance_wallet</span>
+<div class="w-full px-4 lg:px-6 py-12 max-w-lg mx-auto text-center space-y-5">
+  <span class="material-symbols-outlined text-[40px] text-primary">qr_code_2</span>
   <h1 class="text-2xl font-headline font-bold m-0" id="pay-title">{{ t.billing_waiting }}</h1>
-  <p class="text-sm text-on-surface-variant m-0" id="pay-status">{{ trade_no }}</p>
-  {% if checkout_url %}
-  <p class="m-0">
-    <a class="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-primary text-on-primary text-sm font-semibold no-underline" href="{{ checkout_url }}" target="_blank" rel="noopener">{{ t.billing_open_binance }}</a>
-  </p>
-  {% endif %}
+  <p class="text-sm text-on-surface-variant m-0">{{ t.billing_scan_hint }}</p>
+  <div class="bg-white rounded-3xl p-4 shadow-md inline-block">
+    {% if qr_image %}
+    <img alt="VietQR" class="w-72 max-w-full h-auto object-contain mx-auto" src="{{ qr_image }}">
+    {% else %}
+    <div id="vietqr-box" class="w-72 h-72 mx-auto" data-qr="{{ qr_code | e }}"></div>
+    {% endif %}
+  </div>
+  <div class="bg-surface-container-low rounded-2xl px-5 py-4 text-left text-sm space-y-2">
+    {% if bank_name %}<div class="flex justify-between gap-3"><span class="text-on-surface-variant">{{ t.billing_account_name }}</span><span class="font-semibold text-on-surface">{{ bank_name }}</span></div>{% endif %}
+    {% if bank_account %}<div class="flex justify-between gap-3"><span class="text-on-surface-variant">{{ t.billing_account_no }}</span><span class="font-semibold text-on-surface">{{ bank_account }}</span></div>{% endif %}
+    {% if bank_code %}<div class="flex justify-between gap-3"><span class="text-on-surface-variant">{{ t.billing_bank }}</span><span class="font-semibold text-on-surface">{{ bank_code }}</span></div>{% endif %}
+    <div class="flex justify-between gap-3"><span class="text-on-surface-variant">{{ t.billing_amount }}</span><span class="font-bold text-primary">{{ pay_amount }} đ</span></div>
+    <div class="flex justify-between gap-3 items-center">
+      <span class="text-on-surface-variant">{{ t.billing_content }}</span>
+      <button class="font-semibold text-on-surface bg-transparent border-0 p-0 cursor-pointer" id="copy-content" type="button" data-content="{{ pay_content }}">{{ pay_content }}</button>
+    </div>
+  </div>
+  <p class="text-xs text-outline m-0">{{ t.billing_wait_admin }}</p>
   <p class="m-0"><a class="text-sm text-primary no-underline" href="{{ url_for('billing_page') }}">{{ t.billing_back }}</a></p>
 </div>
 {% endblock %}
 {% block scripts %}
+{% if not qr_image and qr_code %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+{% endif %}
 <script>
 (function () {
   var trade = {{ trade_no | tojson }};
   var paidText = {{ t.billing_paid | tojson }};
   var closedText = {{ t.billing_closed | tojson }};
+  var copiedText = {{ t.copied | tojson }};
   var title = document.getElementById("pay-title");
+  var copyBtn = document.getElementById("copy-content");
+  var qrBox = document.getElementById("vietqr-box");
+  if (qrBox && qrBox.getAttribute("data-qr") && window.QRCode) {
+    new QRCode(qrBox, { text: qrBox.getAttribute("data-qr"), width: 256, height: 256 });
+  }
+  if (copyBtn && navigator.clipboard) {
+    copyBtn.addEventListener("click", function () {
+      navigator.clipboard.writeText(copyBtn.getAttribute("data-content") || "").then(function () {
+        copyBtn.textContent = copiedText;
+      });
+    });
+  }
   function tick() {
     fetch("/billing/status/" + encodeURIComponent(trade), { credentials: "same-origin" })
       .then(function (res) { return res.json(); })
       .then(function (data) {
         if (data.status === "paid") {
-          title.textContent = paidText;
-          window.location.href = data.redirect || "/";
+          var container = document.querySelector(".max-w-lg");
+          if (container) {
+            container.innerHTML = `
+              <div class="space-y-6 py-6 animate-fade-in text-center">
+                <div class="w-20 h-20 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center mx-auto shadow-lg ring-8 ring-emerald-50">
+                  <span class="material-symbols-outlined text-[48px]">check_circle</span>
+                </div>
+                <div>
+                  <h1 class="text-3xl font-headline font-bold text-on-surface m-0">Xác Nhận Thành Công!</h1>
+                  <p class="text-sm text-on-surface-variant mt-2 mb-0">Đơn hàng của bạn đã được duyệt và kích hoạt gói VIP thành công.</p>
+                  ${data.expires_at ? `<div class="mt-3 inline-block px-4 py-1.5 rounded-full bg-emerald-50 text-emerald-800 text-xs font-semibold border border-emerald-200">Hạn dùng VIP mới: ${data.expires_at}</div>` : ``}
+                </div>
+                <div class="pt-4">
+                  <a href="/" class="inline-flex items-center justify-center px-6 py-3 rounded-full bg-primary text-on-primary text-sm font-semibold no-underline shadow-md hover:opacity-95">Vào xem dữ liệu ngay</a>
+                  <p class="text-xs text-outline mt-3" id="redirect-countdown">Tự động chuyển về trang chủ sau 5 giây...</p>
+                </div>
+              </div>
+            `;
+            var sec = 5;
+            var countdownEl = document.getElementById("redirect-countdown");
+            var timer = setInterval(function() {
+              sec--;
+              if (countdownEl) countdownEl.textContent = "Tự động chuyển về trang chủ sau " + sec + " giây...";
+              if (sec <= 0) {
+                clearInterval(timer);
+                window.location.href = data.redirect || "/";
+              }
+            }, 1000);
+          } else {
+            window.location.href = data.redirect || "/";
+          }
           return;
         }
         if (data.status === "closed") {

@@ -28,17 +28,21 @@
     {% elif is_admin %}
     <p class="mt-3 mb-0 text-sm font-semibold text-primary">{{ t.billing_admin }}</p>
     {% endif %}
-    <div class="mt-8 flex items-center justify-center gap-3 p-1.5 rounded-full bg-surface-container shadow-inner">
-      <button class="px-5 py-2 rounded-full text-xs sm:text-sm font-semibold transition-all duration-200 bg-surface-container-lowest text-primary shadow-sm border-0 cursor-pointer" id="toggle-monthly" type="button">{{ t.plan_toggle_month }}</button>
-      <button class="relative px-5 py-2 rounded-full text-xs sm:text-sm font-semibold transition-all duration-200 text-on-surface-variant hover:text-on-surface bg-transparent border-0 cursor-pointer" id="toggle-annual" type="button">
+    <div class="mt-8 flex flex-wrap items-center justify-center gap-2 p-1.5 rounded-full bg-surface-container shadow-inner">
+      <button class="px-4 sm:px-5 py-2 rounded-full text-xs sm:text-sm font-semibold transition-all duration-200 bg-surface-container-lowest text-primary shadow-sm border-0 cursor-pointer" id="toggle-monthly" type="button">{{ t.plan_toggle_month }}</button>
+      <button class="px-4 sm:px-5 py-2 rounded-full text-xs sm:text-sm font-semibold transition-all duration-200 text-on-surface-variant hover:text-on-surface bg-transparent border-0 cursor-pointer" id="toggle-quarter" type="button">
+        <span>{{ t.plan_quarter_label }}</span>
+        <span class="ml-1.5 inline-flex items-center px-2 py-0.5 rounded-full bg-secondary-container text-on-secondary-container text-[10px] sm:text-[11px] font-bold">VIP 3 Tháng</span>
+      </button>
+      <button class="relative px-4 sm:px-5 py-2 rounded-full text-xs sm:text-sm font-semibold transition-all duration-200 text-on-surface-variant hover:text-on-surface bg-transparent border-0 cursor-pointer" id="toggle-annual" type="button">
         <span>{{ t.plan_toggle_year }}</span>
-        <span class="ml-2 inline-flex items-center px-2 py-0.5 rounded-full bg-tertiary-fixed text-on-tertiary-fixed text-[11px] font-bold">{{ t.plan_save_badge }}</span>
+        <span class="ml-1.5 inline-flex items-center px-2 py-0.5 rounded-full bg-tertiary-fixed text-on-tertiary-fixed text-[10px] sm:text-[11px] font-bold">{{ t.plan_save_badge }}</span>
       </button>
     </div>
     <div class="mt-6 flex flex-wrap items-center justify-center gap-6 text-xs text-on-surface-variant font-medium">
       <span class="flex items-center gap-1.5"><span class="material-symbols-outlined text-tertiary text-[18px]">lock</span> {{ t.plan_trust_ssl }}</span>
       <span class="flex items-center gap-1.5"><span class="material-symbols-outlined text-primary text-[18px]">bolt</span> {{ t.plan_trust_instant }}</span>
-      <span class="flex items-center gap-1.5"><span class="material-symbols-outlined text-secondary text-[18px]">account_balance_wallet</span> {{ t.plan_trust_usdt }}</span>
+      <span class="flex items-center gap-1.5"><span class="material-symbols-outlined text-secondary text-[18px]">qr_code_2</span> {{ t.plan_trust_vietqr }}</span>
     </div>
   </div>
 
@@ -49,27 +53,31 @@
   <p class="max-w-6xl mx-auto mt-8 mb-0 rounded-xl bg-tertiary-fixed px-4 py-3 text-sm text-on-tertiary-fixed">{{ t.billing_not_configured }}</p>
   {% endif %}
 
-  <div class="mt-14 grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch max-w-6xl mx-auto">
-    <div id="plan-month" class="lg:col-span-5 flex flex-col justify-between bg-surface-container-lowest rounded-3xl p-8 sm:p-10 shadow-md relative transition-transform duration-300 hover:-translate-y-1">
+  <div class="mt-14 grid grid-cols-1 lg:grid-cols-3 gap-8 items-stretch max-w-7xl mx-auto">
+    <!-- Plan Month -->
+    <div id="plan-month" class="flex flex-col justify-between bg-surface-container-lowest rounded-3xl p-7 sm:p-8 shadow-md relative transition-transform duration-300 hover:-translate-y-1">
       <div>
         <div class="flex items-center justify-between">
-          <span class="text-xs font-bold uppercase tracking-wider text-secondary px-3 py-1 rounded-full bg-secondary-container/50">{{ t.plan_month_tag }}</span>
+          <div class="flex items-center gap-2">
+            <span class="text-xs font-bold uppercase tracking-wider text-secondary px-3 py-1 rounded-full bg-secondary-container/50">{{ t.plan_month_tag }}</span>
+            {% if sub_plan == 'month' and not is_admin %}
+            <span class="text-[11px] font-bold px-2 py-0.5 rounded-full bg-secondary text-on-secondary">{{ t.billing_plan_month_current }}</span>
+            {% endif %}
+          </div>
           <span class="material-symbols-outlined text-outline text-[24px]">insights</span>
         </div>
         <h3 class="mt-4 mb-0 text-2xl font-headline font-bold text-on-surface">{{ t.billing_month_name }}</h3>
         <p class="mt-2 mb-0 text-sm text-on-surface-variant">{{ t.plan_month_desc }}</p>
         <div class="mt-6 flex items-baseline gap-2">
-          <span class="text-5xl font-extrabold text-on-surface tracking-tight">6</span>
-          <span class="text-sm font-semibold text-on-surface-variant">USDT {{ t.plan_per_month }}</span>
+          <span class="text-4xl sm:text-5xl font-extrabold text-on-surface tracking-tight">{{ plan_month_num }}</span>
+          <span class="text-sm font-semibold text-on-surface-variant">đ {{ t.plan_per_month }}</span>
         </div>
         <p class="mt-1 mb-0 text-xs text-outline">{{ t.plan_month_bill }}</p>
-        <div class="mt-8 pt-6 space-y-3.5">
+        <div class="mt-8 pt-6 space-y-3.5 border-t border-surface-container-high">
           <div class="text-xs font-bold uppercase tracking-wider text-on-surface-variant">{{ t.plan_included }}</div>
           <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_dir.replace('{n}', n) }}</span></div>
           <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_search }}</span></div>
-          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_pages }}</span></div>
           <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_detail }}</span></div>
-          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_csv }}</span></div>
           <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_pay }}</span></div>
         </div>
       </div>
@@ -82,13 +90,58 @@
           </button>
         </form>
         <div class="mt-3 text-center text-xs text-outline flex items-center justify-center gap-1.5">
-          <span class="material-symbols-outlined text-[14px]">currency_bitcoin</span>
+          <span class="material-symbols-outlined text-[14px]">qr_code_2</span>
           <span>{{ t.plan_pay_hint }}</span>
         </div>
       </div>
     </div>
 
-    <div id="plan-year" class="lg:col-span-7 flex flex-col justify-between bg-surface-container-lowest rounded-3xl p-8 sm:p-10 shadow-xl relative transition-transform duration-300 hover:-translate-y-1 overflow-hidden">
+    <!-- Plan Quarter (3 Months) -->
+    <div id="plan-quarter" class="flex flex-col justify-between bg-surface-container-lowest rounded-3xl p-7 sm:p-8 shadow-lg relative transition-transform duration-300 hover:-translate-y-1 border border-secondary/30 overflow-hidden">
+      <div class="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-secondary to-primary"></div>
+      <div>
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-2">
+            <span class="text-xs font-bold uppercase tracking-wider text-on-secondary-container px-3 py-1 rounded-full bg-secondary-container">{{ t.plan_quarter_tag }}</span>
+            {% if sub_plan == 'quarter' and not is_admin %}
+            <span class="text-[11px] font-bold px-2 py-0.5 rounded-full bg-secondary text-on-secondary">{{ t.billing_plan_month_current }}</span>
+            {% endif %}
+          </div>
+          <span class="material-symbols-outlined text-secondary text-[24px]">verified</span>
+        </div>
+        <h3 class="mt-4 mb-0 text-2xl font-headline font-bold text-on-surface">{{ t.billing_quarter_name }}</h3>
+        <p class="mt-2 mb-0 text-sm text-on-surface-variant">{{ t.plan_quarter_desc }}</p>
+        <div class="mt-6 flex items-baseline gap-2">
+          <span class="text-4xl sm:text-5xl font-extrabold text-secondary tracking-tight">{{ plan_quarter_num }}</span>
+          <span class="text-sm font-semibold text-on-surface-variant">đ {{ t.plan_per_quarter }}</span>
+        </div>
+        <p class="mt-1 mb-0 text-xs text-outline">{{ t.plan_quarter_bill }}</p>
+        <div class="mt-8 pt-6 space-y-3.5 border-t border-surface-container-high">
+          <div class="text-xs font-bold uppercase tracking-wider text-secondary">{{ t.plan_year_plus }}</div>
+          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-secondary text-[20px] shrink-0 mt-0.5">check_circle</span><span class="font-bold text-on-surface">{{ t.plan_feat_csv }}</span></div>
+          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-secondary text-[20px] shrink-0 mt-0.5">check_circle</span><span class="font-bold text-on-surface">{{ t.plan_row_traffic }}</span></div>
+          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-secondary text-[20px] shrink-0 mt-0.5">check_circle</span><span class="font-bold text-on-surface">{{ t.plan_row_ads }}</span></div>
+          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-secondary text-[20px] shrink-0 mt-0.5">check_circle</span><span class="font-bold text-on-surface">{{ t.plan_row_keywords }}</span></div>
+          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-secondary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_stack }}</span></div>
+        </div>
+      </div>
+      <div class="mt-10">
+        <form method="post" action="{{ url_for('billing_checkout') }}">
+          <input type="hidden" name="plan" value="quarter">
+          <button class="w-full py-3.5 px-6 rounded-xl bg-secondary hover:bg-secondary/90 text-on-secondary font-bold text-sm tracking-wide transition-colors inline-flex items-center justify-center gap-2 shadow-md border-0 cursor-pointer disabled:opacity-50" type="submit" {% if not pay_configured %}disabled{% endif %}>
+            <span>{{ t.plan_cta_quarter }}</span>
+            <span class="material-symbols-outlined text-[18px]">rocket_launch</span>
+          </button>
+        </form>
+        <div class="mt-3 text-center text-xs text-outline flex items-center justify-center gap-1.5">
+          <span class="material-symbols-outlined text-[14px]">qr_code_2</span>
+          <span>{{ t.plan_pay_hint }}</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Plan Year -->
+    <div id="plan-year" class="flex flex-col justify-between bg-surface-container-lowest rounded-3xl p-7 sm:p-8 shadow-xl relative transition-transform duration-300 hover:-translate-y-1 overflow-hidden border-2 border-primary/40">
       <div class="absolute inset-x-0 top-0 h-2 bg-gradient-to-r from-primary via-surface-tint to-tertiary-fixed"></div>
       <div class="absolute top-6 right-6 hidden sm:flex items-center gap-1.5 px-3 py-1 rounded-full bg-primary-fixed text-on-primary-fixed font-bold text-xs shadow-sm">
         <span class="material-symbols-outlined text-[16px] text-primary" style="font-variation-settings: 'FILL' 1;">star</span>
@@ -99,45 +152,46 @@
           <span class="text-xs font-bold uppercase tracking-wider text-on-primary-container px-3 py-1 rounded-full bg-primary-container">{{ t.plan_year_tag }}</span>
           <span class="sm:hidden text-xs font-bold text-primary bg-primary-fixed px-2.5 py-0.5 rounded-full">{{ t.plan_save_badge }}</span>
         </div>
-        <h3 class="mt-4 mb-0 text-3xl font-headline font-bold text-on-surface">{{ t.billing_year_name }}</h3>
+        <h3 class="mt-4 mb-0 text-2xl font-headline font-bold text-on-surface">{{ t.billing_year_name }}</h3>
         <p class="mt-2 mb-0 text-sm text-on-surface-variant max-w-lg">{{ t.plan_year_desc }}</p>
-        <div class="mt-6 flex flex-wrap items-baseline gap-3">
-          <span class="text-5xl sm:text-6xl font-extrabold text-primary tracking-tight">60</span>
+        <div class="mt-6 flex flex-wrap items-baseline gap-2">
+          <span class="text-4xl sm:text-5xl font-extrabold text-primary tracking-tight">{{ plan_year_num }}</span>
           <div class="flex flex-col">
-            <span class="text-sm font-semibold text-on-surface">USDT {{ t.plan_per_year }}</span>
-            <span class="text-xs font-medium text-tertiary">{{ t.plan_eq_month }}</span>
+            <span class="text-xs font-semibold text-on-surface">đ {{ t.plan_per_year }}</span>
+            <span class="text-[11px] font-medium text-tertiary">{{ t.plan_eq_month }}</span>
           </div>
-          <span class="ml-auto text-xs font-semibold px-2.5 py-1 rounded-full bg-tertiary-container/30 text-on-tertiary-container">{{ t.plan_two_months }}</span>
+          <span class="ml-auto text-[11px] font-semibold px-2 py-0.5 rounded-full bg-tertiary-container/30 text-on-tertiary-container">{{ t.plan_two_months }}</span>
         </div>
         <p class="mt-1 mb-0 text-xs text-outline">{{ t.plan_year_bill }}</p>
-        <div class="mt-8 pt-6">
+        <div class="mt-8 pt-6 space-y-3.5 border-t border-surface-container-high">
           <div class="text-xs font-bold uppercase tracking-wider text-primary">{{ t.plan_year_plus }}</div>
-          <div class="mt-4 grid grid-cols-1 sm:grid-cols-2 gap-3.5">
-            <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span class="font-medium">{{ t.plan_feat_save }}</span></div>
-            <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_dir.replace('{n}', n) }}</span></div>
-            <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_search }}</span></div>
-            <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_csv }}</span></div>
-            <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_stack }}</span></div>
-            <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_pay }}</span></div>
-          </div>
+          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span class="font-bold text-primary">{{ t.plan_feat_csv }}</span></div>
+          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span class="font-bold text-primary">{{ t.plan_row_traffic }}</span></div>
+          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span class="font-bold text-primary">{{ t.plan_row_ads }}</span></div>
+          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span class="font-bold text-primary">{{ t.plan_row_keywords }}</span></div>
+          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span class="font-medium">{{ t.plan_feat_save }}</span></div>
+          <div class="flex items-start gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-primary text-[20px] shrink-0 mt-0.5">check_circle</span><span>{{ t.plan_feat_stack }}</span></div>
         </div>
       </div>
       <div class="mt-10">
         <form method="post" action="{{ url_for('billing_checkout') }}">
           <input type="hidden" name="plan" value="year">
-          <button class="w-full py-4 px-8 rounded-xl bg-primary hover:bg-on-primary-fixed-variant text-on-primary font-bold text-base tracking-wide transition-all duration-200 inline-flex items-center justify-center gap-3 shadow-lg hover:shadow-xl border-0 cursor-pointer disabled:opacity-50" type="submit" {% if not pay_configured %}disabled{% endif %}>
+          <button class="w-full py-4 px-6 rounded-xl bg-primary hover:bg-on-primary-fixed-variant text-on-primary font-bold text-sm sm:text-base tracking-wide transition-all duration-200 inline-flex items-center justify-center gap-2 shadow-lg hover:shadow-xl border-0 cursor-pointer disabled:opacity-50" type="submit" {% if not pay_configured %}disabled{% endif %}>
+            {% if sub_plan == 'month' and not is_admin %}
+            <span>{{ t.billing_plan_upgrade_cta }}</span>
+            {% else %}
             <span>{{ t.plan_cta_year }}</span>
+            {% endif %}
             <span class="material-symbols-outlined text-[20px]">rocket_launch</span>
           </button>
         </form>
         <div class="mt-3 flex flex-wrap items-center justify-between text-xs text-outline px-1">
-          <span class="flex items-center gap-1"><span class="material-symbols-outlined text-[14px]">currency_bitcoin</span> {{ t.plan_pay_hint }}</span>
+          <span class="flex items-center gap-1"><span class="material-symbols-outlined text-[14px]">qr_code_2</span> {{ t.plan_pay_hint }}</span>
           <span>{{ t.plan_no_setup }}</span>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </div></section>
 
 <section class="w-full px-4 lg:px-6 py-10">
   <div class="bg-surface-container-low rounded-3xl p-8 lg:p-12 shadow-sm">
@@ -208,43 +262,64 @@
     <table class="w-full text-left border-collapse min-w-[720px]">
       <thead>
         <tr class="bg-surface-container-high text-on-surface text-xs sm:text-sm font-headline">
-          <th class="py-4 px-6 font-bold w-2/5">{{ t.plan_col_feature }}</th>
-          <th class="py-4 px-4 font-semibold text-center w-1/5">{{ t.plan_col_free }}</th>
-          <th class="py-4 px-4 font-semibold text-center w-1/5 bg-secondary-container/20 text-on-secondary-container">{{ t.plan_col_month }}</th>
-          <th class="py-4 px-4 font-bold text-center w-1/5 bg-primary-fixed text-primary">{{ t.plan_col_year }}</th>
+          <th class="py-4 px-6 font-bold w-1/4">{{ t.plan_col_feature }}</th>
+          <th class="py-4 px-3 font-semibold text-center w-1/6">{{ t.plan_col_free }}</th>
+          <th class="py-4 px-3 font-semibold text-center w-1/6 bg-secondary-container/10 text-on-secondary-container">{{ t.plan_col_month }}</th>
+          <th class="py-4 px-3 font-bold text-center w-1/6 bg-secondary-container/30 text-secondary">{{ t.plan_col_quarter }}</th>
+          <th class="py-4 px-3 font-bold text-center w-1/6 bg-primary-fixed text-primary">{{ t.plan_col_year }}</th>
         </tr>
       </thead>
       <tbody class="text-xs sm:text-sm text-on-surface-variant">
         <tr class="bg-surface-container-lowest">
           <td class="py-3.5 px-6 font-medium text-on-surface">{{ t.plan_row_dir }}</td>
-          <td class="py-3.5 px-4 text-center">{{ t.plan_row_dir_free.replace('{n}', page_n) }}</td>
-          <td class="py-3.5 px-4 text-center font-semibold text-on-surface bg-secondary-container/10">{{ t.plan_row_all }}</td>
-          <td class="py-3.5 px-4 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_row_all }}</td>
+          <td class="py-3.5 px-3 text-center">{{ t.plan_row_dir_free.replace('{n}', page_n) }}</td>
+          <td class="py-3.5 px-3 text-center font-semibold text-on-surface bg-secondary-container/5">{{ t.plan_row_all }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-secondary bg-secondary-container/20">{{ t.plan_row_all }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_row_all }}</td>
         </tr>
         <tr class="bg-surface-container-low/40">
           <td class="py-3.5 px-6 font-medium text-on-surface">{{ t.plan_row_search }}</td>
-          <td class="py-3.5 px-4 text-center">{{ t.plan_no }}</td>
-          <td class="py-3.5 px-4 text-center font-semibold text-on-surface bg-secondary-container/10">{{ t.plan_yes }}</td>
-          <td class="py-3.5 px-4 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_yes }}</td>
-        </tr>
-        <tr class="bg-surface-container-lowest">
-          <td class="py-3.5 px-6 font-medium text-on-surface">{{ t.plan_row_pages }}</td>
-          <td class="py-3.5 px-4 text-center">{{ t.plan_no }}</td>
-          <td class="py-3.5 px-4 text-center font-semibold text-on-surface bg-secondary-container/10">{{ t.plan_yes }}</td>
-          <td class="py-3.5 px-4 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center">{{ t.plan_no }}</td>
+          <td class="py-3.5 px-3 text-center font-semibold text-on-surface bg-secondary-container/5">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-secondary bg-secondary-container/20">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_yes }}</td>
         </tr>
         <tr class="bg-surface-container-low/40">
           <td class="py-3.5 px-6 font-medium text-on-surface">{{ t.plan_row_detail }}</td>
-          <td class="py-3.5 px-4 text-center font-semibold text-on-surface">{{ t.plan_yes }}</td>
-          <td class="py-3.5 px-4 text-center font-semibold text-on-surface bg-secondary-container/10">{{ t.plan_yes }}</td>
-          <td class="py-3.5 px-4 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center font-semibold text-on-surface">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center font-semibold text-on-surface bg-secondary-container/5">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-secondary bg-secondary-container/20">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_yes }}</td>
         </tr>
         <tr class="bg-surface-container-lowest">
           <td class="py-3.5 px-6 font-medium text-on-surface">{{ t.plan_row_csv }}</td>
-          <td class="py-3.5 px-4 text-center">{{ t.plan_no }}</td>
-          <td class="py-3.5 px-4 text-center font-semibold text-on-surface bg-secondary-container/10">{{ t.plan_yes }}</td>
-          <td class="py-3.5 px-4 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center text-outline">{{ t.plan_no }}</td>
+          <td class="py-3.5 px-3 text-center text-outline bg-secondary-container/5">{{ t.plan_no }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-secondary bg-secondary-container/20">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_yes }}</td>
         </tr>
+        <tr class="bg-surface-container-low/40">
+          <td class="py-3.5 px-6 font-medium text-on-surface">{{ t.plan_row_traffic }}</td>
+          <td class="py-3.5 px-3 text-center text-on-surface-variant">{{ t.plan_row_dir_free.replace('{n}', page_n) }}</td>
+          <td class="py-3.5 px-3 text-center text-outline bg-secondary-container/5">{{ t.plan_no }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-secondary bg-secondary-container/20">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_yes }}</td>
+        </tr>
+        <tr class="bg-surface-container-lowest">
+          <td class="py-3.5 px-6 font-medium text-on-surface">{{ t.plan_row_ads }}</td>
+          <td class="py-3.5 px-3 text-center text-on-surface-variant">{{ t.plan_row_dir_free.replace('{n}', page_n) }}</td>
+          <td class="py-3.5 px-3 text-center text-outline bg-secondary-container/5">{{ t.plan_no }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-secondary bg-secondary-container/20">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_yes }}</td>
+        </tr>
+        <tr class="bg-surface-container-low/40">
+          <td class="py-3.5 px-6 font-medium text-on-surface">{{ t.plan_row_keywords }}</td>
+          <td class="py-3.5 px-3 text-center text-on-surface-variant">{{ t.plan_row_dir_free.replace('{n}', page_n) }}</td>
+          <td class="py-3.5 px-3 text-center text-outline bg-secondary-container/5">{{ t.plan_no }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-secondary bg-secondary-container/20">{{ t.plan_yes }}</td>
+          <td class="py-3.5 px-3 text-center font-bold text-primary bg-primary-fixed/20">{{ t.plan_yes }}</td>
+        </tr>
+
       </tbody>
     </table>
   </div>
@@ -292,17 +367,20 @@
 <script>
 (function () {
   var monthly = document.getElementById("toggle-monthly");
+  var quarter = document.getElementById("toggle-quarter");
   var annual = document.getElementById("toggle-annual");
-  var on = "px-5 py-2 rounded-full text-xs sm:text-sm font-semibold transition-all duration-200 bg-surface-container-lowest text-primary shadow-sm border-0 cursor-pointer";
-  var off = "relative px-5 py-2 rounded-full text-xs sm:text-sm font-semibold transition-all duration-200 text-on-surface-variant hover:text-on-surface bg-transparent border-0 cursor-pointer";
-  function go(id, monthOn) {
-    if (monthly) monthly.className = monthOn ? on : off;
-    if (annual) annual.className = monthOn ? off : on;
+  var on = "px-4 sm:px-5 py-2 rounded-full text-xs sm:text-sm font-semibold transition-all duration-200 bg-surface-container-lowest text-primary shadow-sm border-0 cursor-pointer";
+  var off = "relative px-4 sm:px-5 py-2 rounded-full text-xs sm:text-sm font-semibold transition-all duration-200 text-on-surface-variant hover:text-on-surface bg-transparent border-0 cursor-pointer";
+  function go(id, target) {
+    if (monthly) monthly.className = target === 'month' ? on : off;
+    if (quarter) quarter.className = target === 'quarter' ? on : off;
+    if (annual) annual.className = target === 'year' ? on : off;
     var el = document.getElementById(id);
     if (el) el.scrollIntoView({ behavior: "smooth", block: "center" });
   }
-  if (monthly) monthly.addEventListener("click", function () { go("plan-month", true); });
-  if (annual) annual.addEventListener("click", function () { go("plan-year", false); });
+  if (monthly) monthly.addEventListener("click", function () { go("plan-month", 'month'); });
+  if (quarter) quarter.addEventListener("click", function () { go("plan-quarter", 'quarter'); });
+  if (annual) annual.addEventListener("click", function () { go("plan-year", 'year'); });
 })();
 </script>
 {% endblock %}
