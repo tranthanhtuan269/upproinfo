@@ -1,298 +1,346 @@
-#!/usr/bin/env python3
-"""
-Quet toan bo Traffic (AITDK / SimilarWeb) va Google Ads Transparency cho hon 9.000 brand
-Luu tru vao SQLite: /var/www/upproinfo/data/uppromote.db (bang brand_metrics)
+"""Quet traffic (AITDK / SimilarWeb) va Google Ads Transparency.
+
+Luu bang brand_metrics trong data/uppromote.db.
+Hang ngay: daily_sync.py goi scan_shop_ids() cho brand moi.
+Backlog: python scan_metrics.py
 """
 
-import os
-import sys
-import json
-import time
-import string
-import random
+from __future__ import annotations
+
 import hashlib
-import sqlite3
+import json
 import logging
-from pathlib import Path
-from urllib.parse import urlparse
-import urllib.request
+import os
+import random
+import string
+import sys
+import time
 import urllib.parse
+import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
+from typing import Any, Iterable
+from urllib.parse import urlparse
 
-DB_PATH = "/var/www/upproinfo/data/uppromote.db"
-PROGRESS_FILE = "/var/www/upproinfo/data/scan_metrics_progress.json"
-LOG_FILE = "/var/www/upproinfo/data/scan_metrics.log"
-SECRET_KEY = "541737bb-02ce-4fb6-8157-3c7166873777"
+from storage import DATA_DIR, DB_PATH, connect, ensure_metrics_table, upsert_metrics_record
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[
-        logging.FileHandler(LOG_FILE, encoding="utf-8"),
-        logging.StreamHandler(sys.stdout)
-    ]
-)
+PROGRESS_FILE = DATA_DIR / "scan_metrics_progress.json"
+LOG_FILE = DATA_DIR / "scan_metrics.log"
+SECRET_PATH = Path(__file__).resolve().parent / "scan_metrics.secret.json"
+BATCH_SIZE = 20
 
-def init_db():
-    conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
-    cur.execute('''
-    CREATE TABLE IF NOT EXISTS brand_metrics (
-        shop_id INTEGER PRIMARY KEY,
-        domain TEXT,
-        traffic_m1 INTEGER DEFAULT 0,
-        traffic_m2 INTEGER DEFAULT 0,
-        traffic_m3 INTEGER DEFAULT 0,
-        monthly_visits_json TEXT,
-        bounce_rate REAL DEFAULT 0,
-        global_rank INTEGER DEFAULT 0,
-        country_rank INTEGER DEFAULT 0,
-        top_keywords_json TEXT,
-        google_ads_running INTEGER DEFAULT 0,
-        google_advertisers_count INTEGER DEFAULT 0,
-        google_advertisers_json TEXT,
-        updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+logger = logging.getLogger("scan_metrics")
+
+
+def setup_logging() -> None:
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    if logger.handlers:
+        return
+    logger.setLevel(logging.INFO)
+    fmt = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s")
+    file_handler = logging.FileHandler(LOG_FILE, encoding="utf-8")
+    file_handler.setFormatter(fmt)
+    stream = logging.StreamHandler(sys.stdout)
+    stream.setFormatter(fmt)
+    logger.addHandler(file_handler)
+    logger.addHandler(stream)
+
+
+def load_secret() -> str:
+    env = (os.environ.get("AITDK_SECRET") or "").strip()
+    if env:
+        return env
+    if SECRET_PATH.exists():
+        try:
+            raw = json.loads(SECRET_PATH.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as exc:
+            raise RuntimeError("scan_metrics.secret.json khong hop le.") from exc
+        secret = str(raw.get("aitdk_secret") or "").strip()
+        if secret:
+            return secret
+    raise RuntimeError(
+        "Thieu AITDK secret. Tao scan_metrics.secret.json "
+        '{"aitdk_secret":"..."} hoac set AITDK_SECRET."'
     )
-    ''')
-    conn.commit()
-    conn.close()
 
-def clean_domain(url):
+
+def clean_domain(url: Any) -> str:
     if not url:
-        return ''
-    url = url.strip()
-    if not url.startswith(('http://', 'https://')):
-        url = 'https://' + url
+        return ""
+    text = str(url).strip()
+    if not text:
+        return ""
+    if not text.startswith(("http://", "https://")):
+        text = "https://" + text
     try:
-        netloc = urlparse(url).netloc
-        if not netloc:
-            netloc = url.split('/')[0]
+        netloc = urlparse(text).netloc or text.split("/")[0]
         netloc = netloc.lower()
-        if netloc.startswith('www.'):
+        if netloc.startswith("www."):
             netloc = netloc[4:]
-        netloc = netloc.split(':')[0]
-        return netloc
+        return netloc.split(":")[0]
     except Exception:
-        return ''
+        return ""
 
-def get_aitdk_bulk(domains):
-    """Goi API AITDK SSE cho 1 batch domains (toi da 20 domain/request)."""
+
+def get_aitdk_bulk(domains: list[str], secret: str) -> dict[str, Any]:
     chars = string.ascii_letters + string.digits
-    nonce = ''.join(random.choice(chars) for _ in range(16))
+    nonce = "".join(random.choice(chars) for _ in range(16))
     timestamp = str(int(time.time()))
-    
-    domain_param = ','.join(domains)
     params = {
-        'domain': domain_param,
-        'view': 'summary',
-        'stream': 'true'
+        "domain": ",".join(domains),
+        "view": "summary",
+        "stream": "true",
     }
-    
     keys = sorted(params.keys())
-    normalized_q = urllib.parse.urlencode([(k, str(params[k])) for k in keys])
-    sig_str = f'GET\n/api/v1/bulk\n{normalized_q}\n{timestamp}\n{nonce}\n{SECRET_KEY}'
-    signature = hashlib.sha256(sig_str.encode('utf-8')).hexdigest()
-    
-    params['timestamp'] = timestamp
-    params['nonce'] = nonce
-    params['signature'] = signature
-    
-    url = 'https://wapi.aitdk.com/api/v1/bulk?' + urllib.parse.urlencode(params)
-    req = urllib.request.Request(url, headers={
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/event-stream'
-    })
-    
-    results = {}
+    normalized_q = urllib.parse.urlencode([(key, str(params[key])) for key in keys])
+    sig_str = f"GET\n/api/v1/bulk\n{normalized_q}\n{timestamp}\n{nonce}\n{secret}"
+    signature = hashlib.sha256(sig_str.encode("utf-8")).hexdigest()
+    params["timestamp"] = timestamp
+    params["nonce"] = nonce
+    params["signature"] = signature
+    url = "https://wapi.aitdk.com/api/v1/bulk?" + urllib.parse.urlencode(params)
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            ),
+            "Accept": "text/event-stream",
+        },
+    )
+    results: dict[str, Any] = {}
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
             current_event = None
             for line in resp:
-                line = line.decode('utf-8', errors='ignore').strip()
-                if line.startswith('event:'):
-                    current_event = line.split(':', 1)[1].strip()
-                elif line.startswith('data:') and current_event == 'traffic':
+                line = line.decode("utf-8", errors="ignore").strip()
+                if line.startswith("event:"):
+                    current_event = line.split(":", 1)[1].strip()
+                elif line.startswith("data:") and current_event == "traffic":
                     data_str = line[5:].strip()
-                    if data_str:
-                        item = json.loads(data_str)
-                        if isinstance(item, dict) and 'domain' in item:
-                            results[item['domain']] = item
-    except Exception as e:
-        logging.warning(f"AITDK error for batch ({len(domains)} domains): {e}")
+                    if not data_str:
+                        continue
+                    item = json.loads(data_str)
+                    if isinstance(item, dict) and item.get("domain"):
+                        results[item["domain"]] = item
+    except Exception as exc:
+        logger.warning("AITDK error for batch (%s domains): %s", len(domains), exc)
     return results
 
-def search_google_ads(domain):
-    """Kiem tra xem domain co dang chay Google Ads khong qua Ads Transparency."""
-    url = 'https://adstransparency.google.com/anji/_/rpc/SearchService/SearchCreatives?authuser='
-    payload = {
-        '2': 40,
-        '3': {
-            '12': {
-                '1': domain,
-                '2': True
-            }
+
+def search_google_ads(domain: str) -> tuple[bool, int, list[Any]]:
+    url = "https://adstransparency.google.com/anji/_/rpc/SearchService/SearchCreatives?authuser="
+    payload = {"2": 40, "3": {"12": {"1": domain, "2": True}}, "7": {"1": 1}}
+    data = urllib.parse.urlencode({"f.req": json.dumps(payload)}).encode("utf-8")
+    req = urllib.request.Request(
+        url,
+        data=data,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            ),
+            "Content-Type": "application/x-www-form-urlencoded",
         },
-        '7': {
-            '1': 1
-        }
-    }
-    data = urllib.parse.urlencode({'f.req': json.dumps(payload)}).encode('utf-8')
-    req = urllib.request.Request(url, data=data, headers={
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Content-Type': 'application/x-www-form-urlencoded'
-    })
+    )
     try:
         with urllib.request.urlopen(req, timeout=10) as resp:
-            content = resp.read().decode('utf-8')
-            res = json.loads(content)
+            res = json.loads(resp.read().decode("utf-8"))
             if not isinstance(res, dict):
                 return False, 0, []
-            creatives = res.get('1', []) or []
-            adv_ids = list(set(c.get('1') for c in creatives if isinstance(c, dict) and c.get('1')))
+            creatives = res.get("1", []) or []
+            adv_ids = list(
+                {item.get("1") for item in creatives if isinstance(item, dict) and item.get("1")}
+            )
             return len(creatives) > 0, len(adv_ids), adv_ids
     except Exception:
         return False, 0, []
 
-def process_batch(items):
-    """
-    items: list of (shop_id, domain)
-    """
-    domains = [d for sid, d in items]
-    
-    # 1. Fetch Traffic from AITDK for this batch
-    traffic_map = get_aitdk_bulk(domains)
-    
-    # 2. Fetch Google Ads in parallel
-    ads_map = {}
+
+def month_values(monthly: dict[str, Any]) -> tuple[int, int, int]:
+    m1 = m2 = m3 = 0
+    if not isinstance(monthly, dict) or not monthly:
+        return m1, m2, m3
+    sorted_months = sorted(monthly.keys())
+    if len(sorted_months) >= 3:
+        m1 = monthly.get(sorted_months[-3], 0) or 0
+        m2 = monthly.get(sorted_months[-2], 0) or 0
+        m3 = monthly.get(sorted_months[-1], 0) or 0
+    elif len(sorted_months) == 2:
+        m2 = monthly.get(sorted_months[-2], 0) or 0
+        m3 = monthly.get(sorted_months[-1], 0) or 0
+    elif len(sorted_months) == 1:
+        m3 = monthly.get(sorted_months[-1], 0) or 0
+    return int(m1), int(m2), int(m3)
+
+
+def process_batch(items: list[tuple[int, str]], secret: str) -> list[tuple[Any, ...]]:
+    domains = [domain for _sid, domain in items]
+    traffic_map = get_aitdk_bulk(domains, secret)
+    ads_map: dict[str, tuple[bool, int, list[Any]]] = {}
     with ThreadPoolExecutor(max_workers=5) as executor:
-        future_to_domain = {executor.submit(search_google_ads, d): d for d in domains}
+        future_to_domain = {executor.submit(search_google_ads, domain): domain for domain in domains}
         for future in as_completed(future_to_domain):
-            d = future_to_domain[future]
+            domain = future_to_domain[future]
             try:
-                ads_map[d] = future.result()
+                ads_map[domain] = future.result()
             except Exception:
-                ads_map[d] = (False, 0, [])
+                ads_map[domain] = (False, 0, [])
 
-    # 3. Parse and prepare records
     records = []
-    for sid, d in items:
-        domain_item = traffic_map.get(d) or {}
-        t_info = domain_item.get('data') or {}
-        overview = t_info.get('overview') or {}
-        monthly = t_info.get('monthlyVisits') or {}
-        keywords = t_info.get('topKeywords') or []
-        
-        # Sort months to get 3 latest months
-        m1, m2, m3 = 0, 0, 0
-        if isinstance(monthly, dict) and monthly:
-            sorted_months = sorted(monthly.keys())
-            if len(sorted_months) >= 3:
-                m1 = monthly.get(sorted_months[-3], 0) or 0
-                m2 = monthly.get(sorted_months[-2], 0) or 0
-                m3 = monthly.get(sorted_months[-1], 0) or 0
-            elif len(sorted_months) == 2:
-                m2 = monthly.get(sorted_months[-2], 0) or 0
-                m3 = monthly.get(sorted_months[-1], 0) or 0
-            elif len(sorted_months) == 1:
-                m3 = monthly.get(sorted_months[-1], 0) or 0
-
-        bounce_rate = float(overview.get('bounceRate') or 0)
-        global_rank = int(overview.get('globalRank') or 0)
-        country_rank = int(overview.get('countryRank') or 0)
-
-        ads_running, ads_count, ads_ids = ads_map.get(d, (False, 0, []))
-
-        records.append((
-            sid,
-            d,
-            int(m1),
-            int(m2),
-            int(m3),
-            json.dumps(monthly) if monthly else '{}',
-            bounce_rate,
-            global_rank,
-            country_rank,
-            json.dumps(keywords) if keywords else '[]',
-            1 if ads_running else 0,
-            ads_count,
-            json.dumps(ads_ids) if ads_ids else '[]'
-        ))
-
+    for sid, domain in items:
+        domain_item = traffic_map.get(domain) or {}
+        t_info = domain_item.get("data") or {}
+        overview = t_info.get("overview") or {}
+        monthly = t_info.get("monthlyVisits") or {}
+        keywords = t_info.get("topKeywords") or []
+        m1, m2, m3 = month_values(monthly if isinstance(monthly, dict) else {})
+        ads_running, ads_count, ads_ids = ads_map.get(domain, (False, 0, []))
+        records.append(
+            (
+                sid,
+                domain,
+                m1,
+                m2,
+                m3,
+                json.dumps(monthly) if monthly else "{}",
+                float(overview.get("bounceRate") or 0),
+                int(overview.get("globalRank") or 0),
+                int(overview.get("countryRank") or 0),
+                json.dumps(keywords) if keywords else "[]",
+                1 if ads_running else 0,
+                ads_count,
+                json.dumps(ads_ids) if ads_ids else "[]",
+            )
+        )
     return records
 
-def main():
-    init_db()
-    logging.info("Starting Batch Scan for Brand Metrics...")
 
-    conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
-    cur.execute('SELECT shop_id, website FROM details WHERE website IS NOT NULL AND website != \'\'')
-    all_rows = cur.fetchall()
-
-    # Get already processed shop_ids
-    cur.execute('SELECT shop_id FROM brand_metrics')
-    processed_ids = set(r[0] for r in cur.fetchall())
-    conn.close()
-
-    tasks = []
-    for sid, w in all_rows:
-        if sid in processed_ids:
-            continue
-        d = clean_domain(w)
-        if d and '.' in d:
-            tasks.append((sid, d))
-
-    logging.info(f"Total brands: {len(all_rows)}. Already processed: {len(processed_ids)}. Remaining to scan: {len(tasks)}")
-
-    if not tasks:
-        logging.info("All brands are already processed!")
+def save_records(records: list[tuple[Any, ...]]) -> None:
+    if not records:
         return
+    conn = connect()
+    try:
+        ensure_metrics_table(conn)
+        for record in records:
+            upsert_metrics_record(conn, record)
+        conn.commit()
+    finally:
+        conn.close()
 
-    # Process in batches of 20
-    BATCH_SIZE = 20
-    batches = [tasks[i:i + BATCH_SIZE] for i in range(0, len(tasks), BATCH_SIZE)]
-    
-    total_processed = len(processed_ids)
-    total_tasks = len(all_rows)
 
-    start_time = time.time()
-    for b_idx, b in enumerate(batches, 1):
+def load_tasks(shop_ids: Iterable[int] | None = None, force: bool = False) -> list[tuple[int, str]]:
+    conn = connect()
+    try:
+        ensure_metrics_table(conn)
+        ids = [int(sid) for sid in (shop_ids or [])]
+        if ids:
+            tasks: list[tuple[int, str]] = []
+            for offset in range(0, len(ids), 400):
+                chunk = ids[offset : offset + 400]
+                placeholders = ",".join("?" for _ in chunk)
+                rows = conn.execute(
+                    f"""
+                    SELECT shop_id, website FROM details
+                    WHERE shop_id IN ({placeholders})
+                      AND website IS NOT NULL AND website != ''
+                    """,
+                    chunk,
+                ).fetchall()
+                tasks.extend((int(row[0]), row[1]) for row in rows)
+        else:
+            rows = conn.execute(
+                "SELECT shop_id, website FROM details WHERE website IS NOT NULL AND website != ''"
+            ).fetchall()
+            tasks = [(int(row[0]), row[1]) for row in rows]
+        processed: set[int] = set()
+        if not force:
+            processed = {int(row[0]) for row in conn.execute("SELECT shop_id FROM brand_metrics")}
+    finally:
+        conn.close()
+
+    out: list[tuple[int, str]] = []
+    for sid, website in tasks:
+        if sid in processed:
+            continue
+        domain = clean_domain(website)
+        if domain and "." in domain:
+            out.append((sid, domain))
+    return out
+
+
+def scan_tasks(tasks: list[tuple[int, str]]) -> int:
+    setup_logging()
+    if not tasks:
+        logger.info("Khong co brand can quet metrics.")
+        return 0
+    secret = load_secret()
+    batches = [tasks[i : i + BATCH_SIZE] for i in range(0, len(tasks), BATCH_SIZE)]
+    start = time.time()
+    done = 0
+    for index, batch in enumerate(batches, start=1):
         try:
-            records = process_batch(b)
-            if records:
-                db_conn = sqlite3.connect(DB_PATH)
-                db_cur = db_conn.cursor()
-                db_cur.executemany('''
-                INSERT OR REPLACE INTO brand_metrics (
-                    shop_id, domain, traffic_m1, traffic_m2, traffic_m3,
-                    monthly_visits_json, bounce_rate, global_rank, country_rank,
-                    top_keywords_json, google_ads_running, google_advertisers_count,
-                    google_advertisers_json, updated_at
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
-                ''', records)
-                db_conn.commit()
-                db_conn.close()
-
-            total_processed += len(b)
-            pct = round(total_processed * 100 / total_tasks, 2)
-            elapsed = round(time.time() - start_time, 1)
-            logging.info(f"Batch {b_idx}/{len(batches)} done (+{len(b)} brands). Total: {total_processed}/{total_tasks} ({pct}%). Elapsed: {elapsed}s")
-
-            # Update progress file
-            with open(PROGRESS_FILE, "w", encoding="utf-8") as pf:
-                json.dump({
-                    "total": total_tasks,
-                    "processed": total_processed,
-                    "percent": pct,
-                    "last_updated": time.strftime("%Y-%m-%d %H:%M:%S")
-                }, pf, indent=2)
-
+            records = process_batch(batch, secret)
+            save_records(records)
+            done += len(batch)
+            pct = round(done * 100 / len(tasks), 2)
+            elapsed = round(time.time() - start, 1)
+            logger.info(
+                "Batch %s/%s (+%s). %s/%s (%s%%) %ss",
+                index,
+                len(batches),
+                len(batch),
+                done,
+                len(tasks),
+                pct,
+                elapsed,
+            )
+            PROGRESS_FILE.write_text(
+                json.dumps(
+                    {
+                        "total": len(tasks),
+                        "processed": done,
+                        "percent": pct,
+                        "last_updated": time.strftime("%Y-%m-%d %H:%M:%S"),
+                    },
+                    indent=2,
+                ),
+                encoding="utf-8",
+            )
             time.sleep(0.5)
-        except Exception as e:
-            logging.error(f"Error in batch {b_idx}: {e}", exc_info=True)
+        except Exception:
+            logger.exception("Error in batch %s", index)
             time.sleep(2.0)
+    logger.info("Scan metrics xong: %s brand.", done)
+    return done
 
-    logging.info("Scan completed successfully!")
+
+def scan_shop_ids(shop_ids: Iterable[int], force: bool = False) -> int:
+    return scan_tasks(load_tasks(shop_ids=shop_ids, force=force))
+
+
+def scan_pending(force: bool = False) -> int:
+    return scan_tasks(load_tasks(shop_ids=None, force=force))
+
+
+def main() -> None:
+    setup_logging()
+    force = "--refresh" in sys.argv
+    ids: list[int] = []
+    args = [item for item in sys.argv[1:] if item not in {"--refresh"}]
+    for item in args:
+        try:
+            ids.append(int(item))
+        except ValueError:
+            continue
+    if ids:
+        logger.info("Quet metrics %s shop_id (force=%s).", len(ids), force)
+        scan_shop_ids(ids, force=force)
+        return
+    logger.info("Quet metrics backlog (force=%s).", force)
+    scan_pending(force=force)
+
 
 if __name__ == "__main__":
     main()

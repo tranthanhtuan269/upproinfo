@@ -134,6 +134,38 @@ def connect() -> sqlite3.Connection:
         )
         """
     )
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS user_notifications (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            username TEXT NOT NULL,
+            title TEXT NOT NULL,
+            message TEXT NOT NULL,
+            type TEXT NOT NULL DEFAULT 'success',
+            is_read INTEGER NOT NULL DEFAULT 0,
+            created_at TEXT NOT NULL
+        )
+        """
+    )
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS rate_limits (
+            key TEXT PRIMARY KEY,
+            count INTEGER NOT NULL,
+            window_start INTEGER NOT NULL
+        )
+        """
+    )
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS ip_blacklist (
+            ip TEXT PRIMARY KEY,
+            reason TEXT NOT NULL,
+            blocked_until INTEGER NOT NULL,
+            created_at TEXT NOT NULL
+        )
+        """
+    )
     cols = {row[1] for row in conn.execute("PRAGMA table_info(orders)")}
     if "pay_content" not in cols:
         conn.execute("ALTER TABLE orders ADD COLUMN pay_content TEXT")

@@ -127,7 +127,7 @@
         <button class="px-4 py-2.5 rounded-xl bg-primary text-on-primary text-xs font-semibold border-0 cursor-pointer" type="submit">{{ t.filter }}</button>
       </div>
     </div>
-    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 pt-2">
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-7 gap-3 pt-2">
       <div class="flex flex-col gap-1">
         <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.col_category }}</label>
         <div class="relative">
@@ -195,6 +195,27 @@
             <option value="no" {% if filters.ads == 'no' %}selected{% endif %}>{{ t.ads_inactive_only }}</option>
           </select>
           <span class="material-symbols-outlined pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-outline text-[16px]">expand_more</span>
+        </div>
+      </div>
+      <div class="flex flex-col gap-1 relative" data-payment-filter>
+        <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.filter_payment }}</label>
+        <button class="w-full flex items-center justify-between gap-2 bg-surface-container-low text-xs font-medium text-on-surface rounded-xl px-3 py-2 focus:outline-none focus:bg-surface-container cursor-pointer border-0 text-left" type="button" data-payment-toggle aria-expanded="false">
+          <span class="truncate" data-payment-label>
+            {% if filters.payment %}
+              {{ t.payment_selected.replace('{n}', filters.payment|length|string) }}
+            {% else %}
+              {{ t.all_payments }}
+            {% endif %}
+          </span>
+          <span class="material-symbols-outlined text-outline text-[16px] shrink-0">expand_more</span>
+        </button>
+        <div class="hidden absolute left-0 right-0 top-full mt-1 z-30 bg-surface-container-lowest border border-outline-variant/20 rounded-xl shadow-lg p-2 max-h-56 overflow-y-auto" data-payment-menu>
+          {% for code, label in payment_options %}
+          <label class="flex items-center gap-2 px-2 py-1.5 rounded-lg text-xs text-on-surface hover:bg-surface-container-low cursor-pointer">
+            <input class="accent-primary" type="checkbox" name="payment" value="{{ code }}" {% if code in filters.payment %}checked{% endif %} data-payment-option>
+            <span>{{ label }}</span>
+          </label>
+          {% endfor %}
         </div>
       </div>
     </div>
@@ -447,6 +468,39 @@
       });
     });
   });
+
+  (function () {
+    var root = document.querySelector("[data-payment-filter]");
+    if (!root) return;
+    var toggleBtn = root.querySelector("[data-payment-toggle]");
+    var menu = root.querySelector("[data-payment-menu]");
+    var label = root.querySelector("[data-payment-label]");
+    var allText = {{ t.all_payments|tojson }};
+    var selectedTpl = {{ t.payment_selected|tojson }};
+    function refreshLabel() {
+      var n = root.querySelectorAll("[data-payment-option]:checked").length;
+      if (!label) return;
+      label.textContent = n ? selectedTpl.replace("{n}", String(n)) : allText;
+    }
+    function setOpen(open) {
+      if (!menu || !toggleBtn) return;
+      menu.classList.toggle("hidden", !open);
+      toggleBtn.setAttribute("aria-expanded", open ? "true" : "false");
+    }
+    if (toggleBtn) {
+      toggleBtn.addEventListener("click", function (ev) {
+        ev.preventDefault();
+        setOpen(menu.classList.contains("hidden"));
+      });
+    }
+    root.querySelectorAll("[data-payment-option]").forEach(function (box) {
+      box.addEventListener("change", refreshLabel);
+    });
+    document.addEventListener("click", function (ev) {
+      if (!root.contains(ev.target)) setOpen(false);
+    });
+    refreshLabel();
+  })();
 })();
 </script>
 {% endblock %}

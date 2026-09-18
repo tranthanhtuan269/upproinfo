@@ -12,7 +12,11 @@ venv/
 web/_ssh.py
 web/_deploy.py
 web/_nginx_upproinfo.conf
+web/_push_vietqr.py
 web/oauth.secret.json
 web/vietqr.secret.json
 web/telegram_notify.json
 scan_metrics.secret.json
+data/scan_metrics.log
+data/scan_metrics_progress.json
+data/_upload_tmp/

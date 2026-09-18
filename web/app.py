@@ -70,6 +70,19 @@ SORTS = {
     "payout": "CAST(replace(o.payout_rate, '%', '') AS REAL) DESC",
 }
 
+PAYMENT_METHODS = (
+    ("paypal", "PayPal"),
+    ("bank", "Bank"),
+    ("debit", "Debit"),
+    ("venmo", "Venmo"),
+    ("store_credit", "Store credit"),
+    ("cheque", "Cheque"),
+    ("other", "Other"),
+    ("upi", "UPI"),
+    ("paytm", "Paytm"),
+)
+PAYMENT_CODES = {code for code, _label in PAYMENT_METHODS}
+
 
 def load_secret_key() -> str:
     if SECRET_PATH.exists():
@@ -495,6 +508,10 @@ def db() -> sqlite3.Connection:
         )
         """
     )
+    detail_cols = {row[1] for row in conn.execute("PRAGMA table_info(details)")}
+    if detail_cols and "payment_methods" not in detail_cols:
+        conn.execute("ALTER TABLE details ADD COLUMN payment_methods TEXT")
+        conn.commit()
     return conn
 
 
@@ -597,10 +614,16 @@ def free_list_filters() -> dict:
         "min_score": "",
         "traffic": "",
         "ads": "",
+        "payment": [],
     }
 
 
 def query_kwargs() -> dict:
+    payments = []
+    for raw in request.args.getlist("payment"):
+        code = str(raw or "").strip().lower()
+        if code in PAYMENT_CODES and code not in payments:
+            payments.append(code)
     return {
         "q": request.args.get("q", "").strip(),
         "category": request.args.get("category", "").strip(),
@@ -610,6 +633,7 @@ def query_kwargs() -> dict:
         "min_score": request.args.get("min_score", "").strip(),
         "traffic": request.args.get("traffic", "").strip(),
         "ads": request.args.get("ads", "").strip(),
+        "payment": payments,
     }
 
 
@@ -649,6 +673,13 @@ def offer_where(filters: dict) -> tuple[list[str], list]:
         where.append("coalesce(bm.allows_search_ads, 0) = 1")
     elif filters.get("ads") == "no":
         where.append("coalesce(bm.allows_search_ads, 0) = 0")
+    payments = [str(item).strip().lower() for item in (filters.get("payment") or []) if str(item).strip()]
+    if payments:
+        clauses = []
+        for code in payments:
+            clauses.append("instr(lower(coalesce(d.payment_methods, '')), ?) > 0")
+            args.append(f"|{code}|")
+        where.append("(" + " OR ".join(clauses) + ")")
     return where, args
 
 
@@ -718,8 +749,17 @@ def page_url(page: int, **overrides) -> str:
     params = query_kwargs()
     params.update(overrides)
     params["page"] = page
-    clean = {key: value for key, value in params.items() if value not in ("", None)}
-    return "/?" + urlencode(clean)
+    pairs: list[tuple[str, object]] = []
+    for key, value in params.items():
+        if value in ("", None, [], ()):
+            continue
+        if isinstance(value, (list, tuple)):
+            for item in value:
+                if item not in ("", None):
+                    pairs.append((key, item))
+        else:
+            pairs.append((key, value))
+    return "/?" + urlencode(pairs)
 
 
 @app.route("/")
@@ -772,6 +812,7 @@ def index():
             brands=brands,
             stats=stats(conn),
             categories=categories(conn),
+            payment_options=PAYMENT_METHODS,
             filters=filters,
             page=page,
             pages=pages,
