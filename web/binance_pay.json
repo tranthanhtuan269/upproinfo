@@ -1,7 +1,0 @@
-{
-  "_comment": "Binance Merchant API Key + Secret. Webhook HTTPS khi len domain, vi du https://upproinfo.com/billing/binance/webhook",
-  "api_key": "",
-  "api_secret": "",
-  "base_url": "https://bpay.binanceapi.com",
-  "webhook_public_url": ""
-}

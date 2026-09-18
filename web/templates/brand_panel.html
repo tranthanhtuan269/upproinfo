@@ -1,77 +1,164 @@
-<div class="space-y-3">
-  <section class="mb-3 flex items-start gap-4">
-    {% if brand.logo %}
-      <img class="h-16 w-16 rounded-2xl border border-outline-variant bg-surface-container-lowest object-contain p-2" src="{{ brand.logo }}" alt="">
-    {% endif %}
-    <div>
-      <p class="m-0 text-xs font-medium uppercase tracking-[0.08em] text-primary">{% if has_json %}{{ t.kicker_full }}{% elif brand.offer_status is defined %}{{ t.kicker_detail }}{% else %}{{ t.kicker_list }}{% endif %}</p>
-      <h2 class="mb-1.5 mt-0 text-[22px] font-headline font-bold tracking-tight">{{ brand.name or ('Brand #' ~ shop_id) }}</h2>
-      <p class="mb-3 mt-0 text-on-surface-variant">
-        shop_id {{ shop_id }}
-        {% if brand.categories %} · {{ brand.categories }}{% endif %}
-        {% if brand.currency %} · {{ brand.currency }}{% endif %}
-      </p>
+<div class="space-y-4 w-full">
+  <section class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 bg-surface-container-lowest p-5 rounded-2xl shadow-sm border border-outline-variant/50">
+    <div class="flex items-center gap-4">
+      {% if brand.logo %}
+        <img class="h-16 w-16 rounded-2xl border border-outline-variant/60 bg-surface-container object-contain p-2 shadow-xs" src="{{ brand.logo }}" alt="">
+      {% else %}
+        <div class="w-16 h-16 rounded-2xl bg-primary-fixed text-on-primary-fixed flex items-center justify-center font-bold text-xl shadow-xs">
+          {{ brand.name[:1].upper() if brand.name else '#' }}
+        </div>
+      {% endif %}
       <div>
-        {% if brand.website %}<a class="btn-pill" href="{{ brand.website }}" target="_blank" rel="noopener">Website</a>{% endif %}
-        {% if brand.apply_url %}<a class="btn-accent" href="{{ brand.apply_url }}" target="_blank" rel="noopener">Apply</a>{% endif %}
+        <div class="flex items-center gap-2 mb-1">
+          <span class="text-xs font-bold uppercase tracking-wider text-primary">
+            {% if has_json %}{{ t.kicker_full }}{% elif brand.offer_status is defined %}{{ t.kicker_detail }}{% else %}{{ t.kicker_list }}{% endif %}
+          </span>
+          <span class="text-xs text-outline">· ID: #{{ shop_id }}</span>
+        </div>
+        <h2 class="m-0 text-2xl font-headline font-bold text-on-surface tracking-tight">{{ brand.name or ('Brand #' ~ shop_id) }}</h2>
+        <p class="mt-1 mb-0 text-xs text-on-surface-variant flex flex-wrap items-center gap-2">
+          {% if brand.categories %}<span class="px-2 py-0.5 rounded-md bg-primary-fixed/50 text-primary font-medium">{{ brand.categories }}</span>{% endif %}
+          {% if brand.currency %}<span class="text-outline font-semibold">Tiền tệ: {{ brand.currency }}</span>{% endif %}
+          {% if brand.shop_plan %}<span class="text-outline">Gói sàn: {{ brand.shop_plan }}</span>{% endif %}
+        </p>
       </div>
+    </div>
+    <div class="flex items-center gap-2 self-start sm:self-center">
+      {% if brand.website %}<a class="px-4 py-2 rounded-xl bg-surface-container-high hover:bg-surface-container-highest text-on-surface text-xs font-bold transition-all shadow-xs inline-flex items-center gap-1.5 no-underline" href="{{ brand.website }}" target="_blank" rel="noopener"><span class="material-symbols-outlined text-[16px]">open_in_new</span> Website</a>{% endif %}
+      {% if brand.apply_url %}<a class="px-4 py-2 rounded-xl bg-primary hover:bg-on-primary-fixed-variant text-on-primary text-xs font-bold transition-all shadow-sm inline-flex items-center gap-1.5 no-underline" href="{{ brand.apply_url }}" target="_blank" rel="noopener"><span class="material-symbols-outlined text-[16px]">how_to_reg</span> Đăng ký Affiliate</a>{% endif %}
     </div>
   </section>
 
-  <section class="mb-4 grid grid-cols-2 gap-2.5 md:grid-cols-4">
-    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.commission or '—' }}</b><span class="stat-label">{{ t.col_commission }}</span></article>
-    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.cookie or '—' }}</b><span class="stat-label">{{ t.cookie_days }}</span></article>
-    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.payout_rate or '—' }}</b><span class="stat-label">{{ t.payout_rate }}</span></article>
-    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.approval_rate or '—' }}</b><span class="stat-label">{{ t.approval }}</span></article>
-    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.offer_score or '—' }}</b><span class="stat-label">{{ t.offer_score }}</span></article>
-    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.recommend_score or '—' }}</b><span class="stat-label">{{ t.recommend }}</span></article>
-    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.avg_order_value or '—' }}</b><span class="stat-label">{{ t.aov }}</span></article>
-    <article class="ui-card shadow-sm"><b class="stat-value">{{ brand.application_review or '—' }}</b><span class="stat-label">{{ t.review }}</span></article>
+  <section class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-3 w-full">
+    <article class="p-3.5 rounded-xl bg-surface-container-lowest shadow-xs border border-outline-variant/40 flex flex-col justify-between">
+      <span class="text-[11px] text-outline font-medium">{{ t.col_commission }}</span>
+      <b class="text-base font-bold text-secondary mt-1">{{ brand.commission or '—' }}</b>
+    </article>
+    <article class="p-3.5 rounded-xl bg-surface-container-lowest shadow-xs border border-outline-variant/40 flex flex-col justify-between">
+      <span class="text-[11px] text-outline font-medium">{{ t.cookie_days }}</span>
+      <b class="text-base font-bold text-on-surface mt-1">{{ brand.cookie or '—' }} ngày</b>
+    </article>
+    <article class="p-3.5 rounded-xl bg-surface-container-lowest shadow-xs border border-outline-variant/40 flex flex-col justify-between">
+      <span class="text-[11px] text-outline font-medium">{{ t.payout_rate }}</span>
+      <b class="text-base font-bold text-on-surface mt-1">{{ brand.payout_label or brand.payout_rate or '—' }}</b>
+    </article>
+    <article class="p-3.5 rounded-xl bg-surface-container-lowest shadow-xs border border-outline-variant/40 flex flex-col justify-between">
+      <span class="text-[11px] text-outline font-medium">{{ t.approval }}</span>
+      <b class="text-base font-bold text-on-surface mt-1">{{ brand.approval_pct or brand.approval_rate or '—' }}</b>
+    </article>
+    <article class="p-3.5 rounded-xl bg-surface-container-lowest shadow-xs border border-outline-variant/40 flex flex-col justify-between">
+      <span class="text-[11px] text-outline font-medium">{{ t.offer_score }}</span>
+      <b class="text-base font-bold text-primary mt-1">{{ brand.offer_score or '—' }}</b>
+    </article>
+    <article class="p-3.5 rounded-xl bg-surface-container-lowest shadow-xs border border-outline-variant/40 flex flex-col justify-between">
+      <span class="text-[11px] text-outline font-medium">{{ t.recommend }}</span>
+      <b class="text-base font-bold text-on-surface mt-1">{{ brand.recommend_score or '—' }}</b>
+    </article>
+    <article class="p-3.5 rounded-xl bg-surface-container-lowest shadow-xs border border-outline-variant/40 flex flex-col justify-between">
+      <span class="text-[11px] text-outline font-medium">{{ t.aov }}</span>
+      <b class="text-base font-bold text-on-surface mt-1">{{ brand.avg_order_value or '—' }}</b>
+    </article>
+    <article class="p-3.5 rounded-xl bg-surface-container-lowest shadow-xs border border-outline-variant/40 flex flex-col justify-between">
+      <span class="text-[11px] text-outline font-medium">{{ t.review }}</span>
+      <b class="text-base font-bold text-on-surface mt-1">{{ brand.application_review or '—' }}</b>
+    </article>
+  </section>
+
+  {% if is_admin or sub_plan in ('year', 'quarter') or not entitled %}
+  {% if brand.top_keywords and brand.top_keywords|length > 0 %}
+  <section class="p-5 rounded-2xl bg-surface-container-lowest shadow-sm border border-outline-variant/50 w-full">
+    <div class="flex items-center justify-between mb-3">
+      <div class="flex items-center gap-2">
+        <span class="material-symbols-outlined text-primary text-[20px]">query_stats</span>
+        <h3 class="m-0 text-base font-headline font-bold text-on-surface">{{ t.keywords_title }}</h3>
+      </div>
+      <span class="text-[11px] px-2.5 py-0.5 rounded-full bg-primary-fixed text-on-primary-fixed font-bold">Đặc quyền Gói Năm</span>
+    </div>
+    <div class="overflow-x-auto w-full">
+      <table class="w-full text-left text-xs border-collapse">
+        <thead>
+          <tr class="bg-surface-container-low text-[11px] font-label uppercase tracking-wider text-outline font-semibold">
+            <th class="py-2.5 px-3 rounded-l-lg">Từ khóa</th>
+            <th class="py-2.5 px-3 text-right">Lượt tìm kiếm/tháng</th>
+            <th class="py-2.5 px-3 text-right rounded-r-lg">Giá thầu CPC (USD)</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-outline-variant/30">
+          {% for kw in brand.top_keywords %}
+          <tr class="hover:bg-surface-container-low/50 transition-colors">
+            <td class="py-2.5 px-3 font-semibold text-on-surface">{{ kw.name }}</td>
+            <td class="py-2.5 px-3 text-right font-bold text-primary">{% if kw.volume %}{{ '{:,}'.format(kw.volume).replace(',', '.') }}{% else %}0{% endif %}</td>
+            <td class="py-2.5 px-3 text-right text-on-surface-variant font-medium">{% if kw.cpc %}${{ kw.cpc }}{% else %}—{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+  {% endif %}
+  {% endif %}
+
+  <section class="grid grid-cols-1 md:grid-cols-2 gap-4 w-full">
+    <div class="p-5 rounded-2xl bg-surface-container-lowest shadow-sm border border-outline-variant/50 flex flex-col justify-between">
+      <h3 class="mb-3 mt-0 text-base font-headline font-bold text-on-surface flex items-center gap-2">
+        <span class="material-symbols-outlined text-primary text-[18px]">info</span>
+        <span>{{ t.info }}</span>
+      </h3>
+      <dl class="m-0 space-y-2 text-xs divide-y divide-outline-variant/30">
+        <div class="pt-2 flex justify-between items-center"><dt class="text-outline font-medium">Website chính thức</dt><dd class="m-0 font-semibold">{% if brand.website %}<a class="text-primary no-underline hover:underline" href="{{ brand.website }}" target="_blank" rel="noopener">{{ brand.website }}</a>{% else %}—{% endif %}</dd></div>
+        <div class="pt-2 flex justify-between items-center"><dt class="text-outline font-medium">Tên miền Shopify</dt><dd class="m-0 font-semibold text-on-surface">{{ brand.myshopify_domain or '—' }}</dd></div>
+        <div class="pt-2 flex justify-between items-center"><dt class="text-outline font-medium">{{ t.payout_period }}</dt><dd class="m-0 font-semibold text-on-surface">{{ brand.payout_period or '—' }}</dd></div>
+        <div class="pt-2 flex justify-between items-center"><dt class="text-outline font-medium">{{ t.shop_plan }}</dt><dd class="m-0 font-semibold text-on-surface">{{ brand.shop_plan or '—' }}</dd></div>
+        <div class="pt-2 flex justify-between items-center"><dt class="text-outline font-medium">Program ID</dt><dd class="m-0 font-semibold text-on-surface">{{ brand.program_id or '—' }}</dd></div>
+        <div class="pt-2 flex justify-between items-center"><dt class="text-outline font-medium">Marketplace Listing ID</dt><dd class="m-0 font-semibold text-on-surface">{{ brand.mkp_listing_id or brand.listing_id or '—' }}</dd></div>
+      </dl>
+    </div>
+
+    <div class="p-5 rounded-2xl bg-surface-container-lowest shadow-sm border border-outline-variant/50 flex flex-col justify-between">
+      <h3 class="mb-3 mt-0 text-base font-headline font-bold text-on-surface flex items-center gap-2">
+        <span class="material-symbols-outlined text-primary text-[18px]">groups</span>
+        <span>{{ t.audience }}</span>
+      </h3>
+      <dl class="m-0 space-y-2 text-xs divide-y divide-outline-variant/30">
+        <div class="pt-2 flex justify-between items-center"><dt class="text-outline font-medium">{{ t.age }}</dt><dd class="m-0 font-semibold text-on-surface">{{ brand.ages | join(', ') or '—' }}</dd></div>
+        <div class="pt-2 flex justify-between items-center"><dt class="text-outline font-medium">{{ t.gender }}</dt><dd class="m-0 font-semibold text-on-surface">{{ brand.genders | join(', ') or '—' }}</dd></div>
+        <div class="pt-2 flex justify-between items-center"><dt class="text-outline font-medium">{{ t.market }}</dt><dd class="m-0 font-semibold text-on-surface">{{ brand.locations | join(', ') or '—' }}</dd></div>
+        <div class="pt-2 flex justify-between items-center"><dt class="text-outline font-medium">{{ t.payment }}</dt><dd class="m-0 font-semibold text-on-surface">{{ brand.payments | join(', ') or '—' }}</dd></div>
+        <div class="pt-2 flex justify-between items-center"><dt class="text-outline font-medium">{{ t.promo }}</dt><dd class="m-0 font-semibold text-on-surface">{{ brand.promos | join(', ') or '—' }}</dd></div>
+      </dl>
+    </div>
   </section>
 
   {% if brand.description_html %}
-  <section class="ui-card my-3">
-    <h2 class="mb-2.5 mt-0 text-base font-semibold">{{ t.description }}</h2>
-    <div class="leading-relaxed">{{ brand.description_html | safe }}</div>
+  <section class="p-5 rounded-2xl bg-surface-container-lowest shadow-sm border border-outline-variant/50 w-full">
+    <h3 class="mb-2 mt-0 text-base font-headline font-bold text-on-surface flex items-center gap-2">
+      <span class="material-symbols-outlined text-primary text-[18px]">description</span>
+      <span>{{ t.description }}</span>
+    </h3>
+    <div class="text-xs text-on-surface leading-relaxed">{{ brand.description_html | safe }}</div>
   </section>
   {% endif %}
 
-  <section class="my-3 grid grid-cols-1 gap-3 md:grid-cols-2">
-    <div class="ui-card">
-      <h2 class="mb-2.5 mt-0 text-base font-semibold">{{ t.info }}</h2>
-      <dl class="m-0">
-        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">Website</dt><dd class="m-0">{% if brand.website %}<a class="text-accent no-underline hover:underline" href="{{ brand.website }}" target="_blank" rel="noopener">{{ brand.website }}</a>{% else %}—{% endif %}</dd></div>
-        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">Shopify</dt><dd class="m-0">{{ brand.myshopify_domain or '—' }}</dd></div>
-        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">{{ t.payout_period }}</dt><dd class="m-0">{{ brand.payout_period or '—' }}</dd></div>
-        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">{{ t.shop_plan }}</dt><dd class="m-0">{{ brand.shop_plan or '—' }}</dd></div>
-        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">Program ID</dt><dd class="m-0">{{ brand.program_id or '—' }}</dd></div>
-        <div class="my-2 grid grid-cols-[140px_1fr] gap-2"><dt class="text-muted">Listing ID</dt><dd class="m-0">{{ brand.mkp_listing_id or brand.listing_id or '—' }}</dd></div>
-      </dl>
-    </div>
-    <div class="ui-card">
-      <h2 class="mb-2.5 mt-0 text-base font-semibold">{{ t.audience }}</h2>
-      <p class="my-2"><strong>{{ t.age }}:</strong> {{ brand.ages | join(', ') or '—' }}</p>
-      <p class="my-2"><strong>{{ t.gender }}:</strong> {{ brand.genders | join(', ') or '—' }}</p>
-      <p class="my-2"><strong>{{ t.market }}:</strong> {{ brand.locations | join(', ') or '—' }}</p>
-      <p class="my-2"><strong>{{ t.payment }}:</strong> {{ brand.payments | join(', ') or '—' }}</p>
-      <p class="my-2"><strong>{{ t.promo }}:</strong> {{ brand.promos | join(', ') or '—' }}</p>
-    </div>
-  </section>
-
   {% if brand.channels %}
-  <section class="ui-card my-3">
-    <h2 class="mb-2.5 mt-0 text-base font-semibold">{{ t.channels }}</h2>
+  <section class="p-5 rounded-2xl bg-surface-container-lowest shadow-sm border border-outline-variant/50 w-full">
+    <h3 class="mb-2 mt-0 text-base font-headline font-bold text-on-surface flex items-center gap-2">
+      <span class="material-symbols-outlined text-primary text-[18px]">share</span>
+      <span>{{ t.channels }}</span>
+    </h3>
     <ul class="m-0 flex list-none flex-wrap gap-2 p-0">
-      {% for ch in brand.channels %}<li class="chip">{{ ch }}</li>{% endfor %}
+      {% for ch in brand.channels %}<li class="px-2.5 py-1 rounded-full bg-surface-container-high text-on-surface text-xs font-semibold">{{ ch }}</li>{% endfor %}
     </ul>
   </section>
   {% endif %}
 
   {% if brand.hashtags_list %}
-  <section class="ui-card my-3">
-    <h2 class="mb-2.5 mt-0 text-base font-semibold">Hashtag</h2>
+  <section class="p-5 rounded-2xl bg-surface-container-lowest shadow-sm border border-outline-variant/50 w-full">
+    <h3 class="mb-2 mt-0 text-base font-headline font-bold text-on-surface flex items-center gap-2">
+      <span class="material-symbols-outlined text-primary text-[18px]">tag</span>
+      <span>Hashtags</span>
+    </h3>
     <ul class="m-0 flex list-none flex-wrap gap-2 p-0">
-      {% for tag in brand.hashtags_list %}<li class="chip">#{{ tag.lstrip('#') }}</li>{% endfor %}
+      {% for tag in brand.hashtags_list %}<li class="px-2.5 py-1 rounded-full bg-secondary-container text-on-secondary-container text-xs font-semibold">#{{ tag.lstrip('#') }}</li>{% endfor %}
     </ul>
   </section>
   {% endif %}
