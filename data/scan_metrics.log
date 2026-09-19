@@ -1249,3 +1249,9 @@
 2026-09-18 15:58:46,292 [INFO] Batch 471/472 (+20). 9420/9440 (99.79%) 3144.2s
 2026-09-18 15:58:53,690 [INFO] Batch 472/472 (+20). 9440/9440 (100.0%) 3151.6s
 2026-09-18 15:58:54,225 [INFO] Scan metrics xong: 9440 brand.
+2026-09-19 06:51:13,957 [INFO] Khong co brand can quet metrics.
+2026-09-19 07:43:55,649 [INFO] Quet metrics backlog (force=False).
+2026-09-19 07:43:55,948 [INFO] Khong co brand can quet metrics.
+2026-09-19 07:46:05,338 [INFO] Quet metrics 5 shop_id (force=True).
+2026-09-19 07:46:09,936 [INFO] Batch 1/1 (+5). 5/5 (100.0%) 4.6s
+2026-09-19 07:46:10,437 [INFO] Scan metrics xong: 5 brand.

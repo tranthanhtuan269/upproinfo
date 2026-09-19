@@ -1,11 +1,11 @@
 {
-  "started_at": "2026-09-18T05:03:27+00:00",
-  "finished_at": "2026-09-18T05:48:41+00:00",
-  "live": 9317,
-  "known": 9391,
-  "still": 9266,
-  "new": 51,
-  "missing": 125,
+  "started_at": "2026-09-18T23:06:38+00:00",
+  "finished_at": "2026-09-18T23:50:23+00:00",
+  "live": 9316,
+  "known": 9442,
+  "still": 9311,
+  "new": 5,
+  "missing": 131,
   "files": {
     "still": "C:\\xampp\\htdocs\\upproinfo\\data\\presence_still.csv",
     "new": "C:\\xampp\\htdocs\\upproinfo\\data\\presence_new.csv",
@@ -13,258 +13,28 @@
   },
   "new_brands": [
     {
-      "shop_id": 263411,
-      "name": "ARBA Global",
+      "shop_id": 148243,
+      "name": "Genesis Tallow",
       "website": ""
     },
     {
-      "shop_id": 43018,
-      "name": "Angelina Belle Boutique ",
+      "shop_id": 281734,
+      "name": "HART",
       "website": ""
     },
     {
-      "shop_id": 289201,
-      "name": "BFF Jewels",
+      "shop_id": 289070,
+      "name": "Lakdun",
       "website": ""
     },
     {
-      "shop_id": 285232,
-      "name": "Beauty Scents Candles",
+      "shop_id": 289076,
+      "name": "THEGSND LLC",
       "website": ""
     },
     {
-      "shop_id": 289156,
-      "name": "Chadsworth and Haig | Luxury Hotel and Spa Robes",
-      "website": ""
-    },
-    {
-      "shop_id": 288637,
-      "name": "Chrysolites",
-      "website": ""
-    },
-    {
-      "shop_id": 288493,
-      "name": "Dailydream",
-      "website": ""
-    },
-    {
-      "shop_id": 288167,
-      "name": "Dawnproof",
-      "website": ""
-    },
-    {
-      "shop_id": 96735,
-      "name": "Ebbrox",
-      "website": ""
-    },
-    {
-      "shop_id": 289271,
-      "name": "Elias Sports",
-      "website": ""
-    },
-    {
-      "shop_id": 206204,
-      "name": "FEMME LA",
-      "website": ""
-    },
-    {
-      "shop_id": 288413,
-      "name": "Gluten Free Nomad",
-      "website": ""
-    },
-    {
-      "shop_id": 289247,
-      "name": "HARMONICS",
-      "website": ""
-    },
-    {
-      "shop_id": 279367,
-      "name": "KOVA Athletic",
-      "website": ""
-    },
-    {
-      "shop_id": 288152,
-      "name": "Keezy’s Fashion",
-      "website": ""
-    },
-    {
-      "shop_id": 287933,
-      "name": "Kenkyu Labs",
-      "website": ""
-    },
-    {
-      "shop_id": 286853,
-      "name": "KickDopa",
-      "website": ""
-    },
-    {
-      "shop_id": 289120,
-      "name": "KnitPal",
-      "website": ""
-    },
-    {
-      "shop_id": 120412,
-      "name": "Litheli",
-      "website": ""
-    },
-    {
-      "shop_id": 289015,
-      "name": "Lotus Beauty Co.",
-      "website": ""
-    },
-    {
-      "shop_id": 280642,
-      "name": "Love for Laundry",
-      "website": ""
-    },
-    {
-      "shop_id": 263447,
-      "name": "LumaRed",
-      "website": ""
-    },
-    {
-      "shop_id": 255460,
-      "name": "MOEBEER",
-      "website": ""
-    },
-    {
-      "shop_id": 285700,
-      "name": "Monolight Saunas",
-      "website": ""
-    },
-    {
-      "shop_id": 289256,
-      "name": "Montauk Tea",
-      "website": ""
-    },
-    {
-      "shop_id": 289307,
-      "name": "My Store 3",
-      "website": ""
-    },
-    {
-      "shop_id": 289442,
-      "name": "My Store 4",
-      "website": ""
-    },
-    {
-      "shop_id": 289449,
-      "name": "My Store 5",
-      "website": ""
-    },
-    {
-      "shop_id": 289457,
-      "name": "My Store 7",
-      "website": ""
-    },
-    {
-      "shop_id": 289458,
-      "name": "My Store 8",
-      "website": ""
-    },
-    {
-      "shop_id": 284637,
-      "name": "Owkar",
-      "website": ""
-    },
-    {
-      "shop_id": 288615,
-      "name": "PROXY REALMS ",
-      "website": ""
-    },
-    {
-      "shop_id": 287762,
-      "name": "Plat Du Jour ",
-      "website": ""
-    },
-    {
-      "shop_id": 160287,
-      "name": "Ridstarebike",
-      "website": ""
-    },
-    {
-      "shop_id": 288536,
-      "name": "SkinAuraLabs",
-      "website": ""
-    },
-    {
-      "shop_id": 280457,
-      "name": "Sn00zly ",
-      "website": ""
-    },
-    {
-      "shop_id": 275116,
-      "name": "Studio Malek",
-      "website": ""
-    },
-    {
-      "shop_id": 232093,
-      "name": "The Cell Salt Company",
-      "website": ""
-    },
-    {
-      "shop_id": 287686,
-      "name": "The Good Carb",
-      "website": ""
-    },
-    {
-      "shop_id": 275862,
-      "name": "The Library of Alexandria",
-      "website": ""
-    },
-    {
-      "shop_id": 288756,
-      "name": "Tovah Coffee Co. ",
-      "website": ""
-    },
-    {
-      "shop_id": 289241,
-      "name": "Toven Candles",
-      "website": ""
-    },
-    {
-      "shop_id": 288593,
-      "name": "Velvet Lane",
-      "website": ""
-    },
-    {
-      "shop_id": 289048,
-      "name": "WILClothing",
-      "website": ""
-    },
-    {
-      "shop_id": 263022,
-      "name": "Wacoal Singapore",
-      "website": ""
-    },
-    {
-      "shop_id": 120391,
-      "name": "iBLACK Skincare",
-      "website": "https://iblack-llc.myshopify.com"
-    },
-    {
-      "shop_id": 288575,
-      "name": "inhousewellness",
-      "website": ""
-    },
-    {
-      "shop_id": 201822,
-      "name": "iüLabs Deutschland",
-      "website": ""
-    },
-    {
-      "shop_id": 288361,
-      "name": "monedaslegendarias",
-      "website": ""
-    },
-    {
-      "shop_id": 288148,
-      "name": "route one skin",
-      "website": ""
-    },
-    {
-      "shop_id": 288423,
-      "name": "volokitx",
+      "shop_id": 289209,
+      "name": "XXYMAX",
       "website": ""
     }
   ],
@@ -590,6 +360,11 @@
       "website": "https://masonclothing.com"
     },
     {
+      "shop_id": 261890,
+      "name": "Mattress Supermarket",
+      "website": "https://www.mattresssupermarket.co.uk"
+    },
+    {
       "shop_id": 261244,
       "name": "Meine-Holzbox",
       "website": "https://www.meine-holzbox.de"
@@ -638,6 +413,11 @@
       "shop_id": 279082,
       "name": "NEPTN",
       "website": "https://neptn.us"
+    },
+    {
+      "shop_id": 229854,
+      "name": "NUITE®",
+      "website": "https://nuite.co"
     },
     {
       "shop_id": 253638,
@@ -705,6 +485,11 @@
       "website": "https://onebio.heatlh"
     },
     {
+      "shop_id": 52873,
+      "name": "Refresh Glass",
+      "website": "https://refreshglass.com/"
+    },
+    {
       "shop_id": 141982,
       "name": "Release Twenty-Two",
       "website": "https://releasetwentytwo.com"
@@ -768,6 +553,11 @@
       "shop_id": 286250,
       "name": "SkylineStitch",
       "website": "https://skylinestitch.store"
+    },
+    {
+      "shop_id": 280457,
+      "name": "Sn00zly ",
+      "website": "https://sn00zly.com"
     },
     {
       "shop_id": 285742,
@@ -855,6 +645,11 @@
       "website": "https://shop.xenonsmart.com"
     },
     {
+      "shop_id": 275006,
+      "name": "YiLink",
+      "website": "https://yilink.ai"
+    },
+    {
       "shop_id": 217467,
       "name": "Zellart Canvas Prints",
       "website": "https://www.zellart.com"
@@ -873,6 +668,11 @@
       "shop_id": 275459,
       "name": "pwrfuel",
       "website": "https://b4gw3y-gx.myshopify.com"
+    },
+    {
+      "shop_id": 262525,
+      "name": "shopsigal",
+      "website": "https://shopsigal.com"
     },
     {
       "shop_id": 102302,
