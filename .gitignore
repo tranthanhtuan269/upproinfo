@@ -20,3 +20,18 @@ scan_metrics.secret.json
 data/scan_metrics.log
 data/scan_metrics_progress.json
 data/_upload_tmp/
+
+# secrets & runtime (do not push)
+*.secret.json
+awin.secret.json
+awin_web/secret_key.txt
+awin_web/users.json
+awin_upload.zip
+web/users.json
+web/telegram_alert.secret.json
+logs/
+data/brands/
+data/brands.zip
+data/brand_details.csv
+data/billing.db
+data/archive/

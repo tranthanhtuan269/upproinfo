@@ -24,7 +24,11 @@ Các lệnh crawl **không tạo lại** file `uppromote.db`, **không xóa bả
 
 ## Việc hàng ngày (dùng lệnh này)
 
-Quét brand mới, đánh dấu brand đã xóa, lấy detail brand mới, rồi quét traffic + Google Ads:
+Quy trình đồng bộ hàng ngày (Daily Sync):
+- Khi bắt đầu, tự động đánh dấu toàn bộ dự án thành "ngưng hoạt động" (Inactive).
+- Khi quét marketplace (find-offers), dự án nào còn hoạt động sẽ được cập nhật ngay thành "đang hoạt động" (Active).
+- Dự án nào không còn tìm thấy trên sàn sẽ tự động nằm ở "Inactive brands" (Thương hiệu dừng hoạt động).
+- Lấy detail và quét traffic/ads cho brand mới.
 
 ```bat
 python daily_sync.py
@@ -61,11 +65,18 @@ Chỉ lấy offer-detail cho brand **còn thiếu** (bỏ qua brand đã có fil
 python scrape_details.py
 ```
 
-Cập nhật lại detail **toàn bộ** brand (chạy 3 ngày/lần). Brand đã có vẫn lấy lại. Dừng giữa chừng thì chạy lại để resume:
+Cập nhật lại detail cho brand (hỗ trợ toàn bộ hoặc danh sách shop_id chỉ định). Dừng giữa chừng thì chạy lại để resume:
 
 ```bat
+# Quét toàn bộ brand trong catalog (resume nếu dở dang):
 python refresh_details.py
+
+# Bắt đầu chu kỳ quét mới từ đầu:
 python refresh_details.py --fresh
+
+# Quét lại detail cho danh sách shop_id cụ thể:
+python refresh_details.py 263411 43018
+python refresh_details.py --fresh 263411 43018
 ```
 
 Hoặc `refresh_details.bat`. Khoảng 9.000 brand nên mất nhiều giờ.
@@ -143,3 +154,128 @@ Cần file `web\_push_vietqr.py` (git bỏ qua) để SSH. Copy từ máy đã c
 Không commit: `scan_metrics.secret.json`, `web\vietqr.secret.json`, `web\users.json` (mật khẩu), `web\_push_vietqr.py`.
 
 python scan_metrics.py --refresh
+
+---
+
+## Kiểm tra và làm sạch Search Ads
+
+Kiểm tra danh sách các brand cho phép chạy Google / Search Ads theo logic mới:
+
+```bat
+# Kiểm tra toàn bộ catalog:
+python check_search_ads.py
+
+# Tự động làm sạch các brand bị cấm nhưng còn sót tag search_ads và đồng bộ DB:
+python check_search_ads.py --fix
+
+# Kiểm tra riêng 1 hoặc nhiều shop_id cụ thể:
+python check_search_ads.py 221103
+```
+
+---
+
+## Quét lại chỉ riêng các Brand cho phép Search Ads
+
+Tự động gom toàn bộ các brand đang cho phép Search Ads / Google Ads trên hệ thống để cào lại detail (kiểm tra xem shop có mới đổi sang cấm Google Ads hay không), không cần điền tham số:
+
+```bat
+python refresh_search_ads_brands.py
+```
+
+Hoặc double-click `refresh_search_ads_brands.bat` trên Windows.
+
+- Tự động lấy danh sách brand cho phép Search Ads từ Database / JSON.
+- Có tính năng lưu tiến trình (checkpoint), nếu tắt ngang thì chạy lại sẽ tiếp tục từ vị trí dở dang.
+- Muốn quét lại từ đầu (bỏ checkpoint): `python refresh_search_ads_brands.py --fresh`.
+
+---
+
+## Tự động hóa định kỳ (Cronjob & Batch Pipeline)
+
+Script chạy tuần tự 4 bước với tham số `--fresh` và ghi toàn bộ log ra thư mục `logs/`:
+1. `daily_sync.py --fresh` (Đánh dấu ngưng hoạt động, quét listing, cập nhật brand active/inactive)
+2. `refresh_details.py --fresh` (Quét lại toàn bộ detail các brand, lọc từ khóa cấm Google Ads)
+3. `scan_metrics.py --fresh` (Quét traffic AITDK, thời lượng xem, bounce rate, Google Ads transparency)
+4. `refresh_search_ads_brands.py --fresh` (Quét kiểm tra chuyên sâu riêng các brand Search Ads)
+
+### 1. Trên Server Linux (Crontab):
+Chạy tự động mỗi ngày vào lúc 02:00 sáng (hoặc giờ mong muốn):
+```bash
+0 2 * * * /var/www/upproinfo/run_cron_pipeline.sh >/dev/null 2>&1
+```
+Xem log trực tiếp:
+```bash
+tail -f /var/www/upproinfo/logs/cron_pipeline_latest.log
+```
+
+### 2. Trên Windows (Local):
+Chạy thủ công hoặc đặt lịch trong **Task Scheduler**:
+```bat
+run_cron_pipeline.bat
+```
+Log được lưu riêng từng ngày tại `logs\cron_pipeline_YYYYMMDD_HHMMSS.log`.
+
+---
+
+## Đăng ký hàng loạt GoAffPro (site goaff.upproinfo.com)
+
+Chức năng nằm ở project `/var/www/goaffpro` (DB dùng chung `data/goaffpro.db`).
+
+- Doc chi tiết: [`/var/www/goaffpro/BULK_ENROLLMENT.md`](/var/www/goaffpro/BULK_ENROLLMENT.md)
+- Engine: `web/bulk_enrollment.py` → gọi `POST /v1/user/enroll/{store_id}`
+- **Lưu ý (2026-10):** API enroll chung của sàn đã không còn hoạt động cho bulk (job chạy xong vẫn `success=0`). Không dùng CAPTCHA bypass; xem mục hướng xử lý trong doc trên.
+
+---
+
+## Đồng bộ danh mục Store sàn GoAffPro (`goaffpro_sync.py`)
+
+Hệ thống hỗ trợ tự động cào và đồng bộ toàn bộ **21.986+ store** từ Marketplace Directory của **GoAffPro** (https://goaffpro.com/affiliate/stores/search) về SQLite và CSV.
+
+### Các lệnh thực thi:
+
+```bash
+# 1. Chạy đồng bộ thông thường (hoặc tiếp tục chu kỳ dở dang)
+python goaffpro_sync.py
+
+# 2. Làm mới toàn bộ danh mục từ đầu (đánh dấu inactive trước khi quét)
+python goaffpro_sync.py --fresh
+
+# 3. Chạy thử nghiệm 50 store đầu tiên
+python goaffpro_sync.py --limit 50
+
+# 4. Xem thống kê database hiện tại
+python goaffpro_sync.py --status
+
+# 5. Xuất lại file CSV từ database
+python goaffpro_sync.py --export
+```
+
+* Trên Windows: Chạy nhấp đúp file `goaffpro_sync.bat`.
+
+### Tệp dữ liệu sinh ra:
+* **SQLite Database:** `data/goaffpro.db` (Bảng `stores` lưu đầy đủ ID, Name, Website, Domain, Logo, Currency, Commission, Cookie Days, Auto Approval, Portal URL, Status...).
+* **File CSV:** `data/goaffpro_stores.csv` (21.986 dòng).
+* **Báo cáo tóm tắt:** `data/goaffpro_latest.json`.
+* **Tiến trình:** `data/goaffpro_progress.json`.
+
+
+### Quét Traffic & Google Ads cho GoAffPro (`goaff_scan_metrics.py`):
+
+Tự động quét Traffic 3 tháng gần nhất (API AITDK / SimilarWeb) cho danh mục store GoAffPro:
+
+```bash
+# 1. Quét backlog các store chưa có metrics (hoặc quá 7 ngày chưa quét)
+python goaff_scan_metrics.py
+
+# 2. Quét lại toàn bộ tất cả store từ đầu (--fresh)
+python goaff_scan_metrics.py --fresh
+
+# 3. Quét thử nghiệm giới hạn 50 store
+python goaff_scan_metrics.py --limit 50
+
+# 4. Quét theo danh sách store ID chỉ định
+python goaff_scan_metrics.py 7193380 7194084 7194108
+```
+
+* Trên Windows: Nhấp đúp vào file `goaff_scan_metrics.bat`.
+* Bảng dữ liệu lưu tại: `data/goaffpro.db` -> Bảng `store_metrics`.

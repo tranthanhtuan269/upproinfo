@@ -1,0 +1,117 @@
+{% extends "base.html" %}
+{% block title %}Programme Awin{% endblock %}
+{% block content %}
+<div class="flex flex-col md:flex-row md:items-end justify-between gap-3 mb-5">
+  <div>
+    <p class="text-xs uppercase tracking-wide text-primary font-semibold m-0">Cập nhật {{ today_date }}</p>
+    <h1 class="text-3xl font-bold m-0">Programme Awin</h1>
+    <p class="text-sm text-on-surface-variant m-0">Lọc hoa hồng, cookie, EPC, product feed và trạng thái còn trên Awin.</p>
+  </div>
+  {% if sub_plan in ('year', 'quarter') or is_admin %}
+  <a class="rounded-xl bg-primary text-on-primary px-4 py-2 text-sm no-underline" href="/export.csv{% if request.query_string %}?{{ request.query_string.decode() }}{% endif %}">Tải CSV</a>
+  {% endif %}
+</div>
+
+<div class="grid grid-cols-2 lg:grid-cols-4 gap-3 mb-5">
+  <div class="bg-surface-container-lowest rounded-2xl p-4"><div class="text-xs text-on-surface-variant">Tổng</div><div class="text-2xl font-bold">{{ stats.total }}</div></div>
+  <div class="bg-surface-container-lowest rounded-2xl p-4"><div class="text-xs text-on-surface-variant">Còn trên Awin</div><div class="text-2xl font-bold">{{ stats.active }}</div></div>
+  <div class="bg-surface-container-lowest rounded-2xl p-4"><div class="text-xs text-on-surface-variant">Đã biến mất</div><div class="text-2xl font-bold">{{ stats.inactive }}</div></div>
+  <div class="bg-surface-container-lowest rounded-2xl p-4"><div class="text-xs text-on-surface-variant">Mới hôm nay</div><div class="text-2xl font-bold text-primary">{{ stats.new_today }}</div></div>
+</div>
+
+{% if not entitled %}
+<div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 bg-secondary-container text-on-secondary-container rounded-2xl px-5 py-4 mb-5">
+  <p class="m-0 text-sm">Bạn đang xem thử {{ programmes|length }} programme. Mua gói để lọc, mở chi tiết và tải dữ liệu.</p>
+  <a class="shrink-0 rounded-xl bg-primary text-on-primary px-4 py-2 text-sm no-underline" href="/billing">Mua gói</a>
+</div>
+{% endif %}
+
+{% if entitled %}
+<form class="bg-surface-container-lowest rounded-2xl p-4 mb-5 grid grid-cols-2 lg:grid-cols-4 gap-3" method="get">
+  <input class="col-span-2 rounded-xl bg-surface-container-low px-3 py-2" name="q" value="{{ filters.q }}" placeholder="Tên, website, ID">
+  <select class="rounded-xl bg-surface-container-low px-3 py-2" name="membership">
+    <option value="">Mọi quan hệ</option>
+    {% for value, label in [('joined','Đã join'),('not_joined','Chưa join'),('invited','Được mời'),('pending','Chờ duyệt'),('rejected','Từ chối'),('suspended','Tạm dừng'),('closed','Đóng')] %}
+    <option value="{{ value }}" {% if filters.membership == value %}selected{% endif %}>{{ label }}</option>
+    {% endfor %}
+  </select>
+  <select class="rounded-xl bg-surface-container-low px-3 py-2" name="payment">
+    <option value="">Thanh toán</option>
+    {% for value, label in [('green','Xanh'),('amber','Vàng'),('red','Đỏ')] %}
+    <option value="{{ value }}" {% if filters.payment == value %}selected{% endif %}>{{ label }}</option>
+    {% endfor %}
+  </select>
+  <select class="rounded-xl bg-surface-container-low px-3 py-2" name="feed">
+    <option value="">Product feed</option>
+    <option value="yes" {% if filters.feed == 'yes' %}selected{% endif %}>Có feed</option>
+    <option value="no" {% if filters.feed == 'no' %}selected{% endif %}>Không feed</option>
+  </select>
+  <select class="rounded-xl bg-surface-container-low px-3 py-2" name="status">
+    <option value="">Tất cả trạng thái</option>
+    <option value="active" {% if filters.status == 'active' %}selected{% endif %}>Còn trên Awin</option>
+    <option value="inactive" {% if filters.status == 'inactive' %}selected{% endif %}>Đã biến mất</option>
+    <option value="detail" {% if filters.status == 'detail' %}selected{% endif %}>Đã có chi tiết</option>
+  </select>
+  <input class="rounded-xl bg-surface-container-low px-3 py-2" name="min_commission" value="{{ filters.min_commission }}" placeholder="Hoa hồng tối thiểu %">
+  <input class="rounded-xl bg-surface-container-low px-3 py-2" name="min_epc" value="{{ filters.min_epc }}" placeholder="EPC tối thiểu">
+  <select class="rounded-xl bg-surface-container-low px-3 py-2" name="sort">
+    {% for value, label in [('name','Tên'),('commission','Hoa hồng'),('epc','EPC'),('cookie','Cookie'),('newest','Mới nhất')] %}
+    <option value="{{ value }}" {% if filters.sort == value %}selected{% endif %}>{{ label }}</option>
+    {% endfor %}
+  </select>
+  <label class="flex items-center gap-2 text-sm"><input type="checkbox" name="created_today" value="1" {% if filters.created_today %}checked{% endif %}> Mới hôm nay</label>
+  <button class="rounded-xl bg-primary text-on-primary px-4 py-2 border-0 font-semibold" type="submit">Lọc</button>
+</form>
+{% endif %}
+
+<div class="overflow-x-auto bg-surface-container-lowest rounded-2xl">
+  <table class="w-full text-sm">
+    <thead class="text-left text-on-surface-variant">
+      <tr>
+        <th class="p-3">Programme</th>
+        <th class="p-3">Quan hệ</th>
+        <th class="p-3">Hoa hồng</th>
+        <th class="p-3">Cookie</th>
+        <th class="p-3">EPC</th>
+        <th class="p-3">Duyệt</th>
+        <th class="p-3">Feed</th>
+        <th class="p-3">Trạng thái</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in programmes %}
+      <tr class="border-t border-primary-fixed">
+        <td class="p-3">
+          {% if entitled %}
+          <a class="font-semibold text-primary no-underline" href="/programme/{{ item.advertiser_id }}">{{ item.name }}</a>
+          {% else %}
+          <span class="font-semibold">{{ item.name }}</span>
+          {% endif %}
+          <div class="text-xs text-on-surface-variant">{{ item.advertiser_id }}</div>
+        </td>
+        <td class="p-3">{{ item.membership or item.action }}</td>
+        <td class="p-3">{% if entitled and item.commission_percent is not none %}{{ item.commission_percent }}%{% elif entitled %}—{% else %}Khóa{% endif %}</td>
+        <td class="p-3">{% if entitled and item.cookie_days is not none %}{{ item.cookie_days }} ngày{% elif entitled %}—{% else %}Khóa{% endif %}</td>
+        <td class="p-3">{% if entitled %}{{ item.epc or '—' }}{% else %}Khóa{% endif %}</td>
+        <td class="p-3">{{ item.approval_rate or '—' }}</td>
+        <td class="p-3">{% if item.product_feed == 1 %}Có{% elif item.product_feed == 0 %}Không{% else %}—{% endif %}</td>
+        <td class="p-3">{% if item.active %}Còn{% else %}Mất{% endif %}</td>
+      </tr>
+      {% else %}
+      <tr><td class="p-6 text-on-surface-variant" colspan="8">Chưa có programme. Chạy python awin_daily_sync.py để quét.</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+{% if entitled and pages > 1 %}
+<div class="flex gap-2 mt-4 text-sm">
+  {% if page > 1 %}<a class="rounded-lg bg-surface-container-lowest px-3 py-1 no-underline" href="{{ page_url(page-1) }}">Trước</a>{% endif %}
+  {% for num in pager %}
+  <a class="rounded-lg px-3 py-1 no-underline {% if num == page %}bg-primary text-on-primary{% else %}bg-surface-container-lowest{% endif %}" href="{{ page_url(num) }}">{{ num }}</a>
+  {% endfor %}
+  {% if page < pages %}<a class="rounded-lg bg-surface-container-lowest px-3 py-1 no-underline" href="{{ page_url(page+1) }}">Sau</a>{% endif %}
+</div>
+<p class="text-xs text-on-surface-variant">{{ total }} programme · trang {{ page }}/{{ pages }}</p>
+{% endif %}
+{% endblock %}

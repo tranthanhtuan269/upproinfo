@@ -99,6 +99,39 @@
   </style>
 </head>
 <body class="{% block body_class %}bg-background font-body text-on-surface antialiased min-h-screen flex flex-col{% endblock %}">
+  <!-- Left Edge Vertical Switcher Tabs to GoAffPro & Awin -->
+  <div class="fixed left-0 top-1/2 -translate-y-1/2 z-40 flex flex-col gap-2 select-none">
+    <!-- Tab GoAffPro -->
+    <a href="https://goaff.upproinfo.com" 
+       class="group flex flex-col items-center gap-1.5 py-3 px-2 bg-gradient-to-b from-indigo-600 via-indigo-700 to-sky-600 text-white rounded-r-2xl shadow-xl hover:shadow-indigo-500/30 hover:pl-3 transition-all duration-300 no-underline border-y border-r border-white/30 backdrop-blur-xs"
+       title="Chuyển sang dữ liệu sàn GoAffPro (22.000+ Store)">
+      <div class="w-6 h-6 rounded-lg bg-white/20 flex items-center justify-center text-white group-hover:scale-110 group-hover:bg-white group-hover:text-indigo-600 transition-all shadow-xs">
+        <span class="material-symbols-outlined text-[16px]">hub</span>
+      </div>
+      <span class="text-[10px] font-bold uppercase tracking-wider [writing-mode:vertical-rl] rotate-180 py-0.5 font-headline">
+        GoAffPro
+      </span>
+      <span class="px-1 py-0.2 rounded-full bg-amber-400 text-slate-900 font-extrabold text-[8px] shadow-xs">
+        22K+
+      </span>
+    </a>
+
+    <!-- Tab Awin -->
+    <a href="https://awin.upproinfo.com" 
+       class="group flex flex-col items-center gap-1.5 py-3 px-2 bg-gradient-to-b from-purple-700 via-purple-800 to-primary text-white rounded-r-2xl shadow-xl hover:shadow-purple-500/30 hover:pl-3 transition-all duration-300 no-underline border-y border-r border-white/30 backdrop-blur-xs"
+       title="Chuyển sang dữ liệu sàn Awin (8.500+ Programme)">
+      <div class="w-6 h-6 rounded-lg bg-white/20 flex items-center justify-center text-white group-hover:scale-110 group-hover:bg-white group-hover:text-purple-700 transition-all shadow-xs">
+        <span class="material-symbols-outlined text-[16px]">all_inclusive</span>
+      </div>
+      <span class="text-[10px] font-bold uppercase tracking-wider [writing-mode:vertical-rl] rotate-180 py-0.5 font-headline">
+        Sàn Awin
+      </span>
+      <span class="px-1 py-0.2 rounded-full bg-emerald-400 text-slate-900 font-extrabold text-[8px] shadow-xs">
+        8.5K+
+      </span>
+    </a>
+  </div>
+
   {% block chrome %}
   <header class="fixed top-0 left-0 right-0 z-50 bg-surface/90 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)]">
     <div class="h-16 w-full px-4 lg:px-6 flex items-center justify-between gap-6">
@@ -108,18 +141,22 @@
           <img alt="UpproInfo" class="h-8 w-auto object-contain" src="{{ logo_url }}">
           {% endif %}
         </a>
-        {% if entitled %}
-        <form class="relative hidden lg:flex items-center flex-1 max-w-xl" method="get" action="/">
-          <span class="material-symbols-outlined absolute left-3 text-outline text-[20px]">search</span>
-          <input class="bg-surface-container-low text-sm text-on-surface placeholder:text-outline rounded-xl pl-10 pr-4 py-1.5 focus:outline-none focus:bg-surface-container transition-colors w-full" name="q" value="{{ filters.q if filters is defined else '' }}" placeholder="{{ t.search_placeholder }}" type="search">
-        </form>
-        {% endif %}
+
       </div>
       <nav class="hidden xl:flex items-center gap-2">
         <a class="px-3 py-2 text-sm no-underline {% if request.endpoint == 'index' %}bg-secondary-container text-on-secondary-container font-semibold rounded-xl{% else %}text-on-surface-variant hover:text-on-surface rounded-xl{% endif %}" href="/">{{ t.nav_directory }}</a>
+        <a class="px-3 py-2 text-sm no-underline text-on-surface-variant hover:text-on-surface rounded-xl flex items-center gap-1" href="https://goaff.upproinfo.com" target="_blank" title="Xem 22.000+ Store GoAffPro">
+          <span class="material-symbols-outlined text-[16px] text-indigo-600">hub</span>
+          <span>Sàn GoAffPro</span>
+        </a>
+        <a class="px-3 py-2 text-sm no-underline text-on-surface-variant hover:text-on-surface rounded-xl flex items-center gap-1" href="https://awin.upproinfo.com" target="_blank" title="Xem 8.500+ Programme Awin">
+          <span class="material-symbols-outlined text-[16px] text-primary">all_inclusive</span>
+          <span>Sàn Awin</span>
+        </a>
         <a class="px-3 py-2 text-sm no-underline {% if request.endpoint in ('billing_page', 'billing_return', 'billing_checkout') %}bg-secondary-container text-on-secondary-container font-semibold rounded-xl{% else %}text-on-surface-variant hover:text-on-surface rounded-xl{% endif %}" href="{{ url_for('billing_page') }}">{{ t.nav_billing }}</a>
         {% if is_admin %}
         <a class="px-3 py-2 text-sm no-underline {% if request.endpoint in ('admin_users', 'admin_set_vip', 'admin_change_password', 'admin_delete_user') %}bg-secondary-container text-on-secondary-container font-semibold rounded-xl{% else %}text-on-surface-variant hover:text-on-surface rounded-xl{% endif %}" href="{{ url_for('admin_users') }}">Tài khoản</a>
+        <a class="px-3 py-2 text-sm no-underline {% if request.endpoint in ('admin_devices', 'admin_delete_device') %}bg-secondary-container text-on-secondary-container font-semibold rounded-xl{% else %}text-on-surface-variant hover:text-on-surface rounded-xl{% endif %}" href="{{ url_for('admin_devices') }}">Báo cáo thiết bị</a>
         <a class="px-3 py-2 text-sm no-underline {% if request.endpoint in ('admin_transactions', 'admin_receive') %}bg-secondary-container text-on-secondary-container font-semibold rounded-xl{% else %}text-on-surface-variant hover:text-on-surface rounded-xl{% endif %}" href="{{ url_for('admin_transactions') }}">{{ t.nav_transactions }}{% if pending_tx %} <span class="ml-1 inline-flex min-w-5 h-5 px-1 items-center justify-center rounded-full bg-primary text-on-primary text-[11px]">{{ pending_tx }}</span>{% endif %}</a>
         {% endif %}
       </nav>
@@ -274,6 +311,226 @@
         });
     }
   </script>
+
+  <!-- Draggable Zalo Floating Button -->
+  <div id="zalo-floating-btn" class="fixed bottom-7 right-7 z-[9999] select-none touch-none cursor-grab active:cursor-grabbing transition-transform active:scale-95" title="Nhóm hỗ trợ Zalo (Kéo để di chuyển vị trí)">
+    <div class="flex items-center gap-2.5 px-4 py-2.5 rounded-full bg-[#0068ff] text-white shadow-xl hover:shadow-2xl border-2 border-white/60 hover:bg-[#0054cc] transition-all duration-200">
+      <span class="relative flex h-3 w-3">
+        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75"></span>
+        <span class="relative inline-flex rounded-full h-3 w-3 bg-white"></span>
+      </span>
+      <svg class="w-5 h-5 fill-current shrink-0" viewBox="0 0 48 48">
+        <path d="M24 4C12.95 4 4 12.06 4 22c0 5.68 2.92 10.74 7.55 14.19-.34 3.01-1.61 7.23-1.72 7.58-.19.64.44 1.18 1 .84 3.73-2.26 7.42-4.66 8.3-5.22C20.42 39.75 22.18 40 24 40c11.05 0 20-8.06 20-18S35.05 4 24 4z"/>
+      </svg>
+      <span class="text-xs font-bold font-headline tracking-wide pr-0.5">Hỗ trợ Zalo</span>
+    </div>
+  </div>
+
+  <!-- Zalo Group Modal -->
+  <div id="zalo-modal" class="fixed inset-0 z-[10000] hidden items-center justify-center bg-black/60 backdrop-blur-xs p-4 overflow-y-auto">
+    <div class="relative w-full max-w-sm bg-surface-container-lowest rounded-3xl p-5 shadow-2xl border border-outline-variant/40 flex flex-col items-center">
+      <div class="w-full flex items-center justify-between pb-3 border-b border-surface-container">
+        <div class="flex items-center gap-2">
+          <div class="w-7 h-7 rounded-lg bg-[#0068ff] text-white flex items-center justify-center font-bold text-xs">
+            Z
+          </div>
+          <span class="text-sm font-headline font-bold text-on-surface">Nhóm hỗ trợ Upproinfo.com</span>
+        </div>
+        <button id="zalo-modal-close" type="button" class="w-8 h-8 rounded-full hover:bg-surface-container text-outline hover:text-on-surface border-0 bg-transparent flex items-center justify-center cursor-pointer transition-colors">
+          <span class="material-symbols-outlined text-[20px]">close</span>
+        </button>
+      </div>
+
+      <div class="mt-4 w-full flex flex-col items-center">
+        <div class="rounded-2xl overflow-hidden shadow-md border border-outline-variant/30 bg-white">
+          <img src="/static/zalo-support.jpg" alt="Nhóm hỗ trợ Upproinfo Zalo" class="w-full max-h-[62vh] object-contain block">
+        </div>
+        <p class="text-xs text-on-surface-variant text-center mt-3 mb-0">Quét mã QR bằng ứng dụng Zalo hoặc nhấn nút bên dưới để tham gia nhóm:</p>
+        <a href="https://zalo.me/g/mh4bqn4vee7be6lu6aoc" target="_blank" rel="noopener" class="mt-3.5 w-full py-2.5 px-4 rounded-xl bg-[#0068ff] hover:bg-[#0054cc] text-white font-bold text-xs tracking-wide shadow-sm flex items-center justify-center gap-2 no-underline transition-colors">
+          <span>Mở nhóm trên Zalo</span>
+          <span class="material-symbols-outlined text-[16px]">open_in_new</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+      var btn = document.getElementById("zalo-floating-btn");
+      var modal = document.getElementById("zalo-modal");
+      var closeBtn = document.getElementById("zalo-modal-close");
+      if (!btn || !modal) return;
+
+      var isDragging = false;
+      var hasMoved = false;
+      var startX = 0, startY = 0;
+      var initialLeft = 0, initialTop = 0;
+
+      // Restore saved position if user moved it before
+      try {
+        var savedPos = JSON.parse(localStorage.getItem("zalo_btn_pos"));
+        if (savedPos && typeof savedPos.left === "number" && typeof savedPos.top === "number") {
+          var maxL = Math.max(10, window.innerWidth - btn.offsetWidth - 10);
+          var maxT = Math.max(10, window.innerHeight - btn.offsetHeight - 10);
+          var curL = Math.min(Math.max(10, savedPos.left), maxL);
+          var curT = Math.min(Math.max(10, savedPos.top), maxT);
+          btn.style.left = curL + "px";
+          btn.style.top = curT + "px";
+          btn.style.right = "auto";
+          btn.style.bottom = "auto";
+        }
+      } catch(e) {}
+
+      function onPointerDown(e) {
+        if (e.button && e.button !== 0) return;
+        isDragging = true;
+        hasMoved = false;
+        var clientX = e.clientX || (e.touches && e.touches[0].clientX);
+        var clientY = e.clientY || (e.touches && e.touches[0].clientY);
+        startX = clientX;
+        startY = clientY;
+
+        var rect = btn.getBoundingClientRect();
+        initialLeft = rect.left;
+        initialTop = rect.top;
+
+        document.addEventListener("mousemove", onPointerMove);
+        document.addEventListener("mouseup", onPointerUp);
+        document.addEventListener("touchmove", onPointerMove, { passive: false });
+        document.addEventListener("touchend", onPointerUp);
+      }
+
+      function onPointerMove(e) {
+        if (!isDragging) return;
+        var clientX = e.clientX || (e.touches && e.touches[0].clientX);
+        var clientY = e.clientY || (e.touches && e.touches[0].clientY);
+        var dx = clientX - startX;
+        var dy = clientY - startY;
+
+        if (Math.abs(dx) > 4 || Math.abs(dy) > 4) {
+          hasMoved = true;
+          if (e.cancelable) e.preventDefault();
+        }
+
+        if (hasMoved) {
+          var newLeft = initialLeft + dx;
+          var newTop = initialTop + dy;
+          var maxLeft = window.innerWidth - btn.offsetWidth - 8;
+          var maxTop = window.innerHeight - btn.offsetHeight - 8;
+
+          newLeft = Math.max(8, Math.min(newLeft, maxLeft));
+          newTop = Math.max(8, Math.min(newTop, maxTop));
+
+          btn.style.left = newLeft + "px";
+          btn.style.top = newTop + "px";
+          btn.style.right = "auto";
+          btn.style.bottom = "auto";
+        }
+      }
+
+      function onPointerUp(e) {
+        if (!isDragging) return;
+        isDragging = false;
+        document.removeEventListener("mousemove", onPointerMove);
+        document.removeEventListener("mouseup", onPointerUp);
+        document.removeEventListener("touchmove", onPointerMove);
+        document.removeEventListener("touchend", onPointerUp);
+
+        if (hasMoved) {
+          try {
+            var rect = btn.getBoundingClientRect();
+            localStorage.setItem("zalo_btn_pos", JSON.stringify({ left: rect.left, top: rect.top }));
+          } catch(err) {}
+        } else {
+          openModal();
+        }
+      }
+
+      btn.addEventListener("mousedown", onPointerDown);
+      btn.addEventListener("touchstart", onPointerDown, { passive: true });
+
+      function openModal() {
+        modal.classList.remove("hidden");
+        modal.classList.add("flex");
+      }
+
+      function closeModal() {
+        modal.classList.remove("flex");
+        modal.classList.add("hidden");
+      }
+
+      if (closeBtn) closeBtn.addEventListener("click", closeModal);
+      modal.addEventListener("click", function(e) {
+        if (e.target === modal) closeModal();
+      });
+      document.addEventListener("keydown", function(e) {
+        if (e.key === "Escape") closeModal();
+      });
+    })();
+  </script>
+
+
+  <!-- Login Policy Notice Modal -->
+  {% if current_user %}
+  <div id="login-notice-modal" class="fixed inset-0 z-[10001] {% if not login_announcement %}hidden{% else %}flex{% endif %} items-center justify-center bg-black/60 backdrop-blur-xs p-4 overflow-y-auto" data-force-show="{{ '1' if login_announcement else '0' }}">
+    <div class="relative w-full max-w-md bg-surface-container-lowest rounded-3xl p-6 sm:p-7 shadow-2xl border border-outline-variant/40 flex flex-col items-center text-center animate-fade-in">
+      <button type="button" onclick="closeLoginNotice()" class="absolute top-4 right-4 w-8 h-8 rounded-full hover:bg-surface-container text-outline hover:text-on-surface border-0 bg-transparent flex items-center justify-center cursor-pointer transition-colors" title="Đóng">
+        <span class="material-symbols-outlined text-[20px]">close</span>
+      </button>
+
+      <div class="w-14 h-14 rounded-2xl bg-primary/10 text-primary flex items-center justify-center mb-4 shrink-0 shadow-xs">
+        <span class="material-symbols-outlined text-[32px]">devices</span>
+      </div>
+
+      <h3 class="text-xl font-headline font-bold text-on-surface m-0 tracking-tight">Thông Báo Đăng Nhập</h3>
+
+      <div class="mt-4 text-sm text-on-surface-variant leading-relaxed">
+        <p class="m-0 text-on-surface font-medium">
+          Từ 01/10/2026, mỗi tài khoản chỉ đăng nhập được trên 01 máy tính duy nhất và 01 điện thoại duy nhất. Các thiết bị khác sẽ không đăng nhập được.
+        </p>
+        <p class="mt-3 mb-0 font-semibold text-primary">
+          Xin chân thành cảm ơn!
+        </p>
+      </div>
+
+      <button type="button" onclick="closeLoginNotice()" class="mt-6 w-full py-3 px-6 rounded-xl bg-primary hover:bg-primary-container text-on-primary font-bold text-sm shadow-md hover:shadow-lg transition-all border-0 cursor-pointer">
+        Tôi đã hiểu
+      </button>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+      var modal = document.getElementById("login-notice-modal");
+      if (!modal) return;
+      var forceShow = modal.getAttribute("data-force-show") === "1";
+      var seen = localStorage.getItem("device_policy_20261001_seen") === "1";
+
+      if (forceShow || !seen) {
+        modal.classList.remove("hidden");
+        modal.classList.add("flex");
+      }
+
+      window.closeLoginNotice = function() {
+        modal.classList.remove("flex");
+        modal.classList.add("hidden");
+        try {
+          localStorage.setItem("device_policy_20261001_seen", "1");
+        } catch(e) {}
+      };
+
+      modal.addEventListener("click", function(e) {
+        if (e.target === modal) window.closeLoginNotice();
+      });
+      document.addEventListener("keydown", function(e) {
+        if (e.key === "Escape" && !modal.classList.contains("hidden")) {
+          window.closeLoginNotice();
+        }
+      });
+    })();
+  </script>
+  {% endif %}
+
 </body>
 
 </html>

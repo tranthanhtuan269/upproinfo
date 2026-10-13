@@ -12,6 +12,10 @@
     <div id="vietqr-box" class="w-72 h-72 mx-auto" data-qr="{{ qr_code | e }}"></div>
     {% endif %}
   </div>
+  <div class="flex items-center justify-center gap-2 text-xs sm:text-sm font-medium text-on-surface-variant bg-surface-container-low px-4 py-2.5 rounded-2xl border border-outline-variant/40">
+    <span class="material-symbols-outlined text-[18px] text-primary shrink-0">phone_in_talk</span>
+    <span>Nếu 3 phút sau khi chuyển tiền mà bạn chưa được xác nhận, hãy nhắn cho tôi qua số zalo này: <a class="font-bold text-primary hover:underline no-underline" href="https://zalo.me/0973619398" target="_blank" rel="noopener">097 361 9398</a></span>
+  </div>
   <div class="bg-surface-container-low rounded-2xl px-5 py-4 text-left text-sm space-y-2">
     {% if bank_name %}<div class="flex justify-between gap-3"><span class="text-on-surface-variant">{{ t.billing_account_name }}</span><span class="font-semibold text-on-surface">{{ bank_name }}</span></div>{% endif %}
     {% if bank_account %}<div class="flex justify-between gap-3"><span class="text-on-surface-variant">{{ t.billing_account_no }}</span><span class="font-semibold text-on-surface">{{ bank_account }}</span></div>{% endif %}

@@ -8,8 +8,8 @@ OFFERS_URL = (
     "https://marketplace.uppromote.com/offers/find-offers"
     "?page=1&per_page=20&tab=all-offers"
 )
-EMAIL = "agena.academy.edu@gmail.com"
-PASSWORD = "Turereview@123"
+EMAIL = "sandivankirk492@gmail.com"
+PASSWORD = "Sandivankirk492@"
 
 
 def login_success_url(url: str) -> bool:

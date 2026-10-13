@@ -332,10 +332,14 @@ def generate_mb_vietqr_payload(acq_id: str, account_no: str, amount: int | str, 
     payload += "6304"
     return payload + _crc16_ccitt(payload)
 
-def generate_mb_qr_base64(amount: int, content: str, cfg: dict | None = None) -> tuple[str, str]:
+def generate_mb_qr_base64(amount: int, content: str, cfg: dict | None = None, custom_bank: dict | None = None) -> tuple[str, str]:
     cfg = cfg or load_config()
-    acq = acq_id_of(cfg) or "970422"
-    account = _cfg_text(cfg, "bank_account")
+    if custom_bank:
+        acq = custom_bank.get("acq_id") or "970416"
+        account = custom_bank.get("bank_account") or ""
+    else:
+        acq = acq_id_of(cfg) or "970422"
+        account = _cfg_text(cfg, "bank_account")
     if not account:
         return "", ""
     qr_payload = generate_mb_vietqr_payload(acq, account, amount, content)
@@ -348,20 +352,25 @@ def generate_mb_qr_base64(amount: int, content: str, cfg: dict | None = None) ->
     data_uri = "data:image/png;base64," + base64.b64encode(buf.getvalue()).decode("ascii")
     return data_uri, qr_payload
 
-def branded_qr_url(amount: int, content: str, cfg: dict | None = None) -> str:
-    data_uri, _ = generate_mb_qr_base64(amount, content, cfg)
+def branded_qr_url(amount: int, content: str, cfg: dict | None = None, custom_bank: dict | None = None) -> str:
+    data_uri, _ = generate_mb_qr_base64(amount, content, cfg, custom_bank=custom_bank)
     return data_uri
 
 
-def create_payment(amount: int, return_url: str, order_id: str = "", content: str = "") -> dict:
-    if not is_configured():
+def create_payment(amount: int, return_url: str, order_id: str = "", content: str = "", custom_bank: dict | None = None) -> dict:
+    if not is_configured() and not custom_bank:
         raise RuntimeError("Chưa cấu hình VietQR.")
     cfg = load_config()
     content = str(content or order_id or "").strip() or (safe_content(order_id, 13) if order_id else new_order_id())
     order_id = str(order_id or content).strip()
-    image, raw_payload = generate_mb_qr_base64(int(amount), content, cfg)
+    image, raw_payload = generate_mb_qr_base64(int(amount), content, cfg, custom_bank=custom_bank)
     if not image:
-        raise RuntimeError("Không tạo được mã QR MBBank.")
+        raise RuntimeError("Không tạo được mã QR.")
+
+    bank_code = (custom_bank.get("bank_code") if custom_bank else _cfg_text(cfg, "bank_code")).upper()
+    bank_account = custom_bank.get("bank_account") if custom_bank else _cfg_text(cfg, "bank_account")
+    user_bank_name = custom_bank.get("user_bank_name") if custom_bank else account_display(cfg)
+
     return {
         "order_id": order_id,
         "content": content,
@@ -370,12 +379,10 @@ def create_payment(amount: int, return_url: str, order_id: str = "", content: st
         "qr_code": raw_payload,
         "qr_link": image,
         "transaction_id": order_id,
-        "bank_code": _cfg_text(cfg, "bank_code").upper(),
-        "bank_account": _cfg_text(cfg, "bank_account"),
-        "user_bank_name": account_display(cfg),
-        "raw": {"source": "MBBank/NAPAS EMVCo (Local)", "account": _cfg_text(cfg, "bank_account")},
+        "bank_code": bank_code,
+        "bank_account": bank_account,
+        "user_bank_name": user_bank_name,
     }
-
 
 def simulate_payment(content: str, amount: int) -> dict:
     cfg = load_config()
@@ -655,6 +662,27 @@ def handle_sync_request(header: str, payload: dict) -> tuple[dict, int]:
         except (TypeError, ValueError):
             return sync_error("INVALID_AMOUNT", "Amount does not match the order")
     if not order:
+        try:
+            from awin_web.billing import find_vietqr_order as find_awin_order
+            from awin_web.billing import fulfill_paid_order as fulfill_awin_order
+            awin_order = find_awin_order(content, order_id)
+        except Exception:
+            awin_order = None
+        if awin_order:
+            if amount is not None:
+                try:
+                    if int(awin_order["amount"]) != int(amount):
+                        _store_callback(parsed, "amount_mismatch", awin_order["merchant_trade_no"], payload)
+                        return sync_error("INVALID_AMOUNT", "Amount does not match the order")
+                except (TypeError, ValueError):
+                    return sync_error("INVALID_AMOUNT", "Amount does not match the order")
+            fulfilled = fulfill_awin_order(
+                awin_order["merchant_trade_no"],
+                json.dumps(payload, ensure_ascii=False),
+            )
+            trade = (fulfilled or awin_order).get("merchant_trade_no") or ""
+            _store_callback(parsed, "paid", trade, payload)
+            return sync_success(trade)
         _store_callback(parsed, "unmatched", raw=payload)
         try:
             import notifier

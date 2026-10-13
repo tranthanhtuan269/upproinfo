@@ -66,7 +66,7 @@
       <div class="flex items-start justify-between">
         <div>
           <span class="text-xs font-medium text-on-surface-variant">{{ t.has_detail }}</span>
-          <div class="text-2xl font-bold font-headline text-on-surface mt-1">{{ stats.details }}</div>
+          <div class="text-2xl font-bold font-headline text-on-surface mt-1">{{ stats.active }}</div>
         </div>
         <div class="w-10 h-10 rounded-xl bg-secondary-container flex items-center justify-center text-on-secondary-container">
           <span class="material-symbols-outlined text-[22px]">verified_user</span>
@@ -91,43 +91,62 @@
     <div class="relative overflow-hidden bg-surface-container-lowest p-5 rounded-2xl shadow-sm flex flex-col justify-between">
       <div class="flex items-start justify-between">
         <div>
-          <span class="text-xs font-medium text-on-surface-variant">{{ t.stat_top_cat }}</span>
-          <div class="text-xl font-bold font-headline text-on-surface mt-1 truncate">{{ stats.top_category }}</div>
+          <span class="text-xs font-medium text-on-surface-variant">{{ t.stat_new_today }}</span>
+          <div class="text-2xl font-bold font-headline text-primary mt-1">{{ stats.new_today }}</div>
         </div>
-        <div class="w-10 h-10 rounded-xl bg-surface-container flex items-center justify-center text-primary">
-          <span class="material-symbols-outlined text-[22px]">category</span>
+        <div class="w-10 h-10 rounded-xl bg-primary-fixed flex items-center justify-center text-on-primary-fixed">
+          <span class="material-symbols-outlined text-[22px]">new_releases</span>
         </div>
       </div>
       <div class="flex items-center gap-2 mt-4 text-xs font-medium text-on-surface-variant">
-        <span class="inline-flex items-center text-[11px] px-1.5 py-0.5 rounded bg-surface-container-high font-semibold text-on-surface">{{ t.listings_count.replace('{n}', stats.top_count|string) }}</span>
+        <a href="/?created_today=1" class="inline-flex items-center gap-1 text-[11px] px-2 py-0.5 rounded bg-primary-fixed/60 font-semibold text-primary hover:bg-primary hover:text-on-primary transition-colors no-underline">
+          <span>Xem dự án hôm nay</span>
+          <span class="material-symbols-outlined text-[14px]">arrow_forward</span>
+        </a>
       </div>
     </div>
   </div>
 
   {% if entitled %}
   <form class="bg-surface-container-lowest p-5 rounded-2xl shadow-sm space-y-4" method="get">
-    <div class="flex flex-col lg:flex-row items-center gap-3">
+    <div class="flex flex-col xl:flex-row items-stretch xl:items-center gap-3">
       <div class="relative flex-1 w-full">
         <span class="material-symbols-outlined absolute left-3.5 top-1/2 -translate-y-1/2 text-outline text-[20px]">search</span>
         <input class="w-full bg-surface-container-low text-sm text-on-surface placeholder:text-outline rounded-xl pl-11 pr-4 py-2.5 focus:outline-none focus:bg-surface-container transition-all" name="q" value="{{ filters.q }}" placeholder="{{ t.search_placeholder }}" type="search">
       </div>
-      <div class="flex items-center gap-2 w-full lg:w-auto">
-        <div class="flex items-center gap-2 px-3 py-2 bg-surface-container-low rounded-xl text-xs text-on-surface-variant w-full lg:w-auto justify-between">
-          <span class="flex items-center gap-1 font-medium">
+      <div class="flex flex-wrap sm:flex-nowrap items-center gap-2.5 w-full xl:w-auto">
+        <!-- Min Score Slider -->
+        <div class="flex items-center gap-2 px-3 py-2 bg-surface-container-low rounded-xl text-xs text-on-surface-variant flex-1 sm:flex-none justify-between">
+          <span class="flex items-center gap-1 font-medium shrink-0">
             <span class="material-symbols-outlined text-[16px] text-tertiary">tune</span> {{ t.min_score }}:
           </span>
           <div class="flex items-center gap-2">
-            <input class="w-24 accent-primary cursor-pointer h-1.5 bg-surface-container-highest rounded-lg" id="scoreRange" max="10" min="0" name="min_score" oninput="document.getElementById('scoreVal').innerText = this.value" step="0.1" type="range" value="{{ filters.min_score or '0' }}">
+            <input class="w-20 sm:w-24 accent-primary cursor-pointer h-1.5 bg-surface-container-highest rounded-lg" id="scoreRange" max="10" min="0" name="min_score" oninput="document.getElementById('scoreVal').innerText = this.value" step="0.1" type="range" value="{{ filters.min_score or '0' }}">
             <span class="font-bold text-on-surface w-6 text-right" id="scoreVal">{{ filters.min_score or '0' }}</span>
           </div>
         </div>
-        <a class="p-2.5 rounded-xl bg-surface-container-low hover:bg-surface-container text-on-surface-variant transition-colors no-underline flex items-center" href="/" title="{{ t.reset_filters }}">
-          <span class="material-symbols-outlined text-[18px]">refresh</span>
-        </a>
-        <button class="px-4 py-2.5 rounded-xl bg-primary text-on-primary text-xs font-semibold border-0 cursor-pointer" type="submit">{{ t.filter }}</button>
+
+        <!-- Min Traffic Slider -->
+        <div class="flex items-center gap-2 px-3 py-2 bg-surface-container-low rounded-xl text-xs text-on-surface-variant flex-1 sm:flex-none justify-between">
+          <span class="flex items-center gap-1 font-medium shrink-0">
+            <span class="material-symbols-outlined text-[16px] text-primary">trending_up</span> {{ t.min_traffic or 'Traffic tối thiểu' }}:
+          </span>
+          <div class="flex items-center gap-2">
+            <input class="w-20 sm:w-28 accent-primary cursor-pointer h-1.5 bg-surface-container-highest rounded-lg" id="trafficRange" max="30" min="0" step="1" type="range" value="0">
+            <input type="hidden" name="traffic" id="trafficHiddenInput" value="{{ filters.traffic or '' }}">
+            <span class="font-bold text-primary min-w-10 text-right text-[11px]" id="trafficVal">0</span>
+          </div>
+        </div>
+
+        <div class="flex items-center gap-2 shrink-0">
+          <a class="p-2.5 rounded-xl bg-surface-container-low hover:bg-surface-container text-on-surface-variant transition-colors no-underline flex items-center" href="/" title="{{ t.reset_filters }}">
+            <span class="material-symbols-outlined text-[18px]">refresh</span>
+          </a>
+          <button class="px-4 py-2.5 rounded-xl bg-primary text-on-primary text-xs font-semibold border-0 cursor-pointer" type="submit">{{ t.filter }}</button>
+        </div>
       </div>
     </div>
-    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-7 gap-3 pt-2">
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-3 pt-2">
       <div class="flex flex-col gap-1">
         <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.col_category }}</label>
         <div class="relative">
@@ -176,22 +195,15 @@
           <span class="material-symbols-outlined pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-outline text-[16px]">expand_more</span>
         </div>
       </div>
-      <div class="flex flex-col gap-1">
-        <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.filter_traffic }}</label>
-        <div class="relative">
-          <select class="w-full appearance-none bg-surface-container-low text-xs font-medium text-on-surface rounded-xl px-3 py-2 pr-8 focus:outline-none focus:bg-surface-container cursor-pointer" name="traffic" onchange="this.form.submit()">
-            <option value="" {% if not filters.traffic %}selected{% endif %}>{{ t.all_traffics }}</option>
-            <option value="5k" {% if filters.traffic == '5k' %}selected{% endif %}>{{ t.traffic_over_5k }}</option>
-          </select>
-          <span class="material-symbols-outlined pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-outline text-[16px]">expand_more</span>
-        </div>
-      </div>
+
       <div class="flex flex-col gap-1">
         <label class="text-[11px] font-label font-semibold uppercase tracking-wider text-outline">{{ t.filter_ads }}</label>
         <div class="relative">
           <select class="w-full appearance-none bg-surface-container-low text-xs font-medium text-on-surface rounded-xl px-3 py-2 pr-8 focus:outline-none focus:bg-surface-container cursor-pointer" name="ads" onchange="this.form.submit()">
             <option value="" {% if not filters.ads %}selected{% endif %}>{{ t.all_ads }}</option>
             <option value="yes" {% if filters.ads == 'yes' %}selected{% endif %}>{{ t.ads_active_only }}</option>
+            <option value="no_google" {% if filters.ads == 'no_google' %}selected{% endif %}>{{ t.ads_no_google }}</option>
+            <option value="brand_detects" {% if filters.ads == 'brand_detects' %}selected{% endif %}>{{ t.ads_brand_detects }}</option>
             <option value="no" {% if filters.ads == 'no' %}selected{% endif %}>{{ t.ads_inactive_only }}</option>
           </select>
           <span class="material-symbols-outlined pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-outline text-[16px]">expand_more</span>
@@ -229,6 +241,7 @@
           <tr class="bg-surface-container-low text-[11px] font-label uppercase tracking-wider text-on-surface-variant font-semibold">
             <th class="py-3.5 pl-6 pr-2 w-14">{{ t.col_logo }}</th>
             <th class="py-3.5 px-3">{{ t.col_brand }}</th>
+            <th class="py-3.5 px-3 whitespace-nowrap">{{ t.col_created_at }}</th>
             <th class="py-3.5 px-3">{{ t.col_category }}</th>
             <th class="py-3.5 px-3">{{ t.col_commission }}</th>
             <th class="py-3.5 px-3">{{ t.col_cookie }}</th>
@@ -237,6 +250,8 @@
             <th class="py-3.5 px-3">{{ t.col_score }}</th>
             {% if is_admin or sub_plan in ('year', 'quarter') or not entitled %}
             <th class="py-3.5 px-3">{{ t.col_traffic }}</th>
+            <th class="py-3.5 px-3">{{ t.col_bounce_rate }}</th>
+            <th class="py-3.5 px-3">{{ t.col_visit_duration }}</th>
             <th class="py-3.5 px-3">{{ t.col_ads }}</th>
             {% endif %}
             <th class="py-3.5 pr-6 pl-3 text-right">{{ t.col_action }}</th>
@@ -258,10 +273,13 @@
               <div class="flex flex-col">
                 <div class="flex items-center gap-1.5">
                   <button type="button" class="name js-open-detail bg-transparent border-0 p-0 cursor-pointer font-headline font-bold text-sm text-on-surface text-left data-[seen]:text-primary" data-shop-id="{{ b.shop_id }}" aria-expanded="false">{{ b.name or ('#' ~ b.shop_id) }}</button>
-                  {% if b.has_detail %}<span class="px-1.5 rounded text-[10px] font-semibold bg-primary-fixed text-on-primary-fixed">{{ t.badge_detail }}</span>{% elif b.is_skipped %}<span class="px-1.5 rounded text-[10px] font-semibold bg-error-container text-on-error-container">{{ t.badge_404 }}</span>{% else %}<span class="px-1.5 rounded text-[10px] font-semibold bg-surface-container-high text-on-surface-variant">{{ t.badge_list }}</span>{% endif %}
+                  {% if b.is_skipped %}<span class="px-1.5 rounded text-[10px] font-semibold bg-error-container text-on-error-container">{{ t.status_skipped }}</span>{% elif b.has_detail %}<span class="px-1.5 rounded text-[10px] font-semibold bg-primary-fixed text-on-primary-fixed">{{ t.badge_detail }}</span>{% else %}<span class="px-1.5 rounded text-[10px] font-semibold bg-surface-container-high text-on-surface-variant">{{ t.badge_list }}</span>{% endif %}
                 </div>
                 <span class="text-[11px] text-outline font-label">{{ b.host or b.shop_id }}</span>
               </div>
+            </td>
+            <td class="py-4 px-3 whitespace-nowrap">
+              <span class="font-mono text-xs font-medium text-on-surface-variant">{{ b.created_at[:10] if b.created_at else '—' }}</span>
             </td>
             <td class="py-4 px-3">
               <span class="px-2.5 py-1 rounded-full text-[11px] font-semibold bg-primary-fixed/60 text-primary">{{ b.categories or '—' }}</span>
@@ -309,9 +327,23 @@
               </div>
             </td>
             <td class="py-4 px-3">
-              {% if b.allows_search_ads %}
-              <span class="inline-flex items-center justify-center w-6 h-6 rounded-full bg-tertiary-fixed text-on-tertiary-fixed shadow-xs" title="Cho phép Search Ads">
-                <span class="material-symbols-outlined text-[16px] font-bold text-tertiary" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+              <span class="font-semibold text-on-surface">{{ b.bounce_rate_pct }}</span>
+            </td>
+            <td class="py-4 px-3">
+              <span class="font-semibold text-on-surface">{{ b.visit_duration_text }}</span>
+            </td>
+            <td class="py-4 px-3">
+              {% if b.search_ads_status == 'allowed' %}
+              <span class="inline-flex items-center justify-center w-6 h-6 rounded-full bg-emerald-100 text-emerald-700 shadow-xs" title="Cho phép tất cả Search Ads (Google, Bing...)">
+                <span class="material-symbols-outlined text-[16px] font-bold text-emerald-600" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+              </span>
+              {% elif b.search_ads_status == 'no_google' %}
+              <span class="inline-flex items-center justify-center px-2 py-0.5 rounded-full bg-red-100 text-red-800 text-[10px] font-bold shadow-xs whitespace-nowrap border border-red-200" title="Cho phép Ads nhưng CẤM Google Ads (Referrals from Google Ads are not allowed)">
+                <span class="material-symbols-outlined text-[13px] mr-0.5 text-red-600">block</span>Cấm Google
+              </span>
+              {% elif b.search_ads_status == 'brand_detects' %}
+              <span class="inline-flex items-center justify-center px-2 py-0.5 rounded-full bg-amber-100 text-amber-800 text-[10px] font-bold shadow-xs whitespace-nowrap border border-amber-200" title="Cho chạy Ads nhưng Brand biết (This brand is able to detect referrals that come through Google ads)">
+                <span class="material-symbols-outlined text-[13px] mr-0.5 text-amber-600">visibility</span>Brand biết
               </span>
               {% else %}
               <span class="inline-flex items-center justify-center w-6 h-6 rounded-full bg-surface-container-high text-outline opacity-60" title="Không cho phép Search Ads">
@@ -333,12 +365,12 @@
             </td>
           </tr>
           <tr class="acc-row" data-shop-id="{{ b.shop_id }}" hidden>
-            <td class="bg-surface-container-low p-4 sm:p-6" colspan="{% if is_admin or sub_plan in ('year', 'quarter') or not entitled %}11{% else %}9{% endif %}">
+            <td class="bg-surface-container-low p-4 sm:p-6" colspan="{% if is_admin or sub_plan in ('year', 'quarter') or not entitled %}13{% else %}9{% endif %}">
               <div class="acc-panel w-full" data-shop-id="{{ b.shop_id }}"></div>
             </td>
           </tr>
           {% else %}
-          <tr><td class="px-6 py-8 text-on-surface-variant" colspan="{% if is_admin or sub_plan in ('year', 'quarter') or not entitled %}11{% else %}9{% endif %}">{{ t.empty }}</td></tr>
+          <tr><td class="px-6 py-8 text-on-surface-variant" colspan="{% if is_admin or sub_plan in ('year', 'quarter') or not entitled %}13{% else %}9{% endif %}">{{ t.empty }}</td></tr>
           {% endfor %}
         </tbody>
       </table>
@@ -503,4 +535,51 @@
   })();
 })();
 </script>
+<script>
+(function() {
+  const steps = [
+    0, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000,
+    10000, 15000, 20000, 25000, 30000, 40000, 50000, 60000, 70000, 80000, 90000,
+    100000, 150000, 200000, 250000, 300000, 400000, 500000, 750000, 1000000
+  ];
+  const range = document.getElementById('trafficRange');
+  const hidden = document.getElementById('trafficHiddenInput');
+  const valSpan = document.getElementById('trafficVal');
+  if (!range || !hidden || !valSpan) return;
+
+  function formatTraffic(val) {
+    if (val <= 0) return '0';
+    if (val >= 1000000) return (val / 1000000) + 'M';
+    if (val >= 1000) return (val / 1000) + 'k';
+    return val.toString();
+  }
+
+  let currentVal = hidden.value.trim().toLowerCase();
+  if (currentVal === '5k') currentVal = 5000;
+  else currentVal = parseInt(currentVal, 10) || 0;
+
+  // Find closest step
+  let closestIdx = 0;
+  let minDiff = Infinity;
+  for (let i = 0; i < steps.length; i++) {
+    let diff = Math.abs(steps[i] - currentVal);
+    if (diff < minDiff) {
+      minDiff = diff;
+      closestIdx = i;
+    }
+  }
+
+  range.max = steps.length - 1;
+  range.value = closestIdx;
+  valSpan.innerText = formatTraffic(steps[closestIdx]);
+
+  range.addEventListener('input', function() {
+    const idx = parseInt(this.value, 10);
+    const traffic = steps[idx];
+    valSpan.innerText = formatTraffic(traffic);
+    hidden.value = traffic > 0 ? traffic : '';
+  });
+})();
+</script>
+
 {% endblock %}

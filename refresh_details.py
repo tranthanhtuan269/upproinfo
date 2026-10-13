@@ -1,10 +1,12 @@
-"""Cap nhat lai offer-detail cho TAT CA brand trong catalog.
+"""Cap nhat lai offer-detail cho brand trong catalog hoac theo danh sach shop_id chi dinh.
 
-Khac scrape_details.py: khong bo qua brand da co detail.
-Chay 3 ngay/lan. Resume neu dung giua chung.
+Khac scrape_details.py: khong bo qua brand da co detail khi chay refresh.
+Ho tro resume neu dung giua chung hoac chay danh sach cu the:
 
     python refresh_details.py
     python refresh_details.py --fresh
+    python refresh_details.py 263411 43018
+    python refresh_details.py --fresh 263411 43018
 """
 
 from __future__ import annotations
@@ -29,6 +31,8 @@ from storage import (
     list_shop_ids,
     mark_skipped,
     save_detail_row,
+    sync_allows_search_ads_from_json,
+    sync_payment_methods_from_json,
 )
 
 PROGRESS_PATH = DATA_DIR / "refresh_details_progress.json"
@@ -108,9 +112,58 @@ def refresh_one(client: MarketplaceClient, shop_id: int) -> str:
     return "ok"
 
 
+def parse_args() -> tuple[bool, list[int]]:
+    fresh = False
+    shop_ids: list[int] = []
+    for arg in sys.argv[1:]:
+        clean_arg = arg.strip().lower()
+        if clean_arg in {"--fresh", "-f", "--refresh"}:
+            fresh = True
+        else:
+            try:
+                shop_ids.append(int(arg.strip()))
+            except ValueError:
+                continue
+    return fresh, shop_ids
+
+
 def main() -> None:
-    fresh = "--fresh" in sys.argv
+    fresh, explicit_ids = parse_args()
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    client = MarketplaceClient()
+    client.login()
+
+    # Che do 1: Quet theo danh sach shop_id cu the (VD: python refresh_details.py 263411 43018)
+    if explicit_ids:
+        safe_print(f"Quet lai detail {len(explicit_ids)} shop_id chi dinh: {explicit_ids}")
+        ok = 0
+        missing = 0
+        returned = 0
+        for index, shop_id in enumerate(explicit_ids, start=1):
+            status = refresh_one(client, shop_id)
+            if status == "missing":
+                missing += 1
+                safe_print(
+                    f"[{index}/{len(explicit_ids)}] shop_id={shop_id}: Khong con tren marketplace (404)"
+                )
+            elif status == "returned":
+                ok += 1
+                returned += 1
+                safe_print(f"[{index}/{len(explicit_ids)}] shop_id={shop_id}: Cap nhat thanh cong (Quay lai listing)")
+            else:
+                ok += 1
+                safe_print(f"[{index}/{len(explicit_ids)}] shop_id={shop_id}: Cap nhat thanh cong")
+
+        write_csv()
+        ads = sync_allows_search_ads_from_json()
+        safe_print(f"Dong bo Search Ads tu JSON: {ads['allowed']}/{ads['updated']} brand cho phep.")
+        pays = sync_payment_methods_from_json()
+        safe_print(f"Dong bo Payment Methods tu JSON: {pays['with_payment']}/{pays['updated']} brand.")
+        safe_print(f"Xong refresh {len(explicit_ids)} shop_id (Thanh cong={ok}, Mat={missing}, Quay lai={returned}).")
+        return
+
+    # Che do 2: Quet toan bo catalog
     shop_ids = list_shop_ids()
     if not shop_ids:
         safe_print("Chua co catalog. Chay python scrape_brands.py truoc.")
@@ -125,8 +178,6 @@ def main() -> None:
         safe_print(f"Resume: da xong {len(done)}/{len(shop_ids)}, con {len(pending)}.")
     safe_print(f"Cap nhat detail toan bo: {len(pending)}/{len(shop_ids)} brand.")
 
-    client = MarketplaceClient()
-    client.login()
     try:
         for index, shop_id in enumerate(pending, start=1):
             status = refresh_one(client, shop_id)
@@ -161,6 +212,8 @@ def main() -> None:
     progress["cycle_done"] = True
     save_progress(progress)
     write_csv()
+    sync_allows_search_ads_from_json()
+    sync_payment_methods_from_json()
     write_report(progress, len(shop_ids))
     safe_print(
         "Xong refresh detail. "

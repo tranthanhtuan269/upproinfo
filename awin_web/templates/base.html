@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Awin Info{% endblock %}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <style type="text/tailwindcss">
+    @theme {
+      --font-sans: "Public Sans", "Segoe UI", sans-serif;
+      --color-background: #fdf7ff;
+      --color-surface-container-low: #f8f2fa;
+      --color-surface-container-lowest: #ffffff;
+      --color-on-surface: #1d1b20;
+      --color-on-surface-variant: #494551;
+      --color-primary: #4f378a;
+      --color-primary-fixed: #e9ddff;
+      --color-on-primary: #ffffff;
+      --color-secondary-container: #e1d4fd;
+      --color-on-secondary-container: #645a7d;
+    }
+  </style>
+</head>
+<body class="bg-background text-on-surface font-sans min-h-screen">
+  <header class="bg-surface-container-lowest border-b border-primary-fixed">
+    <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+      <a href="/" class="font-bold text-lg text-primary no-underline">Awin Info</a>
+      <nav class="flex items-center gap-3 text-sm">
+        {% if current_user %}
+        <a class="text-on-surface-variant no-underline hover:text-primary" href="/">Danh sách</a>
+        <a class="text-on-surface-variant no-underline hover:text-primary" href="/billing">Gói</a>
+        <span class="text-on-surface-variant">{{ current_user }}</span>
+        <a class="text-primary no-underline" href="/logout">Thoát</a>
+        {% else %}
+        <a class="text-primary no-underline" href="/login">Đăng nhập</a>
+        {% endif %}
+      </nav>
+    </div>
+  </header>
+  <main class="max-w-7xl mx-auto px-4 py-6">
+    {% block content %}{% endblock %}
+  </main>
+</body>
+</html>

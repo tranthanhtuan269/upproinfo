@@ -1,0 +1,118 @@
+{% extends "base.html" %}
+{% block title %}Báo cáo thiết bị đăng nhập · Admin{% endblock %}
+{% block content %}
+<div class="w-full px-4 lg:px-6 py-3">
+  <div class="flex items-center gap-2 text-xs font-label text-on-surface-variant">
+    <span class="material-symbols-outlined text-[16px]">home</span>
+    <a class="hover:text-on-surface transition-colors no-underline" href="/">Trang chủ</a>
+    <span class="material-symbols-outlined text-[14px] text-outline">chevron_right</span>
+    <a class="hover:text-on-surface transition-colors no-underline" href="{{ url_for('admin_users') }}">Quản lý tài khoản</a>
+    <span class="material-symbols-outlined text-[14px] text-outline">chevron_right</span>
+    <span class="text-on-surface font-medium">Báo cáo thiết bị</span>
+  </div>
+</div>
+
+<section class="w-full px-4 lg:px-6 py-8 max-w-7xl mx-auto space-y-6">
+  <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+    <div>
+      <h1 class="text-3xl font-headline font-bold m-0 flex items-center gap-3">
+        <span class="material-symbols-outlined text-primary text-[32px]">devices_other</span>
+        Báo cáo thiết bị người dùng
+      </h1>
+      <p class="mt-2 mb-0 text-sm text-on-surface-variant">
+        Theo dõi số lượng máy tính và điện thoại đăng nhập của mỗi tài khoản. Quy chuẩn cho phép: <strong>tối đa 01 Máy tính & 01 Di động</strong>.
+      </p>
+    </div>
+    <div class="flex items-center gap-2">
+      <a href="{{ url_for('admin_users') }}" class="px-4 py-2 rounded-xl bg-surface-container text-xs font-semibold text-on-surface no-underline hover:bg-surface-container-high transition-colors">
+        Về danh sách tài khoản
+      </a>
+    </div>
+  </div>
+
+  {% if notice %}
+  <div class="rounded-xl bg-secondary-container px-4 py-3 text-sm text-on-secondary-container font-medium">
+    {{ notice }}
+  </div>
+  {% endif %}
+
+  <!-- Bảng báo cáo -->
+  <div class="overflow-x-auto rounded-2xl bg-surface-container-lowest shadow-sm border border-outline-variant/30">
+    <table class="w-full text-sm text-left">
+      <thead class="text-xs uppercase tracking-wider text-on-surface-variant bg-surface-container">
+        <tr>
+          <th class="px-4 py-3 font-semibold">Tài khoản</th>
+          <th class="px-4 py-3 font-semibold text-center">Máy tính (PC/Laptop)</th>
+          <th class="px-4 py-3 font-semibold text-center">Di động (Phone/Tablet)</th>
+          <th class="px-4 py-3 font-semibold">Tình trạng</th>
+          <th class="px-4 py-3 font-semibold">Danh sách thiết bị đã lưu</th>
+        </tr>
+      </thead>
+      <tbody class="divide-y divide-outline-variant/30">
+        {% for r in reports %}
+        <tr class="hover:bg-surface-container-low/50 transition-colors {% if r.is_violation %}bg-error-container/15{% endif %}">
+          <td class="px-4 py-3 align-top font-semibold text-on-surface">
+            <div class="flex items-center gap-2">
+              <span>{{ r.username }}</span>
+              {% if r.username == 'admin' %}
+              <span class="px-2 py-0.5 rounded-full bg-primary text-on-primary text-[10px] font-bold">Admin</span>
+              {% endif %}
+            </div>
+            <span class="text-[11px] text-outline block mt-0.5 font-normal">Gần nhất: {{ r.latest_seen[:19].replace('T', ' ') }}</span>
+          </td>
+          <td class="px-4 py-3 text-center align-top">
+            <span class="inline-flex items-center justify-center px-2.5 py-1 rounded-full text-xs font-bold {% if r.desktop_count > 1 %}bg-error-container text-error font-extrabold animate-pulse{% else %}bg-surface-container text-on-surface{% endif %}">
+              {{ r.desktop_count }} máy
+            </span>
+          </td>
+          <td class="px-4 py-3 text-center align-top">
+            <span class="inline-flex items-center justify-center px-2.5 py-1 rounded-full text-xs font-bold {% if r.mobile_count > 1 %}bg-error-container text-error font-extrabold animate-pulse{% else %}bg-surface-container text-on-surface{% endif %}">
+              {{ r.mobile_count }} máy
+            </span>
+          </td>
+          <td class="px-4 py-3 align-top">
+            {% if r.is_violation %}
+            <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-error-container text-on-error-container text-xs font-bold">
+              <span class="material-symbols-outlined text-[16px]">warning</span>
+              Vượt quá số thiết bị
+            </span>
+            {% else %}
+            <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-100 text-emerald-800 text-xs font-semibold">
+              <span class="material-symbols-outlined text-[16px] text-emerald-600">check_circle</span>
+              Hợp lệ
+            </span>
+            {% endif %}
+          </td>
+          <td class="px-4 py-3 align-top">
+            <div class="space-y-2 max-w-lg">
+              {% for d in r.devices %}
+              <div class="flex items-center justify-between gap-3 p-2 rounded-xl bg-surface-container-low text-xs border border-outline-variant/30">
+                <div class="flex items-center gap-2 min-w-0">
+                  <span class="material-symbols-outlined text-[18px] text-primary shrink-0">
+                    {% if d.device_type == 'mobile' %}smartphone{% else %}laptop_mac{% endif %}
+                  </span>
+                  <div class="truncate">
+                    <span class="font-semibold text-on-surface">{{ d.device_name }}</span>
+                    <span class="text-outline text-[11px] block truncate">IP: {{ d.ip }} · Cập nhật: {{ d.last_seen[:16].replace('T', ' ') }}</span>
+                  </div>
+                </div>
+                <form method="post" action="{{ url_for('admin_delete_device', device_id=d.id) }}" onsubmit="return confirm('Xóa thiết bị này để tài khoản có thể kết nối thiết bị mới?');" class="m-0 shrink-0">
+                  <button type="submit" class="p-1 rounded-lg text-outline hover:text-error hover:bg-error/10 border-0 bg-transparent cursor-pointer transition-colors" title="Xóa thiết bị">
+                    <span class="material-symbols-outlined text-[16px]">delete</span>
+                  </button>
+                </form>
+              </div>
+              {% endfor %}
+            </div>
+          </td>
+        </tr>
+        {% else %}
+        <tr>
+          <td colspan="5" class="px-4 py-8 text-center text-on-surface-variant">Chưa có dữ liệu thiết bị nào được ghi nhận.</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endblock %}

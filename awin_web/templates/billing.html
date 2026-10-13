@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Gói · Awin Info{% endblock %}
+{% block content %}
+<h1 class="text-3xl font-bold">Mua gói</h1>
+<p class="text-sm text-on-surface-variant">Gói mở bộ lọc, trang chi tiết. Gói quý và năm được tải CSV.</p>
+{% if access.plan %}
+<p class="text-sm">Gói hiện tại: <strong>{{ access.plan }}</strong>{% if access.expires_at %} đến {{ access.expires_at }}{% endif %}</p>
+{% endif %}
+{% if error %}<p class="text-sm text-red-700">{{ error }}</p>{% endif %}
+{% if not pay_ready %}<p class="text-sm text-red-700">VietQR chưa cấu hình trên máy này.</p>{% endif %}
+<div class="grid md:grid-cols-3 gap-4 mt-4">
+  {% for plan in plans.values() %}
+  <form method="post" action="/billing/checkout" class="bg-surface-container-lowest rounded-2xl p-5">
+    <h2 class="text-xl font-bold m-0">{{ plan.label }}</h2>
+    <p class="text-2xl font-bold text-primary">{{ "{:,}".format(plan.amount).replace(",", ".") }} đ</p>
+    <p class="text-sm text-on-surface-variant">{{ plan.days }} ngày</p>
+    <input type="hidden" name="plan" value="{{ plan.id }}">
+    <button class="rounded-xl bg-primary text-on-primary px-4 py-2 border-0 font-semibold" type="submit" {% if not pay_ready %}disabled{% endif %}>Thanh toán</button>
+  </form>
+  {% endfor %}
+</div>
+{% endblock %}

@@ -192,6 +192,7 @@ def scan_list(
     client: MarketplaceClient,
     progress: dict[str, Any],
     path: Path = PROGRESS_PATH,
+    on_page_items: Any = None,
 ) -> dict[str, dict[str, Any]]:
     live: dict[str, dict[str, Any]] = {
         str(key): value for key, value in (progress.get("live") or {}).items()
@@ -209,6 +210,7 @@ def scan_list(
             return {key: value for key, value in live.items()}
 
         added = 0
+        page_sids: list[int] = []
         for row in rows:
             if not isinstance(row, dict):
                 continue
@@ -217,6 +219,13 @@ def scan_list(
                 continue
             live[str(slim["shop_id"])] = slim
             added += 1
+            page_sids.append(int(slim["shop_id"]))
+
+        if on_page_items and page_sids:
+            try:
+                on_page_items(page_sids)
+            except Exception as e:
+                safe_print(f"Loi callback on_page_items: {e}")
 
         nxt = data.get("next_page_url")
         safe_print(

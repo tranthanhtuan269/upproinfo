@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}{{ item.name }} · Awin Info{% endblock %}
+{% block content %}
+<p class="text-sm"><a href="/">Danh sách</a></p>
+<div class="flex items-start gap-4 mb-4">
+  {% if item.logo %}<img src="{{ item.logo }}" alt="" class="w-16 h-16 rounded-xl object-contain bg-white"> {% endif %}
+  <div>
+    <h1 class="text-3xl font-bold m-0">{{ item.name }}</h1>
+    <p class="text-sm text-on-surface-variant m-0">ID {{ item.advertiser_id }} · {{ item.profile_membership or item.membership }} · {% if item.active %}Còn trên Awin{% else %}Đã biến mất{% endif %}</p>
+    {% if item.website %}<a href="{{ item.website }}" target="_blank" rel="noopener">{{ item.website }}</a>{% endif %}
+  </div>
+</div>
+<div class="grid grid-cols-2 lg:grid-cols-4 gap-3 mb-5">
+  <div class="bg-surface-container-lowest rounded-2xl p-4"><div class="text-xs">Hoa hồng</div><div class="text-xl font-bold">{% if item.commission_percent is not none %}{{ item.commission_percent }}%{% else %}—{% endif %}</div></div>
+  <div class="bg-surface-container-lowest rounded-2xl p-4"><div class="text-xs">Cookie</div><div class="text-xl font-bold">{{ item.cookie_text or '—' }}</div></div>
+  <div class="bg-surface-container-lowest rounded-2xl p-4"><div class="text-xs">EPC</div><div class="text-xl font-bold">{{ item.epc or '—' }}</div></div>
+  <div class="bg-surface-container-lowest rounded-2xl p-4"><div class="text-xs">Duyệt</div><div class="text-xl font-bold">{{ item.approval_rate or '—' }}</div></div>
+</div>
+<div class="bg-surface-container-lowest rounded-2xl p-5 space-y-3 text-sm">
+  <p><strong>Conversion:</strong> {{ item.conversion_rate or '—' }}</p>
+  <p><strong>Thanh toán:</strong> {{ item.payment_status or '—' }} · {{ item.avg_payment_text or '' }}</p>
+  <p><strong>Ghi chú thanh toán:</strong> {{ item.payment_note or '—' }}</p>
+  <p><strong>Product feed:</strong> {% if item.product_feed == 1 %}Có{% elif item.product_feed == 0 %}Không{% else %}—{% endif %}</p>
+  <p><strong>Link:</strong> {{ item.link_status or '—' }}</p>
+  <p><strong>Ra mắt:</strong> {{ item.launch_date or '—' }} · <strong>Ngày join:</strong> {{ item.date_joined or '—' }}</p>
+  <p><strong>Xác nhận đơn:</strong> {{ item.validation_text or '—' }}</p>
+  <p><strong>Mobile:</strong> {{ item.mobile_optimised or '—' }} · <strong>App tracking:</strong> {{ item.app_tracking or '—' }}</p>
+  <p><strong>Khu vực:</strong> {{ item.regions or '—' }}</p>
+  <p><strong>Email:</strong> {{ item.emails or '—' }}</p>
+  {% if item.summary %}<p><strong>Tóm tắt:</strong> {{ item.summary }}</p>{% endif %}
+  {% if item.description %}<p><strong>Mô tả:</strong> {{ item.description }}</p>{% endif %}
+  {% if item.commission_text %}<p><strong>Nhóm hoa hồng:</strong> {{ item.commission_text }}</p>{% endif %}
+  {% if item.groups %}
+  <div class="overflow-x-auto">
+    <table class="w-full text-sm">
+      {% for row in item.groups %}
+      <tr>{% for cell in row %}<td class="border border-primary-fixed p-2">{{ cell }}</td>{% endfor %}</tr>
+      {% endfor %}
+    </table>
+  </div>
+  {% endif %}
+  {% if item.error %}<p class="text-red-700">Lỗi lần lấy detail: {{ item.error }}</p>{% endif %}
+  {% if not item.fetched_at %}<p class="text-on-surface-variant">Chưa lấy trang chi tiết. Chạy python awin_refresh_details.py {{ item.advertiser_id }}</p>{% endif %}
+</div>
+{% endblock %}

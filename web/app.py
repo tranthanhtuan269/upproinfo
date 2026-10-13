@@ -54,6 +54,7 @@ OPEN_ENDPOINTS = {
     "oauth_callback",
     "vietqr_token",
     "vietqr_sync",
+    "acb_email_webhook",
     "policy",
     "term_of_service",
     "honeypot_trap",
@@ -68,6 +69,7 @@ SORTS = {
     "recommend": "CAST(o.recommend_score AS REAL) DESC",
     "approval": "CAST(o.approval_rate AS REAL) DESC",
     "payout": "CAST(replace(o.payout_rate, '%', '') AS REAL) DESC",
+    "newest": "o.created_at DESC, o.shop_id DESC",
 }
 
 PAYMENT_METHODS = (
@@ -569,16 +571,36 @@ def stats(conn: sqlite3.Connection) -> dict:
     cats = conn.execute(
         "SELECT COUNT(DISTINCT categories) FROM offers WHERE categories IS NOT NULL AND categories != ''"
     ).fetchone()[0]
-    top = conn.execute(
-        """
-        SELECT categories, COUNT(*) AS n
-        FROM offers
-        WHERE categories IS NOT NULL AND categories != ''
-        GROUP BY categories
-        ORDER BY n DESC, categories
-        LIMIT 1
-        """
-    ).fetchone()
+    try:
+        top = conn.execute(
+            """
+            SELECT c.name AS categories, COUNT(oc.shop_id) AS n
+            FROM categories c
+            JOIN offer_categories oc ON c.id = oc.category_id
+            GROUP BY c.id
+            ORDER BY n DESC, c.name ASC
+            LIMIT 1
+            """
+        ).fetchone()
+    except Exception:
+        top = conn.execute(
+            """
+            SELECT categories, COUNT(*) AS n
+            FROM offers
+            WHERE categories IS NOT NULL AND categories != ''
+            GROUP BY categories
+            ORDER BY n DESC, categories
+            LIMIT 1
+            """
+        ).fetchone()
+
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    new_today = 0
+    try:
+        new_today = conn.execute("SELECT COUNT(*) FROM offers WHERE created_at = ?", (today_str,)).fetchone()[0]
+    except Exception:
+        pass
+
     return {
         "total": total,
         "details": details,
@@ -588,10 +610,25 @@ def stats(conn: sqlite3.Connection) -> dict:
         "pct": round(details * 100 / total, 1) if total else 0,
         "top_category": (top["categories"] if top else "") or "—",
         "top_count": top["n"] if top else 0,
+        "new_today": new_today,
     }
 
 
 def categories(conn: sqlite3.Connection) -> list[str]:
+    try:
+        rows = conn.execute(
+            """
+            SELECT c.name, COUNT(oc.shop_id) AS n
+            FROM categories c
+            JOIN offer_categories oc ON c.id = oc.category_id
+            GROUP BY c.id
+            ORDER BY n DESC, c.name ASC
+            """
+        ).fetchall()
+        if rows:
+            return [row["name"] for row in rows]
+    except Exception:
+        pass
     rows = conn.execute(
         """
         SELECT categories, COUNT(*) AS n
@@ -615,6 +652,7 @@ def free_list_filters() -> dict:
         "traffic": "",
         "ads": "",
         "payment": [],
+        "created_today": "",
     }
 
 
@@ -634,12 +672,17 @@ def query_kwargs() -> dict:
         "traffic": request.args.get("traffic", "").strip(),
         "ads": request.args.get("ads", "").strip(),
         "payment": payments,
+        "created_today": request.args.get("created_today", "").strip(),
     }
 
 
 def offer_where(filters: dict) -> tuple[list[str], list]:
     where = ["1=1"]
     args: list = []
+    if filters.get("created_today"):
+        today_str = datetime.now().strftime("%Y-%m-%d")
+        where.append("o.created_at = ?")
+        args.append(today_str)
     if filters["q"]:
         like = f"%{filters['q']}%"
         where.append(
@@ -647,7 +690,11 @@ def offer_where(filters: dict) -> tuple[list[str], list]:
         )
         args.extend([like, like, like, like])
     if filters["category"]:
-        where.append("o.categories = ?")
+        where.append("""EXISTS (
+            SELECT 1 FROM offer_categories oc
+            JOIN categories c ON c.id = oc.category_id
+            WHERE oc.shop_id = o.shop_id AND c.name = ?
+        )""")
         args.append(filters["category"])
     if filters["status"] == "detail":
         where.append("d.shop_id IS NOT NULL")
@@ -667,12 +714,26 @@ def offer_where(filters: dict) -> tuple[list[str], list]:
                 args.append(score)
         except ValueError:
             pass
-    if filters.get("traffic") == "5k":
-        where.append("coalesce(bm.traffic_m3, 0) >= 5000")
+    if filters.get("traffic"):
+        t_val = str(filters["traffic"]).strip().lower()
+        if t_val == "5k":
+            where.append("coalesce(bm.traffic_m3, 0) >= 5000")
+        else:
+            try:
+                num = int(float(t_val))
+                if num > 0:
+                    where.append("coalesce(bm.traffic_m3, 0) >= ?")
+                    args.append(num)
+            except ValueError:
+                pass
     if filters.get("ads") == "yes":
-        where.append("coalesce(bm.allows_search_ads, 0) = 1")
+        where.append("coalesce(bm.search_ads_status, 'no') = 'allowed'")
+    elif filters.get("ads") == "no_google":
+        where.append("coalesce(bm.search_ads_status, 'no') = 'no_google'")
+    elif filters.get("ads") == "brand_detects":
+        where.append("coalesce(bm.search_ads_status, 'no') = 'brand_detects'")
     elif filters.get("ads") == "no":
-        where.append("coalesce(bm.allows_search_ads, 0) = 0")
+        where.append("coalesce(bm.allows_search_ads, 0) = 0 AND coalesce(bm.search_ads_status, 'no') NOT IN ('no_google', 'brand_detects')")
     payments = [str(item).strip().lower() for item in (filters.get("payment") or []) if str(item).strip()]
     if payments:
         clauses = []
@@ -794,9 +855,13 @@ def index():
                    bm.traffic_m1,
                    bm.traffic_m2,
                    bm.traffic_m3,
+                   bm.bounce_rate,
+                   bm.time_on_site,
+                   bm.pages_per_visit,
                    bm.google_ads_running,
                    bm.google_advertisers_count,
                    bm.allows_search_ads,
+                   bm.search_ads_status,
                    bm.top_keywords_json
             {sql}
             ORDER BY {sort_sql}, o.shop_id
@@ -907,6 +972,13 @@ def load_brand(shop_id: int) -> tuple[dict, bool] | None:
             data["top_keywords"] = []
     else:
         data["top_keywords"] = []
+    if data.get("top_regions_json"):
+        try:
+            data["top_regions"] = json.loads(data["top_regions_json"])
+        except Exception:
+            data["top_regions"] = []
+    else:
+        data["top_regions"] = []
     if data.get("monthly_visits_json"):
         try:
             data["monthly_visits"] = json.loads(data["monthly_visits_json"])
@@ -982,8 +1054,16 @@ def billing_checkout():
     order = billing.create_order(username, plan["id"], trade_no)
     pay_content = billing.pay_code(order["id"])
     return_url = url_for("billing_return", trade=trade_no, _external=True)
+    custom_bank = None
+    if plan.get("bank_code") == "ACB":
+        custom_bank = {
+            "bank_code": "ACB",
+            "bank_account": plan.get("bank_account", "27580611"),
+            "user_bank_name": plan.get("user_bank_name", "TRAN THANH TUAN"),
+            "acq_id": plan.get("acq_id", "970416")
+        }
     try:
-        created = vietqr.create_payment(int(plan["amount"]), return_url, pay_content, pay_content)
+        created = vietqr.create_payment(int(plan["amount"]), return_url, pay_content, pay_content, custom_bank=custom_bank)
     except RuntimeError:
         session["billing_error"] = texts["billing_error"]
         return redirect(url_for("billing_page"))
@@ -1024,7 +1104,25 @@ def billing_return():
         amount = int(order.get("amount") or 0)
     except (TypeError, ValueError):
         amount = 0
-    qr_image = vietqr.branded_qr_url(amount, str(pay_content))
+
+    plan_info = billing.plan_of(order.get("plan") or "") or {}
+    custom_bank = None
+    bank_code = "MB"
+    bank_account = vietqr.load_config().get("bank_account") or ""
+    bank_name = vietqr.account_display()
+
+    if plan_info.get("bank_code") == "ACB" or payload.get("bank_code") == "ACB":
+        custom_bank = {
+            "bank_code": "ACB",
+            "bank_account": plan_info.get("bank_account") or "27580611",
+            "user_bank_name": plan_info.get("user_bank_name") or "TRAN THANH TUAN",
+            "acq_id": plan_info.get("acq_id") or "970416"
+        }
+        bank_code = "ACB"
+        bank_account = custom_bank["bank_account"]
+        bank_name = custom_bank["user_bank_name"]
+
+    qr_image = vietqr.branded_qr_url(amount, str(pay_content), custom_bank=custom_bank)
     return render_template(
         "billing_return.html",
         trade_no=trade,
@@ -1033,9 +1131,9 @@ def billing_return():
         qr_code="",
         pay_content=pay_content,
         pay_amount=billing.format_vnd(order.get("amount") or 0),
-        bank_account=vietqr.load_config().get("bank_account") or "",
-        bank_name=vietqr.account_display(),
-        bank_code="MB",
+        bank_account=bank_account,
+        bank_name=bank_name,
+        bank_code=bank_code,
         sandbox=False,
     )
 
@@ -1160,6 +1258,21 @@ def admin_delete_user(username: str):
     return redirect(url_for("admin_users"))
 
 
+
+@app.route("/admin/devices")
+def admin_devices():
+    require_admin()
+    reports = billing.list_device_reports()
+    return render_template("admin_devices.html", reports=reports)
+
+
+@app.route("/admin/devices/delete/<int:device_id>", methods=["POST"])
+def admin_delete_device(device_id: int):
+    require_admin()
+    billing.delete_user_device(device_id)
+    return redirect(url_for("admin_devices"))
+
+
 @app.route("/admin/transactions")
 def admin_transactions():
     require_admin()
@@ -1196,6 +1309,72 @@ def vietqr_sync():
     return jsonify(payload), status
 
 
+
+
+@app.route("/vqr/bank/api/acb-email-webhook", methods=["POST"], strict_slashes=False)
+def acb_email_webhook():
+    from web import notifier
+    secret_header = request.headers.get("X-Secret-Key", "").strip()
+    if secret_header != "UpproInfoSecureAcb2026@":
+        return jsonify({"success": False, "error": "UNAUTHORIZED"}), 401
+
+    payload = request.get_json(silent=True) or {}
+    raw_text = payload.get("raw") or ""
+    try:
+        with open("/var/www/upproinfo/logs/acb_webhook_received.log", "a", encoding="utf-8") as f_log:
+            f_log.write(f"\n=== {time.strftime('%Y-%m-%d %H:%M:%S')} ===\n")
+            f_log.write(f"Subject: {payload.get('subject')}\n")
+            f_log.write(f"From: {payload.get('from')}\n")
+            f_log.write(raw_text[:2000] + "\n")
+    except Exception:
+        pass
+    if not raw_text:
+        return jsonify({"success": False, "error": "EMPTY_BODY"}), 400
+
+    m_credit = re.search(r"(?:Ghi có|Credit)\s*\+?([\d,]+(?:\.\d+)?)\s*VND", raw_text, re.IGNORECASE)
+    if not m_credit:
+        return jsonify({"success": True, "message": "Not a credit transaction, ignored"}), 200
+
+    raw_amount = m_credit.group(1).replace(",", "")
+    amount = int(float(raw_amount))
+
+    m_content = re.search(r"(?:Nội dung giao dịch|Content):\s*(.+?)(?:[\r\n]|\.|$)", raw_text, re.IGNORECASE)
+    content = m_content.group(1).strip() if m_content else ""
+
+    m_tx = re.search(r"GD\s+([A-Z0-9]+)", content, re.IGNORECASE)
+    tx_id = m_tx.group(1) if m_tx else f"ACB_{int(time.time())}"
+
+    order = billing.fulfill_vietqr_payment(
+        content=content,
+        order_id="",
+        amount=amount,
+        raw_json=json.dumps({"source": "acb_email", "content": content, "amount": amount, "tx_id": tx_id}, ensure_ascii=False)
+    )
+
+    if not order:
+        try:
+            from awin_web import billing as awin_billing, notifier as awin_notifier
+            awin_order = awin_billing.find_vietqr_order(content, "")
+            if awin_order and int(awin_order["amount"]) == amount:
+                paid = awin_billing.fulfill_paid_order(
+                    awin_order["merchant_trade_no"],
+                    json.dumps({"source": "acb_email", "content": content, "amount": amount}, ensure_ascii=False),
+                )
+                if paid:
+                    user_sub = awin_billing.get_subscription(paid["username"])
+                    exp = user_sub.get("expires_at", "") if user_sub else ""
+                    awin_notifier.notify_order_paid(paid, expires_at=exp, source="ACB Email Notification")
+                    return jsonify({"success": True, "status": "paid", "order": paid["merchant_trade_no"]}), 200
+        except Exception as ex:
+            app.logger.warning("Awin billing fulfill failed in ACB webhook: %s", ex)
+    if order:
+        user_sub = billing.get_subscription(order["username"])
+        exp = user_sub.get("expires_at", "") if user_sub else ""
+        notifier.notify_order_paid(order, expires_at=exp, source="ACB Email Notification")
+        return jsonify({"success": True, "status": "paid", "order": order["merchant_trade_no"]}), 200
+    else:
+        notifier.notify_unmatched_payment(amount=f"{amount:,}", content=content, trans_id=tx_id)
+        return jsonify({"success": True, "status": "unmatched", "amount": amount, "content": content}), 200
 
 
 @app.errorhandler(500)
@@ -1243,11 +1422,28 @@ def brand_panel(shop_id: int):
     if not loaded:
         abort(404)
     data, has_json = loaded
+    brand_cats = []
+    try:
+        conn = db()
+        c_rows = conn.execute(
+            """
+            SELECT c.name FROM categories c
+            JOIN offer_categories oc ON c.id = oc.category_id
+            WHERE oc.shop_id = ?
+            ORDER BY c.name
+            """,
+            (shop_id,)
+        ).fetchall()
+        brand_cats = [r["name"] for r in c_rows]
+    except Exception:
+        pass
+
     return render_template(
         "brand_panel.html",
         brand=data,
         shop_id=shop_id,
         has_json=has_json,
+        brand_categories=brand_cats,
     )
 
 
@@ -1257,12 +1453,28 @@ def brand(shop_id: int):
     if not loaded:
         abort(404)
     data, has_json = loaded
+    brand_cats = []
+    try:
+        conn = db()
+        c_rows = conn.execute(
+            """
+            SELECT c.name FROM categories c
+            JOIN offer_categories oc ON c.id = oc.category_id
+            WHERE oc.shop_id = ?
+            ORDER BY c.name
+            """,
+            (shop_id,)
+        ).fetchall()
+        brand_cats = [r["name"] for r in c_rows]
+    except Exception:
+        pass
     return render_template(
         "brand.html",
         brand=data,
         shop_id=shop_id,
         has_json=has_json,
         filters=query_kwargs(),
+        brand_categories=brand_cats,
     )
 
 

@@ -9,9 +9,20 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = ROOT / "data" / "billing.db"
-ADMIN_NAMES = {"admin"}
+ADMIN_NAMES = {"admin", "tran.thanh.tuan269"}
 
 PLANS = {
+    "test_acb": {
+        "id": "test_acb",
+        "amount": 2000,
+        "days": 1,
+        "currency": "VND",
+        "goods_id": "plan_test_acb",
+        "bank_code": "ACB",
+        "bank_account": "27580611",
+        "user_bank_name": "TRAN THANH TUAN",
+        "acq_id": "970416",
+    },
     "month": {
         "id": "month",
         "amount": 100000,
@@ -162,6 +173,43 @@ def connect() -> sqlite3.Connection:
             ip TEXT PRIMARY KEY,
             reason TEXT NOT NULL,
             blocked_until INTEGER NOT NULL,
+            created_at TEXT NOT NULL
+        )
+        """
+    )
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS active_sessions (
+            username TEXT PRIMARY KEY,
+            session_id TEXT NOT NULL,
+            ip TEXT,
+            user_agent TEXT,
+            updated_at TEXT NOT NULL
+        )
+        """
+    )
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS user_devices (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            username TEXT NOT NULL,
+            device_id TEXT NOT NULL,
+            device_type TEXT NOT NULL,
+            device_name TEXT,
+            ip TEXT,
+            last_seen TEXT NOT NULL,
+            created_at TEXT NOT NULL,
+            UNIQUE(username, device_id)
+        )
+        """
+    )
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS device_alerts (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            username TEXT NOT NULL,
+            alert_type TEXT NOT NULL,
+            details TEXT,
             created_at TEXT NOT NULL
         )
         """
@@ -330,7 +378,7 @@ def pay_needles(*texts: str) -> set[str]:
         if compact:
             keys.add(compact)
         for part in re.split(r"[^A-Z0-9]+", raw):
-            if len(part) >= 4:
+            if len(part) >= 1:
                 keys.add(part)
         digits = "".join(ch for ch in raw if ch.isdigit())
         if digits:
@@ -480,7 +528,7 @@ def format_local(value: str) -> str:
         return str(value)
 
 
-def list_orders(limit: int = 80) -> list[dict]:
+def list_orders(limit: int = 500) -> list[dict]:
     conn = connect()
     try:
         rows = conn.execute(
@@ -745,5 +793,281 @@ def mark_all_notifications_read(username: str) -> None:
             (username,)
         )
         conn.commit()
+    finally:
+        conn.close()
+
+
+def set_active_session(username: str, session_id: str, ip: str = "", user_agent: str = "") -> None:
+    username = str(username or "").strip().lower()
+    if not username:
+        return
+    conn = connect()
+    try:
+        conn.execute(
+            """
+            INSERT INTO active_sessions (username, session_id, ip, user_agent, updated_at)
+            VALUES (?, ?, ?, ?, ?)
+            ON CONFLICT(username) DO UPDATE SET
+                session_id = excluded.session_id,
+                ip = excluded.ip,
+                user_agent = excluded.user_agent,
+                updated_at = excluded.updated_at
+            """,
+            (username, str(session_id), str(ip), str(user_agent or "")[:255], to_iso(utcnow())),
+        )
+        conn.commit()
+    finally:
+        conn.close()
+
+
+def get_active_session(username: str) -> str | None:
+    info = get_active_session_info(username)
+    return info.get("session_id") if info else None
+
+
+def get_active_session_info(username: str) -> dict | None:
+    username = str(username or "").strip().lower()
+    if not username:
+        return None
+    conn = connect()
+    try:
+        row = conn.execute(
+            "SELECT session_id, ip, user_agent, updated_at FROM active_sessions WHERE username = ?",
+            (username,),
+        ).fetchone()
+        if row:
+            return {
+                "session_id": str(row[0]) if row[0] else "",
+                "ip": str(row[1]) if row[1] else "",
+                "user_agent": str(row[2]) if row[2] else "",
+                "updated_at": str(row[3]) if row[3] else "",
+            }
+        return None
+    finally:
+        conn.close()
+
+
+def clear_active_session(username: str) -> None:
+    username = str(username or "").strip().lower()
+    if not username:
+        return
+    conn = connect()
+    try:
+        conn.execute(
+            "DELETE FROM active_sessions WHERE username = ?",
+            (username,),
+        )
+        conn.commit()
+    finally:
+        conn.close()
+
+
+def check_device_access(
+    username: str,
+    device_id: str,
+    device_type: str,
+    device_name: str,
+    ip: str,
+    legacy_hash: str = ""
+) -> dict:
+    """
+    Kiem tra va thuc thi quy dinh thiet bi:
+    - Admin (ADMIN_NAMES) duoc mien gioi han.
+    - Moi tai khoan chi duoc dang nhap tren 01 May tinh duy nhat va 01 Di dong duy nhat.
+    - Khi khach dang nhap tren may tinh thu 2:
+      -> allowed = False, he thong tu choi dang nhap va logout ngay lap tuc.
+    """
+    username = str(username or "").strip().lower()
+    device_id = str(device_id or "").strip()
+    device_type = "mobile" if device_type == "mobile" else "desktop"
+    now_str = to_iso(utcnow())
+
+    if is_admin(username):
+        return {
+            "allowed": True,
+            "reason": "admin",
+            "device_type": device_type,
+            "existing_device": None,
+            "alert_created": False,
+        }
+
+    conn = connect()
+    try:
+        # Tim thiet bi da dang ky truoc do cua user thuoc cung loai (desktop hoac mobile)
+        rows = conn.execute(
+            """
+            SELECT * FROM user_devices
+            WHERE username = ? AND device_type = ?
+            ORDER BY last_seen DESC
+            """,
+            (username, device_type)
+        ).fetchall()
+        existing = [dict(r) for r in rows]
+
+        if not existing:
+            # Chua co thiet bi nao thuoc loai nay -> Dang ky thiet bi dau tien
+            conn.execute(
+                """
+                INSERT INTO user_devices (username, device_id, device_type, device_name, ip, last_seen, created_at)
+                VALUES (?, ?, ?, ?, ?, ?, ?)
+                ON CONFLICT(username, device_id) DO UPDATE SET
+                    device_type = excluded.device_type,
+                    device_name = excluded.device_name,
+                    ip = excluded.ip,
+                    last_seen = excluded.last_seen
+                """,
+                (username, device_id, device_type, device_name, ip, now_str, now_str)
+            )
+            conn.commit()
+            return {
+                "allowed": True,
+                "reason": "registered_first",
+                "device_type": device_type,
+                "existing_device": None,
+                "alert_created": False,
+            }
+
+        # Da co thiet bi: Kiem tra co phai chinh thiet bi da dang ky khong
+        matched = None
+        for d in existing:
+            d_id = str(d.get("device_id") or "")
+            if d_id == device_id or (legacy_hash and d_id == legacy_hash):
+                matched = d
+                break
+
+        if matched:
+            # Cung thiet bi da dang ky -> Cap nhat device_id (neu dung cookie moi) va last_seen, IP
+            conn.execute(
+                """
+                UPDATE user_devices
+                SET device_id = ?, device_name = ?, ip = ?, last_seen = ?
+                WHERE id = ?
+                """,
+                (device_id, device_name, ip, now_str, matched["id"])
+            )
+            conn.commit()
+            return {
+                "allowed": True,
+                "reason": "matched_existing",
+                "device_type": device_type,
+                "existing_device": matched,
+                "alert_created": False,
+            }
+
+        # Kiem tra neu cung dia chi IP voi thiet bi da dang ky -> Cho phep (cung IP, dang nhap tren nhieu trinh duyet khac nhau)
+        matched_ip_device = None
+        for d in existing:
+            if ip and d.get("ip") and d.get("ip") == ip:
+                matched_ip_device = d
+                break
+
+        if matched_ip_device:
+            # Cung 1 IP -> Cho phep va cap nhat thoi gian last_seen
+            conn.execute(
+                """
+                UPDATE user_devices
+                SET last_seen = ?
+                WHERE id = ?
+                """,
+                (now_str, matched_ip_device["id"])
+            )
+            conn.commit()
+            return {
+                "allowed": True,
+                "reason": "matched_same_ip",
+                "device_type": device_type,
+                "existing_device": matched_ip_device,
+                "alert_created": False,
+            }
+
+        # Khong trung khop -> DAY LA THIET BI THU 2!
+        first_device = existing[0]
+        alert_created = False
+        recent = conn.execute(
+            """
+            SELECT id FROM device_alerts
+            WHERE username = ? AND alert_type = 'second_device_blocked' AND created_at > datetime('now', '-30 minutes')
+            """,
+            (username,)
+        ).fetchone()
+
+        if not recent:
+            type_label = "máy tính" if device_type == "desktop" else "điện thoại"
+            detail_msg = (
+                f"Tài khoản đăng nhập trên {type_label} thứ 2 bị chặn: {device_name} (IP: {ip}). "
+                f"Đã đăng ký trước đó: {first_device.get('device_name')} (IP: {first_device.get('ip')})"
+            )
+            conn.execute(
+                """
+                INSERT INTO device_alerts (username, alert_type, details, created_at)
+                VALUES (?, 'second_device_blocked', ?, ?)
+                """,
+                (username, detail_msg, now_str)
+            )
+            conn.commit()
+            alert_created = True
+
+        return {
+            "allowed": False,
+            "reason": "second_device_blocked",
+            "device_type": device_type,
+            "existing_device": first_device,
+            "new_device_name": device_name,
+            "new_ip": ip,
+            "alert_created": alert_created,
+        }
+    finally:
+        conn.close()
+
+
+def record_user_device(username: str, device_id: str, device_type: str, device_name: str, ip: str) -> dict:
+    """Wrapper tuong thich cho cac module cu."""
+    return check_device_access(username, device_id, device_type, device_name, ip)
+
+
+def list_device_reports() -> list[dict]:
+    """Lay bao cao cac tai khoan dang nhap vuot qua 1 may tinh hoac 1 di dong."""
+    conn = connect()
+    try:
+        # Group by username
+        rows = conn.execute(
+            """
+            SELECT username,
+                   SUM(CASE WHEN device_type = 'desktop' THEN 1 ELSE 0 END) AS desktop_count,
+                   SUM(CASE WHEN device_type = 'mobile' THEN 1 ELSE 0 END) AS mobile_count,
+                   COUNT(*) AS total_count,
+                   MAX(last_seen) AS latest_seen
+            FROM user_devices
+            GROUP BY username
+            ORDER BY (desktop_count > 1 OR mobile_count > 1) DESC, latest_seen DESC
+            """
+        ).fetchall()
+        
+        reports = []
+        for r in rows:
+            u_dict = dict(r)
+            d_rows = conn.execute(
+                """
+                SELECT * FROM user_devices
+                WHERE username = ?
+                ORDER BY last_seen DESC
+                """,
+                (u_dict["username"],)
+            ).fetchall()
+            u_dict["devices"] = [dict(dr) for dr in d_rows]
+            u_dict["is_violation"] = (u_dict["desktop_count"] > 1) or (u_dict["mobile_count"] > 1)
+            reports.append(u_dict)
+        return reports
+    finally:
+        conn.close()
+
+
+def delete_user_device(device_pk: int) -> bool:
+    """Xoa 1 thiet bi da dang ky cua user (giup reset lai thiet bi)."""
+    conn = connect()
+    try:
+        cur = conn.execute("DELETE FROM user_devices WHERE id = ?", (device_pk,))
+        conn.commit()
+        return cur.rowcount > 0
     finally:
         conn.close()

@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 import json
 import sqlite3
+from datetime import datetime
 from pathlib import Path
 from typing import Any, Iterable
 from urllib.parse import urlsplit, urlunsplit
@@ -145,10 +146,12 @@ def connect() -> sqlite3.Connection:
             recommend_score TEXT,
             currency TEXT,
             apply_url TEXT,
-            page INTEGER
+            page INTEGER,
+            created_at TEXT
         )
         """
     )
+    _add_missing_columns(conn, "offers", {"created_at": "TEXT"})
     conn.execute(
         """
         CREATE TABLE IF NOT EXISTS details (
@@ -229,14 +232,18 @@ BRAND_METRICS_COLUMNS = {
     "traffic_m3": "INTEGER DEFAULT 0",
     "monthly_visits_json": "TEXT",
     "bounce_rate": "REAL DEFAULT 0",
+    "time_on_site": "REAL DEFAULT 0",
+    "pages_per_visit": "REAL DEFAULT 0",
     "global_rank": "INTEGER DEFAULT 0",
     "country_rank": "INTEGER DEFAULT 0",
     "top_keywords_json": "TEXT",
+    "top_regions_json": "TEXT",
     "google_ads_running": "INTEGER DEFAULT 0",
     "google_advertisers_count": "INTEGER DEFAULT 0",
     "google_advertisers_json": "TEXT",
     "updated_at": "TIMESTAMP DEFAULT CURRENT_TIMESTAMP",
     "allows_search_ads": "INTEGER DEFAULT 0",
+    "search_ads_status": "TEXT DEFAULT 'no'",
 }
 
 
@@ -258,6 +265,8 @@ METRIC_WRITE_COLUMNS = [
     "traffic_m3",
     "monthly_visits_json",
     "bounce_rate",
+    "time_on_site",
+    "pages_per_visit",
     "global_rank",
     "country_rank",
     "top_keywords_json",
@@ -290,9 +299,12 @@ def ensure_brand_metrics(conn: sqlite3.Connection) -> None:
             traffic_m3 INTEGER DEFAULT 0,
             monthly_visits_json TEXT,
             bounce_rate REAL DEFAULT 0,
+            time_on_site REAL DEFAULT 0,
+            pages_per_visit REAL DEFAULT 0,
             global_rank INTEGER DEFAULT 0,
             country_rank INTEGER DEFAULT 0,
             top_keywords_json TEXT,
+            top_regions_json TEXT,
             google_ads_running INTEGER DEFAULT 0,
             google_advertisers_count INTEGER DEFAULT 0,
             google_advertisers_json TEXT,
@@ -343,11 +355,58 @@ def ensure_presence_tables(conn: sqlite3.Connection) -> None:
     conn.commit()
 
 
+def determine_search_ads_status(row: dict[str, Any]) -> tuple[int, str]:
+    """Xac dinh trang thai search ads:
+    - ('allowed', 1): Cho phep tat ca search ads (ca Google va Bing)
+    - ('no_google', 0): Cho chay ads nhung KHONG CHO CHAY GOOGLE ADS (is_detect=1 & action=2 hoac text cam doan)
+    - ('brand_detects', 1): Cho chay ads nhung BRAND BIET (is_detect=1 & action=1 -> 'This brand is able to detect referrals that come through Google ads')
+    - ('no', 0): Khong cho chay bat ky search ads nao
+    """
+    if not isinstance(row, dict):
+        return 0, "no"
+
+    channels = row.get("target_audience_customer_channels") or []
+    has_sa = False
+    if isinstance(channels, list):
+        has_sa = any(str(c).strip().lower() in ("search_ads", "search ads", "searchads") for c in channels)
+    elif isinstance(channels, dict):
+        has_sa = any(str(k).strip().lower() in ("search_ads", "search ads", "searchads") for k in channels.keys())
+
+    is_detect = row.get("is_detect_referral_google_ads") == 1
+    action = row.get("action_referral_google_ads")
+
+    has_prohibit_phrase = False
+    for val in row.values():
+        if isinstance(val, str) and GOOGLE_ADS_DISALLOWED_PHRASE in val.lower():
+            has_prohibit_phrase = True
+            break
+        elif isinstance(val, (list, dict)):
+            try:
+                if GOOGLE_ADS_DISALLOWED_PHRASE in json.dumps(val).lower():
+                    has_prohibit_phrase = True
+                    break
+            except Exception:
+                pass
+
+    # Anh 1: "Referrals from Google Ads are not allowed under this offer" -> is_detect=1 va action=2, hoac co doan text cam
+    if (is_detect and action == 2) or has_prohibit_phrase:
+        return 0, "no_google"
+
+    # Anh 2: "This brand is able to detect referrals that come through Google ads" -> is_detect=1 va action=1
+    if is_detect and action == 1:
+        return 1, "brand_detects"
+
+    if has_sa:
+        return 1, "allowed"
+
+    return 0, "no"
+
+
 def _allows_search_ads(channels: Any) -> int:
     if isinstance(channels, dict):
         return 1 if channels.get("search_ads") else 0
     if isinstance(channels, list):
-        return 1 if any(str(item).strip().lower() == "search_ads" for item in channels) else 0
+        return 1 if any(str(item).strip().lower() in ("search_ads", "search ads", "searchads") for item in channels) else 0
     return 0
 
 
@@ -355,15 +414,16 @@ def upsert_allows_search_ads(conn: sqlite3.Connection, row: dict[str, Any]) -> N
     shop_id = row.get("shop_id")
     if shop_id is None:
         return
-    flag = _allows_search_ads(row.get("target_audience_customer_channels"))
+    flag, status = determine_search_ads_status(row)
     conn.execute(
         """
-        INSERT INTO brand_metrics (shop_id, allows_search_ads)
-        VALUES (?, ?)
+        INSERT INTO brand_metrics (shop_id, allows_search_ads, search_ads_status)
+        VALUES (?, ?, ?)
         ON CONFLICT(shop_id) DO UPDATE SET
-            allows_search_ads=excluded.allows_search_ads
+            allows_search_ads=excluded.allows_search_ads,
+            search_ads_status=excluded.search_ads_status
         """,
-        (int(shop_id), flag),
+        (int(shop_id), flag, status),
     )
 
 
@@ -375,6 +435,8 @@ def sync_allows_search_ads_from_json(conn: sqlite3.Connection | None = None) -> 
     files = 0
     updated = 0
     allowed = 0
+    no_google = 0
+    brand_detects = 0
     try:
         for path in BRANDS_DIR.glob("*.json"):
             files += 1
@@ -388,52 +450,91 @@ def sync_allows_search_ads_from_json(conn: sqlite3.Connection | None = None) -> 
                 shop_id = int(row.get("shop_id") or path.stem)
             except (TypeError, ValueError):
                 continue
-            flag = _allows_search_ads(row.get("target_audience_customer_channels"))
+            filter_disallowed_search_ads(row)
+            flag, status = determine_search_ads_status(row)
             conn.execute(
                 """
-                INSERT INTO brand_metrics (shop_id, allows_search_ads)
-                VALUES (?, ?)
+                INSERT INTO brand_metrics (shop_id, allows_search_ads, search_ads_status)
+                VALUES (?, ?, ?)
                 ON CONFLICT(shop_id) DO UPDATE SET
-                    allows_search_ads=excluded.allows_search_ads
+                    allows_search_ads=excluded.allows_search_ads,
+                    search_ads_status=excluded.search_ads_status
                 """,
-                (shop_id, flag),
+                (shop_id, flag, status),
             )
             updated += 1
-            allowed += flag
+            if status == "allowed":
+                allowed += 1
+            elif status == "no_google":
+                no_google += 1
+            elif status == "brand_detects":
+                brand_detects += 1
         conn.commit()
     finally:
         if own:
             conn.close()
-    return {"files": files, "updated": updated, "allowed": allowed}
+    return {"files": files, "updated": updated, "allowed": allowed, "no_google": no_google, "brand_detects": brand_detects}
 
 
 def upsert_metrics_record(conn: sqlite3.Connection, record: tuple[Any, ...]) -> None:
     """Ghi traffic/ads. Khong dung INSERT OR REPLACE de giu allows_search_ads."""
-    conn.execute(
-        """
-        INSERT INTO brand_metrics (
-            shop_id, domain, traffic_m1, traffic_m2, traffic_m3,
-            monthly_visits_json, bounce_rate, global_rank, country_rank,
-            top_keywords_json, google_ads_running, google_advertisers_count,
-            google_advertisers_json, updated_at
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
-        ON CONFLICT(shop_id) DO UPDATE SET
-            domain=excluded.domain,
-            traffic_m1=excluded.traffic_m1,
-            traffic_m2=excluded.traffic_m2,
-            traffic_m3=excluded.traffic_m3,
-            monthly_visits_json=excluded.monthly_visits_json,
-            bounce_rate=excluded.bounce_rate,
-            global_rank=excluded.global_rank,
-            country_rank=excluded.country_rank,
-            top_keywords_json=excluded.top_keywords_json,
-            google_ads_running=excluded.google_ads_running,
-            google_advertisers_count=excluded.google_advertisers_count,
-            google_advertisers_json=excluded.google_advertisers_json,
-            updated_at=CURRENT_TIMESTAMP
-        """,
-        record,
-    )
+    if len(record) == 16:
+        conn.execute(
+            """
+            INSERT INTO brand_metrics (
+                shop_id, domain, traffic_m1, traffic_m2, traffic_m3,
+                monthly_visits_json, bounce_rate, time_on_site, pages_per_visit,
+                global_rank, country_rank, top_keywords_json, top_regions_json, google_ads_running,
+                google_advertisers_count, google_advertisers_json, updated_at
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+            ON CONFLICT(shop_id) DO UPDATE SET
+                domain=excluded.domain,
+                traffic_m1=excluded.traffic_m1,
+                traffic_m2=excluded.traffic_m2,
+                traffic_m3=excluded.traffic_m3,
+                monthly_visits_json=excluded.monthly_visits_json,
+                bounce_rate=excluded.bounce_rate,
+                time_on_site=excluded.time_on_site,
+                pages_per_visit=excluded.pages_per_visit,
+                global_rank=excluded.global_rank,
+                country_rank=excluded.country_rank,
+                top_keywords_json=excluded.top_keywords_json,
+                top_regions_json=excluded.top_regions_json,
+                google_ads_running=excluded.google_ads_running,
+                google_advertisers_count=excluded.google_advertisers_count,
+                google_advertisers_json=excluded.google_advertisers_json,
+                updated_at=CURRENT_TIMESTAMP
+            """,
+            record,
+        )
+    else:
+        conn.execute(
+            """
+            INSERT INTO brand_metrics (
+                shop_id, domain, traffic_m1, traffic_m2, traffic_m3,
+                monthly_visits_json, bounce_rate, time_on_site, pages_per_visit,
+                global_rank, country_rank, top_keywords_json, google_ads_running,
+                google_advertisers_count, google_advertisers_json, updated_at
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+            ON CONFLICT(shop_id) DO UPDATE SET
+                domain=excluded.domain,
+                traffic_m1=excluded.traffic_m1,
+                traffic_m2=excluded.traffic_m2,
+                traffic_m3=excluded.traffic_m3,
+                monthly_visits_json=excluded.monthly_visits_json,
+                bounce_rate=excluded.bounce_rate,
+                time_on_site=excluded.time_on_site,
+                pages_per_visit=excluded.pages_per_visit,
+                global_rank=excluded.global_rank,
+                country_rank=excluded.country_rank,
+                top_keywords_json=excluded.top_keywords_json,
+                google_ads_running=excluded.google_ads_running,
+                google_advertisers_count=excluded.google_advertisers_count,
+                google_advertisers_json=excluded.google_advertisers_json,
+                updated_at=CURRENT_TIMESTAMP
+            """,
+            record,
+        )
 
 
 def upsert_offer(conn: sqlite3.Connection, row: dict[str, Any]) -> None:
@@ -441,13 +542,14 @@ def upsert_offer(conn: sqlite3.Connection, row: dict[str, Any]) -> None:
     shop_id = slim.get("shop_id")
     if shop_id is None:
         return
+    created_at = row.get("created_at") or datetime.now().strftime("%Y-%m-%d")
     conn.execute(
         """
         INSERT INTO offers (
             shop_id, listing_id, program_id, name, website, myshopify_domain,
             categories, commission, cookie, payout_rate, approval_rate,
-            offer_score, recommend_score, currency, apply_url, page
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            offer_score, recommend_score, currency, apply_url, page, created_at
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(shop_id) DO UPDATE SET
             listing_id=excluded.listing_id,
             program_id=excluded.program_id,
@@ -465,8 +567,10 @@ def upsert_offer(conn: sqlite3.Connection, row: dict[str, Any]) -> None:
             apply_url=excluded.apply_url,
             page=excluded.page
         """,
-        [slim[field] for field in LIST_CSV_FIELDS],
+        [slim[field] for field in LIST_CSV_FIELDS] + [created_at],
     )
+    if slim.get("categories"):
+        sync_offer_categories(conn, shop_id, slim.get("categories"))
 
 
 def upsert_detail(conn: sqlite3.Connection, row: dict[str, Any]) -> None:
@@ -613,6 +717,41 @@ def ensure_skipped(shop_id: int, reason: str) -> bool:
         conn.close()
 
 
+def mark_all_as_inactive() -> int:
+    """Cap nhat toan bo brand trong offers thanh ngung hoat dong (vao bang skipped)."""
+    conn = connect()
+    try:
+        cur = conn.execute(
+            """
+            INSERT OR REPLACE INTO skipped (shop_id, reason, skipped_at)
+            SELECT shop_id, 'Khong con tren find-offers', datetime('now')
+            FROM offers
+            """
+        )
+        conn.commit()
+        return cur.rowcount
+    finally:
+        conn.close()
+
+
+def clear_skipped_batch(shop_ids: list[int | str]) -> int:
+    """Go khoi bang skipped (cap nhat thanh dang hoat dong) cho danh sach shop_id."""
+    clean_ids = [int(sid) for sid in shop_ids if sid]
+    if not clean_ids:
+        return 0
+    conn = connect()
+    try:
+        placeholders = ",".join("?" for _ in clean_ids)
+        cur = conn.execute(
+            f"DELETE FROM skipped WHERE shop_id IN ({placeholders})",
+            clean_ids,
+        )
+        conn.commit()
+        return cur.rowcount
+    finally:
+        conn.close()
+
+
 def clear_skipped(shop_id: int) -> bool:
     """Go skipped khi brand quay lai listing. True khi co dong bi xoa."""
     conn = connect()
@@ -633,7 +772,60 @@ def save_offer_row(row: dict[str, Any]) -> None:
         conn.close()
 
 
+GOOGLE_ADS_DISALLOWED_PHRASE = (
+    "referrals from google ads are not allowed under this offer. "
+    "please avoid using this traffic source to ensure your referrals remain valid."
+)
+
+
+def filter_disallowed_search_ads(row: dict[str, Any]) -> bool:
+    """Neu brand cam Google Ads qua bien is_detect_referral_google_ads hoac qua text, xoa Search ads."""
+    if not isinstance(row, dict):
+        return False
+
+    disallowed = False
+    # Truong hop 1: UpPromote bat tinh nang chan referral Google Ads
+    if row.get("is_detect_referral_google_ads") == 1:
+        disallowed = True
+
+    # Truong hop 2: Doan text canh bao trong description / terms
+    if not disallowed:
+        for val in row.values():
+            if isinstance(val, str) and GOOGLE_ADS_DISALLOWED_PHRASE in val.lower():
+                disallowed = True
+                break
+            elif isinstance(val, (list, dict)):
+                try:
+                    raw = json.dumps(val).lower()
+                    if GOOGLE_ADS_DISALLOWED_PHRASE in raw:
+                        disallowed = True
+                        break
+                except Exception:
+                    pass
+
+    if not disallowed:
+        return False
+
+    channels = row.get("target_audience_customer_channels")
+    modified = False
+    if isinstance(channels, list):
+        filtered = [
+            ch for ch in channels
+            if str(ch).strip().lower() not in ("search_ads", "search ads", "searchads")
+        ]
+        if len(filtered) != len(channels):
+            row["target_audience_customer_channels"] = filtered
+            modified = True
+    elif isinstance(channels, dict):
+        for k in list(channels.keys()):
+            if str(k).strip().lower() in ("search_ads", "search ads", "searchads"):
+                del channels[k]
+                modified = True
+    return modified
+
+
 def save_detail_row(row: dict[str, Any]) -> None:
+    filter_disallowed_search_ads(row)
     save_detail_json(row)
     conn = connect()
     try:
@@ -959,3 +1151,70 @@ if __name__ == "__main__":
         f"offers={cleaned['offers']} details={cleaned['details']} "
         f"json={cleaned['json_files']}"
     )
+
+
+def split_categories(cat_str: str) -> list[str]:
+    """Tach chuoi categories chua dau phay va dau & thanh danh sach category rieng biet."""
+    if not cat_str:
+        return []
+    parts = []
+    for chunk in str(cat_str).split(","):
+        chunk = chunk.strip()
+        if not chunk:
+            continue
+        if "&" in chunk:
+            for sub in chunk.split("&"):
+                sub_clean = sub.strip()
+                if sub_clean:
+                    parts.append(sub_clean)
+        else:
+            parts.append(chunk)
+
+    cleaned = []
+    for p in parts:
+        p_clean = p.strip()
+        low = p_clean.lower()
+        if low in ("pet supplies", "pet supply"):
+            std = "Pet Supplies"
+        elif low in ("consumer goods",):
+            std = "Consumer Goods"
+        elif low in ("digital products",):
+            std = "Digital Products"
+        elif low in ("professional services",):
+            std = "Professional Services"
+        elif low in ("product add-ons",):
+            std = "Product Add-Ons"
+        elif low in ("tobacco products", "tobacco"):
+            std = "Tobacco"
+        elif low in ("adult products",):
+            std = "Adult Products"
+        elif low in ("sporting goods",):
+            std = "Sporting Goods"
+        elif low in ("office supplies",):
+            std = "Office Supplies"
+        else:
+            std = p_clean.title() if p_clean.islower() else p_clean
+        if std and std not in cleaned:
+            cleaned.append(std)
+    return cleaned
+
+
+def sync_offer_categories(conn: sqlite3.Connection, shop_id: int, raw_categories: str) -> None:
+    """Dong bo danh muc many-to-many cho mot store."""
+    cats = split_categories(raw_categories)
+    if not cats:
+        return
+    conn.execute("DELETE FROM offer_categories WHERE shop_id = ?", (int(shop_id),))
+    for c in cats:
+        conn.execute(
+            "INSERT OR IGNORE INTO categories (name, slug) VALUES (?, lower(replace(replace(?, ' ', '-'), '&', 'and')))",
+            (c, c),
+        )
+        cur = conn.execute("SELECT id FROM categories WHERE name = ?", (c,))
+        row = cur.fetchone()
+        if row:
+            cid = row[0] if isinstance(row, (tuple, list)) else row["id"]
+            conn.execute(
+                "INSERT OR IGNORE INTO offer_categories (shop_id, category_id) VALUES (?, ?)",
+                (int(shop_id), int(cid)),
+            )

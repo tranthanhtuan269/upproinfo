@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Thanh toán · Awin Info{% endblock %}
+{% block content %}
+<div class="max-w-lg mx-auto bg-surface-container-lowest rounded-2xl p-6">
+  <h1 class="text-2xl font-bold">Chuyển khoản {{ plan.label or order.plan }}</h1>
+  <p>Số tiền: <strong>{{ amount_text }} đ</strong></p>
+  <p>Nội dung chuyển khoản: <strong>{{ order.pay_content }}</strong></p>
+  {% if qr_image %}
+  <img alt="VietQR" class="mx-auto max-w-xs" src="{{ qr_image }}">
+  {% endif %}
+  <p class="text-sm text-on-surface-variant">Sau khi ngân hàng báo có, gói được kích hoạt. Tải lại trang này hoặc quay về danh sách.</p>
+  <p><a href="/">Về danh sách</a></p>
+</div>
+{% endblock %}

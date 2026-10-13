@@ -82,50 +82,61 @@ def clean_domain(url: Any) -> str:
         return ""
 
 
-def get_aitdk_bulk(domains: list[str], secret: str) -> dict[str, Any]:
+def get_aitdk_bulk(domains: list[str], secret: str, max_retries: int = 3) -> dict[str, Any]:
     chars = string.ascii_letters + string.digits
-    nonce = "".join(random.choice(chars) for _ in range(16))
-    timestamp = str(int(time.time()))
-    params = {
-        "domain": ",".join(domains),
-        "view": "summary",
-        "stream": "true",
-    }
-    keys = sorted(params.keys())
-    normalized_q = urllib.parse.urlencode([(key, str(params[key])) for key in keys])
-    sig_str = f"GET\n/api/v1/bulk\n{normalized_q}\n{timestamp}\n{nonce}\n{secret}"
-    signature = hashlib.sha256(sig_str.encode("utf-8")).hexdigest()
-    params["timestamp"] = timestamp
-    params["nonce"] = nonce
-    params["signature"] = signature
-    url = "https://wapi.aitdk.com/api/v1/bulk?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-            ),
-            "Accept": "text/event-stream",
-        },
-    )
-    results: dict[str, Any] = {}
-    try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            current_event = None
-            for line in resp:
-                line = line.decode("utf-8", errors="ignore").strip()
-                if line.startswith("event:"):
-                    current_event = line.split(":", 1)[1].strip()
-                elif line.startswith("data:") and current_event == "traffic":
-                    data_str = line[5:].strip()
-                    if not data_str:
-                        continue
-                    item = json.loads(data_str)
-                    if isinstance(item, dict) and item.get("domain"):
-                        results[item["domain"]] = item
-    except Exception as exc:
-        logger.warning("AITDK error for batch (%s domains): %s", len(domains), exc)
+    for attempt in range(max_retries):
+        nonce = "".join(random.choice(chars) for _ in range(16))
+        timestamp = str(int(time.time()))
+        params = {
+            "domain": ",".join(domains),
+            "view": "full",
+            "stream": "true",
+        }
+        keys = sorted(params.keys())
+        normalized_q = urllib.parse.urlencode([(key, str(params[key])) for key in keys])
+        sig_str = f"GET\n/api/v1/bulk\n{normalized_q}\n{timestamp}\n{nonce}\n{secret}"
+        signature = hashlib.sha256(sig_str.encode("utf-8")).hexdigest()
+        params["timestamp"] = timestamp
+        params["nonce"] = nonce
+        params["signature"] = signature
+        url = "https://wapi.aitdk.com/api/v1/bulk?" + urllib.parse.urlencode(params)
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                ),
+                "Accept": "text/event-stream",
+            },
+        )
+        results: dict[str, Any] = {}
+        try:
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                current_event = None
+                for line in resp:
+                    line = line.decode("utf-8", errors="ignore").strip()
+                    if line.startswith("event:"):
+                        current_event = line.split(":", 1)[1].strip()
+                    elif line.startswith("data:") and current_event == "traffic":
+                        data_str = line[5:].strip()
+                        if not data_str:
+                            continue
+                        item = json.loads(data_str)
+                        if isinstance(item, dict) and item.get("domain"):
+                            results[item["domain"]] = item
+            return results
+        except urllib.error.HTTPError as exc:
+            if exc.code == 429 and attempt < max_retries - 1:
+                wait_time = (attempt + 1) * 3.0
+                logger.warning("AITDK 429 Rate Limit (lan %s/%s). Nghi %ss roi thu lai...", attempt + 1, max_retries, wait_time)
+                time.sleep(wait_time)
+                continue
+            logger.warning("AITDK error for batch (%s domains): %s", len(domains), exc)
+            break
+        except Exception as exc:
+            logger.warning("AITDK error for batch (%s domains): %s", len(domains), exc)
+            break
     return results
 
 
@@ -195,8 +206,12 @@ def process_batch(items: list[tuple[int, str]], secret: str) -> list[tuple[Any, 
         overview = t_info.get("overview") or {}
         monthly = t_info.get("monthlyVisits") or {}
         keywords = t_info.get("topKeywords") or []
+        top_regions = t_info.get("topRegions") or []
         m1, m2, m3 = month_values(monthly if isinstance(monthly, dict) else {})
         ads_running, ads_count, ads_ids = ads_map.get(domain, (False, 0, []))
+        bounce_rate = float(overview.get("bounceRate") or 0)
+        time_on_site = float(overview.get("timeOnSite") or 0)
+        pages_per_visit = float(overview.get("pagePerVisit") or 0)
         records.append(
             (
                 sid,
@@ -205,10 +220,13 @@ def process_batch(items: list[tuple[int, str]], secret: str) -> list[tuple[Any, 
                 m2,
                 m3,
                 json.dumps(monthly) if monthly else "{}",
-                float(overview.get("bounceRate") or 0),
+                bounce_rate,
+                time_on_site,
+                pages_per_visit,
                 int(overview.get("globalRank") or 0),
                 int(overview.get("countryRank") or 0),
                 json.dumps(keywords) if keywords else "[]",
+                json.dumps(top_regions) if top_regions else "[]",
                 1 if ads_running else 0,
                 ads_count,
                 json.dumps(ads_ids) if ads_ids else "[]",
@@ -255,8 +273,8 @@ def load_tasks(shop_ids: Iterable[int] | None = None, force: bool = False) -> li
             ).fetchall()
             tasks = [(int(row[0]), row[1]) for row in rows]
         processed: set[int] = set()
-        if not force:
-            processed = {int(row[0]) for row in conn.execute("SELECT shop_id FROM brand_metrics")}
+        if not force and not ids:
+            processed = {int(row[0]) for row in conn.execute("SELECT shop_id FROM brand_metrics WHERE time_on_site > 0 OR (bounce_rate > 0 AND updated_at > datetime('now', '-3 days'))")}
     finally:
         conn.close()
 
@@ -308,7 +326,7 @@ def scan_tasks(tasks: list[tuple[int, str]]) -> int:
                 ),
                 encoding="utf-8",
             )
-            time.sleep(0.5)
+            time.sleep(1.2)
         except Exception:
             logger.exception("Error in batch %s", index)
             time.sleep(2.0)
@@ -326,20 +344,42 @@ def scan_pending(force: bool = False) -> int:
 
 def main() -> None:
     setup_logging()
-    force = "--refresh" in sys.argv
+    force = "--refresh" in sys.argv or "--fresh" in sys.argv or "--all" in sys.argv or "--force" in sys.argv
+    limit = 0
+    if "--limit" in sys.argv:
+        try:
+            l_idx = sys.argv.index("--limit")
+            limit = int(sys.argv[l_idx + 1])
+        except (ValueError, IndexError):
+            limit = 0
+
     ids: list[int] = []
-    args = [item for item in sys.argv[1:] if item not in {"--refresh"}]
-    for item in args:
+    skip_next = False
+    for i, item in enumerate(sys.argv[1:], start=1):
+        if skip_next:
+            skip_next = False
+            continue
+        if item in {"--refresh", "--all", "--force"}:
+            continue
+        if item == "--limit":
+            skip_next = True
+            continue
         try:
             ids.append(int(item))
         except ValueError:
             continue
     if ids:
         logger.info("Quet metrics %s shop_id (force=%s).", len(ids), force)
-        scan_shop_ids(ids, force=force)
+        tasks = load_tasks(shop_ids=ids, force=force)
+        if limit > 0:
+            tasks = tasks[:limit]
+        scan_tasks(tasks)
         return
-    logger.info("Quet metrics backlog (force=%s).", force)
-    scan_pending(force=force)
+    logger.info("Quet metrics backlog (force=%s, limit=%s).", force, limit)
+    tasks = load_tasks(shop_ids=None, force=force)
+    if limit > 0:
+        tasks = tasks[:limit]
+    scan_tasks(tasks)
 
 
 if __name__ == "__main__":

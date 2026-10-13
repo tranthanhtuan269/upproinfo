@@ -41,11 +41,13 @@ from scrape_brands import (
 from storage import (
     DATA_DIR,
     clear_skipped,
+    clear_skipped_batch,
     connect,
     ensure_skipped,
     existing_detail_ids,
     export_details_csv,
     export_offers_csv,
+    mark_all_as_inactive,
     mark_skipped,
     save_detail_row,
     save_offer_row,
@@ -102,10 +104,14 @@ def apply_catalog(
     refreshed = 0
     returned_ids: list[int] = []
     newly_missing = 0
+    today_str = datetime.now().strftime("%Y-%m-%d")
 
     for sid in sorted(new_ids):
         row = live_map.get(str(sid)) or {"shop_id": sid}
-        save_offer_row(as_offer_row(row))
+        offer_row = as_offer_row(row)
+        # Ghi ngay tao voi nhung du an moi
+        offer_row["created_at"] = today_str
+        save_offer_row(offer_row)
         added += 1
 
     for sid in sorted(still_ids):
@@ -278,7 +284,12 @@ def run_from_report() -> None:
         "done": False,
     }
     save_daily(progress)
+    mark_all_as_inactive()
     live_map, new_ids, applied = apply_from_report()
+    live_rows = rows_from_csv(REPORT_STILL) + rows_from_csv(REPORT_NEW)
+    live_ids = [int(r["shop_id"]) for r in live_rows if r.get("shop_id")]
+    if live_ids:
+        clear_skipped_batch(live_ids)
     queue = detail_targets(new_ids)
     progress["apply_done"] = True
     progress["detail_queue"] = queue
@@ -326,8 +337,11 @@ def run_full(fresh: bool) -> None:
 
     if not progress.get("list_done"):
         safe_print("Buoc 1/4: quet find-offers.")
+        if int(progress.get("list_next_page") or 1) == 1:
+            marked = mark_all_as_inactive()
+            safe_print(f"Khoi tao: da cap nhat toan bo {marked} du an thanh ngung hoat dong truoc khi quet.")
         try:
-            live_map = scan_list(client, progress, DAILY_PROGRESS)
+            live_map = scan_list(client, progress, DAILY_PROGRESS, on_page_items=clear_skipped_batch)
         except KeyboardInterrupt:
             save_daily(progress)
             safe_print("Dung giua chung. Chay lai python daily_sync.py de resume.")

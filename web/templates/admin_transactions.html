@@ -20,7 +20,29 @@
   {% if not orders %}
   <p class="m-0 text-sm text-on-surface-variant">{{ t.tx_empty }}</p>
   {% else %}
-  <div class="overflow-x-auto rounded-2xl bg-surface-container-lowest shadow-sm">
+  <!-- Thanh lọc & tìm kiếm đơn hàng -->
+  <div class="flex flex-col md:flex-row items-stretch md:items-center justify-between gap-3 p-3 rounded-2xl bg-surface-container-lowest border border-outline-variant/30">
+    <div class="flex items-center gap-1.5 overflow-x-auto pb-1 md:pb-0">
+      <button type="button" onclick="setTxFilter('all')" id="tx-btn-all" class="tx-tab px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-primary text-on-primary border-0 cursor-pointer">
+        Tất cả (<span id="count-all">{{ orders|length }}</span>)
+      </button>
+      <button type="button" onclick="setTxFilter('paid')" id="tx-btn-paid" class="tx-tab px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-surface-container text-on-surface-variant hover:text-on-surface border-0 cursor-pointer flex items-center gap-1.5">
+        <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
+        Đã duyệt / Paid (<span id="count-paid">0</span>)
+      </button>
+      <button type="button" onclick="setTxFilter('pending')" id="tx-btn-pending" class="tx-tab px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-surface-container text-on-surface-variant hover:text-on-surface border-0 cursor-pointer flex items-center gap-1.5">
+        <span class="w-2 h-2 rounded-full bg-amber-500"></span>
+        Chờ duyệt / Pending (<span id="count-pending">0</span>)
+      </button>
+    </div>
+
+    <div class="relative min-w-[260px]">
+      <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-on-surface-variant text-[18px]">search</span>
+      <input type="text" id="tx-search" oninput="applyTxFilters()" placeholder="Tìm username, mã đơn, nội dung..." class="w-full pl-9 pr-3 py-1.5 text-xs rounded-xl border border-outline-variant/50 bg-surface-container-low text-on-surface focus:outline-none focus:border-primary">
+    </div>
+  </div>
+
+  <div class="overflow-x-auto rounded-2xl bg-surface-container-lowest shadow-sm border border-outline-variant/30">
     <table class="w-full text-sm text-left">
       <thead class="text-xs uppercase tracking-wide text-on-surface-variant bg-surface-container">
         <tr>
@@ -35,7 +57,11 @@
       </thead>
       <tbody>
         {% for order in orders %}
-        <tr class="border-t border-outline-variant/40">
+        <tr class="border-t border-outline-variant/40 tx-row hover:bg-surface-container-low/50 transition-colors"
+            data-status="{{ order.status }}"
+            data-user="{{ order.username|lower }}"
+            data-content="{{ (order.pay_content or order.merchant_trade_no)|lower }}"
+            data-id="{{ order.id }}">
           <td class="px-4 py-3 whitespace-nowrap">{{ order.created_local }}</td>
           <td class="px-4 py-3 font-medium">{{ order.username }}</td>
           <td class="px-4 py-3">{{ order.plan }}</td>
@@ -66,4 +92,61 @@
   </div>
   {% endif %}
 </section>
+{% endblock %}
+{% block scripts %}
+<script>
+var currentTxFilter = 'all';
+
+function updateTxCounts() {
+  var rows = document.querySelectorAll('.tx-row');
+  var paidCount = 0;
+  var pendingCount = 0;
+  rows.forEach(function(row) {
+    var status = row.getAttribute('data-status');
+    if (status === 'paid') paidCount++;
+    else if (status === 'pending') pendingCount++;
+  });
+  var pEl = document.getElementById('count-paid');
+  var pendEl = document.getElementById('count-pending');
+  if (pEl) pEl.textContent = paidCount;
+  if (pendEl) pendEl.textContent = pendingCount;
+}
+
+function setTxFilter(filter) {
+  currentTxFilter = filter;
+  var tabs = document.querySelectorAll('.tx-tab');
+  tabs.forEach(function(btn) {
+    btn.className = 'tx-tab px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-surface-container text-on-surface-variant hover:text-on-surface border-0 cursor-pointer flex items-center gap-1.5';
+  });
+  var activeBtn = document.getElementById('tx-btn-' + filter);
+  if (activeBtn) {
+    activeBtn.className = 'tx-tab px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-primary text-on-primary border-0 cursor-pointer flex items-center gap-1.5';
+  }
+  applyTxFilters();
+}
+
+function applyTxFilters() {
+  var q = (document.getElementById('tx-search').value || '').trim().toLowerCase();
+  var rows = document.querySelectorAll('.tx-row');
+  rows.forEach(function(row) {
+    var status = row.getAttribute('data-status');
+    var user = row.getAttribute('data-user') || '';
+    var content = row.getAttribute('data-content') || '';
+    var id = row.getAttribute('data-id') || '';
+
+    var matchStatus = (currentTxFilter === 'all') || (status === currentTxFilter);
+    var matchQuery = !q || user.includes(q) || content.includes(q) || id.includes(q);
+
+    if (matchStatus && matchQuery) {
+      row.style.display = '';
+    } else {
+      row.style.display = 'none';
+    }
+  });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  updateTxCounts();
+});
+</script>
 {% endblock %}
